@@ -7,6 +7,8 @@ Leksikonet er ikke oppdatert siden utgivelsen av papirversjonen ble utgitt i 198
 
 Informasjon/data er lagret i en json-fil per person, e.g. [Edvard_Munch.json](documents/1-1000/Edvard_Munch.json).
 
+Filene ligger i mapper og er sortert alfabetisk.
+
 ### Kontaktpersoner Nasjonalmuseet: 
 Hildegunn Gullåsen, leder Seksjon bibliotek og arkiv (hildegunn.gullasen@nasjonalmuseet.no)
 
