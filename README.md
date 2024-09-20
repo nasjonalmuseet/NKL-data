@@ -7,5 +7,6 @@ MERK: Leksikonet er ikke oppdatert siden utgivelsen av papirversjonen ble utgitt
 
 Informasjon/data er lagret i en json-fil per person, e.g. *Edvard_Munch.json*.
 
-### Kontaktperson Nasjonalmuseet: 
-Dag Hensten, dag.hensten@nasjonalmuseet.no.
+### Kontaktpersoner Nasjonalmuseet: 
+Hildegunn Gullåsen, leder Seksjon bibliotek og arkiv (hildegunn.gullasen@nasjonalmuseet.no)
+Dag Hensten, seniorrådgiver, Seksjon publikumsopplevelse (dag.hensten@nasjonalmuseet.no)
