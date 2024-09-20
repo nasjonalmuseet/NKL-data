@@ -1,4 +1,4 @@
-# Data fra Norsk kunstnerleksikon
+# Data fra Norsk kunstnerleksikon (arkivert)
 Arkiv over metadata, biografier og illustrasjoner
 i *nkl.snl.no* per 20.09.2004
 https://nkl.snl.no/
