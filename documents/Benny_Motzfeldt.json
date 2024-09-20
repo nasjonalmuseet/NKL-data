@@ -1,0 +1,1370 @@
+{
+    "id": 418308,
+    "headword": "Benny Motzfeldt",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "glasskunstner"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105591",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Benny Marie",
+                "lastname": "Dahl",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105590",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Andreas",
+                "lastname": "Berg-Nilssen",
+                "professions": [
+                    "distriktslege"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab105592",
+                "birth_date": "1898",
+                "death_date": "",
+                "firstname": "Birger Fredrik",
+                "lastname": "Motzfeldt",
+                "professions": [
+                    "generalløytnant"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole under bl.a. Paul Ansteinsson og Wilhelm Krogh-Fladmark 1931–35",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Oslo Bys kulturstipend 1969"
+            },
+            {
+                "order": "3",
+                "description": "stadige reiser i forbindelse med utstillinger i utlandet"
+            },
+            {
+                "order": "2",
+                "description": "Studiereise Italia"
+            },
+            {
+                "order": "1",
+                "description": "Bosatt i Sverige 1946–53"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Designer Hadelands Glassverk 1955–67"
+            },
+            {
+                "order": "2",
+                "description": "PLUS, Fredrikstad fra 1970"
+            },
+            {
+                "order": "4",
+                "description": "Norske kunsthåndverkere"
+            },
+            {
+                "order": "3",
+                "description": "Medlem Tegnerforbundet"
+            },
+            {
+                "order": "1",
+                "description": "Randsfjord Glassverk 1967–70"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Souvenirprisen 1964"
+            },
+            {
+                "order": "1",
+                "description": "Jakob-prisen 1969"
+            },
+            {
+                "order": "2",
+                "description": "Urkunde für hervorragende Leistungen, Coburg 1977"
+            },
+            {
+                "order": "3",
+                "description": "Oslo bys kunstnerpris 1979"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Sandefjord Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "The Norwegian-American Museum, Decorah, USA"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "The Corning Museum of Glass, USA"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Kunstsammlungen der Veste Coburg"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Kunstmuseum Düsseldorf"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Värmlands museum, Karlstad"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Museum für Kunsthandwerk, Frankfurt-am-Main"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Kunstindustrimuseum København"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "veggfelt cruiseskip Isle of Venture"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Victoria and Albert museum, London"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Röhsska Konstslöjdmuseum, Göteborg"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Helsingborg museum"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Veggfelt Langs veien, Oslo kommunes bygningsetat, Herslebsgt. 19, Oslo (glass og stål, 1974–75)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "brosjyren Glass er vårt materiale, utgitt av Hadelands Glassverk 1965 (tegnet 1962)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Bokomslag for Aschehougs forlag"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "A. Berckenhoff: Seks eventyr, Oslo 1943"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Vest-Tyskland",
+                "from_date": "1976",
+                "order": "13",
+                "to_date": "1982"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseum, København",
+                "from_date": "1971",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frankfurt-am-Main",
+                "from_date": "1976",
+                "order": "41",
+                "to_date": "",
+                "title": "Modernes Glas aus Amerika, Europa und Japan"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1972",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Cassandra, Drøbak",
+                "from_date": "1979",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bjørn Wiinblads Hus, København",
+                "from_date": "1972",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling USA",
+                "from_date": "1976",
+                "order": "17",
+                "to_date": "1982"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Acanthus, Oslo",
+                "from_date": "1982",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1971",
+                "order": "36",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1976",
+                "order": "42",
+                "to_date": "",
+                "title": "Modernes Glas aus Amerika, Europa und Japan"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Den Permanente, København",
+                "from_date": "1979",
+                "order": "46",
+                "to_date": "",
+                "title": "Nordisk kvartet"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Australia",
+                "from_date": "1968",
+                "order": "32",
+                "to_date": "1969",
+                "title": "Design in Scandinavia"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Forum, Oslo",
+                "from_date": "1965",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Belgia",
+                "from_date": "1976",
+                "order": "12",
+                "to_date": "1982"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vestlandske Kunstindustrimuseum, Bergen",
+                "from_date": "1970",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nordenfjeldske Kunstindustrimuseum, Trondheim",
+                "from_date": "1981",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1972",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Acanthus, Oslo",
+                "from_date": "1980",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1976",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hamburg",
+                "from_date": "1976",
+                "order": "43",
+                "to_date": "",
+                "title": "Modernes Glas aus Amerika, Europa und Japan"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1968",
+                "order": "33",
+                "to_date": "1969"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Habitat Galleries, Lathrup Village, Michigan, USA",
+                "from_date": "1980",
+                "order": "47",
+                "to_date": "",
+                "title": "Scandinavian Glass"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Storbritannia",
+                "from_date": "1976",
+                "order": "16",
+                "to_date": "1982"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nordenfjeldske Kunstindustrimuseum, Trondheim",
+                "from_date": "1978",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1960",
+                "order": "29",
+                "to_date": "",
+                "title": "Landsforbundet Norsk Brukskunsts høstmønstring"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1973",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Alingsås",
+                "from_date": "1974",
+                "order": "38",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Röhsska Konstslöjdmuseum, Göteborg",
+                "from_date": "1970",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Acanthus, Oslo",
+                "from_date": "1978",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1976",
+                "order": "44",
+                "to_date": "",
+                "title": "Norskt Konsthandverk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Illums, København",
+                "from_date": "1976",
+                "order": "40",
+                "to_date": "",
+                "title": "International Studio Glass"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Värmlands Museum, Karlstad",
+                "from_date": "1971",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1971",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Tsjekkoslovakia",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": "1982"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Gamla Stan, Stockholm",
+                "from_date": "1981",
+                "order": "48",
+                "to_date": "",
+                "title": "3 fra Norge"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kiel",
+                "from_date": "1966",
+                "order": "30",
+                "to_date": "",
+                "title": "Norwegische Gebrauchskunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Vikerødegården, Furnes",
+                "from_date": "1977",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Helsingborg Museum",
+                "from_date": "1973",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Cassandra, Drøbak",
+                "from_date": "1981",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sapporo, Japan",
+                "from_date": "1982",
+                "order": "49",
+                "to_date": "",
+                "title": "World Glass Now"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Forum, Oslo",
+                "from_date": "1968",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Veste Coburg",
+                "from_date": "1977",
+                "order": "45",
+                "to_date": "",
+                "title": "mønstring av moderne europeisk glass"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tel Aviv",
+                "from_date": "1975",
+                "order": "39",
+                "to_date": "",
+                "title": "Scandinavian Glass Exhibition"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1975",
+                "order": "35",
+                "to_date": "1978"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Moss Kunstgalleri",
+                "from_date": "1971",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Nederland",
+                "from_date": "1976",
+                "order": "14",
+                "to_date": "1982"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1936",
+                "order": "28",
+                "to_date": "1937",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1966",
+                "order": "31",
+                "to_date": "",
+                "title": "Norsk Brukskunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Biggie, Stavanger",
+                "from_date": "1977",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Canada",
+                "from_date": "1976",
+                "order": "18",
+                "to_date": "1982"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1979-10-13",
+                "order": "39",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Bugge, E. Moestue"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-21",
+                "order": "15",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Breivik, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-06-23",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Vindsetmo, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-13",
+                "order": "44",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-29",
+                "order": "48",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Eklund, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-10-13",
+                "order": "34",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Rodin, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "katalog Kunstindustrimuseum",
+                "to_date": "",
+                "description": "Benny Motzfeldt, Glass",
+                "place": "København",
+                "authors": [
+                    "Lassen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "29",
+                "to_date": "",
+                "description": "Glasskunstneren Benny Motzfeldt",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, L. (red.)"
+                ],
+                "comments": [
+                    "Navn i norsk brukskunst, utg. av Kunstindustrimuseet i Oslo"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971-07-03",
+                "order": "20",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Bryn, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-21",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Bækken, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-21",
+                "order": "50",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Artspeak",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-05-28",
+                "order": "10",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thue, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-06-17",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-06-08",
+                "order": "5",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Bøe, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-13",
+                "order": "55",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Hallingdølen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "1",
+                "reference": "s. 225, 241, 261",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-20",
+                "order": "43",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-23",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-31",
+                "order": "37",
+                "to_date": "",
+                "description": "i Hamar Dagblad",
+                "authors": [
+                    "Andersen, F. Aa."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-27",
+                "order": "47",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Østlandets Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-10-08",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Arneberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-12",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "8",
+                "reference": "s. 285–86, 294",
+                "to_date": "",
+                "description": "i Bonytt",
+                "authors": [
+                    "Anisdahl, L. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "4",
+                "reference": "s. 295, 296",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-07-25",
+                "order": "51",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Tjomsland, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "9",
+                "reference": "hefte 2 (ill.)",
+                "to_date": "",
+                "description": "i Bonytt",
+                "authors": [
+                    "Christiansen, S. Lønne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "0",
+                "reference": "s. 195",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-19",
+                "order": "56",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Ringerikes Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-06-09",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-10",
+                "order": "53",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-23",
+                "order": "36",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Hamar Dagblad",
+                "authors": [
+                    "Aasen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "3",
+                "reference": "nr. 21 (ill.)",
+                "to_date": "",
+                "description": "Allers",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-24",
+                "order": "41",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-11",
+                "order": "46",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-09-15",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-07-04",
+                "order": "17",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Kielland, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "22",
+                "reference": "hefte 4 (ill.)",
+                "to_date": "",
+                "description": "i Norsk Husflid",
+                "place": "Oslo",
+                "authors": [
+                    "Aas, A. L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "12",
+                "reference": "nr. 3 (ill.)",
+                "to_date": "",
+                "description": "Allers",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-08",
+                "order": "42",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Holte, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "7",
+                "reference": "s. 218–20",
+                "to_date": "",
+                "description": "i Bonytt",
+                "authors": [
+                    "Anisdahl, L. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-12-12",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Pahr-Iversen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-12-01",
+                "order": "27",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-14",
+                "order": "52",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Tjomsland, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-12",
+                "order": "35",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-20",
+                "order": "45",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-12",
+                "order": "54",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "2",
+                "reference": "s. 176, 254, 257, 258, 286, 288, 289",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-17",
+                "order": "40",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fredriksstad Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "18",
+                "reference": "nr. 35 (ill.)",
+                "to_date": "",
+                "description": "i Nye Illustrert",
+                "place": "Oslo",
+                "authors": [
+                    "Winther, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-07-20",
+                "order": "31",
+                "to_date": "",
+                "description": "i Helsingborg Dagblad",
+                "authors": [
+                    "Ekerberg, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "21",
+                "to_date": "",
+                "description": "i Dansk Brugskunst",
+                "place": "København",
+                "authors": [
+                    "Schrader, Å. Voss"
+                ],
+                "comments": [
+                    "hefte 1"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1972-12-14",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "30",
+                "reference": "nr. 21 (ill.)",
+                "to_date": "",
+                "description": "i Alle Kvinner",
+                "place": "Oslo",
+                "authors": [
+                    "Kirkvaag, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "11",
+                "reference": "hefte 251 (ill.)",
+                "to_date": "",
+                "description": "i Design",
+                "place": "London",
+                "authors": [
+                    "Brown, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-14",
+                "order": "49",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nordisk Tidende",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-06-17",
+                "order": "6",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Middelthon, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-12-01",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Benny Motzfeldt",
+    "url": "https://nkl.snl.no/Benny_Motzfeldt",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Etter å ha gått ut fra Statens Håndverks- og Kunstindustriskole i 1935 ønsket M. å arbeide som maler og grafiker, og i 1936 debuterte hun på Høstutstillingen med akvareller og tegninger. Imidlertid måtte hun nøye seg med mindre oppdrag innenfor reklame, bokillustrasjon o.l., bl.a. fordi familien la beslag på hennes tid. Under opphold i Sverige 1946–53 utførte hun en del gouacher og collager. I 1955 ble hun for første gang knyttet til glassproduksjon idet hun fikk ansettelse som tegner ved Christiania Glasmagasin med hovedoppgave å levere tegninger til gravyr, sandblåsing osv. for spesialbestillinger på Hadelands Glassverk. Hun tegnet også bruksglass og glass-souvenirer, bl.a. skapte hun den meget populære souvenir <em>Isfuglen</em>. Etter hvert fikk hun anledning til å følge sitt usedvanlige behov for å eksperimentere og skapte da individuelle glassarbeider der selve glassmassen fikk liv gjennom farger og forskjellige tilsetninger, bl.a. soda som frembrakte luftblærer i glasset. Hun uttrykte seg også gjennom kompakte, slepne, skulpturale krystall-former. I et større glassverk vil det som regel måtte gå en viss tid fra idé til ferdig produkt. M. var inne i en feberaktig skaper-periode, og søkte seg derfor i 1967 over til den langt mindre nabobedriften Randsfjord Glassverk der hun var eneste designer. Her fikk hun praktisk talt fullstendig frihet til å sette sine ideer omgående ut i livet, og hun markerte seg snart som en original og nyskapende glasskunstner. Også hennes moderne bruksglass traff tidens smak og har bevart sin popularitet.</p>\n<p>Høsten 1970 fikk M. sjansen til et enda nærere forhold til selve glassets tilblivelsesprosess ved å overta den kunstneriske ledelse av glasshytten til organisasjonen Plus i Fredrikstad, der hun siden har arbeidet sammen med to-tre glassblåsere. Uten selv å blåse glass fikk hun her etablert et verksted for studioglass, og mange av de tekniske finesser som hun hadde utviklet på Randsfjord Glassverk, kunne hun nå bygge videre på og utnytte maksimalt. Med stor fantasi varierte hun formene, overflatebehandlingen, fargene og fremfor alt den dekorative utnyttelse av elementer som ble smeltet inn i glasset, glassfiber, metalltråd o.l. Hennes bakgrunn som grafiker kommer klart til uttrykk. I Plus-glasshytten er arbeidet stort sett organisert slik at M. utfører unika-arbeider den ene uke, mens glassblåserne den neste uke produserer hennes seriemodeller. De første signerer hun BM og årstall, de andre får et etset Plus-stempel. Studioglasset som var en ny genre i 60-årene, ble internasjonalt omfattet med meget stor interesse. Karakteristisk for M. som glasskunstner er hennes evne til stadig fornyelse. Unika-arbeidene vitner om uavlatelig streben etter nye uttrykksvarianter. Hennes enorme produktivitet ytrer seg også gjennom andre uttrykksformer, som dels må betraktes som forarbeider for glass, dels som selvstendige kunstverk. Fra første stund, men særlig i de senere år, har hun arbeidet med forskjellige former for collager, til å begynne med enkle applikasjoner, i den senere tid med et utall av materialer som metallfolie, netting, tekstiler, strå, frø osv. Hennes siste utstillinger har omfattet slike collager like meget som glass, og vitner om hennes oppfinnsomhet og fantasi med beherskelse og kontroll over uttrykksmidlene.</p>\n</div>",
+    "created_at": "2013-07-04T11:03:18.263+02:00",
+    "changed_at": "2024-06-18T23:26:31.974+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2770\",\"https://digitaltmuseum.no/38fc26b5-a6d8-4033-a4f8-189c0039b12a\",\"http://kulturnav.org/38fc26b5-a6d8-4033-a4f8-189c0039b12a\"]",
+        "lastname": "Motzfeldt",
+        "firstname": "Benny",
+        "birth_date": "26.6.1909",
+        "birthplace": "Åsen, Nord-Trøndelag",
+        "death_date": "24.11.1995",
+        "external_id": "person_8736ab2770",
+        "kulturnav_id": "38fc26b5-a6d8-4033-a4f8-189c0039b12a",
+        "place_of_death": "Oslo",
+        "alternative_names": "Motzfeldt, Benny Anette"
+    },
+    "authors": [
+        {
+            "full_name": "Lauritz Opstad"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "Motzfeldt, Benny (Anette)/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16167/standard_NMK-D_OK-1967-0238C20130725-13675-12vuh6y.jpg",
+            "full_size_url": "https://media.snl.no/media/16167/NMK-D_OK-1967-0238C20130725-13675-12vuh6y.jpg",
+            "xhtml": "<div>\r\n<p>Cocktailglass, 1967. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Benny Motzfeldt",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Motzfeldt, Benny (Anette)/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16168/standard_NMK-D_OK-1971-001920130725-13675-3ulz1i.jpg",
+            "full_size_url": "https://media.snl.no/media/16168/NMK-D_OK-1971-001920130725-13675-3ulz1i.jpg",
+            "xhtml": "<div>\r\n<p><em>Karasjok</em>, 1969-1970. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Benny Motzfeldt",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Motzfeldt, Benny (Anette)/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16175/standard_NMK-D_OK-1983-002120130725-13675-1go0nqv.jpg",
+            "full_size_url": "https://media.snl.no/media/16175/NMK-D_OK-1983-002120130725-13675-1go0nqv.jpg",
+            "xhtml": "<div>\r\n<p>Pokal, 1959. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Benny Motzfeldt",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Motzfeldt, Benny (Anette)/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16184/standard_NMK-D_OK-2000-007720130725-13675-j6ajuw.jpg",
+            "full_size_url": "https://media.snl.no/media/16184/NMK-D_OK-2000-007720130725-13675-j6ajuw.jpg",
+            "xhtml": "<div>\r\n<p>Krukke, 1960-1963. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Benny Motzfeldt",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Motzfeldt, Benny (Anette)/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16187/standard_NMK-D_OK-2001-013220130725-13675-1efznqr.jpg",
+            "full_size_url": "https://media.snl.no/media/16187/NMK-D_OK-2001-013220130725-13675-1efznqr.jpg",
+            "xhtml": "<div>\r\n<p><em>Plus</em>, vase, 1970-tallet. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Benny Motzfeldt",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "glasskunstner"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

@@ -1,0 +1,633 @@
+{
+    "id": 418260,
+    "headword": "Terje Moe",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105486",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna Martha",
+                "lastname": "Møllerud",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105485",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kolbjørn",
+                "lastname": "Moe",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab105487",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bente Cecilie",
+                "lastname": "Baanrud",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole 1963–66",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Reidar Aulie 1968–69",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "London"
+            },
+            {
+                "order": "2",
+                "description": "Amsterdam"
+            },
+            {
+                "order": "1",
+                "description": "Reiser til Roma"
+            },
+            {
+                "order": "0",
+                "description": "Statens 3-årige arbeidsstipend 1974"
+            },
+            {
+                "order": "4",
+                "description": "de nordiske hovedsteder"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Landsforeningen Norske Malere, jurymedlem 2 år"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": "",
+                "title": "Ungt, norsk uttrykk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norrköping",
+                "from_date": "1974",
+                "order": "14",
+                "to_date": "",
+                "title": "Realism och Romantik - Ung Norsk Konst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1970",
+                "order": "12",
+                "to_date": "",
+                "title": "Romantisk figurativ kunst fra 1960-årene"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frankrike",
+                "from_date": "1979",
+                "order": "17",
+                "to_date": "",
+                "title": "Cagnes-sur-Mer"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "10",
+                "to_date": "1981",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1968",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1978",
+                "order": "16",
+                "to_date": "",
+                "title": "Romantikk. Realisme"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 71, Tromsø",
+                "from_date": "1981",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1981",
+                "order": "8",
+                "to_date": "",
+                "title": "Romantikk. Realisme"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1973",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Finsrud, Drøbak",
+                "from_date": "1975",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerringen, Oslo",
+                "from_date": "1980",
+                "order": "6",
+                "to_date": "",
+                "title": "Byen og Naturen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1978",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "title": "Ungt, norsk uttrykk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1969",
+                "order": "0",
+                "to_date": "",
+                "title": "Juniutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1978",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Røde Lanterne, Eidsvoll",
+                "from_date": "1979",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillestrøm Sparebank",
+                "from_date": "1982",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hässelby Slott, Stockholm",
+                "from_date": "1980",
+                "order": "18",
+                "to_date": "",
+                "title": "Oslo i Konsten"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsingfors Konsthall",
+                "from_date": "1981",
+                "order": "19",
+                "to_date": "",
+                "title": "Norsk Billed"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1970",
+                "order": "7",
+                "reference": "s. 59, 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-24",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nordlys",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-06-05",
+                "order": "1",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "26",
+                "reference": "bd. 8, s. 313",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-07",
+                "order": "9",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Arneberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-06-07",
+                "order": "24",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Evensen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-10-15",
+                "order": "15",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hofseth, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "17",
+                "reference": "s. 51",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-13",
+                "order": "11",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Bjerke, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-23",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-06-12",
+                "order": "4",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-26",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Evensen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-04-04",
+                "order": "13",
+                "to_date": "",
+                "description": "Akershus Amtstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-05-31",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-31",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Moe, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "6",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-06-07",
+                "order": "2",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Steen-Johnsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "27",
+                "to_date": "",
+                "description": "Norsk maleri 70-tallet",
+                "place": "Oslo",
+                "authors": [
+                    "Gulliksen, B. Melbye",
+                    "Sørensen, G.",
+                    "Johnsrud, E. H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978-06-14",
+                "order": "25",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Torgersen, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-12",
+                "order": "10",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-06",
+                "order": "8",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "18",
+                "reference": "s. 186, 193",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "16",
+                "reference": "s. 50",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "12",
+                "reference": "s. 61",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-26",
+                "order": "29",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nordlys",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-06-12",
+                "order": "3",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-04-07",
+                "order": "14",
+                "to_date": "",
+                "description": "Østlandets Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-06-12",
+                "order": "5",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-19",
+                "order": "19",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-25",
+                "order": "21",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Terje Moe",
+    "url": "https://nkl.snl.no/Terje_Moe",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>M. hører til den gruppen norske malere som i 1970-årene stod fram som representanter for en ny romantisk-realistisk retning. Som en i kretsen rundt Odd Nerdrum debuterte han i akademitiden med romantiske landskap og portretter. Et bilde som <em>Hymne</em> (1969), med en flokk mennesker på en ødslig strand ved et dystert blikkstille hav, var preget av romantikerens oppfatning av samhørigheten mellom mennesket og naturen. På sin første separatutstilling i Oslo Kunstforening i 1973 presenterte M. inntrykk fra en bilreise, 32 bilder i serie under fellestittelen <em>Metamorfose</em>. Det naturalistiske og lyriske formspråk fremhevet den estetiske opplevelsen av realistiske trekk som trafikkskilt, motorveier, biler og billys. Han viste også flere fine tolkninger av atmosfæriske lysfenomener. Fra 1976 har M. arbeidet med en nærmest fotografisk korrekt gjengivelse av byprospekter. Han maler gateløp, fortau, portrom, husrekker, arbeidsplasser, skolegårder og interiører fra bl.a. venteværelser og sykehus. Bildene er som regel mennesketomme, i høyden med en enkelt, gjerne bortvendt skikkelse, og holdt i en dempet, gyllen eller gråblå koloritt. Et gjennomgående trekk i bybildene er mangelen på perspektivisk utsyn som uttrykk for en konstruert verden. Det sparsomme fargevalget og et ofte skrått fallende aften- eller morgenlys gir M.s bymiljøer en atmosfære av stillhet og melankoli. Hans interiørbilder kan minne om den danske maleren Vilhelm Hammershøis nøkterne, men stemningsfulle interiører. En distansert holdning til motivet preger ofte bildene og gir betrakteren grunnlag for refleksjoner og tolkninger utover det avbildede motiv. M. har også i de senere år malt landskapsmotiver, spesielt sommerlandskap fra Stavern-traktene, og dessuten arbeidet med grafikk.</p></div>",
+    "created_at": "2013-07-04T10:05:36.612+02:00",
+    "changed_at": "2024-06-18T23:26:30.858+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2727\",\"https://digitaltmuseum.no/9c9857fc-f8a6-464a-811f-75f3aef3872b\",\"http://kulturnav.org/9c9857fc-f8a6-464a-811f-75f3aef3872b\"]",
+        "lastname": "Moe",
+        "firstname": "Terje",
+        "birth_date": "16.10.1943",
+        "birthplace": "Oslo",
+        "death_date": "27.2.2004",
+        "external_id": "person_8736ab2727",
+        "kulturnav_id": "9c9857fc-f8a6-464a-811f-75f3aef3872b"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

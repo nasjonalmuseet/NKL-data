@@ -1,0 +1,789 @@
+{
+    "id": 430171,
+    "headword": "Ole Rinnan",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab3238",
+                "birth_date": "12.12.1905",
+                "death_date": "15.02.1997",
+                "firstname": "Frode",
+                "lastname": "Rinnan",
+                "professions": [
+                    "arkitekt"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106585",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hanna-Greta",
+                "lastname": "Adler",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks og Kunstindustriskole, Oslo 1958–59",
+                "order": "0"
+            },
+            {
+                "comment": "Valands Konstskola, Göteborg 1961",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "3-årige arbeidsstipend 1978"
+            },
+            {
+                "order": "0",
+                "description": "Statens arbeidsstipend 1974"
+            },
+            {
+                "order": "1",
+                "description": "reisestipend 1977"
+            },
+            {
+                "order": "3",
+                "description": "Reise til sjøs 1956–57"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Unge Kunstneres Samfunn, jurymedlem 1964–65"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Morgenbladets pris Høstutstillingen 1983"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Göteborg Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Bryne og Ringerike kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Ringerike kommune"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "DnC, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Norsk Hydro A/S"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1965",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim kunstforening",
+                "from_date": "1980",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Moss kunstforening",
+                "from_date": "1982",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hammerlunds Kunsthandel, Oslo",
+                "from_date": "1979",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Oddvar Olsen, Drammen",
+                "from_date": "1982",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund kunstforening",
+                "from_date": "1982",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1965",
+                "order": "13",
+                "to_date": "",
+                "title": "De 14"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Gall. Parken, Bergen",
+                "from_date": "1983",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1963",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1966",
+                "order": "21",
+                "to_date": "",
+                "title": "1. nordiske ungdomsbiennale"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "18",
+                "to_date": "1983",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki, Finland",
+                "from_date": "1981",
+                "order": "23",
+                "to_date": "",
+                "title": "Norsk kunst i dag"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1964",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ringerike Kunstforening",
+                "from_date": "1981",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen kunstforening",
+                "from_date": "1980",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1966",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1964",
+                "order": "19",
+                "to_date": "1965",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Øst-Tyskland",
+                "from_date": "1983",
+                "order": "24",
+                "to_date": "",
+                "title": "biennalen i Rostock"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger kunstforening",
+                "from_date": "1982",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1963",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1968",
+                "order": "22",
+                "to_date": "",
+                "title": "Modern Art in Norway"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "20",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1965",
+                "order": "14",
+                "to_date": "",
+                "title": "De 14"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "17",
+                "to_date": "1977",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Portretthode utført av Brit Skarheim (bronse 1970) utstilt Høstutstillingen 1972"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1983-09-26",
+                "order": "36",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Refsnes, A. M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-06-17",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Sunnmørsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-09",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-16",
+                "order": "16",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "0001-04-01",
+                "description": "Trondheim Kunstforening",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03-05",
+                "order": "28",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "4",
+                "reference": "hefte 105–06 s. 93",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "9",
+                "reference": "s. 44",
+                "to_date": "",
+                "description": "i Norsk maleri 70-tallet",
+                "place": "Oslo",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "2",
+                "reference": "s. 267",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-07",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-28",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "0",
+                "reference": "mellom s. 208–09 (ill.)",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "6",
+                "reference": "s. 123",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-16",
+                "order": "15",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-15",
+                "order": "21",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-01",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-16",
+                "order": "30",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-04-05",
+                "order": "32",
+                "to_date": "",
+                "description": "Moss Avis",
+                "authors": [
+                    "Christensen, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-19",
+                "order": "13",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-05-27",
+                "order": "33",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-09-24",
+                "order": "35",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-21",
+                "order": "17",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Hougen, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-09",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Krog, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03-05",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Svendsen, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-15",
+                "order": "12",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "5",
+                "reference": "s. 50",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "10",
+                "reference": "bd. 10, s. 36",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11",
+                "order": "7",
+                "to_date": "",
+                "description": "katalog Hammerlunds Kunsthandel",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "1",
+                "reference": "(omslagsill.)",
+                "to_date": "",
+                "description": "Kolon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-13",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Loge, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-15",
+                "order": "29",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-01",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-20",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Wormdal, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-03-26",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Moss Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "3",
+                "reference": "s. 240",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-08",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-27",
+                "order": "18",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ole Rinnan",
+    "url": "https://nkl.snl.no/Ole_Rinnan",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>R. markerte seg i 60-årene i modernistisk retning, men i motsetning til kolleger som Per Kleiva, Morten Krohg og Jan Radlgruber var hans maleri et uttrykk for en meditativ og innadvendt opplevelse av omverdenen. De små og mørkstemte erindringsbilder fra hans første utstilling i 1963 ble i 1965 ført et skritt videre mot en nesten total abstraksjon. R. behandlet lyset og mørket i en antydende poetisk billedverden, hvor solen fremstod som en mørk kontur, f.eks. i flere bilder med tittel <em>Solgangslandskap</em>. Han eksperimenterte med flere teknikker med pastose relieffvirkninger i oljemalerier, akvareller og en rekke monotypier. Man påviste likhet med amerikanske vestkystmalere som Morris Graves og Mark Tobey, som på sin side hadde mottatt inntrykk fra østen.</p>\n<p>I 1965 ble R. lammet etter en ulykke. Flere år senere presenterte han bilder utført i et helt nytt og figurativt formspråk, vist første gang separat i 1979. De nattlige scener med stirrende nakne kvinner, svermer av insekter, fugler i flukt og tropisk vegetasjon kan minne om både Hieronymus Bosch og Max Ernst. R.s bilder er imidlertid først og fremst elementer i en enhetlig og personlig billedverden, som samler seg i symbolske fremstillinger som <em>Fugleelskere</em> og <em>Fuglene mates</em> (1977, Nasjonalgalleriet, Oslo). Hans billedspråk er drømmeaktig og gåtefullt og unndrar seg tolkninger, men etterlater et inntrykk av tidløs mystikk. Kvinnefigurene er enten plassert enkeltvis helt fremme i billedflaten eller danner sammen med fugler, insekter og bladverk et ornamentalt mønster. Kvinnenes trekk kan være maskelignende, som i <em>Fuglene mates</em>, og er som regel overdimensjonerte, spesielt i øyenpartiene. Deres fyldige lepper er formet i et uutgrunnelig halvsmil. De mørke øynene dominerer i bildene, glimter av og til fram mellom bladverk og fugler og skaper en underlig samhørighet mellom kvinne og fugl. I <em>Øye - Fugl - Flue</em> er dette moment rendyrket til få figurer i komposisjonen. De presise detaljer og konturer i myldret av insekter, blader og fuglevinger fremtrer nesten selvlysende eller som opplyst fra gjenskinnet av en lyskilde utenfor billedrammen. R.s bilder har en mørk og avstemt, men likevel intens og fargesterk koloritt. Mot nattmyke udefinerte rom trer gjennomskinnelige farger av grønt, brunt og blått fram, med ulmende fiolett og brunt i kvinnenes hud. Den transparente effekten er betinget av R.s spesielle maleteknikk. Han maler med primærfarger i tempera, med små minutiøse penselstrøk i flere lag i en slags laseringsteknikk, malt på tynn papp som siden klebes opp på finér. Bildene fernisseres og får en blank og glatt overflate. R.s produksjon er ikke stor, og han selger nødig. En del arbeider er reprodusert i silketrykk, bl.a. <em>Kvinne blues III</em>, <em>Blomman før dagen</em>  og <em>Øye - Fugl - Flue</em>.</p>\n</div>",
+    "created_at": "2014-11-20T11:42:30.509+01:00",
+    "changed_at": "2024-06-18T23:27:51.088+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3239\",\"https://digitaltmuseum.no/217224b9-33f8-4c3a-a89b-e157ff87df11\",\"http://kulturnav.org/217224b9-33f8-4c3a-a89b-e157ff87df11\"]",
+        "lastname": "Rinnan",
+        "firstname": "Ole",
+        "birth_date": "14.7.1940",
+        "birthplace": "Göteborg",
+        "external_id": "person_8736ab3239",
+        "kulturnav_id": "217224b9-33f8-4c3a-a89b-e157ff87df11"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20442/standard_NMK-B_MS-02729-198820151204-26003-wk4wi.jpg",
+            "full_size_url": "https://media.snl.no/media/20442/NMK-B_MS-02729-198820151204-26003-wk4wi.jpg",
+            "xhtml": "<div><p><i>Kvinne Blues</i>. 1974. <a href=\"http://digitaltmuseum.no/011042462442\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Ole Rinnan",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20443/standard_NMK-B_MS-03280-198820151204-26003-1uyf48h.jpg",
+            "full_size_url": "https://media.snl.no/media/20443/NMK-B_MS-03280-198820151204-26003-1uyf48h.jpg",
+            "xhtml": "<div><p><i>Fugleelskere</i>. 1979. <a href=\"http://digitaltmuseum.no/011042357311\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Ole Rinnan",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

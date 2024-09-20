@@ -1,0 +1,731 @@
+{
+    "id": 430030,
+    "headword": "Johann Joachim Reichborn",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            },
+            {
+                "description": "stadsbyggmester"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106474",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lucia",
+                "lastname": "Scheuffling",
+                "professions": null
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106473",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Joachim",
+                "lastname": "Reichborn",
+                "professions": [
+                    "snekker"
+                ]
+            },
+            {
+                "from_date": "1743",
+                "type": "Gift med",
+                "external_id": "person_8736ab106475",
+                "birth_date": "1718",
+                "death_date": "",
+                "firstname": "Elisabeth",
+                "lastname": "Mitsesselin",
+                "professions": null
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Snekkerlære, ukjent utdannelse som gav tittel Zeichenmeister",
+                "order": "0"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem branntakstkommisjonen"
+            },
+            {
+                "order": "1",
+                "description": "sakkyndig i rettssaker angående bygningstekniske problemer"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Toldboden, Tollbodalmenning (1758–63)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Nykirken (1759–61)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Zander Kaaes stiftelse, Kong Oscars gt. 67 (1769–70)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "planutkast til apoteker J. C. de Besches have (1781, senere kalt Maartmannshaven/Ole Bulls plass)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "oppmåling Stiftsgården"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "by- og eiendomskart"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Prosjekter: Utkast ny børsbygning (1773)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "kaserne for 200 mann på Bergenhus"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "brannvakt kombinert med vindfløy på Fløyen sammen med Gerhard Armauer (1781)"
+            }
+        ],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "H. Meyer: Samlinger til den Berømmelige og Navnkundige Norske Handel Stad, Bergens Beskrivelse, Bergen 1764"
+            }
+        ],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1824",
+                "order": "0",
+                "reference": "s. 670",
+                "to_date": "",
+                "description": "Bergens Beskrivelse",
+                "place": "Bergen",
+                "authors": [
+                    "Sagen, L.",
+                    "Foss, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1829",
+                "order": "1",
+                "reference": "s. 148",
+                "to_date": "",
+                "description": "Dansk, norsk, svensk, Kunstner-Lexicon",
+                "place": "København",
+                "authors": [
+                    "Weinwich, N. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1842",
+                "order": "2",
+                "reference": "bd. 2, s. 234–38",
+                "to_date": "1847",
+                "description": "Kgl. Rescripter, Resolutioner og Collegiale-Breve for Norge i Tidsrummet 1660-1813",
+                "place": "Christiania",
+                "authors": [
+                    "Wessel-Berg, F. A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1904",
+                "order": "3",
+                "reference": "1764 (ill.), utgitt av B. E. Bendixen(ill.)",
+                "to_date": "",
+                "description": "Samlinger til den Berømmelige og Navnkundige Norske Handel Stad, Bergens Beskrivelse",
+                "place": "Bergen",
+                "authors": [
+                    "Meyer, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1908",
+                "order": "4",
+                "reference": "s. 85, 90",
+                "to_date": "",
+                "description": "Bidrag til Bergens kulturhistorie",
+                "place": "Bergen",
+                "authors": [
+                    "Koren-Wiberg, C."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1912",
+                "order": "5",
+                "reference": "s. 239–46",
+                "to_date": "",
+                "description": "Nykirken i Bergen, Kunst og Kultur",
+                "authors": [
+                    "Kielland, J. Z. M."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1915",
+                "order": "6",
+                "reference": "bd. 2, s. 488",
+                "to_date": "1919",
+                "description": "Bergen 1814–1914",
+                "place": "Bergen",
+                "authors": [
+                    "Schetelig, H. (red.)",
+                    "Geelmuyden, C."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1916",
+                "order": "7",
+                "reference": "bd. 1, s. 353",
+                "to_date": "",
+                "description": "Bergens by",
+                "place": "(Kristiania",
+                "authors": [
+                    "Helland, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1916",
+                "order": "8",
+                "reference": "s. 126–28",
+                "to_date": "",
+                "description": "Gamle norske haver i det 18. og 19. aarhundrede",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1918",
+                "order": "9",
+                "reference": "s. 108",
+                "to_date": "",
+                "description": "Om Michelsengården og litt om mansardtakets anvendelse i gammel Bergensarkitektur, Bergens historiske forening skrifter",
+                "place": "Bergen",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1920",
+                "order": "10",
+                "reference": "s. 84",
+                "to_date": "",
+                "description": "Malerkunsten i Norge",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1921",
+                "order": "11",
+                "reference": "s. 262",
+                "to_date": "",
+                "description": "Bergens kulturhistorie",
+                "place": "Bergen",
+                "authors": [
+                    "Koren-Wiberg, C."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927",
+                "order": "12",
+                "reference": "s. 31–32, pl. 98–101",
+                "to_date": "",
+                "description": "Norsk bygningskunst fra Urnes til Universitetet",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927",
+                "order": "13",
+                "reference": "bd. 2, s. 5–7, 12, 27, 38–39, 52",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1929",
+                "order": "14",
+                "reference": "s. 71",
+                "to_date": "",
+                "description": "Håkonshallen",
+                "place": "Bergen",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1930",
+                "order": "15",
+                "reference": "s. 85–88",
+                "to_date": "",
+                "description": "Bergen, fortidsminder og kunstverker",
+                "place": "Bergen",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938-06-23",
+                "order": "16",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1943",
+                "order": "17",
+                "reference": "s. 217–24, 321",
+                "to_date": "",
+                "description": "Bergenske portaler fra renessanse til empire, Bergens historiske forening skrifter",
+                "place": "Bergen",
+                "authors": [
+                    "Sandal, T."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1943",
+                "order": "18",
+                "reference": "bd. 3, s. 27–32",
+                "to_date": "",
+                "description": "Eldre Bergens-arkitektur i utvalg",
+                "place": "Bergen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944",
+                "order": "19",
+                "reference": "s. 126–41",
+                "to_date": "",
+                "description": "Tollboden, Bergens profil",
+                "place": "Bergen",
+                "authors": [
+                    "Lexow, J. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "reference": "s. 106–11",
+                "to_date": "",
+                "description": "Nykirken, Bergens profil",
+                "authors": [
+                    "Konow Lund, F."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944",
+                "order": "21",
+                "reference": "s. 59, 74",
+                "to_date": "",
+                "description": "Bergens profil",
+                "place": "Bergen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948",
+                "order": "22",
+                "reference": "s. 42",
+                "to_date": "",
+                "description": "Bergenserne bygger",
+                "place": "Bergen",
+                "authors": [
+                    "Lorentzen, B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950",
+                "order": "23",
+                "reference": "s. 88, 188",
+                "to_date": "",
+                "description": "Norske hus",
+                "place": "Oslo",
+                "authors": [
+                    "Eliassen, G."
+                ],
+                "comments": [
+                    "m.fl."
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "",
+                "optional_reference": "[u.å.], s. 37",
+                "order": "24",
+                "to_date": "",
+                "description": "Bergen med Fana i tekst og billeder",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "utg. Kjenn ditt land"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "25",
+                "reference": "bd. 11, s. 353–54",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961",
+                "order": "26",
+                "reference": "s. 84",
+                "to_date": "",
+                "description": "Gamle borgerhus i Bergen",
+                "place": "Bergen",
+                "authors": [
+                    "Bjerknes, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "27",
+                "reference": "s. 166, 183",
+                "to_date": "",
+                "description": "i Byborgerens hus i Norge",
+                "place": "Oslo",
+                "authors": [
+                    "Bjerknes, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "28",
+                "reference": "s. 362",
+                "to_date": "",
+                "description": "Foreningen til norske Fortidsminnesmerkers Bevarings Årbok",
+                "place": "Sarpsborg",
+                "authors": null,
+                "comments": [
+                    "register bd."
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1969",
+                "order": "29",
+                "reference": "bd. 1, s. 232–33",
+                "to_date": "",
+                "description": "Det norske tollvesens historie",
+                "place": "Oslo",
+                "authors": [
+                    "Jørgensen, H. J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1969",
+                "order": "30",
+                "reference": "s. 172–73",
+                "to_date": "",
+                "description": "Bergen, byen mellom fjellene",
+                "place": "Bergen",
+                "authors": [
+                    "Steen, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "31",
+                "reference": "s. 152, spalte 153, 227, 233, 248–50",
+                "to_date": "",
+                "description": "Bergen 1660–1814",
+                "place": "Bergen",
+                "authors": [
+                    "Lorentzen, B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "32",
+                "reference": "s. 258",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "33",
+                "reference": "bd. 9, s. 184",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "34",
+                "reference": "register s. 270",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1974",
+                "order": "35",
+                "reference": "s. 50, 54",
+                "to_date": "",
+                "description": "Kong Oscars gate. Historien gjennom tidene",
+                "place": "Bergen",
+                "authors": [
+                    "Bjerknes, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1975",
+                "order": "36",
+                "reference": "s. 117, 123, 189, 191, 478",
+                "to_date": "",
+                "description": "Til Medborgernes sande Vel. Det nyttig Selskab 1774–1974",
+                "place": "Bergen",
+                "authors": [
+                    "Espelid, K. L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "37",
+                "reference": "bd. 2, s. 103",
+                "to_date": "",
+                "description": "Gamle borgerhus i Bergen, II.",
+                "place": "Bergen",
+                "authors": [
+                    "Bjerknes, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979",
+                "order": "38",
+                "reference": "s. 318, 679, 744–45, 755–56, 809",
+                "to_date": "",
+                "description": "Bergen bys historie",
+                "place": "Bergen",
+                "authors": [
+                    "Fossen, A. B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979",
+                "order": "39",
+                "reference": "s. 461–62, 464",
+                "to_date": "",
+                "description": "Hordaland og Bergen, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "40",
+                "to_date": "",
+                "description": "Bygget i Norge",
+                "place": "Oslo",
+                "authors": [
+                    "Brochmann, O."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "41",
+                "reference": "s. 20–21",
+                "to_date": "",
+                "description": "Det antikvariske register for Bergen",
+                "place": "Bergen",
+                "authors": null,
+                "comments": [
+                    "sone 3. Fra Nordnespynten til Vaskerelven"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1982",
+                "order": "42",
+                "reference": "bd. 3, s. 10, 29–33, 49–51, 77–79, 117–18 (ill.)",
+                "to_date": "",
+                "description": "i Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Lexow, J. H."
+                ],
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1974",
+                "order": "43",
+                "publisher": "Universitetet i Bergen",
+                "reference": "s. 23, 33, 48, 56",
+                "to_date": "",
+                "description": "Byggeforhold og bolighus i Bergen 1800-1850",
+                "authors": [
+                    "Torvanger, Å. M."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": null
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Johann Joachim Reichborn",
+    "url": "https://nkl.snl.no/Johann_Joachim_Reichborn",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>R.s liv og virksomhet før han kom til Bergen i 1757, er ikke klarlagt. Opplysninger omkring sønnens dåp i 1747, kan tyde på at han da arbeidet ved Johann Leonard Preys tegnestue under oppførelsen av St. Georgskirken, Hamburg. Det eneste kjente arbeidet fra før han kom til Bergen, er oppmålingstegninger fra 1755 av en papirmølle i nærheten av Hamburg, utført i forbindelse med planer om en tilsvarende i Danmark. R. ble tilkalt til Bergen av stiftamtmann Ulrik Frederik de Cicignon for å gjenreise kirker og offentlige bygg etter bybrannen 1756. Etter at bygningene i brannstrøket var gjenreist, var det vanskelig for R. å livnære seg utelukkende som arkitekt. I 1763 ble han derfor på Cicignons initiativ ansatt som stadsbyggmester. Embetet innebar ansvar for vedlikehold av byens stiftelser og offentlige bygg. Samme år fikk han dessuten borgerskap som snekker og kunne følgelig påta seg snekkeroppgaver på lik linje med laugets øvrige medlemmer. I 1773 averterte han undervisning for \"Liebhabere af Architectura Civilis samt dertil hørende Videnskaber\". Fra 1779 var han lærer ved Det harmoniske akademis tegneskole.</p>\n<p>R. har tegnet og stått for oppførelse av <em>Nykirken</em> (1759–61), <em>Toldboden</em> (1758–63) og <em>Zander Kaaes stiftelse</em> (innviet 1770), som er blant de mest fremtredende og betydningsfulle 1700-talls bygninger i Bergen. De to første er murbygg som på grunn av størrelse og beliggenhet ved allmenninger og Vågen, har vært dominerende i forhold til den omliggende bebyggelse. Både som helhet og i detaljutforming viser de i eksteriøret stor likhet med samtidig nordtysk senbarokk arkitektur, mens portaler og interiør har detaljer i rokokko. <em>Nykirken</em>s planløsning har også tysk opprinnelse. Den tilhører en gruppe 1700-talls protestantiske kirker med T-formet plan hvor alter, prekestol og orgel er samlet midt på kirkens langvegg. I <em>Nykirken</em> er det bak alterveggen et sakristi som samtidig danner tårnfoten, slik at kirken i det ytre fremtrer som korsformet. Den har mansardtak, senere ofte anvendt i Bergen, men her trolig brukt for første gang. Kirken brant første gang i 1800, men ble gjenreist etter R.s tegninger, bortsett fra interiøret som ble utført i louis-seize-stil. R.s tegninger og interiøret fra 1800 ble også lagt til grunn for gjenoppførelsen etter skadene i 1944. Først i 1956 ble kirken fullført etter R.s opprinnelige plan ved at hans prosjekterte tårn ble bygd. <em>Toldboden</em> har valmtak og en enkel, rektangulær form. Felles for de to bygninger er at vinduene og veggen under ned til gulvnivå, er satt i inntrukne felt, avrundet øverst. Dette blir ansett å være et av de mest karakteristiske trekk ved R.s bygninger. Denne bygning ble også sterkt skadet i 1944 og gjenreist i eksteriøret etter hans tegninger. <em>Zander Kaaes stiftelse</em> har lite tilfelles med de to foran nevnte bygninger. Den knytter seg både i materialer, form og utførelse til den tradisjonelle trebebyggelse i Bergen. Bygningen består av to sidefløyer satt vinkelrett på en hovedfløy med de dekorative bygningsdetaljer vesentlig konsentrert om inngangspartiet i bygningens midtakse. Det er en tømmerbygning med suet bordkledning med sadeltak og gavler mot gaten. I tillegg til disse bygninger har R. laget by- og eiendomskart, oppmålingstegninger og illustrert Hildebrandt Meyers Bergens Beskrivelse med 20 tegninger av byens offentlige og halvoffentlige bygninger samt to meget detaljrike prospekter av byen. R. har vært tilskrevet de fleste 1700-talls bygninger som skiller seg fra den tradisjonelle bebyggelse i Bergen, f.eks. bygninger i brannstrøket 1756; Strandgaten 48, 107, 147 og Michelsen-gården (Torvalmenning 1). Dertil kommer <em>Maskinistskolens bygning</em> i Christies gate. Ingen av disse bygninger fins lenger. Hans navn er også satt i forbindelse med Damsgård hovedgård. I de nevnte bygninger er detaljer utført på samme måte som på <em>Toldboden</em>, <em>Nykirken</em> og <em>Zander Kaaes stiftelse</em> eller i samtidig nordtysk arkitektur. Det er foreløpig vanskelig å si om likhetstrekkene skyldes én arkitekt eller f.eks. at håndverkere med læretid og virke i det europeiske håndverksmiljø tilførte bygningene et enhetlig preg.</p>\n</div>",
+    "created_at": "2014-11-20T10:44:09.383+01:00",
+    "changed_at": "2024-06-18T23:27:47.570+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3190\",\"https://digitaltmuseum.no/9b6980e1-8466-4b94-8934-0104b6cbe2f7\",\"http://kulturnav.org/9b6980e1-8466-4b94-8934-0104b6cbe2f7\"]",
+        "lastname": "Reichborn",
+        "firstname": "Johann Joachim",
+        "birth_date": "0.0.1715",
+        "birthplace": "Hamburg",
+        "death_date": "18.6.1783",
+        "external_id": "person_8736ab3190",
+        "kulturnav_id": "9b6980e1-8466-4b94-8934-0104b6cbe2f7",
+        "place_of_death": "Bergen"
+    },
+    "authors": [
+        {
+            "full_name": "Åse Moe Torvanger"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        },
+        {
+            "description": "stadsbyggmester"
+        }
+    ]
+}

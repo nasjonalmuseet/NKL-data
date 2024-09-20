@@ -1,0 +1,641 @@
+{
+    "id": 431235,
+    "headword": "Wilhelm Marius Wangensten",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1911",
+                "type": "Gift med",
+                "external_id": "person_8736ab108040",
+                "birth_date": "1884",
+                "death_date": "",
+                "firstname": "Ulla Marie",
+                "lastname": "Østby",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108038",
+                "birth_date": "1860",
+                "death_date": "",
+                "firstname": "Ove Wangensten",
+                "lastname": "Øye",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108039",
+                "birth_date": "1859",
+                "death_date": "1934",
+                "firstname": "Julie",
+                "lastname": "Brobakken",
+                "professions": []
+            },
+            {
+                "from_date": "1953",
+                "type": "Gift med",
+                "external_id": "person_8736ab108041",
+                "birth_date": "1907",
+                "death_date": "",
+                "firstname": "Tordis",
+                "lastname": "Leergaard",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "gikk på krokiskoler i Paris 4 måneder 1921",
+                "order": "1"
+            },
+            {
+                "comment": "Elev ved Gauguin, Polas malerskole 1920-21",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Berlin, Dresden og München 1928"
+            },
+            {
+                "order": "1",
+                "description": "Brussel 1921"
+            },
+            {
+                "order": "3",
+                "description": "Milano, Firenze, Roma og Napoli 1928"
+            },
+            {
+                "order": "0",
+                "description": "Studiereiser til Paris 1921, -28, -37"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre, styremedlem 1925-30, medlem fondskomite, viseformann og formann 1933-48"
+            },
+            {
+                "order": "0",
+                "description": "Bokholder Myrens Mek. Verksted og Norsk Elektrisk, Kristiania til 1920/21"
+            },
+            {
+                "order": "3",
+                "description": "medstifter Unge Kunstneres Samfunn, viseformann 1925, formann stipend- og fondsstyre 1929-34"
+            },
+            {
+                "order": "2",
+                "description": "varamann Den faste Jury 1940-43"
+            },
+            {
+                "order": "5",
+                "description": "ansvar for Statens kunstfond og forvaltning av Citadellet, Stavern og kunstnerhus Lofoten og Paris"
+            },
+            {
+                "order": "4",
+                "description": "medlem direksjonen Kunstnernes Hus, Oslo fra 1930, formann 1946-57, formann styret Kunstnerforbundet 1940, styremedlem 1946-60"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Ridder av Kunstnerfor.s høye orden under navnet Fond Wangensten"
+            },
+            {
+                "order": "2",
+                "description": "æresmedlem Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "0",
+                "description": "R. Latvisk 3. stjerne Orden"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo (1 maleri)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1951",
+                "order": "25",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1931",
+                "order": "17",
+                "to_date": "",
+                "title": "Secession Norwegische Kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "13",
+                "to_date": "",
+                "title": "Landsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1934",
+                "order": "7",
+                "to_date": "1935",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "6",
+                "to_date": "1932",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "21",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "19",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "9",
+                "to_date": "1961",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1919",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1950",
+                "order": "24",
+                "to_date": "",
+                "title": "Kragerø i malerkunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1931",
+                "order": "16",
+                "to_date": "",
+                "title": "Secession Norwegische Kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1938",
+                "order": "8",
+                "to_date": "1940",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "22",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1921",
+                "order": "5",
+                "to_date": "1926",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "10",
+                "to_date": "",
+                "title": "De unges utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "3",
+                "to_date": "1914",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1965-01-16",
+                "order": "33",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "14",
+                "reference": "s. 228, 230",
+                "to_date": "",
+                "description": "Kunstnernes Hus 1930-1980",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-06",
+                "order": "16",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "8",
+                "reference": "bd. 2, s. 78",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-06",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-07",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-27",
+                "order": "35",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-13",
+                "order": "29",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-04-17",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-15",
+                "order": "31",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "3",
+                "reference": "s. 904",
+                "to_date": "",
+                "description": "Vem är vem i Norden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "1",
+                "to_date": "",
+                "description": "Samtida konst i Norge",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1933-11-21",
+                "order": "23",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "9",
+                "to_date": "",
+                "description": "Streiftog og glimt",
+                "authors": [],
+                "comments": [
+                    "register, tillegg 145–46"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "11",
+                "reference": "s. 258",
+                "to_date": "",
+                "description": "Kunst og Kultur, register 1910-67",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-04-19",
+                "order": "19",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-01-13",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Oslo Illustrerte",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "5",
+                "reference": "bd. 35, s. 150",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "13",
+                "reference": "bd. 10, s. 624",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "7",
+                "reference": "s. 276, 286 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "15",
+                "reference": "bd. 12, s. 538",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-07",
+                "order": "27",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-13",
+                "order": "30",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-03-05",
+                "order": "25",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-16",
+                "order": "34",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-04-19",
+                "order": "17",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-01-16",
+                "order": "32",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-03-04",
+                "order": "24",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "10",
+                "to_date": "",
+                "description": "Drammens kunstforening 1867-1967",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "0",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "authors": [],
+                "comments": [
+                    "bd. 2, register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1928-04-21",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "2",
+                "to_date": "1959",
+                "description": "Hvem er hvem?",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "6",
+                "reference": "s. 282 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "12",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "authors": [],
+                "comments": [
+                    "bd. 19, spalte 941"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1933-11-20",
+                "order": "22",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "4",
+                "reference": "s. 114 (ill.), 116",
+                "to_date": "",
+                "description": "Telemark i norsk malerkunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Wilhelm Marius Wangensten",
+    "url": "https://nkl.snl.no/Wilhelm_Marius_Wangensten",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>W. hadde merkantil utdannelse og arbeidet som forretningsmann i Kristiania til 1920/21. Han ble kjent med Severin Grande og Otto Johansen og fikk den første innføring i malerkunsten i Son. I 1913 debuterte han på Høstutstillingen med <em>Sommerkveld</em> og <em>Asters</em>. W. hadde sommerhus på Skåtøy, og motivene var lenge hovedsakelig solfylte, idylliske sommerlandskap fra Sørlandets skjærgård. Hans form var naturalistisk, teknikken impresjonistisk med små, tette og presise strøk og en enkel, lys koloritt. W. malte også enkelte figurmalerier og portretter. Ca. 1927 kom han til Flatdal i Telemark og i de følgende år malte han mye derfra. Det kom en kraftigere klang i bildene og W. arbeidet med å oppnå større fasthet og presisere form. Både Cézanne, Henrik Sørensen, Jean Heiberg og Per Deberitz har hatt betydning for hans kunst. W. brukte mye av sin tid i kunstnerorganisasjoner.</p></div>",
+    "created_at": "2014-12-21T15:07:44.080+01:00",
+    "changed_at": "2024-06-18T23:28:19.454+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3958\",\"https://digitaltmuseum.no/4dfca396-0150-422a-b263-8ace988124c4\",\"http://kulturnav.org/4dfca396-0150-422a-b263-8ace988124c4\"]",
+        "lastname": "Wangensten",
+        "firstname": "Wilhelm Marius",
+        "birth_date": "7.3.1884",
+        "birthplace": "V. Toten",
+        "death_date": "25.11.1962",
+        "external_id": "person_8736ab3958",
+        "kulturnav_id": "4dfca396-0150-422a-b263-8ace988124c4",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Ingeborg Wikborg"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

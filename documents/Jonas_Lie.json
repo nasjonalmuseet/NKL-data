@@ -1,0 +1,664 @@
+{
+    "id": 418017,
+    "headword": "Jonas Lie",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104936",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sverre",
+                "lastname": "Lie",
+                "professions": [
+                    "sivilingeniør"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104937",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "F. Steele",
+                "lastname": "Hustru",
+                "professions": []
+            },
+            {
+                "from_date": "1916",
+                "to_date": "1925",
+                "type": "Gift med",
+                "external_id": "person_8736ab104938",
+                "birth_date": "1890",
+                "death_date": "",
+                "firstname": "Inga",
+                "lastname": "Sontum",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "National Academy of Design og Art Students' League, New York 1897–1906",
+                "order": "1"
+            },
+            {
+                "comment": "Ethical Culture School, New York 1893–97",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "flere reiser til Norge, bl.a. 1930"
+            },
+            {
+                "order": "0",
+                "description": "Reiser til Paris 1892, 1906"
+            },
+            {
+                "order": "1",
+                "description": "Mellom-Amerika 1913"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Assosiert medlem National Academy fra 1912, medlem fra 1925, akademiets president 1934–39"
+            },
+            {
+                "order": "1",
+                "description": "medlem New Society of Artists, sekretær ca. 1920"
+            },
+            {
+                "order": "2",
+                "description": "medlem Salmagundi Club, USA"
+            }
+        ],
+        "awards": [
+            {
+                "order": "4",
+                "description": "gullmedalje Philadelphia 1925"
+            },
+            {
+                "order": "1",
+                "description": "First Hallgarten Prize 1914"
+            },
+            {
+                "order": "2",
+                "description": "sølvmedalje San Francisco 1915"
+            },
+            {
+                "order": "5",
+                "description": "Carnegie-prisen 1927"
+            },
+            {
+                "order": "0",
+                "description": "Sølvmedalje St. Louis Exposition 1904"
+            },
+            {
+                "order": "3",
+                "description": "Greenough Memorial Prize, Newport 1916"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "US Military Academy, West Point"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Washington County Museum of Fine Arts"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Metropolitan Museum of Art, New York"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Everson Museum of Art, Syracuse"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Carnegie Institute, Pittsburgh"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Brooklyn Museum"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Det hvite hus, Washington"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Museum of Detroit"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Art Institute, Chicago"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "kunstmuseer i Los Angeles"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Vestrheim, Norwegian American Museum, Decorah"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Minneapolis Institute of Fine Arts"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Museum of Fine Arts, Boston"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Cleveland"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Rochester"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Baltimore"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Dallas"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Musée Luxembourg, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Musée d'art moderne"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "USA",
+                "from_date": "1899",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1912",
+                "order": "5",
+                "to_date": "",
+                "title": "National Academy's utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "City Art Museum of St. Louis",
+                "from_date": "1911-06",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "San Francisco",
+                "from_date": "1915",
+                "order": "4",
+                "to_date": "",
+                "title": "Panama-Pacific International Exposition"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "New York",
+                "from_date": "1913",
+                "order": "3",
+                "to_date": "",
+                "title": "International Exhibition of Modern Art"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "City Art Museum of St. Louis",
+                "from_date": "1911-11",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1969",
+                "order": "27",
+                "reference": "s. 430",
+                "to_date": "",
+                "description": "Dictionary of Art",
+                "place": "New York",
+                "authors": [
+                    "McGraw-Hill"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-06-11",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "4",
+                "reference": "bd. 2, s. 335",
+                "to_date": "",
+                "description": "katalog Panama-Pacific International Exposition",
+                "place": "San Francisco",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-02",
+                "order": "11",
+                "to_date": "",
+                "description": "American Magazin of Art",
+                "place": "Washington",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "25",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 12, spalte 475"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "15",
+                "reference": "s. 103 (ill.)",
+                "to_date": "",
+                "description": "Jonas Lie, Painter of Light, International Studio",
+                "place": "New York",
+                "authors": [
+                    "Price F. N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-05-20",
+                "order": "17",
+                "reference": "s. 7",
+                "to_date": "",
+                "description": "Skandinaven",
+                "place": "Minneapolis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "6",
+                "reference": "nr. 4, s. 128",
+                "to_date": "",
+                "description": "Tidskrift för Konstvetenskap",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "23",
+                "reference": "s. 57–58",
+                "to_date": "",
+                "description": "Nordmandsforbundet",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-04-05",
+                "order": "3",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "1",
+                "to_date": "",
+                "description": "Bulletin Metropolitan Museum",
+                "place": "New York",
+                "authors": [],
+                "comments": [
+                    "nr. 9"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "9",
+                "reference": "nr. 17, s. 9, nr. 30, s. 4",
+                "to_date": "1926",
+                "description": "American Art News",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-05-29",
+                "order": "19",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "29",
+                "reference": "bd. 7, s. 560",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "8",
+                "reference": "nr. 2, s. 10",
+                "to_date": "1925",
+                "description": "American Art News",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "18",
+                "reference": "bd. 23, s. 195",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "21",
+                "reference": "s. 169–70",
+                "to_date": "",
+                "description": "Modern American Painting",
+                "place": "New York",
+                "authors": [
+                    "Boswell P. jr"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-01-05",
+                "order": "12",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-01-13",
+                "order": "22",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "28",
+                "reference": "bd. 6, s. 654",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "26",
+                "reference": "s. 149",
+                "to_date": "",
+                "description": "For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "24",
+                "reference": "s. 506",
+                "to_date": "",
+                "description": "The History of American Painting",
+                "place": "New York",
+                "authors": [
+                    "Isham S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "5",
+                "reference": "s. 276",
+                "to_date": "",
+                "description": "Nordmandsforbundet",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "10",
+                "reference": "s. 12–18 (ill.)",
+                "to_date": "",
+                "description": "Buffalo Academy Notes",
+                "place": "N.Y",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "16",
+                "reference": "s. 36",
+                "to_date": "",
+                "description": "Nordmandsforbundets julenummer",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-06-08",
+                "order": "14",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "7",
+                "reference": "nr. 18, s. 1 (ill.), nr. 85, s. 2 (ill.)",
+                "to_date": "1923",
+                "description": "American Art News",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "0",
+                "reference": "nr. 15, s. 103, nr. 16, s. 179",
+                "to_date": "",
+                "description": "Kunst und Kunsthandwerk",
+                "place": "Wien",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "2",
+                "reference": "nr. 11, s. 311",
+                "to_date": "",
+                "description": "American Art Annual",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "20",
+                "reference": "s. 294–96 (ill.)",
+                "to_date": "",
+                "description": "Lysets maler, Nordmandsforbundet",
+                "place": "Oslo",
+                "authors": [
+                    "Saxe L."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jonas Lie",
+    "url": "https://nkl.snl.no/Jonas_Lie",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>L. vokste opp i Kristiania og fikk i sin barndom visstnok undervisning av Christian Skredsvig. Etter farens død i 1892 bodde han et år i Paris hos sin onkel, dikteren Jonas Lie, som oppmuntret ham til å fortsette med tegning og maling. L. flyttet i 1893 til sin mor i New York. I årene 1897–1906 arbeidet han som designer i tekstilindustrien, men fortsatte samtidig sin utdannelse ved kunstskoler i New York. Han hadde sin første separatutstilling i 1899. I 1906 reiste L. igjen til Europa og mottok sterke inntrykk av Claude Monets kunst. L.s senere malerier fikk en ny friskhet. Han eksellerte i flimrende lysvirkninger og luftige naturtolkninger. I USA ble han kjent som \"lysets maler\". L. var en flittig utstiller og vant hurtig anerkjennelse og popularitet over hele USA. Det endelige gjennombrudd kom i 1913 med en serie på 15 store bilder med motiver fra byggingen av Panama-kanalen, bl.a. <em>The Conquerors</em> (1913, Metropolitan Museum, New York). Serien, hvorav 13 bilder befinner seg på US Military Academy, West Point, forherliger menneskets seier over naturen. L. gav også i mange senere arbeider bejaende tolkninger av den moderne industrialiserte sivilisasjon. Han iscenesatte ofte sine komposisjoner med dramatisk perspektiv- og fargebruk og fremholdt selv fargen som det viktigste uttrykksbærende element. Foruten storbyscener med gateprospekter, havner og broer, malte han en rekke landskaper med stormscener, idyller, snødekte fjell og skogsinteriører samt stilleben og figurbilder. I tillegg til sitt virke som maler, spilte L. en viktig rolle som kunstpolitiker. Han gjorde bl.a. mye for å støtte yngre kolleger. Som assosiert medlem av National Academy fra 1912, stilte han ut på akademiets utstillinger, men deltok også med 5 malerier på Armory Show, avantgardistenes utstilling i New York 1913. L. var en nær venn av gruppen The Eight. Han var blant initiativtagerne til opprettelsen av New Society of Artists i 1919, en protestaksjon mot at National Academy nektet å innvotere en rekke mer radikale kunstnere. L. fungerte en tid som sekretær for den nye foreningen. Samtidig fortsatte han som assosiert medlem av National Academy, ble fullt medlem i 1925 og var i 5 år akademiets president.</p></div>",
+    "created_at": "2013-07-04T05:03:25.200+02:00",
+    "changed_at": "2024-06-18T23:26:24.555+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2380\",\"https://digitaltmuseum.no/8d04db9e-00c8-4a90-a716-9edba152c41f\",\"http://kulturnav.org/8d04db9e-00c8-4a90-a716-9edba152c41f\"]",
+        "lastname": "Lie",
+        "firstname": "Jonas",
+        "birth_date": "29.4.1880",
+        "birthplace": "Moss",
+        "death_date": "0.0.1940",
+        "external_id": "person_8736ab2380",
+        "kulturnav_id": "8d04db9e-00c8-4a90-a716-9edba152c41f",
+        "place_of_death": "New York"
+    },
+    "authors": [
+        {
+            "full_name": "Steinar Gjessing"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

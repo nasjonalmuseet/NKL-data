@@ -1,0 +1,662 @@
+{
+    "id": 417299,
+    "headword": "Sophus Jacobsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103880",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johannes",
+                "lastname": "Jacobsen",
+                "professions": [
+                    "tollbetjent"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab103882",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Heinrich",
+                "lastname": "Datter av Professor Ved Kunstakademiet Mücke",
+                "professions": [],
+                "place": "Düsseldorf"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103881",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Catherine Marie",
+                "lastname": "Hvidt",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev av Hans Gude, Düsseldorf 1854-56",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens stipend 1855"
+            },
+            {
+                "order": "1",
+                "description": "Bosatt i Düsseldorf fra 1854 til sin død"
+            },
+            {
+                "order": "2",
+                "description": "kortere opphold og studiereiser til Norge og Italia"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Medalje, Verdensutst. i Wien 1873"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Kunstmuseum Düsseldorf"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Niedersächsische Landesgalerie, Hannover"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Göteborg Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Krefeld, Münster"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1891",
+                "order": "9",
+                "to_date": "",
+                "title": "Internasjonal kunstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1881",
+                "order": "8",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1896",
+                "order": "10",
+                "to_date": "",
+                "title": "Internasjonal kunstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1857",
+                "order": "1",
+                "to_date": "",
+                "title": "Den nordiske Kunstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "kunstak. Berlin",
+                "from_date": "1894",
+                "order": "11",
+                "to_date": "1895",
+                "title": "Kunst-Ausstellung von graphischen Werken"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1854",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "kunstak. Berlin",
+                "from_date": "1904",
+                "order": "13",
+                "to_date": "",
+                "title": "Kunst-Ausstellung von graphischen Werken"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1878",
+                "order": "5",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1873",
+                "order": "6",
+                "to_date": "",
+                "title": "Verdensutst. i Wien"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1876",
+                "order": "7",
+                "to_date": "",
+                "title": "Verdensutst. i Philadelphia"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "kunstak. Berlin",
+                "from_date": "1898",
+                "order": "12",
+                "to_date": "",
+                "title": "Kunst-Ausstellung von graphischen Werken"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1867",
+                "order": "4",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "kunstak. Berlin",
+                "from_date": "1866",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "kunstak. Berlin",
+                "from_date": "1868",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "kunstak. Berlin",
+                "from_date": "1907",
+                "order": "14",
+                "to_date": "",
+                "title": "Kunst-Ausstellung von graphischen Werken"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1879",
+                "order": "1",
+                "reference": "bd. 2, s. 47, 90, 117",
+                "to_date": "",
+                "description": "Adolph Tidemand",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "9",
+                "reference": "bd. 2, s. 237, bd. 3, s. 239",
+                "to_date": "",
+                "description": "Svundne Tider",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889",
+                "order": "3",
+                "reference": "s. 65",
+                "to_date": "",
+                "description": "Aus der Düsseldorfer Malerschule",
+                "place": "Leipzig",
+                "authors": [
+                    "Rosenberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "24",
+                "reference": "bd. 6, s. 3",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "26",
+                "reference": "s. 85",
+                "to_date": "",
+                "description": "Norsk malerkunst. Hovedlinjer gjennom 200 år",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "5",
+                "reference": "bd. 1, s. 2",
+                "to_date": "",
+                "description": "Malerwerke des 19. Jahrhunderts",
+                "place": "Dresden",
+                "authors": [
+                    "Boetticher, F. van"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "18",
+                "reference": "bd. 1, s. 165",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H.",
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "15",
+                "reference": "s. 52",
+                "to_date": "",
+                "description": "Schwedische und Norwegische Kunst seit der Renaissance",
+                "place": "Breslau",
+                "authors": [
+                    "Dresdner, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "22",
+                "reference": "s. 211",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "13",
+                "reference": "s. 6, den retrospektive avd. katalognr. 189–90 (ill.)",
+                "to_date": "",
+                "description": "Norges kunst",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [
+                    "katalog Jub.utst."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "20",
+                "reference": "s. 148",
+                "to_date": "",
+                "description": "For den bildende kunst, Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896",
+                "order": "7",
+                "reference": "bd. 2, del 1, s. 244",
+                "to_date": "",
+                "description": "Allgemeines Künstler-Lexikon",
+                "place": "Frankfurt a.M.",
+                "authors": [
+                    "Singer, H. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "11",
+                "reference": "bd. 1, s. 115 (ill.), 223",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "6",
+                "reference": "nr. 22 s. 353, nr. 496",
+                "to_date": "",
+                "description": "Kunstchronik. Neue Folge",
+                "place": "Leipzig",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902",
+                "order": "10",
+                "to_date": "",
+                "description": "Zur Geschichte der Düsseldorfer Kunst",
+                "place": "Düsseldorf",
+                "authors": [
+                    "Schaarsschmidt, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890",
+                "order": "4",
+                "reference": "s. 43–45, 59, 74, 152, 193",
+                "to_date": "",
+                "description": "Werner Holmberg",
+                "place": "Helsingfors",
+                "authors": [
+                    "Aspelin, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "25",
+                "reference": "bd. 6, s. 423",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1874",
+                "order": "0",
+                "to_date": "",
+                "description": "Kunstchronik",
+                "place": "Leipzig",
+                "authors": [],
+                "comments": [
+                    "nr. 39 spalte 146, 621, nr. 40 spalte 555, 654, 716, nr. 41 spalte 500, nr. 42 spalte 367, nr. 51 spalte 604, nr. 52 spalte 614, nr. 53 spalte 477"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "23",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 10, spalte 192"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "27",
+                "reference": "bd. 4, s. 278-79",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "2",
+                "reference": "s. 237",
+                "to_date": "",
+                "description": "Europas konstnärer",
+                "place": "Stockholm",
+                "authors": [
+                    "Ahnfelt, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "17",
+                "reference": "register +p s. 210",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836-1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "19",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "16",
+                "reference": "bd. 18, s. 254–55",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "21",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "12",
+                "reference": "s. 33",
+                "to_date": "",
+                "description": "Die Norwegische Malerei im 19. Jahrhundert",
+                "place": "Leipzig",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "8",
+                "reference": "s. 89 (ill.)",
+                "to_date": "",
+                "description": "Af Hans Gudes Liv og Værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "14",
+                "reference": "bd. 12, s. 750–51",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Sophus Jacobsen",
+    "url": "https://nkl.snl.no/Sophus_Jacobsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>J. skulle opprinnelig bli sjømann, men valgte i stedet kunststudier i Düsseldorf, hvor han også bosatte seg. Senere kom han bare tilbake til Norge på kortere studiereiser. J. var landskapsmaler og fant flere av sine motiver i det sørlige Norge. Han malte flere bilder sammen med Adolph Tidemand, som malte staffasjen bl.a. i <em>Vinterlandskap</em> (1873), J. malte ellers fra Italia og Tyskland, for det meste fra traktene rundt Eifel, Rheingau og Westerwald (<em>Tysk skoginteriør</em>, 1875, Nasjonalgalleriet, Oslo). Hans naturfølelse og koloristiske begavelse gav seg uttrykk i stemningsmettede skildringer av måneskinn og solnedganger, ofte søtlig effektfulle. J.s elev Ludvig Munthe lot seg inspirere av hans vinterbilder. J. vant stor anerkjennelse særlig i Tyskland og Amerika. De fleste av hans arbeider er i privateie. 27 arbeider av J. ble loddet ut i Christiania Kunstforening i årene 1854-82.</p></div>",
+    "created_at": "2013-07-03T20:39:45.285+02:00",
+    "changed_at": "2024-06-18T23:26:04.427+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1876\",\"https://digitaltmuseum.no/e2a2f639-2787-48fb-abfe-9170884fafd2\",\"http://kulturnav.org/e2a2f639-2787-48fb-abfe-9170884fafd2\"]",
+        "lastname": "Jacobsen",
+        "firstname": "Sophus",
+        "birth_date": "7.9.1833",
+        "birthplace": "Fredrikshald (Halden)",
+        "death_date": "13.5.1912",
+        "external_id": "person_8736ab1876",
+        "kulturnav_id": "e2a2f639-2787-48fb-abfe-9170884fafd2",
+        "place_of_death": "Düsseldorf"
+    },
+    "authors": [
+        {
+            "full_name": "Helen Holager"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15901/standard_NMK-B_NG.M.0026320130725-13675-xtzwx6.jpg",
+            "full_size_url": "https://media.snl.no/media/15901/NMK-B_NG.M.0026320130725-13675-xtzwx6.jpg",
+            "xhtml": "<div>\r\n<p><em>Tysk skoginteriør</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Sophus Jacobsen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16058/standard_NMK-B_NG.M.0350020130725-13675-18yjklw.jpg",
+            "full_size_url": "https://media.snl.no/media/16058/NMK-B_NG.M.0350020130725-13675-18yjklw.jpg",
+            "xhtml": "<div>\r\n<p><em>Bondegård i Eifel</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Sophus Jacobsen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16121/standard_NMK-B_NG.M.0443220130725-13675-1prqwmb.jpg",
+            "full_size_url": "https://media.snl.no/media/16121/NMK-B_NG.M.0443220130725-13675-1prqwmb.jpg",
+            "xhtml": "<div>\r\n<p><em>Bondegård i kveldslys</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Sophus Jacobsen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

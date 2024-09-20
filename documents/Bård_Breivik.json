@@ -1,0 +1,560 @@
+{
+    "id": 416690,
+    "headword": "Bård Breivik",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101063",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sidsel",
+                "lastname": "Bistrup",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab515",
+                "birth_date": "22.01.1923",
+                "death_date": "15.06.1999",
+                "firstname": "Thomas",
+                "lastname": "Breivik",
+                "professions": [
+                    "maler",
+                    "grafiker",
+                    "tegner"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bergen"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Vestlandets kunstak. under Hugo Watne 1969–70",
+                "order": "1"
+            },
+            {
+                "comment": "dessuten sveisekurs og kurs i metallstøping",
+                "order": "3"
+            },
+            {
+                "comment": "St. Martin's School of Art i London under Antony Caro 1970–71",
+                "order": "2"
+            },
+            {
+                "comment": "Keramikklinjen, Bergens Kunsthåndverkskole 1967–69",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Bergen bys stipend 1972"
+            },
+            {
+                "order": "2",
+                "description": "Statens 3-årige arb.stipend 1978–80"
+            },
+            {
+                "order": "4",
+                "description": "lengre reise i Sentral-Amerika 1976–77"
+            },
+            {
+                "order": "1",
+                "description": "Singerstipend 1976"
+            },
+            {
+                "order": "3",
+                "description": "Studiereiser i europeiske land om sommeren"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "4",
+                "description": "Bildende Kunstneres Forening, Bergen, jurymedlem fra 1975"
+            },
+            {
+                "order": "1",
+                "description": "lærer ved Bergens Kunsthåndverkskole fra 1978"
+            },
+            {
+                "order": "3",
+                "description": "Norsk Billedhuggerforening"
+            },
+            {
+                "order": "5",
+                "description": "jurymedlem i Bildende Kunstneres Styre 1979–80"
+            },
+            {
+                "order": "0",
+                "description": "Deltidsundervisning ved Vestlandets kunstak. 1973–75, full undervisning 1976–78"
+            },
+            {
+                "order": "2",
+                "description": "Medl. av Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "6",
+                "description": "jurymedlem i Vestlandets kunstak. fra 1978"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Malmö Museum"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Verktøy og båter, 1978 Laksevåg yrkesskole, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Stockholm Kulturvård"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nationaltheatrets T-banestasjon, Oslo 1979–80"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Moderna Museum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Eksperimentveggen, Universitetet i Bergen (1976)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstgalleri",
+                "from_date": "1972",
+                "order": "11",
+                "to_date": "",
+                "title": "Lyn II"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Beograd",
+                "from_date": "1977",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Head Museum for the -80, Helsinki",
+                "from_date": "1973",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vrå, Danmark",
+                "from_date": "1977",
+                "order": "19",
+                "to_date": "",
+                "title": "Nordiske Biennale"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall I, Bergen",
+                "from_date": "1972",
+                "order": "10",
+                "to_date": "",
+                "title": "Lyn I"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1972",
+                "order": "9",
+                "to_date": "",
+                "title": "Bellevue, Bellevue"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Ahler, Stockholm",
+                "from_date": "1979",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1979",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "5",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1973",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Høvikodden",
+                "from_date": "1980",
+                "order": "22",
+                "to_date": "",
+                "title": "Lyn 1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kulturhuset, Stockholm",
+                "from_date": "1979",
+                "order": "21",
+                "to_date": "",
+                "title": "Norskt 70-tal tendenser"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. I, Bergen",
+                "from_date": "1976",
+                "order": "16",
+                "to_date": "",
+                "title": "Lyn V"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. I, Bergen",
+                "from_date": "1974",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Wallnes, Malmø",
+                "from_date": "1979",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1975",
+                "order": "15",
+                "to_date": "",
+                "title": "Lyn IV"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1975",
+                "order": "13",
+                "to_date": "",
+                "title": "Lyn III"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": "",
+                "title": "Ungdomsbiennalen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1976",
+                "order": "17",
+                "to_date": "",
+                "title": "Øga mot Øga"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oxford Modern Art",
+                "from_date": "1971",
+                "order": "8",
+                "to_date": "",
+                "title": "Platform 71"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Wallner, Malmö",
+                "from_date": "1977",
+                "order": "18",
+                "to_date": "",
+                "title": "6 nordiske kunstnere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "6",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liljevalch, Stockholm",
+                "from_date": "1970",
+                "order": "7",
+                "to_date": "",
+                "title": "14 norska skulptörer"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975",
+                "order": "9",
+                "reference": "s. 122",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "10",
+                "reference": "nr. 2, s. 38–39",
+                "to_date": "",
+                "description": "Paletten",
+                "title": "Tretti- og syttitallsmotsetninger",
+                "place": "Göteborg",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "11",
+                "reference": "nr. 4",
+                "to_date": "",
+                "description": "Kalejdoskop",
+                "place": "Lund",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-04-26",
+                "order": "5",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Krogh, L. Landmark von"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-04-18",
+                "order": "1",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "0",
+                "reference": "s. 193",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-04-24",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-04-24",
+                "order": "4",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-04-20",
+                "order": "2",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-22",
+                "order": "15",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Norvin, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "14",
+                "reference": "nr. 3",
+                "to_date": "",
+                "description": "i Kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Dæhlin, E.O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-05-03",
+                "order": "13",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-04-30",
+                "order": "6",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Krogh, L. Landmark von",
+                    "Breivik, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "12",
+                "reference": "s. 61",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-04-30",
+                "order": "7",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-05-02",
+                "order": "8",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Kristiansen, K."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Bård Breivik",
+    "url": "https://nkl.snl.no/B%C3%A5rd_Breivik",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>I 1970-årene var B. mer i kontakt med avantgardekunsten i England og USA enn de fleste andre norske kunstnere. Allerede på utstillingen i Oslo Kunstforening i 1972 erklærte han seg i pakt med \"conceptual art\". Sammen med Gerhard Stoltz brukte han rør og stenger, gummiplater, hauger av strøsand, formasjoner av hønsenetting, spiker, bly og lakener for å definere det de anså som primære skulpturbegrep i form av \"handlinger\". De ville materialisere en rekke tanker og idéer om størrelsesforhold, bevegelse eller aktivisering av rommet, og analysere og finne ytterpunktene for det de holdt på med. Et mer figurativt formspråk viste B. året etter med modellerte hoder, støpt i bly og montert på forskjellig måte. En gruppe indianerfysiognomier er f.eks. reist på tynne stenger. Det vakte en viss oppsikt da han i Bergen stilte ut en rekke mugne brød. Ifølge B. var mugning et uttrykk for en frigjøringsprosess.</p>\n<p>De senere arbeider kan karakteriseres som objektkunst og ble bygd opp av materialer som skinn, lerret, stål, never, bambus eller sammenstillinger av forskjellige slag. Disse objekter kan minne om bruksgjenstander, som båter eller telt og antyde fjerne kulturtradisjoner. B. arbeider ofte i serier, som i rekken av mahogniskrin med små ting, som jern, kvister eller dyretenner sirlig ordnet i system. Fra 1977 har B. stilt ut årer, alle i lik størrelse, men i en rekke forskjellige materialer som bambus, glass, elfenben, marmor, aluminium, stål, netting og jern. Utførelsen er ofte skjedd i samarbeid med industribedrifter. Om B.s arbeider kan gi forestillinger om noe fjernt eller fremmedartet, knyttes også forbindelsen til det nærliggende i samspillet mellom materialer, teknologi og håndverk. I den store utsmykningen til Laksevåg yrkesskole har B. laget en parafrase over \"oselveren\", en båttype som er typisk for distriktet. B.s båtform er delt opp i fire atskilte deler, hver i sitt materiale tre, skifer, jern og aluminium. I sin undervisning ved Vestlandets kunstakademi i Bergen har B. lagt vesentlig vekt på kjennskap til forskjellige materialer, redskap og teknikker. Sammen med sju andre startet han i 1971 kunstnergruppen Lyn, et arbeidskollektiv med verksted i Finnegården på Bryggen i Bergen. Gruppen hadde sin avsluttende mønstring på Høvikodden i mai 1980.</p>\n</div>",
+    "created_at": "2013-07-03T17:00:29.398+02:00",
+    "changed_at": "2024-06-18T23:25:47.987+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab514\",\"https://digitaltmuseum.no/7b0f8af2-6730-43e0-873c-42cdc3658536\",\"http://kulturnav.org/7b0f8af2-6730-43e0-873c-42cdc3658536\"]",
+        "lastname": "Breivik",
+        "firstname": "Bård",
+        "birth_date": "23.11.1948",
+        "birthplace": "Bergen",
+        "death_date": "10.1.2016",
+        "external_id": "person_8736ab514",
+        "kulturnav_id": "7b0f8af2-6730-43e0-873c-42cdc3658536",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Erik Dæhlin"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

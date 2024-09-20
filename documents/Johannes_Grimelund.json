@@ -1,0 +1,970 @@
+{
+    "id": 416083,
+    "headword": "Johannes Grimelund",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab102597",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "De Saint Amour",
+                "lastname": "Juliette",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108306",
+                "birth_date": "1819",
+                "death_date": "1909",
+                "firstname": "Augusta Kjelsen",
+                "lastname": "Julie",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108305",
+                "birth_date": "1812",
+                "death_date": "1896",
+                "firstname": "Grimelund",
+                "lastname": "Andreas",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Privatelev av Hans Gude i Karlsruhe høsten 1871 - våren 1874",
+                "order": "1"
+            },
+            {
+                "comment": "Cand. theol. 1866, praktikum 1869",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1875 og 1876"
+            },
+            {
+                "order": "1",
+                "description": "Reise til Italia og Tyskland 1869–70"
+            },
+            {
+                "order": "3",
+                "description": "Fra 1875 bosatt i Paris, men med stadige reiser i Frankrike, Tyskland, England, Nederland, Belgia og Norden"
+            },
+            {
+                "order": "2",
+                "description": "Opphold i Tyskland (Karlsruhe, Düsseldorf) 1871–75"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "lærer ved Trondheim realskole 1867–71"
+            },
+            {
+                "order": "2",
+                "description": "Direksjonsmedlem Trondheim Kunstforening 1870-71, komisjonær for denne i Karlsruhe 1871–74"
+            },
+            {
+                "order": "3",
+                "description": "medlem av Société Internationale de Peinture et Sculpture, Paris"
+            },
+            {
+                "order": "0",
+                "description": "Konstituert adjunkt ved Trondheim Katedralskole 1865"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Mention honorable Salonen Paris 1884"
+            },
+            {
+                "order": "4",
+                "description": "Æreslegionen 1892"
+            },
+            {
+                "order": "5",
+                "description": "R1, St. Olavs Orden 1907"
+            },
+            {
+                "order": "3",
+                "description": "bronsemedalje Verdensutst. Paris 1889"
+            },
+            {
+                "order": "2",
+                "description": "medalje 3. kl. Salonen, Paris 1888"
+            },
+            {
+                "order": "0",
+                "description": "Sølvmedalje Philadelphia 1876"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "det tidligere Luxembourg-museum, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "galleriene i Bernay, Louviers, Le Puy i Frankrike"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Stiftsgården Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Mandal Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Drammens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "galleri i Tunis"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1893",
+                "order": "20",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1878",
+                "order": "14",
+                "to_date": "",
+                "title": "Verdensutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "17",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Chicago",
+                "from_date": "1893",
+                "order": "22",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1887",
+                "order": "12",
+                "to_date": "1889",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1878",
+                "order": "10",
+                "to_date": "1879",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Georges Petit, Paris",
+                "from_date": "1892",
+                "order": "24",
+                "to_date": "1894"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1874",
+                "order": "5",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1886",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1918",
+                "order": "1",
+                "to_date": "",
+                "title": "Minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1877",
+                "order": "7",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1889",
+                "order": "15",
+                "to_date": "",
+                "title": "Verdensutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1888",
+                "order": "19",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1888",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1891",
+                "order": "13",
+                "to_date": "1900",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1883",
+                "order": "16",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1881",
+                "order": "11",
+                "to_date": "1885",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1883",
+                "order": "18",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1891",
+                "order": "21",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "25",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Budapest",
+                "from_date": "1901",
+                "order": "23",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1876",
+                "order": "9",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1887",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1875",
+                "order": "6",
+                "to_date": "",
+                "title": "Internasjonal utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Philadelphia",
+                "from_date": "1876",
+                "order": "8",
+                "to_date": "",
+                "title": "Verdensutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1886",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1929",
+                "order": "26",
+                "reference": "bd. 4",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "8",
+                "reference": "s. 40, 51",
+                "to_date": "",
+                "description": "Det nye Norges malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "36",
+                "reference": "s. 148",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "O. Rønning Johannesen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "28",
+                "reference": "s. 92, 179",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "R. Kloster"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "34",
+                "reference": "s. 187",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "M. Schulerud"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-11-03",
+                "order": "16",
+                "reference": "nekrolog",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [
+                    ""
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "32",
+                "reference": "bd. 1, s. 346–47",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "L. Østby",
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-04",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Jappe Nilssen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "23",
+                "reference": "bd. 10",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-06",
+                "order": "21",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [
+                    "Pola Gauguin"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-03-14",
+                "order": "30",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-11-06",
+                "order": "17",
+                "reference": "nekrolog",
+                "to_date": "",
+                "description": "Drammens Blad",
+                "authors": [
+                    ""
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "13",
+                "reference": "s. 14",
+                "to_date": "",
+                "description": "Studentene fra 1860",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "11",
+                "reference": "s. 35, 42, 44",
+                "to_date": "",
+                "description": "Die norwegische Malerei im XIX Jahrhundert 1814 bis 1900",
+                "place": "Leipzig",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "6",
+                "reference": "s. 225–27",
+                "to_date": "",
+                "description": "Folkebladet",
+                "title": "Maleren Grimelund",
+                "authors": [
+                    "A. Jynge"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1876",
+                "order": "0",
+                "reference": "s. 67",
+                "to_date": "",
+                "description": "Norwegian Special Catalogue... Philadelphia",
+                "place": "Christiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "9",
+                "reference": "bd. 1–3, register",
+                "to_date": "1907",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883",
+                "order": "2",
+                "reference": "s. 68 (ill.)",
+                "to_date": "",
+                "description": "Den Nordiske Udstilling Charlottenborgutstillingen",
+                "place": "København",
+                "authors": [],
+                "comments": [
+                    "katalog"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "37",
+                "reference": "register",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "place": "Drammen",
+                "authors": [
+                    "H. Alsvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "25",
+                "reference": "bd. 2, register",
+                "to_date": "",
+                "description": "Norsk Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "40",
+                "reference": "bd. 5",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "4",
+                "reference": "s. 23 (ill.)",
+                "to_date": "",
+                "description": "Nordisk Udstilling",
+                "place": "København",
+                "authors": [],
+                "comments": [
+                    "katalog"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "27",
+                "reference": "register",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "S. Willoch"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "33",
+                "reference": "s. 71–73, 79",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "O. Flønes",
+                    "J. J. Grimelund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "35",
+                "reference": "s. 88 (ill.)",
+                "to_date": "",
+                "description": "Maleri og skulptur, katalog Bergen Billedgalleri",
+                "place": "Bergen",
+                "authors": [
+                    "O. Rønning Johannesen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-11-02",
+                "order": "15",
+                "reference": "nekrolog",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Jappe Nilssen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-31",
+                "order": "14",
+                "reference": "nekrolog",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-06",
+                "order": "20",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "K. Haug"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "22",
+                "reference": "s. 88",
+                "to_date": "",
+                "description": "Tidskrift för konstvetenskap",
+                "title": "Bibliografi",
+                "place": "Lund",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "31",
+                "reference": "s. 353",
+                "to_date": "",
+                "description": "Den kongelige norske Sankt Olavs Orden 1847–1947",
+                "place": "Oslo",
+                "authors": [
+                    "O. Delphin Amundsen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-03",
+                "order": "18",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-03-14",
+                "order": "29",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "12",
+                "reference": "s. 209",
+                "to_date": "",
+                "description": "En Christianensers Erindringer fra 1850- og 60-årene",
+                "authors": [
+                    "Y. Nielsen",
+                    "Kristiania-København"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1882",
+                "order": "1",
+                "reference": "s. 56 (ill)",
+                "to_date": "",
+                "description": "Cat. illustré du Salon",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "7",
+                "reference": "s. 82, 98",
+                "to_date": "",
+                "description": "Af Hans Gudes Liv og Værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "L. Dietrichson"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "5",
+                "reference": "bd. 1, s. 411",
+                "to_date": "",
+                "description": "Malerwerke des neunzehnten Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "F. von Boetticher"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "24",
+                "reference": "bd. 14",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "10",
+                "reference": "s. 231",
+                "to_date": "",
+                "description": "Bondeslægter i Stange",
+                "place": "Hamar",
+                "authors": [
+                    "Chr. N. Ringnæs"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "38",
+                "reference": "s. 85, 201",
+                "to_date": "",
+                "description": "Kunst og Kultur, register 1910–1967",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "39",
+                "reference": "bd. 5",
+                "to_date": "",
+                "description": "Bénézit",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "3",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Europas konstnärer",
+                "place": "Stockholm",
+                "authors": [
+                    "A. Ahnfelt"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "44",
+                "reference": "(nr. 143)",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "L. Dietrichson"
+                ],
+                "archives": [
+                    "Håndskriftsamlingen Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "reference": "(brevsaml. nr. 32)",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Bl.a. brev til Aubert, A."
+                ],
+                "archives": [
+                    "Håndskriftsamlingen Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "reference": "(nr.239)",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "H. A. Blom"
+                ],
+                "archives": [
+                    "Håndskriftsamlingen Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Johannes Grimelund",
+    "url": "https://nkl.snl.no/Johannes_Grimelund",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>G. hadde under studietiden vært innom J.Fr. Eckersbergs malerskole, men det var først under en rekreasjonsreise til Italia 1869–70 at han for alvor tenkte å bli kunstner. Han tilbrakte på nedturen et par måneder hos Gude i Karlsruhe, kopierte to av hans akvareller, og ble oppmuntret av Gude. Sommeren 1871 malte han studier i Fåberg i Gudbrandsdalen (<em>Skuronn</em> i Bergen Billedgalleri), oppgav så sin lærerstilling og drog om høsten på Gudes oppfordring til Karlsruhe. Vinteren 1871–72 tegnet han akt på Kunstakademiet der. Han ville utdanne seg til både figur- og landskapsmaler, men bestemte seg snart for det siste. Om somrene var han på studiereiser i Schwarzwald (1872), sammen med Gude på Snarøya utenfor Sandvika (1873), og 1875 og -76 i Bohuslän. I 1872 debuterte han i Christiania Kunstforening med to landskaper. Motivene var til å begynne med gjerne norske sommerstemninger med bjørkeskog, foruten tyske motiver, populære temaer som han solgte til kunstforeninger både i Christiania, Bergen, Trondheim, Stockholm og Karlsruhe. Med <em>Morgen i Birkeskoven</em> (1875) vant han så sin første offisielle anerkjennelse, en sølvmedalje på utstillingen i Philadelphia 1876. Disse ungdomsbildene er sterkt preget av Gudes skole. Etter overflytningen til Paris 1875 ble hans landskaper også der snart populære. Han slapp inn på Salonen alt i 1876 med <em>Solnedgang ved Christianiafjorden</em>, deltok på Verdensutstillingen i Paris 1878 med <em>Høstaften i landsbyen Auvers</em>, og på Salonen 1879 og -80 med <em>Høstaften i Fontainebleau</em> og <em>Bondehus i Normandie</em>. En spesialitet fant han snart i sine detaljrike skildringer av moderne storbyhavner som Antwerpen, Marseille, Le Havre, Dunkerque, London, Liverpool. Med slike er han representert i museene både i Oslo (<em>Fra Mexico-dokk i Antwerpen</em>, 1884), Trondheim (<em>Fra Antwerpens havn</em>, 1888) og Bergen (<em>Høstmorgen i Antwerpens havn</em>, 1897). De er dyktig, men konvensjonelt malt i tidens vanlige lyse fargeskala. Han malte også stillferdige skog- og elvepartier som <em>Innsjø i Le Sommes dalføre</em> og <em>Skogstille, Fontainebleauskogen</em>, som han deltok med på den nordiske utstilling i København 1883. Eller han skildret de små nordfranske fiskerlandsbyer og Flanderns vide sletter. Endelig malte han om somrene gjerne i Norge, særlig i byer og steder langs kysten fra Horten og helt opp til Svolvær (<em>Sommerdag ved Oslofjorden</em>, 1881, Bergen Billedgalleri). Den franske stat kjøpte 1892 det svære <em>Morgenstemning fra innseilingen til Molde</em>. Rikest representert i norske samlinger var han hos H. Alfstad i Drammen med 14 malerier og 2 fargeraderinger. Samlingen gikk etter A.s død 1935 over i byens eie.</p></div>",
+    "created_at": "2013-07-03T13:59:16.287+02:00",
+    "changed_at": "2024-06-18T23:25:31.603+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1269\",\"https://digitaltmuseum.no/1d97975f-95e5-49c6-8560-9323bf4e53a0\",\"http://kulturnav.org/1d97975f-95e5-49c6-8560-9323bf4e53a0\"]",
+        "lastname": "Grimelund",
+        "firstname": "Johannes",
+        "birth_date": "15.3.1842",
+        "birthplace": "V. Aker (nå Oslo)",
+        "death_date": "25.10.1917",
+        "external_id": "person_8736ab1269",
+        "kulturnav_id": "1d97975f-95e5-49c6-8560-9323bf4e53a0",
+        "place_of_death": "Garches ved Paris",
+        "alternative_names": "Grimelund, Johannes Martin"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

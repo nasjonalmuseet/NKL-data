@@ -1,0 +1,366 @@
+{
+    "id": 417544,
+    "headword": "Augusta Finne",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102111",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Vibeke",
+                "lastname": "Birkeland",
+                "professions": []
+            },
+            {
+                "from_date": "1896",
+                "to_date": "1902",
+                "type": "Gift med",
+                "external_id": "person_8736ab102113",
+                "birth_date": "1864",
+                "death_date": "1912",
+                "firstname": "Carsten W.",
+                "lastname": "Døvle",
+                "professions": [
+                    "sekretær",
+                    "sakfører"
+                ],
+                "place": "Lillesand"
+            },
+            {
+                "type": "Søster av",
+                "external_id": "person_8736ab102112",
+                "birth_date": "1866",
+                "death_date": "1899",
+                "firstname": "Edvard Gabriel",
+                "lastname": "Finne",
+                "professions": [
+                    "forfatter"
+                ]
+            },
+            {
+                "from_date": "1905",
+                "to_date": "1952",
+                "type": "Gift med",
+                "external_id": "person_8736ab102114",
+                "birth_date": "1873",
+                "death_date": "",
+                "firstname": "Hans",
+                "lastname": "Berg",
+                "professions": [
+                    "sekretær",
+                    "assistent"
+                ],
+                "place": "København"
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102110",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Edvard Gabriel",
+                "lastname": "Finne",
+                "professions": [
+                    "oberstløytnant"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kunstakademiet i København, modelskolen for billedhuggere, under V. Bissen 1906–08",
+                "order": "2"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under Mathias Skeibrok (aftenkurs) 1894",
+                "order": "0"
+            },
+            {
+                "comment": "opphold ca. 1895 på Stephan Sindings atelier, København",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Hielmstierne-Rosencrones legat 1902, 1903"
+            },
+            {
+                "order": "6",
+                "description": "München"
+            },
+            {
+                "order": "4",
+                "description": "Paris"
+            },
+            {
+                "order": "2",
+                "description": "reisestipend fra Kunstakademiet i København 1906, -09, -12"
+            },
+            {
+                "order": "3",
+                "description": "Diverse studieopphold i Italia"
+            },
+            {
+                "order": "5",
+                "description": "London"
+            },
+            {
+                "order": "1",
+                "description": "Det Raben-Levetzauske Fond 1905"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1896",
+                "order": "0",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1908",
+                "order": "3",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1904",
+                "order": "2",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1898",
+                "order": "1",
+                "to_date": "1902",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1920",
+                "order": "12",
+                "to_date": "",
+                "title": "Kvindelige Kunstneres retrospektive Udstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1915",
+                "order": "11",
+                "to_date": "",
+                "title": "Norsk Kunstudst. Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1901",
+                "order": "7",
+                "to_date": "",
+                "title": "Efteraarsudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Malmö",
+                "from_date": "1914",
+                "order": "10",
+                "to_date": "",
+                "title": "Baltiska Utställningen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1901",
+                "order": "6",
+                "to_date": "1920",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1905",
+                "order": "8",
+                "to_date": "",
+                "title": "Journalistforbundets Udstilling af Arbejder afviste fra Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1909",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1930",
+                "order": "4",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1927",
+                "order": "4",
+                "reference": "bd. 2, s. 328",
+                "to_date": "",
+                "description": "i Norsk Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Nygård-Nilssen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "3",
+                "reference": "bd. 1, s. 312–13",
+                "to_date": "",
+                "description": "Weilbach Kunstnerleksikon",
+                "place": "København",
+                "authors": [
+                    "Weilbach"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "5",
+                "reference": "bd. 2, s. 354",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "1",
+                "reference": "hefte 8–9",
+                "to_date": "",
+                "description": "Kunst",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "2",
+                "reference": "bd. 11, s. 586",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "0",
+                "reference": "bd. 3, s. 33",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Augusta Finne",
+    "url": "https://nkl.snl.no/Augusta_Finne",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Faren motsatte seg at F. utdannet seg til kunstner, og hun tok derfor eksamen på handelsgymnasiet i Kristiania. Deretter, mens hun hadde kontorpost, gikk hun på Den kgl. Tegneskole om aftenen. Hennes lærer, Mathias Skeibrok, anbefalte faren å la henne utdanne seg til billedhugger i utlandet, og dette førte til et opphold på Stephan Sindings atelier i København 1895. Her modellerte hun sitt første arbeide i naturlig størrelse etter levende modell: <em>En Gut med Skilpadde</em>, også kalt <em>En Gut i Solskin</em>. F. debuterte på Høstutstillingen 1896 med en byste av <em>Ivar Aasen</em> (bronse, Nasjonalgalleriet, Statens Museum for Kunst, København København), modellert få måneder før hans død i en detaljrik naturalistisk stil. Fra 1898 til 1902 stilte hun hvert år ut byster og figurer på Høstutstillingen, blant dem en byste av <em>Johanne Dybwad</em> i 1901, senere hugd i marmor (Statens Museum for Kunst, København). Selv om modellens ungdom er årsaken til at rikdommen på detaljer er forsvunnet, preges bysten også av en viss formal forenkling i sin naturalisme, samtidig som personligheten er gitt en frisk, utadrettet karakteristikk. Etterat F. hadde giftet seg i 1896, kalte hun seg Finne-Døvle, men ved separasjonen i 1902 tok hun tilbake Finne, som hun beholdt også i sitt ekteskap med den danske Hans Berg. Hun var fra 1901 bosatt i København og deltok fra da hvert år fram til 1920 med flere arbeider på Charlottenborgutstillingen, København. I hennes store produksjon dominerer portrettet, bl.a. med byster av kunsthistorikeren professor <em>Wilhelm Wanscher</em> (1905), komponisten <em>Johan Svendsen</em> (1910) og arkitekten <em>Carl Petersen</em> (1914). Hun utførte også barnegruppen <em>Liv og Lisa</em> (1906), Olaf Gulbranssons døtre, senere hugd i kalkstein. I 1905 sendte hun inn et utkast til <em>Camilla Collett-monument</em> for konkurransen i Kristiania, men for øvrig var virksomheten knyttet til Danmark. Hun modellerte dessuten noen genreskulpturer, f.eks. <em>Lille Pige der spiller Harmonika</em> (1913) og <em>Drenge der blæser Sæbebobler</em> (1915). Ti år etter at hun hadde sluttet å stille ut på Charlottenborg deltok hun på Høstutstillingen 1930 med byste av <em>Marta Steinsvik</em> i kleberstein, tidligere utstilt på Charlottenborgutstillingen, København 1918.</p></div>",
+    "created_at": "2013-07-03T22:12:00.514+02:00",
+    "changed_at": "2024-06-18T23:26:10.814+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1036\",\"https://digitaltmuseum.no/f6e80eca-9b0a-4302-843c-183d1807f52b\",\"http://kulturnav.org/f6e80eca-9b0a-4302-843c-183d1807f52b\"]",
+        "lastname": "Finne",
+        "firstname": "Augusta",
+        "birth_date": "11.3.1868",
+        "birthplace": "Bergen",
+        "death_date": "19.8.1951",
+        "external_id": "person_8736ab1036",
+        "kulturnav_id": "f6e80eca-9b0a-4302-843c-183d1807f52b",
+        "place_of_death": "Birkerød, Sjælland",
+        "alternative_names": "Berg, Augusta Antonette Finne; Døvle, Augusta Antonette Finne; Finne, Augusta Antonette"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

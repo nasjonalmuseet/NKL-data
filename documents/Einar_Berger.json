@@ -1,0 +1,684 @@
+{
+    "id": 416383,
+    "headword": "Einar Berger",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100647",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Serine",
+                "lastname": "Berger",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab100648",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kristina",
+                "lastname": "Mydske",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100646",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Even A.",
+                "lastname": "Berger",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "En kort tid elev av Ola Abrahamssons malerskole, Kristiania (ca. 1920/21)",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Nederland, Italia samt USA 1938"
+            },
+            {
+                "order": "0",
+                "description": "Reiser til Sverige, Tyskland, Paris 1937"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Deutsche Staatsgalerie i Stuttgart (Orkan)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "1937 av Jeu de Paume-museum, Paris (Opp fra havet, 1935)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel",
+                "from_date": "1937-02",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1936",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1938",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1934",
+                "order": "29",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1939",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1938",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1945",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hammerlunds Kunsthandel",
+                "from_date": "1939-11",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1937",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1938",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel",
+                "from_date": "1935",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1936",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "comment": "(Gal. de Paris)",
+                "category": "Separat",
+                "from_date": "1937",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1930",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1940",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1945",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1936",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "comment": "(Gall. Heller)",
+                "category": "Separat",
+                "from_date": "1936",
+                "order": "14",
+                "to_date": "1937"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1938",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1938",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1938",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1937",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1958",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1939",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Harstad Kunstforening",
+                "from_date": "1937",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel",
+                "from_date": "1933",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1929",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1941",
+                "order": "10",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Tegning utført av sønnen Karl Mydske Berger i 1940, gjengitt i Einar Berger, katalog Kunstnernes Hus 1941"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1942",
+                "order": "25",
+                "reference": "s. 179–208",
+                "to_date": "",
+                "description": "Hålogaland i kunst og åndsliv",
+                "title": "Nordlandskunstnere",
+                "place": "Oslo",
+                "authors": [
+                    "A.P. Pausett"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "2",
+                "reference": "s. 187",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-01-08",
+                "order": "17",
+                "to_date": "",
+                "description": "i Dagsposten",
+                "authors": [
+                    "J.H. Lyshoel"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "15",
+                "reference": "s. 337–45 (6 ill.)",
+                "to_date": "",
+                "description": "Ord och Bild",
+                "title": "Einar Berger",
+                "authors": [
+                    "B. Lodewiges"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-02-19",
+                "order": "19",
+                "reference": "(portr.foto)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-10-26",
+                "order": "21",
+                "reference": "(intervju)",
+                "to_date": "",
+                "description": "Fritt Folk",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936-04-15",
+                "order": "4",
+                "reference": "(intervju)",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-07-08",
+                "order": "9",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931-03-09",
+                "order": "0",
+                "reference": "(intervju)",
+                "to_date": "",
+                "description": "Tromsø Stiftstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-02-05",
+                "order": "27",
+                "to_date": "",
+                "description": "Rjukan Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-10-30",
+                "order": "11",
+                "reference": "(intervju)",
+                "to_date": "",
+                "description": "Rjukan Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-06-12",
+                "order": "8",
+                "reference": "(intervju)",
+                "to_date": "",
+                "description": "i Fremtiden",
+                "authors": [
+                    "B. Kristoffersen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "29",
+                "reference": "bd. 1, s. 178",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "H. Vollmer"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "6",
+                "reference": "s. 30",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "13",
+                "reference": "(rikt ill.)",
+                "to_date": "",
+                "description": "Einar Berger",
+                "place": "Oslo",
+                "authors": [
+                    "B. Lodewiges"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "23",
+                "reference": "s. 616",
+                "to_date": "",
+                "description": "Vem är Vem i Norden",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-05-31",
+                "order": "31",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "A. Stangeland"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "33",
+                "reference": "s. 328",
+                "to_date": "",
+                "description": "Nordland",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "1",
+                "reference": "s. 71",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944-01-21",
+                "order": "26",
+                "reference": "(portr. foto)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936-01",
+                "order": "3",
+                "to_date": "",
+                "description": "Monatsschrift",
+                "place": "Württemberg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-01-06",
+                "order": "16",
+                "to_date": "",
+                "description": "Gula Tidend",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-12-21",
+                "order": "22",
+                "to_date": "",
+                "description": "Fritt Folk",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-03-30",
+                "order": "20",
+                "reference": "(intervju)",
+                "to_date": "",
+                "description": "Haugesunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-01-13",
+                "order": "18",
+                "to_date": "",
+                "description": "i Sarpen",
+                "authors": [
+                    "E.O. Hauge"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939-11-20",
+                "order": "14",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-10-15",
+                "order": "10",
+                "to_date": "",
+                "description": "Haalogaland",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-02-09",
+                "order": "28",
+                "to_date": "",
+                "description": "Telen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "12",
+                "reference": "s. 42–44 (3 ill.)",
+                "to_date": "1938",
+                "description": "Kunst für Alle",
+                "place": "München",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "30",
+                "reference": "s. 224",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "J.J. Grimelund",
+                    "O. Flønes"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "7",
+                "reference": "51/II, mot s. 80 (ill. i farger), 103",
+                "to_date": "",
+                "description": "Velhagen und Klasings Monatshefte",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936-03-30",
+                "order": "5",
+                "to_date": "",
+                "description": "Oslo Nyheds- og Avertissements-Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "32",
+                "reference": "register",
+                "to_date": "",
+                "description": "For den bildende kunst, Bergens kunstforening ved 125 årsjubileet",
+                "place": "Bergen",
+                "authors": [
+                    "O.R. Johannesen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "24",
+                "reference": "s. 11–12",
+                "to_date": "",
+                "description": "Nordmannsforbundet",
+                "title": "En Nordlandets maler",
+                "place": "Oslo",
+                "authors": [
+                    "J. Falck-Andersen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "34",
+                "reference": "s. 160–63 (portr.foto)",
+                "to_date": "",
+                "description": "Blant kunstnere i det gamle Asker",
+                "place": "Bærum",
+                "authors": [
+                    "Karl Nilsen"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Einar Berger",
+    "url": "https://nkl.snl.no/Einar_Berger",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Fra 10-årsalderen drev B. fiske med faren. Han var krambodsvenn i Tromsø 1910–11 og hadde senere forskjellige yrker (handelsmann, kokk osv.) i Finnmark, var selger i Svolvær 1912 og hadde egen forretning der 1913. Han arbeidet også som poståpner, skipsekspeditør, disponent i en fabrikk og gruveeier. I 1920 slo han seg ned i Oslo som fiskehandler, men gikk konkurs.</p>\n<p>B. hadde lenge tegnet og malt på egen hånd, men gikk i 1926 helt over til maleriet. Han reiste i mange år med sine utstillinger rundt omkring i landet, først i Tønsberg 1929 og 1930. Betydelig oppmerksomhet og strid vakte han med utstillingene i Oslo i 1930-årene. På Høstutstillingen deltok han bare i 1934, ble senere refusert. Etter en utstilling hos Blomqvists Kunsthandel, Oslo høsten 1935 fikk han en innbydelse til å stille ut i Tyskland, der han holdt en rekke utstillinger 1936–37. I 1937 stilte han ut i Paris, 1938 i Nederland og USA og omtrent samtidig i Italia og Sverige. Under inntrykk først og fremst av Peder Balkes Finnmarks-bilder utformet B. i 1920-årene sin særegne landskapsstil. Han var og ble \"Lofot-maleren\", med malerier av fiskerbåter i opprørt hav under forrevne svarte uværsskyer, skipbrudne på hvelvet, bilder fra fiskeværene med båter tett i tett, stille speilende fjorder i sommernattlys. Penselføringen er bred og feiende, fargene voldsomme, ofte grelle, figurtegningen som regel svak. Bildene står og faller med øyeblikkets inspirasjon. Undertiden kommer symbolske innslag inn, som i <em>Et øde sted</em> og <em>Orkanen</em> (1938).</p>\n</div>",
+    "created_at": "2013-07-03T15:26:09.845+02:00",
+    "changed_at": "2024-06-18T23:25:39.796+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab320\",\"https://digitaltmuseum.no/b6962e06-33b4-4582-b03a-db1e6bd16952\",\"http://kulturnav.org/b6962e06-33b4-4582-b03a-db1e6bd16952\"]",
+        "lastname": "Berger",
+        "firstname": "Einar",
+        "birth_date": "23.3.1890",
+        "birthplace": "Finnkroken, Renøy i Troms",
+        "death_date": "19.5.1961",
+        "external_id": "person_8736ab320",
+        "kulturnav_id": "b6962e06-33b4-4582-b03a-db1e6bd16952",
+        "place_of_death": "Hvalstad i Asker",
+        "alternative_names": "Berger, Einar Halvdan"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

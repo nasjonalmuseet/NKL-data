@@ -1,0 +1,465 @@
+{
+    "id": 416002,
+    "headword": "Herbert Andersson",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100124",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kristine",
+                "lastname": "Kjellberg",
+                "professions": []
+            },
+            {
+                "from_date": "1930",
+                "type": "Gift med",
+                "external_id": "person_8736ab100125",
+                "birth_date": "",
+                "death_date": "1977",
+                "firstname": "Elise",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100123",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gustaf",
+                "lastname": "Andersson",
+                "professions": [
+                    "byggmester"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo (før 1911: Den kgl. Tegneskole) 1907–08",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstakademiet i Kristiania under Christian Krohg og Halfdan Strøm 1909–12",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1919 og -20"
+            },
+            {
+                "order": "1",
+                "description": "Studiereise i Tyskland, Italia, Spania og Nederland 1920"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre fra 1922"
+            },
+            {
+                "order": "1",
+                "description": "Sekretær og kasserer i Bildende Kunstneres Styre 1937–48"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1918",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1919",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1922",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1920",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1932",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1932",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1919",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1934",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1920",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1917",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "K. Hus",
+                "from_date": "1934",
+                "order": "30",
+                "to_date": "",
+                "title": "Svart- og hvitt-utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1922",
+                "order": "13",
+                "to_date": "1924",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1946",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1923",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1920",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1917",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1921",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1916",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1917",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "K. Hus",
+                "from_date": "1940",
+                "order": "31",
+                "to_date": "",
+                "title": "Portrett-utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1918",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1926",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "29",
+                "to_date": "",
+                "title": "Jub.utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1920",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1921",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "18",
+                "to_date": "",
+                "title": "De unges utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1926",
+                "order": "14",
+                "to_date": "1929",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aalesunds Kunstforening",
+                "from_date": "1920",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1916",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutst."
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Selvportrett (olje, utst. 1934)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1944",
+                "order": "5",
+                "reference": "s. 3 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "8",
+                "reference": "register",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "H. Alsvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-11-28",
+                "order": "3",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "4",
+                "reference": "s. 214",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836-1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-12-06",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "10",
+                "reference": "s. 175",
+                "to_date": "",
+                "description": "K. og K., register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-11-22",
+                "order": "2",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "9",
+                "reference": "bd. 3, s. 770",
+                "to_date": "",
+                "description": "Tromsø bys historie",
+                "place": "Tromsø",
+                "authors": [
+                    "Ytreberg, N.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "6",
+                "reference": "s. 14 (ill.nr. 9)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-11-25",
+                "order": "1",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Herbert Andersson",
+    "url": "https://nkl.snl.no/Herbert_Andersson",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>A. debuterte på De unges utstilling i Kristiania 1913, året etter på Høstutst., og var i de følgende ca. 20 år en flittig utstiller. Han malte landskaper, gjerne høst- og vinterstemninger, høyfjells- og setermotiver, stilleben osv. i olje og akvarell, også en del portretter. Dessuten utførte han flere dekorative arbeider med religiøse motiver i Oslo (<em>Betlehem</em> 1938), i Kristiansund, Larvik og andre steder. Han fortsatte, som Jappe Nilssen påpekte i 1920, linjen fra Gudmund Stenersen og Johannes Müller, en noe løs og utvendig naturalisme i en dempet gråstemt koloritt.</p></div>",
+    "created_at": "2013-07-03T13:43:16.648+02:00",
+    "changed_at": "2024-06-18T23:25:29.616+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab82\",\"https://digitaltmuseum.no/cf1fd50d-93e3-409f-bd07-8ed789a7f48a\",\"http://kulturnav.org/cf1fd50d-93e3-409f-bd07-8ed789a7f48a\"]",
+        "lastname": "Andersson",
+        "firstname": "Herbert",
+        "birth_date": "24.7.1890",
+        "birthplace": "Kristiania",
+        "death_date": "7.2.1977",
+        "external_id": "person_8736ab82",
+        "kulturnav_id": "cf1fd50d-93e3-409f-bd07-8ed789a7f48a",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

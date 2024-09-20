@@ -1,0 +1,753 @@
+{
+    "id": 418048,
+    "headword": "Jens von der Lippe",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105014",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jakob von Der",
+                "lastname": "Lippe",
+                "professions": null
+            },
+            {
+                "from_date": "1938",
+                "type": "Gift med",
+                "external_id": "person_8736ab2419",
+                "birth_date": "09.07.1913",
+                "death_date": "10.03.1999",
+                "firstname": "Margrethe von Der",
+                "lastname": "Lippe",
+                "professions": [
+                    "keramiker"
+                ],
+                "place": "Trondheim"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105015",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hanna",
+                "lastname": "Castberg",
+                "professions": null
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1927–29",
+                "order": "0"
+            },
+            {
+                "comment": "samtidig verkstedpraksis hos Andreas Schneider, Oslo",
+                "order": "1"
+            },
+            {
+                "comment": "verkstedpraksis hos Eilif Whist, Oslo 1929–30",
+                "order": "2"
+            },
+            {
+                "comment": "praksis Grimstrup Lervarefabrik, Næstved, Danmark 1930–32",
+                "order": "3"
+            },
+            {
+                "comment": "Staatliche keramische Fachschule, Bunzlau, Tyskland 1932–33",
+                "order": "4"
+            },
+            {
+                "comment": "Istituto statale d'arte per la Ceramicha, Faenza, Italia 1957–58",
+                "order": "5"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Italiensk statsstipend 1957–58"
+            },
+            {
+                "order": "1",
+                "description": "Oslo bys stipend 1964"
+            },
+            {
+                "order": "2",
+                "description": "Statens stipend for eldre fortjente kunstnere fra 1979"
+            },
+            {
+                "order": "3",
+                "description": "Opphold i Danmark 1930–32"
+            },
+            {
+                "order": "4",
+                "description": "Tyskland 1932–33"
+            },
+            {
+                "order": "5",
+                "description": "Italia 1957–58"
+            },
+            {
+                "order": "6",
+                "description": "Studiereiser til de fleste europeiske land, bl.a. Hellas 1967"
+            },
+            {
+                "order": "7",
+                "description": "dessuten Japan 1978"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Lærer Statens Håndverks- og Kunstindustriskole, Oslo 1939–56, overlærer 1956–75"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Norske kunsthåndverkere"
+            },
+            {
+                "order": "2",
+                "description": "Den nye Foreningen Brukskunst"
+            },
+            {
+                "order": "3",
+                "description": "Redaksjonsmedlem Bonytt 1942–65"
+            },
+            {
+                "order": "4",
+                "description": "formann Brukskunstnerlaget, Oslo 1946 - ca. 48, 1954–57"
+            },
+            {
+                "order": "5",
+                "description": "styremedlem Landsforbundet Norsk Brukskunst 1948–57, visepresident 1957"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Sammen med Margrethe von der L.: Sølvmedalje Praha 1963"
+            },
+            {
+                "order": "1",
+                "description": "Jakob-prisen 1970"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Se Margrethe von der L."
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Forum, Oslo",
+                "from_date": "1957",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1963",
+                "order": "1",
+                "to_date": "",
+                "title": "Jens von der Lippes verksted"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1980",
+                "order": "2",
+                "to_date": "",
+                "title": "Jens von der Lippes verksted"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Brukskunsts utstillinger fra",
+                "from_date": "1933",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Brukskunsts utstillinger fra",
+                "from_date": "1936",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "5",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens museum",
+                "from_date": "1943",
+                "order": "6",
+                "to_date": "",
+                "title": "sommerutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1951",
+                "order": "7",
+                "to_date": "",
+                "title": "Norsk brukskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1951",
+                "order": "8",
+                "to_date": "",
+                "title": "Norsk brukskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1952",
+                "order": "9",
+                "to_date": "1953",
+                "title": "Foreningen Brukskunsts høstmønstringer"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1959",
+                "order": "10",
+                "to_date": "",
+                "title": "Foreningen Brukskunsts høstmønstringer"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling USA",
+                "from_date": "1954",
+                "order": "11",
+                "to_date": "1957",
+                "title": "Design in Scandinavia"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gmunden, Østerrike",
+                "from_date": "1959",
+                "order": "12",
+                "to_date": "",
+                "title": "norsk keramikkutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Praha",
+                "from_date": "1963",
+                "order": "13",
+                "to_date": "",
+                "title": "internasjonal keramikkutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Art et Maison, Palais des Congres, Brussel",
+                "from_date": "1964",
+                "order": "14",
+                "to_date": "",
+                "title": "La Norvège"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kiel",
+                "from_date": "1966",
+                "order": "15",
+                "to_date": "",
+                "title": "Norwegische Gebrauchskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1969",
+                "order": "16",
+                "to_date": "1970"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1973",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1977",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1978",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1978",
+                "order": "20",
+                "to_date": "",
+                "title": "Tendenser"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Seljord",
+                "from_date": "1976",
+                "order": "21",
+                "to_date": "",
+                "title": "sommerutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Seljord",
+                "from_date": "1978",
+                "order": "22",
+                "to_date": "",
+                "title": "sommerutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Seljord",
+                "from_date": "1981",
+                "order": "23",
+                "to_date": "",
+                "title": "sommerutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Seljord",
+                "from_date": "1982",
+                "order": "24",
+                "to_date": "",
+                "title": "sommerutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Skogbruksmuseum, Elverum",
+                "from_date": "1979",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Poznan, Polen",
+                "from_date": "1979",
+                "order": "26",
+                "to_date": "1980",
+                "title": "Ceramika norweska"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Warszawa, Polen",
+                "from_date": "1979",
+                "order": "27",
+                "to_date": "1980",
+                "title": "Ceramika norweska"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1942",
+                "order": "0",
+                "to_date": "1965",
+                "description": "",
+                "authors": [
+                    "Lippe, Jens von der"
+                ],
+                "comments": [
+                    "En rekke artikler i Bonytt"
+                ],
+                "archives": null
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1935-12-06",
+                "order": "1",
+                "reference": "(ill.) (omtalt som Just von der L.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1941-10-04",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Urd",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-10-16",
+                "order": "3",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1957",
+                "order": "4",
+                "reference": "s. 41 (ill.)",
+                "to_date": "",
+                "description": "Norwegian arts and crafts, industrial design",
+                "place": "Oslo",
+                "authors": [
+                    "Aars, F."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1957",
+                "order": "5",
+                "reference": "s. 162–64 (ill.)",
+                "to_date": "",
+                "description": "Margrethe og Jens von der Lippes keramikkutstilling i Forum, Bonytt",
+                "authors": [
+                    "Teigen, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1959",
+                "order": "6",
+                "reference": "s. 46–47",
+                "to_date": "",
+                "description": "33 brukskunstnere",
+                "place": "Oslo",
+                "authors": [
+                    "Clayhills, H. (red.)"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961",
+                "order": "7",
+                "reference": "s. 284–85 (ill.)",
+                "to_date": "",
+                "description": "Brukskunst i hjemmet",
+                "place": "Oslo",
+                "authors": [
+                    "Zahle, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "8",
+                "reference": "s. 278–81 (ill.)",
+                "to_date": "",
+                "description": "Pottemaker gjennom 30 år, Bonytt",
+                "authors": [
+                    "Clayhills, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "9",
+                "to_date": "",
+                "description": "50 år ved dreieskiven",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "katalog Kunstnerforbundet"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1980-02-23",
+                "order": "10",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981-06-04",
+                "order": "11",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Dysthe, T."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1941",
+                "order": "12",
+                "reference": "s. 14–15",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1943",
+                "order": "13",
+                "reference": "s. 90, 91, 156, 158",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944",
+                "order": "14",
+                "reference": "s. 43, 45",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945",
+                "order": "15",
+                "reference": "s. 164, 165",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1946",
+                "order": "16",
+                "reference": "s. 28, 30, 33, 85, 86, 156",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947",
+                "order": "17",
+                "reference": "s. 151, 172, 173, 217",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948",
+                "order": "18",
+                "reference": "s. 18, 19, 27, 204",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1949",
+                "order": "19",
+                "reference": "s. 102",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950",
+                "order": "20",
+                "reference": "s. 60, 80, 100, 192",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1951",
+                "order": "21",
+                "reference": "s. 94, 220",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "22",
+                "reference": "s. 199",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953",
+                "order": "23",
+                "reference": "s. 50, 51, 197",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1954",
+                "order": "24",
+                "reference": "s. 64–67, 70–73",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "25",
+                "reference": "s. 71, 233",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1957",
+                "order": "26",
+                "reference": "s. 108, 245",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1960",
+                "order": "27",
+                "reference": "s. 64, 112, 191",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1962",
+                "order": "28",
+                "reference": "s. 15–17",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "29",
+                "reference": "s. 169–75",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1964",
+                "order": "30",
+                "reference": "s. 112",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967",
+                "order": "31",
+                "reference": "s. 172–73",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jens von der Lippe",
+    "url": "https://nkl.snl.no/Jens_von_der_Lippe",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter endt utdannelse opprettet L. i 1933 eget verksted på Nedre Skøyen gård sammen med Heddy Astrup. I noen år deltok de på utstillinger med gjenstander dreiet av L. og dekorert av Heddy Astrup. I 1936 ble Margrethe von der L. ansatt som dekoratør på verkstedet og et livslangt samarbeide begynte, et samarbeide hvor det ikke lar seg gjøre å skille ut hvem som har gjort hva. I hovedsak er det Margrethe von der L. som modellerer og dekorerer, mens L. står for dreiingen av gjenstandene. De har også laget gjenstander hver for seg. I 1939 flyttet de verkstedet til Wessels gt. i Oslo og i 1967 fikk de hvert sitt verksted, henholdsvis i Akersveien og Damstredet. Interessen for fagets historie og for tekniske eksperimenter går som en rød tråd gjennom deres virksomhet som keramikere. I de første årene var det 1700-tallets fajanse, særlig Herrebøe som var inspirasjonskilden både med hensyn til form og dekor. I 1935 laget L. en såkalt <em>Knossos-krukke</em> med en sterkt blå glasur. Under krigen ble trønder-keramikken utgangspunkt for noe som etter hvert utviklet seg til et personlig formspråk. De har også laget gjenstander hvor et historisk formspråk ikke lar seg etterspore. Deres produksjon fra 30-årene kan karakteriseres som en myk funksjonalisme. Det var bruksvennlig bordutstyr med lyse, lette farger. Dekoren bestod av små stiliserte blader og blomster, stramt holdt innenfor avgrensede felter og border, dels malt, dels risset. Så tidlig som i 1949 deltok de på Foreningen Brukskunsts utstilling med steingodsarbeider hvor dette materialets egenskaper var fullt utnyttet. Senere, særlig etter L.s opphold i Faenza, eksperimenterte de videre med steingods, både gjennomfarget og som chamotte. I slutten av 50-årene utviklet de et formspråk som traff midt i tidens smak. Det var gjenstander dreiet opp med en spenstig kraft i konturene, dekket av en enkel, men gjennomarbeidet begitningsdekor i sterke farger. Typiske arbeider er L.s suppeterrin og suppebolle med høyt, konisk lokk og Margrethe von der L.s <em>Tulipan-tallerken</em> (1963). En rekke bildende kunstnere har nytt godt av deres lange erfaring i faget og omfattende tekniske kunnskaper, gjennom bistand ved utforming, brenning og glassering av relieffer og skulpturer i keramikk. Fra 1977 har L. i perioder eksperimentert med porselen på Porsgrunds Porselænsfabrik. En suppebolle med sterkt forenklet stråmønsterdekor er typisk for L.s omforming av eldre formspråk. L. har vært meget aktiv i brukskunstbevegelsen og har innehatt en rekke verv.</p></div>",
+    "created_at": "2013-07-04T05:53:11.816+02:00",
+    "changed_at": "2024-06-18T23:26:25.316+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2418\",\"https://digitaltmuseum.no/fc4025f7-6b2b-48fd-ac3d-8132906dc282\",\"http://kulturnav.org/fc4025f7-6b2b-48fd-ac3d-8132906dc282\"]",
+        "lastname": "Lippe",
+        "firstname": "Jens von der",
+        "birth_date": "13.10.1911",
+        "birthplace": "Oslo",
+        "death_date": "17.6.1990",
+        "external_id": "person_8736ab2418",
+        "kulturnav_id": "fc4025f7-6b2b-48fd-ac3d-8132906dc282",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Randi Gaustad"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        }
+    ]
+}

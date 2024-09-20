@@ -1,0 +1,724 @@
+{
+    "id": 417363,
+    "headword": "Thorleif Jensen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103940",
+                "birth_date": "1873",
+                "death_date": "1942",
+                "firstname": "Anna",
+                "lastname": "Reiersen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103939",
+                "birth_date": "1871",
+                "death_date": "",
+                "firstname": "Hans Thorvald",
+                "lastname": "Jensen",
+                "professions": [
+                    "kontrollør"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab103941",
+                "birth_date": "1904",
+                "death_date": "",
+                "firstname": "Alfhild Kaspara",
+                "lastname": "Sjøberg",
+                "professions": [],
+                "place": "Oslo"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Oslo fag- og forskole for murere",
+                "order": "3"
+            },
+            {
+                "comment": "Examen artium 1922",
+                "order": "0"
+            },
+            {
+                "comment": "Norges Tekniske Høyskole 1923–27",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Glosimodts legat 1936"
+            },
+            {
+                "order": "7",
+                "description": "USA 1938"
+            },
+            {
+                "order": "1",
+                "description": "Henrichsens legat 1932"
+            },
+            {
+                "order": "0",
+                "description": "Schirmers legat 1929"
+            },
+            {
+                "order": "3",
+                "description": "Egers legat 1948"
+            },
+            {
+                "order": "4",
+                "description": "Reiser til Tyskland, Tsjekkoslovakia, Østerrike, Nederland og Frankrike 1932"
+            },
+            {
+                "order": "6",
+                "description": "Danmark, Tyskland, Østerrike, Ungarn, Frankrike, England 1937"
+            },
+            {
+                "order": "5",
+                "description": "Sverige 1933 og 1936"
+            },
+            {
+                "order": "8",
+                "description": "Finland 1939"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "medlem Aker fasaderåd 1938–1940 og fra 1945"
+            },
+            {
+                "order": "0",
+                "description": "Styremedlem Oslo Arkitektforening 1938–40 og fra 1945"
+            },
+            {
+                "order": "1",
+                "description": "medlem diverse stipendiekomiteer"
+            },
+            {
+                "order": "2",
+                "description": "medlem i flere konkurransejuryer"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "hybelhus, Industrigt. 71 (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "4 tredelte boligblokker for Aker boligbyggelag, Bakkehaugen (1949 - 1951)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "nybygg i tilknytning til kommunegården i Langesund (1951)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "rutebilstasjon i Skien (1948)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Fotohuset, Karl Johans gt. 21 (1955)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "reguleringsplan for Sletta, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "kino og festivitetsbygning i Horten etter 1. premie i konkurranse 1931"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "villa for K.H. Haug, Ivar Aasens vei 1 (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Sammen med Ole Bue: Tandberg radiofabrikk A/S, Kjelsås (1949 - 51)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "enebolig for Leif Jacobsen, Oppsal (1934)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "villa, Ryghs v. 6, Besserud, Aker (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "restaureringsplan for Jelsa kirke (1931)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Møllhausen konditori, Bogstadv. 12 (1940, ombygd 1982)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Dagbladsentralen, Akersgt. 47 (1949)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Øvrevoll-kollektivet, boligfelt, Nordv. 39, Bærum, (1955)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "planer for Oslo Lufthavn sammen med Odd Nansen"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Hvidtstens forretningsgård, Kongsberg (1954 - 55)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "regulering av Alta sentrum (1947)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "kontor og lager for Ingeniør M.O. Schøyens Bilcentraler A/S, Filipstadvn. 9 (1952)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "enebolig for redaktør Gunnar Larsen, Oberst Angells vei 7, (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "I Oslo når ikke annet er nevnt"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Prosjekter: Rådhus i Sarpsborg, delt 2. premie i konkurranse 1930"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Studentersamfunnet på Ås (1934) etter 1. premie i konkurranse 1930"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Tivolihjørnet A/S, Stortingsgt. 22, sammen med arkitekt Odd Nansen etter 1. premie i engere konkurranse 1934"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "båt- og klubbhus for Ormsund Roklubb, Aker (1934)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "forretningsgård med restauranter, bl.a. Regnbuen, Klingenberggt. 4 og Fridtjof Nansens pl. 4, (1937–39) sammen med Harald Drake og Arthur Gustavson"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1938",
+                "order": "1",
+                "to_date": "",
+                "title": "Vi kan"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1939",
+                "order": "2",
+                "to_date": "",
+                "title": "Verdensutst. i New York"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "0",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1932",
+                "order": "0",
+                "reference": "s. 218–220 (ill.)",
+                "to_date": "",
+                "description": "Litt om Tschekoslovakiet og dets arkitektur, Byggekunst",
+                "authors": [
+                    "Jensen, Thorleif"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "1",
+                "reference": "s. 41–42 (ill.)",
+                "to_date": "",
+                "description": "Arkitektene og det kunstige lys, Byggekunst",
+                "authors": [
+                    "Jensen, Thorleif"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "2",
+                "reference": "s. 42–44",
+                "to_date": "",
+                "description": "Om rutebilstasjoner, Byggekunst",
+                "authors": [
+                    "Jensen, Thorleif"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1956",
+                "order": "31",
+                "reference": "s. 147, 160 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "25",
+                "reference": "s. 27, 63–64 (ill.), tillegg s. 2, 23, 24",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "8",
+                "reference": "s. 141",
+                "to_date": "",
+                "description": "Gatens arkitekturhistorie, Akersgaten",
+                "place": "Oslo",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "23",
+                "reference": "s. 23–24 (ill.), 154, tillegg s. 2",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "15",
+                "reference": "tillegg s. 2, 28",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "33",
+                "reference": "s. 31 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "4",
+                "to_date": "1968",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "19",
+                "reference": "s. 228–34 (ill.), 244–250 (ill.), tillegg s. 10, 13, 19",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "35",
+                "reference": "s. 162",
+                "to_date": "1952",
+                "description": "Forening til norske fortidsminnesmerkers Bevarings Årbok",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "17",
+                "reference": "s. 110 (ill.), 161–69 (ill.), tillegg s. 29",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "21",
+                "reference": "tillegg s. 5, 25, 45",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "6",
+                "reference": "s. 166",
+                "to_date": "",
+                "description": "Studentene fra 1922",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "27",
+                "reference": "s. 26–28 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "[u.å.], s. 154, 172, 298, 370",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo gårdkalender, nybygg 1925–1945",
+                "place": "Oslo",
+                "authors": [
+                    "Hofflund, P. D.",
+                    "Nyquist, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "30",
+                "reference": "s. 68–69 (ill.), 155–58 (ill.), tillegg s. 11–12 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "13",
+                "reference": "s. 50–53 (ill.), 135, 137 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "11",
+                "reference": "s. 241",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "26",
+                "reference": "tillegg s. 19, 44 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "32",
+                "reference": "s. 187 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "34",
+                "reference": "s. 174",
+                "to_date": "",
+                "description": "Forening til norske fortidsminnesmerkers Bevarings Årbok",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "29",
+                "reference": "s. 175–76 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "24",
+                "reference": "tillegg s. 1",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "7",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "16",
+                "reference": "tillegg s. 8",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "20",
+                "reference": "tillegg s. 1, 6, 11, 12, 29",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "3",
+                "reference": "s. 379, 392, 402",
+                "to_date": "",
+                "description": "Norske hus",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "5",
+                "reference": "s. 182–83",
+                "to_date": "",
+                "description": "Vi fra N.T.H. De neste ti kull 1920-29",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "22",
+                "reference": "s. 73–80 (ill.), 116, tillegg s. 12, 29",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "18",
+                "reference": "s. 92 (ill.), 179–180 (ill.), tillegg s. 9, 41",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "28",
+                "reference": "s. 35–42 (ill.), tillegg s. 5",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "[u.å.], s. 6, 24, 134",
+                "order": "10",
+                "to_date": "",
+                "description": "Oslo gårdkalender, nybygg 1945-1955",
+                "place": "Oslo",
+                "authors": [
+                    "Nyquist, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "14",
+                "reference": "s. 252–53 (ill.), 275",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "12",
+                "reference": "nr. 17, s. 395",
+                "to_date": "",
+                "description": "Arkitektnytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Thorleif Jensen",
+    "url": "https://nkl.snl.no/Thorleif_Jensen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>J. var arkitektassistent hos arkitekt Henry Coll i 1927 og hos arkitekt Nicolai Beer i Oslo 1928–32. Fra 1932 opprettet han privat arkitektpraksis i Oslo.</p>\n<p>J. avsluttet sin utdannelse på samme tid som funksjonalismen ble introdusert i Norge, og han ble en konsekvent eksponent for denne retning. Hans første premierte konkurranseutkast som kom til utførelse, <em>Studentersamfunnet på Ås</em>, er blitt betegnet som en perle i funksjonalismens arkitektur. Med <em>restaurant Regnbuen</em> viste J. på en fantasifull måte sine teorier om hvordan man bl.a. kunne bruke kunstlys (neonreklamelys) på en dekorativ måte. <em>Øvrevoll-kollektivet</em> vitner om et engasjement i den sosiale boligproblematikken. Her planla J. flere lavblokker med små leiligheter for eldre og et felleshus med restaurant, peisestue og gjesterom. Dette skulle gi eldre mennesker muligheten til å frigi sine ofte alt for store og tungvinte leiligheter, samtidig som de kunne fortsette å bo selvstendig og beholde eller til og med forbedre boligstandarden. Anlegget fikk i samtiden ikke fullt ut den oppmerksomhet det hadde fortjent.</p>\n</div>",
+    "created_at": "2013-07-03T21:00:47.700+02:00",
+    "changed_at": "2024-06-18T23:26:05.928+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1916\",\"https://digitaltmuseum.no/897985de-986e-4cb4-86ea-99c44f374c65\",\"http://kulturnav.org/897985de-986e-4cb4-86ea-99c44f374c65\"]",
+        "lastname": "Jensen",
+        "firstname": "Thorleif",
+        "birth_date": "16.8.1903",
+        "birthplace": "Kristiania",
+        "death_date": "15.10.1972",
+        "external_id": "person_8736ab1916",
+        "kulturnav_id": "897985de-986e-4cb4-86ea-99c44f374c65"
+    },
+    "authors": [
+        {
+            "full_name": "Axel Chr. Mykleby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "id": 416574,
+    "headword": "Halfdan Hauge",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103089",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lauritz",
+                "lastname": "Hauge",
+                "professions": [
+                    "skomaker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103090",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lina",
+                "lastname": "Kristensen",
+                "professions": []
+            },
+            {
+                "from_date": "1933",
+                "type": "Gift med",
+                "external_id": "person_8736ab103091",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragna",
+                "lastname": "Løkke",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "comment": "hele sitt liv",
+                "description": "Svinøya Svolvær"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Selvlært",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Reiser til Kiruna og Stockholm"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Kiruna Stadsbibliotek"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Tacoma University, Washington"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bodø Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "AS Vinmonopolet, Svolvær"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Svolvær Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Solna stads konstsamling, Stockholm"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Trollfjordslaget (1971) gjengitt på plakat til festspillene i Nord-Norge 1975"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutst. Tromsø Kunstforening",
+                "from_date": "1974",
+                "order": "11",
+                "to_date": "",
+                "title": "Nord-Norge i norsk bildende kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "6",
+                "to_date": "",
+                "title": "Nord-norske kunstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutst. Riksgalleriet",
+                "from_date": "1974",
+                "order": "12",
+                "to_date": "",
+                "title": "Nord-Norge i norsk bildende kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Festspillene i Nord-Norge, Harstad",
+                "from_date": "1975",
+                "order": "13",
+                "to_date": "",
+                "title": "Lofotengruppen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1956",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1952",
+                "order": "5",
+                "to_date": "",
+                "title": "Nord-norske kunstutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Norrbottens Museum, Luleå",
+                "from_date": "1977",
+                "order": "2",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kiruna Stadsbibliotek",
+                "from_date": "1977",
+                "order": "3",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø Kunstforening",
+                "from_date": "1977",
+                "order": "4",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "rådhuset i Svolvær",
+                "from_date": "1974",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kiruna Stadsbibliotek",
+                "from_date": "1973",
+                "order": "9",
+                "to_date": "",
+                "title": "Nordkalottutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. S., Stockholm",
+                "from_date": "1961",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Konstföreningen, Stockholm",
+                "from_date": "1974",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Atelier Lofoten, Svolvær",
+                "from_date": "1972",
+                "order": "8",
+                "to_date": "",
+                "title": "Lofoten i malerkunsten"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Tegning (1972) utført av Dagfinn Bakke gjengitt i Lofotp. 16.9.1972"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975-06-13",
+                "order": "6",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-06-10",
+                "order": "5",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "7",
+                "reference": "s. 122–23",
+                "to_date": "",
+                "description": "Kulturliv",
+                "place": "Tromsø",
+                "authors": [],
+                "comments": [
+                    "hefte 4"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "10",
+                "reference": "s. 2–3",
+                "to_date": "",
+                "description": "Skolp 1977, årsskrift for Vågan historielag",
+                "place": "Svolvær",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-12-08",
+                "order": "3",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-02-10",
+                "order": "9",
+                "to_date": "",
+                "description": "i Lofotp.",
+                "authors": [
+                    "Bakke, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-09-16",
+                "order": "1",
+                "to_date": "",
+                "description": "i Lofotp.",
+                "authors": [
+                    "Fossum, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "2",
+                "reference": "s. 92–95",
+                "to_date": "",
+                "description": "Under silverbågen. Nya vandringer på Nordkalotten",
+                "place": "Stockholm",
+                "authors": [
+                    "Lidman, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-12-30",
+                "order": "4",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-09-08",
+                "order": "0",
+                "to_date": "",
+                "description": "Lofotp.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "8",
+                "reference": "s. 332",
+                "to_date": "",
+                "description": "Nordland, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "11",
+                "to_date": "",
+                "description": "i katalog Norrbottens Museum 1977",
+                "authors": [
+                    "R. Waldahl"
+                ],
+                "comments": [
+                    "TV-intervju, Norsk rikskringkasting Fjernsynet"
+                ],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Intervjuer med H. (1974–75) på lydbånd",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Vågan bibliotek, Svolvær"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Halfdan Hauge",
+    "url": "https://nkl.snl.no/Halfdan_Hauge",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. vokste opp i små kår og livnærte seg som bøtker og skomaker i ungdomsårene. Etter en skade i 16-års-alderen begynte han å tegne og male. I 1920-årene kom han i kontakt med den svenske maler Richard Lindström, og bekjentskapet virket stimulerende på H.s. utvikling. Det var likevel først etter 2. verdenskrig at H. for alvor begynte å male. Han debuterte med akvareller på Nord-norske kunstutstilling i 1952. Med kraftige penselstrøk og til dels sprakende farger skildret H. alltid det gamle Lofoten i sine malerier, og hans motiver bygger på barne- og ungdomserindringer.</p></div>",
+    "created_at": "2013-07-03T16:21:40.663+02:00",
+    "changed_at": "2024-06-18T23:25:44.910+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1515\",\"https://digitaltmuseum.no/449008c5-b820-4c89-81a4-c6ae41ff9f9a\",\"http://kulturnav.org/449008c5-b820-4c89-81a4-c6ae41ff9f9a\"]",
+        "lastname": "Hauge",
+        "firstname": "Halfdan",
+        "birth_date": "28.9.1892",
+        "birthplace": "Svolvær",
+        "death_date": "6.2.1976",
+        "external_id": "person_8736ab1515",
+        "kulturnav_id": "449008c5-b820-4c89-81a4-c6ae41ff9f9a",
+        "place_of_death": "sst.",
+        "alternative_names": "Hauge, Halfdan Wegner"
+    },
+    "authors": [
+        {
+            "full_name": "Tone Skedsmo"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

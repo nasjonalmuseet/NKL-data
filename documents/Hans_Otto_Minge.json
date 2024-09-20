@@ -1,0 +1,418 @@
+{
+    "id": 418242,
+    "headword": "Hans Otto Minge",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "billedhugger"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105445",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hans",
+                "lastname": "Minge",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105446",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Helga Marie",
+                "lastname": "Lunde",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Kristiansand"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Bergenholsts dekorasjonsatelier, København 1960",
+                "order": "0"
+            },
+            {
+                "comment": "Statens lærerskole i forming, Notodden 1969–70",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein og Alf-Jørgen Aas 1964–68",
+                "order": "2"
+            },
+            {
+                "comment": "hospitant Statens Håndverks- og Kunstindustriskole under Gert Jynge, Olav Mosebekk og Chrix Dahl 1962–64",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Statens reise- og studiestipend 1979"
+            },
+            {
+                "order": "0",
+                "description": "Statens etterutdanningsstipend 1967"
+            },
+            {
+                "order": "3",
+                "description": "Roma og Italia 1979"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold London 1967"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "4",
+                "description": "jurymedlem Sørlandsutstillingen 1980"
+            },
+            {
+                "order": "5",
+                "description": "formann Sørlandets kunstnersenter 1981–82"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Bildende Sørlandskunstnere, formann 1981–82"
+            },
+            {
+                "order": "0",
+                "description": "Formingslærer Risør husflidsskole fra 1971"
+            },
+            {
+                "order": "3",
+                "description": "medlem Foreningen Norske Grafikere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Halden, Risør og Seljord kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Flekkerøya leir ved Kristiansand"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Norges Bank"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Marie, Halden",
+                "from_date": "1981",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "6",
+                "to_date": "1976",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "10",
+                "to_date": "",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1981",
+                "order": "11",
+                "to_date": "1982",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Risør Kunstforening",
+                "from_date": "1980",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "9",
+                "to_date": "1979",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Halden Kunstforening",
+                "from_date": "1979",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Risør",
+                "from_date": "1974",
+                "order": "12",
+                "to_date": "",
+                "title": "Sommerfestuken"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1981",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1971",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": "",
+                "title": "Myren Grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "8",
+                "to_date": "1976",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "7",
+                "to_date": "1980",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1971-01-12",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-03-28",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Halden Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-12-16",
+                "order": "10",
+                "to_date": "",
+                "description": "Halden Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-03",
+                "order": "9",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-01-15",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Halden Arbeiderblad",
+                "authors": [
+                    "Opstad, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-03-31",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Halden Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "3",
+                "reference": "s. 259",
+                "to_date": "",
+                "description": "Agder, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-10",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "2",
+                "reference": "s. 57",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-05-06",
+                "order": "0",
+                "to_date": "",
+                "description": "Halden Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-01-03",
+                "order": "7",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Fædrelandsvennen",
+                "authors": [
+                    "Opstad, G."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Hans Otto Minge",
+    "url": "https://nkl.snl.no/Hans_Otto_Minge",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>M. gikk på dekorasjonsskole i København og arbeidet først en kort tid som vindusdekoratør. Han debuterte på Høstutstillingen i 1970 med maleriet <em>Summertime</em> og har siden deltatt med grafikk, materialbilder og et skulpturarbeide. M.s tidligste bilder var preget av hans lærere på akademiet. I Oslo Kunstforening 1971 viste han derimot utelukkende nonfigurative malerier, inspirert bl.a. av yngre engelske malere. På utstillingen i Halden 1979 viste hans produksjon gjennom flere år at han var nådd fram til et figurativt formspråk med utgangspunkt i det enkle og menneskelige motiv. M. arbeider ofte med serier innen et tema. Han har bl.a. laget en rekke kommentarer til idretten som både menneskelig og kulturhistorisk fenomen. En serie etsninger viser hans interesse for litteratur og er inspirert av lyrikk. Landskaps- og byskildringer henter motiver fra Halden og elven Tistas løp gjennom barndommens landskap. M.s grafikk, både tresnitt og etsning i sort-hvitt og farger, er kraftig i kontraster av lys og mørke, og har av og til innslag av naivisme eller surrealisme. Motivene er slående og under tiden sarkastiske og underfundige, som f.eks. motivet med den gamle damen i trappen i <em>Hvor blir det av de unge kvinner med de lynsnare føttene</em> (Høstutstillingen 1978) og <em>Kupeens hvite fugler</em> med de avislesende passasjerer (Sørlandsutstillingen 1980). Som grafiker arbeider M. ved fellesverkstedet Myren Grafikk i Kristiansand. I M.s malerier utarbeides temaene i serier innen ett og samme lerret, bl.a. <em>182 norske ansikter</em> (1973/74), som var inspirert av avisenes personaliaspalter, eller han gjengir et femtitalls varianter av samme landskapsutsnitt under skiftende klimatiske forhold. Hans skulpturarbeider og collager er enkle, primitive og uttrykksfulle.</p></div>",
+    "created_at": "2013-07-04T09:45:21.490+02:00",
+    "changed_at": "2024-06-18T23:26:30.410+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2709\",\"https://digitaltmuseum.no/e7873ade-3f7b-42b8-b0d8-31c2887032ea\",\"http://kulturnav.org/e7873ade-3f7b-42b8-b0d8-31c2887032ea\"]",
+        "lastname": "Minge",
+        "firstname": "Hans Otto",
+        "birth_date": "12.9.1937",
+        "birthplace": "Halden",
+        "external_id": "person_8736ab2709",
+        "kulturnav_id": "e7873ade-3f7b-42b8-b0d8-31c2887032ea"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "billedhugger"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

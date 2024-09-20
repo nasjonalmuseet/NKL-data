@@ -1,0 +1,312 @@
+{
+    "id": 416067,
+    "headword": "Elna Arbo",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tekstilkunstner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab149",
+                "birth_date": "12.01.1854",
+                "death_date": "1921",
+                "firstname": "Eliza",
+                "lastname": "Arbo",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab152",
+                "birth_date": "18.06.1831",
+                "death_date": "14.10.1892",
+                "firstname": "Peter Nicolai",
+                "lastname": "Arbo",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "from_date": "1914",
+                "type": "Gift med",
+                "external_id": "person_8736ab100295",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Knud",
+                "lastname": "Windfeld-Hansen",
+                "professions": [
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Paris"
+            },
+            {
+                "order": "1",
+                "description": "Nice"
+            },
+            {
+                "order": "2",
+                "comment": "til sin død",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Hermann Groeber i München vinteren 1912–13",
+                "order": "3"
+            },
+            {
+                "comment": "Harriet Backer 1902–06 (07?)",
+                "order": "1"
+            },
+            {
+                "comment": "Renée Menard og Victor Koos i Paris vinteren 1910–11",
+                "order": "2"
+            },
+            {
+                "comment": "Elev av Erik Werenskiold 1901–02",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "5",
+                "description": "Italia 1920–21 (Firenze)"
+            },
+            {
+                "order": "2",
+                "description": "Firenze 1907–08"
+            },
+            {
+                "order": "1",
+                "description": "Studerte i Dresden våren 1907"
+            },
+            {
+                "order": "4",
+                "description": "Italia 1911 (Firenze, Siena)"
+            },
+            {
+                "order": "0",
+                "description": "I Bretagne sommeren 1901"
+            },
+            {
+                "order": "3",
+                "description": "Roma 1909–10"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Fortjenstmedalje i gull (for sin paramentikk)"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1912",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1913",
+                "order": "2",
+                "to_date": "",
+                "title": "7 kunstnere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1910",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1922",
+                "order": "1",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1913-11-18",
+                "order": "4",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-11-19",
+                "order": "5",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "reference": "u.å., s. 68–72",
+                "to_date": "",
+                "description": "Foreningen Brukskunsts Aarbok",
+                "title": "Kunsten i skolen, E.A.'s vægdekorationer",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [
+                    "1921"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1913-11-17",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-02-03",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-10-23",
+                "order": "9",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [
+                    "Tybring, F."
+                ],
+                "comments": [
+                    "(nekrolog)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1924-09-08",
+                "order": "7",
+                "to_date": "",
+                "description": "T.Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "8",
+                "reference": "s. 101, 111–113",
+                "to_date": "",
+                "description": "Moderne norsk veggmaleri",
+                "place": "Oslo",
+                "authors": [
+                    "Nygård-Nilssen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-02-03",
+                "order": "1",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-02-11",
+                "order": "2",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1978-07-25",
+                "order": "10",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Meddelelser i brev fra Henning Windfeld-Hansen til forf."
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Elna Arbo",
+    "url": "https://nkl.snl.no/Elna_Arbo",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>A. begynte å male etter naturen under et opphold i Bretagne sommeren 1901. Hun debuterte i Kristiania Kunstforening 1910 med kopier etter italienske mestere fra gotikk og renessanse samt enkelte originale figurbilder. Stilte i 1913 ut portretter samme sted. A. dekorerte 1916–24 fem rom i Halling skole i Oslo, med scener fra skapelseshistorien som er holdt i en lett stilisert naturalisme med naivistisk preg. Bildene ble tilintetgjort av tyskerne 1940. Etter arbeidet i Hallingskolen sluttet hun å male, men arbeidet i de siste ti år av sitt liv med kirkelig paramentikk, alterbroderier og ca. 50 messehakler bl.a. til Oslo og Hamar domkirke, Uranienborg og Vang kirke, Hedmark. Hennes Minder fra Gulskoven ble utgitt privat 1975.</p></div>",
+    "created_at": "2013-07-03T13:53:47.497+02:00",
+    "changed_at": "2024-06-18T23:25:31.225+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab148\",\"https://digitaltmuseum.no/fdc4b6b4-eead-4f93-b698-a8559492e85e\",\"http://kulturnav.org/fdc4b6b4-eead-4f93-b698-a8559492e85e\"]",
+        "lastname": "Arbo",
+        "firstname": "Elna",
+        "birth_date": "31.1.1884",
+        "birthplace": "Kristiania",
+        "death_date": "18.10.1957",
+        "external_id": "person_8736ab148",
+        "kulturnav_id": "fdc4b6b4-eead-4f93-b698-a8559492e85e",
+        "place_of_death": "Oslo",
+        "alternative_names": "Arbo, Anna Christine Eleonore"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tekstilkunstner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

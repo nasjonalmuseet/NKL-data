@@ -1,0 +1,742 @@
+{
+    "id": 429949,
+    "headword": "John Paulsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106201",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Frida",
+                "lastname": "Asmussen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106199",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Petter",
+                "lastname": "Paulsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106200",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kristiane",
+                "lastname": "Johansen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev av Fredrik Kolstø, Roar Matheson Bye og Harald Krohg Stabell, Trondheim i 1920-årene",
+                "order": "0"
+            },
+            {
+                "comment": "Académie de la Grande Chaumière, Paris 1951",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studieopphold i Paris og reise til London 1951"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1952",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1947",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1967",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Den Frie Udstilling Udstillings lokaler, København",
+                "from_date": "1949",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer",
+                "from_date": "1967",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1938",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1962",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo",
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "title": "minneutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Steinkjer kunstforeninger",
+                "from_date": "1976",
+                "order": "12",
+                "to_date": "",
+                "title": "minneutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Steinkjer",
+                "from_date": "1952",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1978",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1936",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1952",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer",
+                "from_date": "1935",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Rio de Janeiro",
+                "from_date": "1952",
+                "order": "18",
+                "to_date": "",
+                "title": "Esposicão de Pintura e Gravura Norueguesa"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1945",
+                "order": "17",
+                "to_date": "",
+                "title": "Ex-trøndere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer",
+                "from_date": "1941",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "16",
+                "to_date": "",
+                "title": "Trondheim Kunstforening 150-årsjubileums"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer",
+                "from_date": "1949",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "litografi utført av Harald K. Stabell gjengitt i katalog Lillehammer Bys malerisamling september 1978"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Flere selvportretter (bl.a. 1936, -37 og -49)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1962-11-17",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Møller, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "15",
+                "reference": "s. 42",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-10-01",
+                "order": "19",
+                "to_date": "",
+                "description": "i Gudbrandsdølen",
+                "authors": [
+                    "Holbø, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "34",
+                "reference": "s. 228",
+                "to_date": "",
+                "description": "Gudbrandsdalen. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-09-29",
+                "order": "13",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Willumsen, U. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-07-24",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Gudbrandsdølen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-10-01",
+                "order": "5",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Sandal, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-09-13",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nidaros",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-07-24",
+                "order": "7",
+                "to_date": "",
+                "description": "Steinkjer",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-17",
+                "order": "3",
+                "to_date": "",
+                "description": "Dagsavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "29",
+                "reference": "s. 234",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09",
+                "order": "43",
+                "to_date": "",
+                "description": "katalog Lillehammer Bys malerisamling",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-17",
+                "order": "37",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Hoff, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-30",
+                "order": "41",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "33",
+                "reference": "s. 120",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1945–1970",
+                "place": "Trondheim",
+                "authors": [
+                    "Kristiansen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-29",
+                "order": "39",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-02",
+                "order": "0",
+                "to_date": "",
+                "description": "Dagningen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-11-11",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "31",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-07-25",
+                "order": "25",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "14",
+                "reference": "s.278",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J. J.",
+                    "Flønes, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-13",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Lofotp.",
+                "authors": [
+                    "Møller, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-15",
+                "order": "35",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-09-20",
+                "order": "12",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Biermann, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-10-01",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagningen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-07-23",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Lie, M. M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-09-15",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-23",
+                "order": "4",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Biermann, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-17",
+                "order": "2",
+                "to_date": "",
+                "description": "Nidaros",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "16",
+                "reference": "s. 565 (ikke s. 321)",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-09-12",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-07-28",
+                "order": "18",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-11-24",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "30",
+                "reference": "s. 25",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-16",
+                "order": "36",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Larsen, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-27",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-29",
+                "order": "40",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-09-16",
+                "order": "11",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-11-11",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-10-07",
+                "order": "42",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Steingrimsen, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-17",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-07-08",
+                "order": "32",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-01",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagningen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-24",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Rakeng, O."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "John Paulsen",
+    "url": "https://nkl.snl.no/John_Paulsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>P. var teknisk tegner ved Norges Tekniske Høyskole i Trondheim til han i 1931 av helsemessige grunner flyttet til Lillehammer og ble maler på heltid. P. malte landskaper, figurkomposisjoner og portretter, deriblant en rekke barneportretter. Hans tidligste malerier er preget av Fredrik Kolstøs naturalisme og noe senere av en tilnærmet impresjonisme. P.s temperament og voldsomme uttrykksbehov kom imidlertid ganske snart til syne i en forenkling av motivene med stiliseringer, avkortninger og omtolkninger til en fri og djerv fargeekspresjonisme. Han malte flere store figurkomposisjoner med sosiale motiver, som <em>Armod</em> (1938, Lillehammer Bys malerisamling), <em>De flittige hender</em> (utstilling 1947) og en rekke bilder av fiskere fra Lofoten og Trondheim, bl.a. <em>Skjellklyveren</em> (1939, privat eie) og <em>Fiskerne vender hjem</em> (1947, Trøndelag Kunstgalleri). Han eksperimenterte med fargene med en nesten primitiv sans for sterke fargekontraster, ofte på bekostning av komposisjon og figurtegning. P. laget en rekke portretter, fra de mange bilder av sønnen <em>Morten</em>, det karakteristiske <em>Selvportrett med gutt</em> (1938, Trøndelag Kunstgalleri) til mer neddempede og konvensjonelle portretter bl.a. av <em>Lars Jorde</em> (1934, privat eie) og <em>Einar Bergslid</em> (1952 (privat eie).</p></div>",
+    "created_at": "2014-11-20T10:06:51.332+01:00",
+    "changed_at": "2024-06-18T23:27:45.475+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3059\",\"https://digitaltmuseum.no/c76087cd-a705-4ef0-a6c7-0b869c1afa51\",\"http://kulturnav.org/c76087cd-a705-4ef0-a6c7-0b869c1afa51\"]",
+        "lastname": "Paulsen",
+        "firstname": "John",
+        "birth_date": "25.7.1892",
+        "birthplace": "Steinkjer",
+        "death_date": "3.7.1972",
+        "external_id": "person_8736ab3059",
+        "kulturnav_id": "c76087cd-a705-4ef0-a6c7-0b869c1afa51",
+        "place_of_death": "Lillehammer"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

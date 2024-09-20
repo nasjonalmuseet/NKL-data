@@ -1,0 +1,506 @@
+{
+    "id": 418328,
+    "headword": "Didrik Nielsson Muus",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "prest"
+            },
+            {
+                "description": "kobberstikker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1667",
+                "type": "Gift med",
+                "external_id": "person_8736ab105653",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Maren Thorbjørnsdatter",
+                "lastname": "Skaktavl",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105651",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Niels Rasmussen",
+                "lastname": "Muus",
+                "professions": [
+                    "sorenskriver"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105652",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marichen Dideriksdatter",
+                "lastname": "Nøff",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Student Roskilde 1653, teologisk kandidat, København 1659",
+                "order": "1"
+            },
+            {
+                "comment": "Selvlært som kunstner",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Opphold i Roskilde 1651–53"
+            },
+            {
+                "order": "1",
+                "description": "København 1653–60, -63, 1684–86"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Furnes kirke (1 maleri?)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Biri kirke"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Hof kirke på Toten (1 portrett?)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Rosenborg Slot, København (1 elfenbensarbeid?)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Valestrand kirke (fragment av altertavle)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Theodorius Nicolai Muus: Bryllupsvise, Roskilde 1651 (unikt eksemplar i Det kongelige bibliotek, København, kopi på Universitetsbiblioteket, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Niels Thomesæus: Cestus Sapphicus, Christiania 1661"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Portrettutstilling i Bergen",
+                "from_date": "1913",
+                "order": "0",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Mulig selvportrett gjengitt i Bygd og bonde, Hamar 1920, s. 163"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1914",
+                "order": "9",
+                "reference": "s. 90–91",
+                "to_date": "",
+                "description": "Norges land og folk, Ringerike amt",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "11",
+                "reference": "bind 2, s. 53–56",
+                "to_date": "",
+                "description": "Prestebillederne i Hovs kirke paa Totn og Vangs kirke paa Hedmarken, Norsk personalhistorisk tidsskrift",
+                "place": "(Kristiania",
+                "authors": [
+                    "Kolsrud, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "21",
+                "reference": "s. 428, 533, 536–44, 564 (ill.)",
+                "to_date": "",
+                "description": "i Hedmarks historie",
+                "place": "Hamar",
+                "authors": [
+                    "Bugge, A."
+                ],
+                "comments": [
+                    "1. fellesbind"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "18",
+                "reference": "bind 25, s. 302–02",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "3",
+                "reference": "bind 6, s. 530",
+                "to_date": "1898",
+                "description": "Norges historie",
+                "place": "(Kristiania",
+                "authors": [
+                    "Øverland, O. A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1774",
+                "order": "1",
+                "to_date": "",
+                "description": "Forsøg til en Præste-Historie",
+                "place": "Bergen",
+                "authors": [
+                    "Hatting, A."
+                ],
+                "comments": [
+                    "del 2"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "24",
+                "reference": "s. 209–10",
+                "to_date": "",
+                "description": "Stord bygdebok",
+                "place": "Stord",
+                "authors": [
+                    "Høyland, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "14",
+                "reference": "8. rekke, bind 4, s. 212",
+                "to_date": "",
+                "description": "Personalhistorisk Tidsskrift",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "16",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bind 1, register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1903",
+                "order": "6",
+                "reference": "4. række, bind 6, s. 29",
+                "to_date": "",
+                "description": "i Personalhistorisk Tidsskrift",
+                "place": "København",
+                "authors": [
+                    "Kaas, H. J. Huitfeldt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "12",
+                "reference": "bind 1, s. 103–06",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "8",
+                "reference": "s. 79, 81 (ill.)",
+                "to_date": "",
+                "description": "Norges kirker i det 16de og 17de århundrede",
+                "place": "(Kristiania",
+                "authors": [
+                    "Fett, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1766",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergens Adressecontoirs Efterretninger",
+                "authors": [],
+                "comments": [
+                    "nr. 48"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "10",
+                "reference": "s. 129–64 (ill.)",
+                "to_date": "",
+                "description": "En oplandsk prestekunstner paa 1600 tallet, Bygd og bonde",
+                "place": "Hamar",
+                "authors": [
+                    "Brodahl, J. E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "20",
+                "reference": "bind 2, s. 48–50",
+                "to_date": "",
+                "description": "Biri - Snertingdal bygdebok",
+                "place": "Gjøvik",
+                "authors": [
+                    "Lauvdal, T. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "17",
+                "reference": "s. 197",
+                "to_date": "",
+                "description": "Norsk malerkunst under renessanse og barokk",
+                "place": "Oslo",
+                "authors": [
+                    "Grevenor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1829",
+                "order": "2",
+                "reference": "s. 129",
+                "to_date": "",
+                "description": "Kunstner-Lexicon",
+                "place": "København",
+                "authors": [
+                    "Weinwich, N. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "22",
+                "reference": "s. 229",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "4",
+                "reference": "bind 1, s. 235",
+                "to_date": "",
+                "description": "Bergens stifts biskoper og præster efter reformationen",
+                "place": "(Kristiania",
+                "authors": [
+                    "Lampe, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "23",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "19",
+                "reference": "bind 9, s. 531–32",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "15",
+                "reference": "bind 3, s. 215",
+                "to_date": "",
+                "description": "Norsk personalhistorisk tidsskrift",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "13",
+                "reference": "bind 5, s. 478",
+                "to_date": "",
+                "description": "Forfatterlexicon",
+                "place": "København",
+                "authors": [
+                    "Müller, H. Ehrencron"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1897",
+                "order": "5",
+                "reference": "s. 47",
+                "to_date": "",
+                "description": "Nils Muus' æt",
+                "place": "Decorah, Iowa",
+                "authors": [
+                    "Muus, B. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "25",
+                "reference": "registerbind 2, s. 259–69",
+                "to_date": "",
+                "description": "Den lutherske ikonografi i Norge inntil 1800",
+                "place": "Oslo",
+                "authors": [
+                    "Christie, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "7",
+                "reference": "s. 168–69",
+                "to_date": "",
+                "description": "En storbygd",
+                "place": "(Kristiania",
+                "authors": [
+                    "Raabe, J."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Didrik Nielsson Muus",
+    "url": "https://nkl.snl.no/Didrik_Nielsson_Muus",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>M. tilhører en gruppe prester på 1600-tallet som også er kjent for å ha syslet med billedkunst. Han ble utnevnt til huskapellan og etterfølger i embetet hos Ringsakers sogneprest Jens Christopherssen, som allerede hadde utpekt en annen som sin etterfølger. Forholdet førte til en strid som først ble bilagt 1686. I hele perioden var M. uten embete. I 1666 var han en tid i Bergen og i 1686 fikk han prestekall til Stord.</p>\n<p>Sikre arbeider av M. er signerte grafiske arbeider. En illustrert bryllupsvise fra 1651 er signert Theodorius Nicolai Muus, og kobberstikkene til Niels Thomesæus: Cestus Sapphicus, bærer på det siste av stikkene i boken signaturen Dietherico Musenio C.M.C. 1659, dvs. Sancti Ministerii Candidatus. Bryllupsvisen er illustrert med 5 kobberstikk som fremstiller løsslupne elskovsscener. De utspiller seg dels på jorden, dels i himmelen. Stikkene er gjennomarbeidede med et mylder av figurer og landskapsfragmenter, sammensatt uten fast komposisjon. Guder, gudinner, nymfer og mennesker er skildret, antagelig etter forlegg. I Niels Thomesæus' Cestus Sapphicus, som er en avhandling om ekteskapet, har M. stukket platene til de 31 strofene og like mange billedgåter. Illustrasjonene er ikke samlede bilder, men løsrevne figurer, planter, dyr osv. spredt omkring i den latinske teksten. M.s kobberstikk er preget av Albert Haelwegs arbeider. M.s virke som maler er uklart. Arbeider er vekselvis blitt tilskrevet ham og hans venn presten Knud Selvaldssøn Bang på Toten. Ifølge en lokal tradisjon skal det ha eksistert et nært kunstnerisk fellesskap mellom dem. 15 portretter på pulpituret i Toten kirke er tilskrevet Bang. Man har antatt at portrettet samme sted av Bang er utført av M. I Furnes kirke finnes et maleri med figurgrupper som kan være av M. eller Bang. I Vågå kirke er det et <em>epitafium over Oluf Lunde</em> (1668) som Grevenor i 1928 antydet er av M., men som Sigrid Christie i 1973 tilskriver Bang. I Biri stavkirke på Sigstad er det et <em>epitafium over Mathias Pedersen Aalborg og Hildeborg Christophersdatter</em>. Ekteparet står med foldede hender vendt mot tilskueren foran et dekorativt arkitekturmotiv med grå søyler og balustrader. I bakgrunnen er et utsyn mot et kystlandskap. Epitafiet har en latinsk innskrift som avsluttes med at bildet ble malt av Didericus Musenius 1672. Signaturen har også vært lest som Diderik Mule. M. var bosatt på Biri prestegård så sent som i 1786. Gjennom en omtale i Bergens Adressecontoirs Efterretninger (nr. 48, 1766) kjennes en altertavle utført for Stord kirke ca. 1686. Muligens er det en forveksling med en altertavle i Valestrand kirke, som er kjent gjennom et bevart fragment. Fragmentet viser en fremstilling av Kristus ved søylen, antagelig etter stikk etter Giovanni Sodomas bilde i Siena-akademiet, tilsatt visse trekk fra Guido Renis Tornekronede Kristus. Bildet har opprinnelig vært et knestykke, men er avskåret nedentil og satt inn i ny ramme. I Ølen kirke ble det 1703 satt opp et <em>epitafium over Peter Heltberg og hustru</em>. Det ble fjernet ca. 1870 og tilhørte lenge Chr. Langaards samling, nå forsvunnet og antatt ødelagt. Rammen var et bilthuggerarbeid av M. Av omtale er kjent et portrett av <em>biskop Niels Randulf</em> i Bergen og et <em>selvportrett</em> som i 1776 hang på Lindaas prestegård. M. var også elfenbens- og treskjærer. Han har levert et <em>krusifiks</em> utskåret i elfenben til det kongelige kunstkammer i København, som kan være identisk med et krusifiks i elfenben og buksbom på Rosenborg Slot. Et mangletre (Kunstindustrimuseet i Oslo) med M. og hustruens navnetrekk er datert 1684. Det viser en utskåret Eros og en havfrue med vulvaen dekket av en skjegget Satyr. Flere mangletrær bl.a. i Vestlandske Kunstindustrimuseum, Bergen og Hamar museum viser store likhetstrekk med dette.</p>\n</div>",
+    "created_at": "2013-07-04T12:18:25.912+02:00",
+    "changed_at": "2024-06-18T23:26:32.529+02:00",
+    "license_name": "fri",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2795\",\"https://digitaltmuseum.no/07eb132a-b430-4f7c-acea-0e0d20f3c8a2\",\"http://kulturnav.org/07eb132a-b430-4f7c-acea-0e0d20f3c8a2\"]",
+        "lastname": "Muus",
+        "firstname": "Didrik Nielsson",
+        "birth_date": "0.0.1633",
+        "death_date": "0.0.1706",
+        "external_id": "person_8736ab2795",
+        "kulturnav_id": "07eb132a-b430-4f7c-acea-0e0d20f3c8a2",
+        "alternative_names": "Muus, Dietrich Nielsson; Muus, Diderik Nielsson; Muus, Dietherico Nielsson; Muus, Didericus Nielsson"
+    },
+    "authors": [
+        {
+            "full_name": "Øivind Storm Bjerke"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "prest"
+        },
+        {
+            "description": "kobberstikker"
+        }
+    ]
+}

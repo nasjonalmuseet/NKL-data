@@ -1,0 +1,1143 @@
+{
+    "id": 416324,
+    "headword": "Dagny Hald",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1956",
+                "type": "Gift med",
+                "external_id": "person_8736ab1387",
+                "birth_date": "08.07.1929",
+                "death_date": "17.10.2010",
+                "firstname": "Finn",
+                "lastname": "Hald",
+                "professions": [
+                    "maler",
+                    "keramiker",
+                    "grafiker",
+                    "forfatter",
+                    "billedhugger"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab3223",
+                "birth_date": "24.12.1887",
+                "death_date": "11.04.1962",
+                "firstname": "Axel",
+                "lastname": "Revold",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab3225",
+                "birth_date": "09.08.1900",
+                "death_date": "28.04.1977",
+                "firstname": "Irmelin",
+                "lastname": "Revold",
+                "professions": [
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bærum"
+            },
+            {
+                "order": "1",
+                "description": "Son"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1952-55",
+                "order": "1"
+            },
+            {
+                "comment": "lært grafiske teknikker hos Trond Botnen 1973",
+                "order": "4"
+            },
+            {
+                "comment": "hospitant Atelier Hayter, Paris 1974",
+                "order": "5"
+            },
+            {
+                "comment": "praksis ved Marianne og Lars Thiirslunds verksted, København 1953",
+                "order": "2"
+            },
+            {
+                "comment": "hospitant Statens Kunstakademi, Oslo under Alexander Schultz 1958",
+                "order": "3"
+            },
+            {
+                "comment": "Accademia dei Belle Arti, Roma 1951",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens 3-årige arbeidsstip. 1965"
+            },
+            {
+                "order": "3",
+                "description": "India og Nepal 1981"
+            },
+            {
+                "order": "1",
+                "description": "Studiereiser til Paris 1974"
+            },
+            {
+                "order": "2",
+                "description": "Tyrkia 1976"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "0",
+                "description": "Gjestelærer Statens Håndverks- og Kunstindustriskole, Oslo 1975"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Sm.m. Finn H.: Sølvmedalje, Praha 1962"
+            },
+            {
+                "order": "0",
+                "description": "Mention honorable, Syracusa, USA 1959"
+            },
+            {
+                "order": "2",
+                "description": "Jacob-prisen 1981"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Seida Ungdomsskole (1972)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "M/S Island Venture (1972)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "med grafikk til Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Victoria and Albert Museum, London"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Jeløen Aldershjem, Moss (1972)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Restaurant Etoile, Grand Hotel, Oslo (1977)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Hester og svevere, keramikkrelieff, Universitetet i Oslo (1970)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "med grafikk i Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "sm.m. Finn H.: Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "med keramikk: Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Sm.m. Finn H. og Frans Widerberg: Ryttergruppe, keramikkrelieff på Haukeland sykehus, Bergen (1968)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Cruiseskip på Nilen for Sheraton, Egypt (1979)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Lille Langerud aldershjem, Oslo (1978)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Röhsska Konstslöjdmuseum, Göteborg"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Norske kunsthåndverkere"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Løvefontene, Moss kino (1971)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Bryne",
+                "from_date": "1956",
+                "order": "19",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1979",
+                "order": "55",
+                "to_date": "",
+                "title": "S.W. Hayter og hans norske elever"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord",
+                "from_date": "1956",
+                "order": "28",
+                "to_date": "1980"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1976",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gmünden, Østerrike",
+                "from_date": "1959",
+                "order": "43",
+                "to_date": "",
+                "title": "internasjonal keramikkutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Osaka, Japan",
+                "from_date": "1964",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1967",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryggens museum, Bergen",
+                "from_date": "1982",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Milano",
+                "from_date": "1960",
+                "order": "44",
+                "to_date": "",
+                "title": "12. Triennale"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "The Museum of Contemporary Crafts, New York",
+                "from_date": "1957",
+                "order": "40",
+                "to_date": ""
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Molde",
+                "from_date": "1956",
+                "order": "18",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Köln",
+                "from_date": "1971",
+                "order": "50",
+                "to_date": "",
+                "title": "Sammlung Thiemann-Zeitgenössische europäische Keramik"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Halden",
+                "from_date": "1956",
+                "order": "24",
+                "to_date": "1980"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1976",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Australia",
+                "from_date": "1968",
+                "order": "48",
+                "to_date": "1969",
+                "title": "Design in Scandinavia"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lunds Konsthall, Sverige",
+                "from_date": "1978",
+                "order": "54",
+                "to_date": "",
+                "title": "Fri keramikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1981",
+                "order": "38",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Universitetet i Tromsø",
+                "from_date": "1973",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Skien",
+                "from_date": "1956",
+                "order": "20",
+                "to_date": "1980"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Röhsska Konstslöjdmuseum, Göteborg",
+                "from_date": "1974",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Forum, Oslo",
+                "from_date": "1959",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1980",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1968",
+                "order": "35",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutst. USA",
+                "from_date": "1957",
+                "order": "39",
+                "to_date": "1960",
+                "title": "The Arts of Norway"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Hønefoss",
+                "from_date": "1956",
+                "order": "29",
+                "to_date": "1980"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Fredrikstad",
+                "from_date": "1956",
+                "order": "25",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1968",
+                "order": "49",
+                "to_date": "",
+                "title": "9 fra Norge, U.2"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo kunstforening",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Praha",
+                "from_date": "1962",
+                "order": "45",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Victoria and Albert Museum, London",
+                "from_date": "1972",
+                "order": "53",
+                "to_date": "",
+                "title": "internasjonal keramikkutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Universitetet i Tromsø",
+                "from_date": "1975",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Forum, Oslo",
+                "from_date": "1957",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Larvik",
+                "from_date": "1956",
+                "order": "21",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1975",
+                "order": "31",
+                "to_date": "1978",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1972",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger kunstforening",
+                "from_date": "1972",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1965",
+                "order": "46",
+                "to_date": "",
+                "title": "Form og Flora"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Syracusa, USA",
+                "from_date": "1959",
+                "order": "42",
+                "to_date": "",
+                "title": "internasjonal keramikkutst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. J.M.S., Oslo",
+                "from_date": "1980",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansand",
+                "from_date": "1956",
+                "order": "26",
+                "to_date": "1980"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Tønsberg",
+                "from_date": "1956",
+                "order": "22",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sammlung Thiemann, Bremen/Osnabrück",
+                "from_date": "1972",
+                "order": "52",
+                "to_date": "",
+                "title": "Skandinavische Keramik"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hamburg",
+                "from_date": "1979",
+                "order": "56",
+                "to_date": "",
+                "title": "Europäische Keramik seit 1950"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1970",
+                "order": "36",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "32",
+                "to_date": "",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1965",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1974",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kiel",
+                "from_date": "1966",
+                "order": "47",
+                "to_date": "",
+                "title": "Norwegische Gebrauchskunst"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1956",
+                "order": "17",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1958",
+                "order": "41",
+                "to_date": "",
+                "title": "Formes Scandinaves"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Brukskunsts høstmønstringer Kunstnernes Hus, Oslo",
+                "from_date": "1956",
+                "order": "33",
+                "to_date": "1962"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Mandal",
+                "from_date": "1956",
+                "order": "27",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1973",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "comment": "i perioden",
+                "category": "Separat",
+                "exhibition_organizer": "Gjøvik",
+                "from_date": "1956",
+                "order": "23",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Düsseldorf",
+                "from_date": "1980",
+                "order": "57",
+                "to_date": "",
+                "title": "Europäische Keramik seit 1950"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund kunstforening",
+                "from_date": "1972",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sammlung Thiemann, Hamburg",
+                "from_date": "1972",
+                "order": "51",
+                "to_date": "",
+                "title": "Skandinavische Keramik"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1980",
+                "order": "0",
+                "to_date": "",
+                "description": "Mellom to stoler",
+                "place": "Oslo",
+                "authors": [
+                    "HALD, Dagny Johanne"
+                ],
+                "comments": [
+                    "billedbok sm.m. Finn Hfoto Roar Høyland"
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1960-08-13",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Moss Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "8",
+                "reference": "s. 25, 31 (ill.)",
+                "to_date": "",
+                "description": "Norsk brukskunst",
+                "authors": [],
+                "comments": [
+                    "årbok Foreningen Brukskunst"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1980-08-16",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Moss Avis",
+                "authors": [
+                    "Vogt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "22",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 5"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "19",
+                "reference": "s. 29",
+                "to_date": "",
+                "description": "Scandinavian Design",
+                "place": "New York",
+                "authors": [
+                    "Beer, E. Harrison"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "4",
+                "reference": "s. 26-27 (ill.)",
+                "to_date": "",
+                "description": "33 brukskunstnere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "10",
+                "reference": "s. 42 (ill.)",
+                "to_date": "",
+                "description": "orwegian Arts and Crafts, Industrial Design",
+                "place": "Oslo",
+                "authors": [
+                    "Aars, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-03",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-02-20",
+                "order": "29",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Østlandets Blad",
+                "authors": [
+                    "Molstad Andersen, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "31",
+                "reference": "s. 65-78 (ill.)",
+                "to_date": "",
+                "description": "Dagny og Finn Hald, Nordisk kunsthåndverk og design",
+                "place": "Oslo",
+                "authors": [
+                    "Høyland, R."
+                ],
+                "comments": [
+                    "utg. av Landsforbundet Norsk Brukskunst"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "28",
+                "reference": "s. 106 (ill.)",
+                "to_date": "",
+                "description": "The Contemporary Decorative Arts from 1940 to the Present Day",
+                "place": "London",
+                "authors": [
+                    "Garner, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-11-06",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thue, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "13",
+                "reference": "s. 37-38, 42-45 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunsthåndverk",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-01-03",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-05-21",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Bøe, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-07-06",
+                "order": "21",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Bugge, E.M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-09-24",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "9",
+                "reference": "s. 194-200 (ill)",
+                "to_date": "",
+                "description": "To keramikere har ordet, Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "7",
+                "reference": "s. 202 (ill.), 274",
+                "to_date": "",
+                "description": "Brukskunst i hjemmet",
+                "place": "Oslo",
+                "authors": [
+                    "Zahle, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-21",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Fædrelandsvennen",
+                "authors": [
+                    "Opstad, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-05-23",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-08-22",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Akershus Amtstidende",
+                "authors": [
+                    "Øystå, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-07-07",
+                "order": "30",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-06",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Solberg, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "33",
+                "to_date": "",
+                "place": "Bergen",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [
+                    "i katalog Bryggens museum"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1982-04-07",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "14",
+                "reference": "s. 40, 41 (ill.)",
+                "to_date": "",
+                "description": "Norsk brukskunst",
+                "place": "Oslo",
+                "authors": [
+                    "Skaare, J. (red.)",
+                    "Engelstad, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "18",
+                "to_date": "",
+                "description": "New ceramics",
+                "place": "London",
+                "authors": [
+                    "Cooper, E.",
+                    "Lewenstein, E."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971-08-05",
+                "order": "16",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Bryn, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "20",
+                "reference": "s. 274",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "12",
+                "reference": "s. 266–67 (ill.)",
+                "to_date": "",
+                "description": "Spenning og slit i Son, Bonytt",
+                "authors": [
+                    "Engen, E. M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "1",
+                "reference": "s. 107 (ill.)",
+                "to_date": "",
+                "description": "Norwegian ceramics today, Bonytt",
+                "authors": [
+                    "J. von der Lippe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "3",
+                "reference": "s. 42-43 (ill.)",
+                "to_date": "",
+                "description": "Dagny og Finn Halds keramikk, Bonytt",
+                "authors": [
+                    "Refsum, T."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Dagny Hald",
+    "url": "https://nkl.snl.no/Dagny_Hald",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Da Dagny og Finn H. giftet seg i 1956, flyttet de til Son i Akershus og startet et keramikkverksted. De arbeidet sammen om gjenstandene ved at Finn H. dreide formene og hadde ansvar for brenningen, mens H. blandet glasurer og dekorerte. Det er derfor naturlig å behandle Dagny H. og Finn H. sammen, selv om de har laget mange gjenstander hver for seg, særlig etter 1970. Allerede i 1957 hadde Dagny og Finn H. sin første separatutstilling i Forum, Oslo, med steingodsarbeider. Finn H.s former var enkle og stramme og gav gode muligheter for dekor og glasurvirkninger. Dagny H.s dekorer gikk fra de enkle geometriske motiver (rifler, triangler o.l.) til stiliserte fisker, fugler og figurer. Dekoren var risset ned i leiren gjennom et underlag med jernoksyd før glasuren ble lagt på. På denne måten ble dekoren en del av materialvirkningen. I slutten av 1950-årene stod Dagny og Finn H. for nye tendenser innen keramikk. Omkring 1950 avløste det høybrente chamotte- og steingodset 1940-årenes rikt bemalte leirtøy. Keramikernes interesse svingte over mot en rendyrkning av materialkarakter og glasurvirkninger. I Norge ble formene robuste og kraftige, og fikk preg av å være naturgrodde. Dette gjaldt også Dagny og Finn H.s arbeider, men det som skilte dem fra andre samtidige var den betydning en fabulerende dekor alltid spilte i deres arbeider. Dagny og Finn H. lot dekoren vokse sammen med glasur- og materialvirkninger til et særpreget hele. Impulser til dette kan Dagny H. ha mottatt i Lars Thiirslunds verksted i 1955. Finn H. har trukket fram de svenske keramikerne Wilhelm Kåge og Stig Lindberg som impulsgivere. Tidlig begynte Dagny og Finn H. å lage keramikkrelieffer med figurative motiver, og <em>Spansk landsby</em> av Dagny H. fikk Mention honorable i Syracusa, USA 1957. Karakteristisk for dem begge er det figurativt fabulerende, mens andre keramikere laget arbeider mer i tråd med samtidens nonfigurative billedkunst. Dagny og Finn H. plasserte seg raskt i grenselandet mellom kunsthåndverk og fri kunst, og utviklingen gikk etter hvert mot en eksperimentering også med andre teknikker, f.eks. grafikk. I 50- og 60-årene lå hovedtyngden av arbeidene på det rene kunsthåndverk. De hadde stor suksess, eksporterte bl.a. til Canada, USA og Japan. I 1965 hadde de en stor mønstring i Kunstnerforbundet som viste bruksgjenstander og en kolleksjon av frie keramiske arbeider. På bruksgjenstandene dominerte rike og spennende glasurer, og figurene og fabeldyrene som tidligere hadde dekorert vaser o.l. hadde nå sprunget løs og var blitt tredimensjonale. En tung, kluntet sjarm preget arbeidenes mange øgler, panserflodhester og fantasivesener. I et intervju i Bonytt samme år uttalte Finn H. at pottemakerne skulle beskjeftige seg med pynte-, altså dekorasjonsgjenstander; med uttrykk, og ikke med bruksverdi. De holdt begge på at det de laget ikke var å betrakte som kunst, men en ny form for nips skapt i en reaksjon mot samtidens estetiske purisme. I mars 1966 kjøpte de en gassovn som gav muligheter for reduksjonsbrenning og dermed en videre eksperimentering med glasurvirkninger. Samtidig la de begge mer og mer vekt på fritt formede keramiske arbeider. I 1967 og 1970 samarbeidet de med Frans Widerberg om store keramikkfriser med hester og ryttere til Haukeland sykehus, Bergen, og til Universitetet i Oslo. Dette samarbeidet virket stimulerende, særlig på Finn H., som i de nærmeste årene arbeidet videre med hest og rytter-motiver. I en rekke arbeider viste han at han behersket den frie skulpturale formen. Hestene kunne være forfinet enkle i sitt uttrykk, nær sine slektninger i kinesisk kunst. I hest og rytter-motivet dreide han formen mot det groteske og gav figurene et eget fortapt, nesten patetisk uttrykk. I 1973 ble Finn H. opptatt som medlem av Norsk Billedhuggerforening. Utstillingene i Kunstnerforbundet, Oslo 1970, Oslo Kunstforening 1972 og Vestlandske Kunstindustrimuseum 1974 viste at tyngden i produksjonen nå lå i de frie keramiske arbeidene. Denne utviklingen var stimulert gjennom bl.a. store bestillingsarbeider til M/S Sea Venture og svømmehallen i Seida internat, Finnmark. Utstillingene viste også at de ikke lenger var et rent fellesskap, men at de hadde hver sin uttrykksform. I Finn H.s arbeider med keramiske bilder og skulptur møtte man en egen fantasiverden preget av noe grotesk fabulerende både i motivvalg og utforming. Et gjennomgående tema var kamp- og voldssituasjoner hvor aktørene var hentet ut fra en egen mytisk virkelighet, f.eks. i <em>Byen lytter</em> fra 1972.</p>\n<p>Dagny H. er mer direkte fortellende i sine arbeider og veksler mellom å skape rare, poetiske eventyrstemninger og små, litt ondskapsfulle avsløringer av menneskelige svakheter. Hun legger mer vekt på det rent dekorative i utformingen av sine arbeider. Formmessig er hun mindre ekspressiv enn Finn H., men det uttrykksfulle kan ligge nettopp i det noe formløse i skikkelsene – det være seg fete damer eller kvapsete hunder. I 1971 sa Finn H. i et intervju om de keramiske bildene at de måtte stilles likt med maleri \"bare at vi bruker glasurer på leire, istedenfor olje på lerret\". I 1976 arbeidet begge med grafikk, og Finn H. motiverte dette bl.a. med at de i grafikken så umiddelbare resultater i motsetning til den lange prosess som lå bak de keramiske bildene. Fra 1974 fikk Finn H. antatt grafikk på Høstutstillingen, og Dagny H. fra 1975. På utstillingene fra 1975 og fremover viste de begge både keramiske arbeider og grafikk. Motivisk var det klar sammenheng. Hos Finn H. møtte man de samme groteske vesnene og skrekkvisjonene, og nå kunne man se en nær sammenheng med samtidig tysk (bl.a. Horst Janssen) og østerriksk grafikk. Dagny H. viste seg å ha en suverent levende strek som kom fram bl.a. i det grafiske bladet <em>Helt alene</em> fra 1979. I sine satirer over borgerskapet viser hun seg nesten grovkornet burlesk og nærmer seg Finn H.s formspråk. Finn H. begynte også å arbeide med tempera, og viste landskapsstudier i Stavanger 1979. I 1980 utgav de boken Mellom to stoler sammen med Roar Høyland, som hadde fotografert deres figurer ute i naturen i små tablåer. Sammen med Finn H.s tekster gav disse poetiske kommentarer til menneskelige livssituasjoner. I slutten av 1970-årene gikk de begge over mot en mer fortellende og naturalistisk form. Det absurde og overraskende var alltid til stede i Finn H.s arbeider, og i Dagny H.s miniatyrutgaver av overdådige bordsetninger. Felles for dem begge er humor og medmenneskelighet, som hos ham er krydret med det barokke og hos henne med en mild ironi.</p>\n\n</div>",
+    "created_at": "2013-07-03T15:11:32.878+02:00",
+    "changed_at": "2024-06-18T23:25:38.310+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1386\",\"https://digitaltmuseum.no/a07c1a2a-0fe2-4f91-9105-2aef1b13be56\",\"http://kulturnav.org/a07c1a2a-0fe2-4f91-9105-2aef1b13be56\"]",
+        "lastname": "Hald",
+        "firstname": "Dagny",
+        "birth_date": "17.4.1936",
+        "birthplace": "Oslo",
+        "death_date": "6.9.2001",
+        "external_id": "person_8736ab1386",
+        "kulturnav_id": "a07c1a2a-0fe2-4f91-9105-2aef1b13be56",
+        "place_of_death": "Vestby",
+        "alternative_names": "Hald, Dagny Johanne Revold; Hald, Dagny Johanne"
+    },
+    "authors": [
+        {
+            "full_name": "Anniken Thue"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

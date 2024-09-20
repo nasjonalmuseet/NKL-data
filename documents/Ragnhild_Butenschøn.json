@@ -1,0 +1,594 @@
+{
+    "id": 416823,
+    "headword": "Ragnhild Butenschøn",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1936",
+                "type": "Gift med",
+                "external_id": "person_8736ab101232",
+                "birth_date": "1904",
+                "death_date": "",
+                "firstname": "Hans Barthold Andresen",
+                "lastname": "Butenschøn",
+                "professions": [
+                    "forlagsdirektør"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101231",
+                "birth_date": "1884",
+                "death_date": "1923",
+                "firstname": "Agnes",
+                "lastname": "Prebensen",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101230",
+                "birth_date": "1883",
+                "death_date": "1947",
+                "firstname": "Alf",
+                "lastname": "Jakhelln",
+                "professions": [
+                    "major"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Ytre Enebakk"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "korrektur av Per Palle Storm sommeren 1939",
+                "order": "3"
+            },
+            {
+                "comment": "kortere opphold ved akademi i Torino 1964",
+                "order": "4"
+            },
+            {
+                "comment": "Aba Novaks malerskole og kunstak. i Budapest",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1933–34",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Wilhelm Rasmussen 1936–40",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereiser til Italia"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Bildende Kunstneres Styre"
+            },
+            {
+                "order": "7",
+                "description": "jurymedlem i konkurransen om Fridtjof Nansen-monumentet (1958)"
+            },
+            {
+                "order": "6",
+                "description": "medlem av Riksgalleriets innkjøpskomité"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Norsk Billedhuggerforening"
+            },
+            {
+                "order": "3",
+                "description": "Styremedlem i Bildende Kunstneres Styre 1959–61"
+            },
+            {
+                "order": "5",
+                "description": "medlem av Den faste Jury 1959–63"
+            },
+            {
+                "order": "2",
+                "description": "Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "8",
+                "description": "Hun har vært knyttet til redaksjonen av tidsskriftet Spektrum og skrevet kunstartikler der"
+            },
+            {
+                "order": "4",
+                "description": "viseformann i Norsk Billedhuggerforening 1961–63"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "hederspris i konkurransen om Roosevelt-monument 1948"
+            },
+            {
+                "order": "0",
+                "description": "3. premie i konkurransen om sjøfartsmonumentet i Bergen 1938"
+            },
+            {
+                "order": "3",
+                "description": "delt 1. premie i konkurransen om Bjørnson-monument 1960, senere utført av Agnes Houg (1968)"
+            },
+            {
+                "order": "2",
+                "description": "1. premie med det utførte relieffet Tvillingene Handel og Skipsfart i konkurransen om utsmykning av Wilh. Wilhelmsenbygget, Oslo 1958"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Rosepiken, Molde (1971)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "relieffet St. Georg og dragen, St. Mary-le-Bow, London (1966)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Tvillingene, Tistedalsparken, Halden (1965)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Frans av Assisi til Valler skole, Bærum (1964)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Den seirende Kristus, relieff, Fredrikstad Domkirke (1955)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "fontenen Dansende jenter, Christiania Portland Cementfabrikk, Slemmestad (1958–59)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "bronse-engel, Ullensaker kirke (1957)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "skåret og malt alterskap i tre, Helgøya kapell (1953)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "monument over Asbjørn Dørumsgard, Lillestrøm (1971)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "relieffet Hellig Olav til hest, Olavs kapell, Sandar menighetshus, Sandefjord"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "monument over Henrik Sørensen, Lillestrøm (1968)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "to dekorative felt i furu, Ålesund krematorium (1955–56)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Ørnen, Odontologisk Institutt, Bergen (1960)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Gallionsfigur til M/S Baldrian, Fred Olsens rederi (1946–47)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "to seler, Brekkelia, Oslo (1960)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Ikaros, UD og Krapfoss skole, Moss (1964)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Frans av Assisi (1953) Melløs skole, Moss, Tønsberg høyere skole og Lillestrøm gymnas"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "to relieff i granitt og marmor, Sandefjord krematorium (1960)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Tvillingene Handel og Skipsfart, relieff Wilh. Wilhelmsens bygg i Oslo (1958–59)"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "relieffet Marias bebudelse, Torshov kirke (1975)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Engel, Hamar Domkirke (1954)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1948",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1945",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1977",
+                "order": "15",
+                "to_date": "",
+                "title": "Østersjølandenes 7. Biennale"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Rostock",
+                "from_date": "1977",
+                "order": "14",
+                "to_date": "",
+                "title": "Østersjølandenes 7. Biennale"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1968",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1959",
+                "order": "7",
+                "to_date": "1966",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1950",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1953",
+                "order": "6",
+                "to_date": "1954",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1975",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1937",
+                "order": "1",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1939",
+                "order": "2",
+                "to_date": "1940",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1946",
+                "order": "10",
+                "to_date": "1947",
+                "title": "Nordisk Kunstforbunds utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1972",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riksgalleriet",
+                "from_date": "1967",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1962",
+                "order": "11",
+                "to_date": "",
+                "title": "Skulpturutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordjylland Kunstmuseum",
+                "from_date": "1972",
+                "order": "13",
+                "to_date": "",
+                "title": "Den norske skulpturudstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1970",
+                "order": "8",
+                "to_date": "",
+                "description": "Skulptur i Moss",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "1",
+                "reference": "hefte 3–4, s. 13",
+                "to_date": "",
+                "description": "Kunsten i dag",
+                "title": "Norsk kunst på norske skip",
+                "authors": [
+                    "Anker, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "11",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-09",
+                "order": "10",
+                "reference": "s. 17",
+                "to_date": "",
+                "description": "F 15 Kontakt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "6",
+                "reference": "bd. 3, s. 594",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "7",
+                "reference": "s. 210–214",
+                "to_date": "",
+                "description": "Norsk skulptur",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "9",
+                "reference": "s. 69 og s. 184",
+                "to_date": "",
+                "description": "Kunst og Kultur, register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "5",
+                "reference": "s. 92–93",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "0",
+                "reference": "bd. 2, s. 433",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "3",
+                "reference": "s. 358–60",
+                "to_date": "",
+                "description": "St. Olav",
+                "title": "Ukunsten er nemlig farlig, En samtale med Ragnhild Butenschøn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "2",
+                "reference": "s. 33",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "4",
+                "reference": "hefte 3, s. 26–43",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "title": "Ragnhild Butenschøn",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "12",
+                "reference": "s. 261",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ragnhild Butenschøn",
+    "url": "https://nkl.snl.no/Ragnhild_Butensch%C3%B8n",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>I 1935 debuterte B. med to malerier på en utstilling i Budapest. På Høstutstillingen to år senere debuterte hun som billedhugger. B. tok i 30- og 40-årene utgangspunkt i et tradisjonelt billedspråk. Best i disse årene er portrettene, spesielt kan nevnes portrett av <em>Aasmund Brynildsen</em> (1943) og en del barneportretter. Fram til omkring 1960 finner man hos B. en tendens til å utvikle smekre, langlemmete figurer med få beskrivende detaljer. Figurene har ofte en glatt eller lett ru, jevnt lysreflekterende overflate, små hoder og lange armer og bein. Denne stiltendensen kan være påfallende som i <em>Engel</em> (1953) eller mer moderat slik man finner det i fontenen <em>Dansende jenter</em> (1958–59). Denne fontenen er et hovedverk i kunstnerens produksjon. Nettopp her unngår hun den stivhet som enkelte av hennes tidligste verker ofte var preget av. I fontenen nådde B. den skjønnhet og eleganse som synes å ha vært hennes mål helt siden debuten. I begynnelsen av seksti-årene skjedde en gradvis forandring som omfattet både teknikk, materialer og delvis motivkrets. I 1961 satte B. seg inn i sveiseteknikk, og på Høstutstillingen året etter stilte hun ut <em>Åpenbaring</em>, utført i sveiset messing og kobber. De nye tekniske mulighetene gav rom for en direkte behandling av materialet, og resulterte i dyptgående stilendringer. Det kan synes som om kunstneren hadde endret syn på hvordan man skulle løse problemet mellom den ytre form og ønsket om at skulpturene skulle gjenskape åndelige realiteter. Løsningen på problemet var en tiltagende stiliseringsprosess og utnyttelsen av sveiseteknikk, eller en summarisk og ekspressiv overflatebehandling slik man finner det i <em>Frans av Assisi</em> og <em>Ikaros</em> (begge 1964). Andre ganger arbeider kunstneren med en sluttet, forenklet helhetsform som i <em>Møte</em> (1966). Enkelte av B.s motiver som f.eks. hest og rytter i <em>Damaskus</em> (1965), viser at kunstneren har tatt utgangspunkt i motiver hos kunstnere som har betydd mye for henne. I dette tilfelle Marino Marinis serie med hest- og rytterskulpturer fra begynnelsen av 1950-årene. </p>\n<p>B. konverterte til katolisismen i 1955, og et religiøst grunnsyn preger mange av hennes arbeider. Flammemotivet i <em>Ikaros</em> (1964) og i monument over <em>Henrik Sørensen</em> (1968) utnyttes både ekspressivt for å understreke motivets symbolverdi, og dekorativt som et middel til å skape en ornamental helhet. B. har gjennom årene arbeidet med mange slags materialer og med de fleste områder innenfor nyere skulptur som relieff, fontene, gallionsfigur, frittstående figurer og monumenter. Kunstneren har også laget en rekke portretter, bl.a. av <em>Henrik Groth</em> (1968) og <em>Odd Eidem</em> (1975). Et typisk trekk for B. er at hun sjelden gjør sine skulpturer monumentale. Hun arbeider som regel i lite format. Men nettopp dette skaper en sympatisk intimitet som går som en ledetråd gjennom hele B.s produksjon.</p>\n</div>",
+    "created_at": "2013-07-03T17:42:37.374+02:00",
+    "changed_at": "2024-06-18T23:25:51.191+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab595\",\"https://digitaltmuseum.no/2dc64a75-911f-432f-ae2b-c08c58872fc0\",\"http://kulturnav.org/2dc64a75-911f-432f-ae2b-c08c58872fc0\"]",
+        "lastname": "Butenschøn",
+        "firstname": "Ragnhild",
+        "birth_date": "21.9.1912",
+        "birthplace": "Oslo",
+        "death_date": "3.9.1992",
+        "external_id": "person_8736ab595",
+        "kulturnav_id": "2dc64a75-911f-432f-ae2b-c08c58872fc0",
+        "place_of_death": "Ytre Enebakk"
+    },
+    "authors": [
+        {
+            "full_name": "Erik Mørstad"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

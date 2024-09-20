@@ -1,0 +1,157 @@
+{
+    "id": 430476,
+    "headword": "Johannes Caspar Schøller",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "dekoratør"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106931",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Margrethe",
+                "lastname": "Schøller",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106930",
+                "birth_date": "1714",
+                "death_date": "1745",
+                "firstname": "Caspar Mortensen",
+                "lastname": "Schøller",
+                "professions": [
+                    "dekorasjonsmaler"
+                ]
+            },
+            {
+                "from_date": "1778",
+                "type": "Gift med",
+                "external_id": "person_8736ab106932",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg Whit",
+                "lastname": "Knudsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "I malerlære hos sin far i København",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstakademiet i København ca. 1759-62",
+                "order": "1"
+            }
+        ],
+        "travels": [],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1927",
+                "order": "1",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 2, register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "2",
+                "reference": "s. 27",
+                "to_date": "",
+                "description": "i Trondheim Kunstforenings 90-årsskrift",
+                "place": "Trondheim",
+                "authors": [
+                    "Brodahl, J. E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "3",
+                "reference": "bd. 3, s. 172-73",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "0",
+                "to_date": "",
+                "description": "Malerkunsten i Norge i det 18. aarhundre",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Johannes Caspar Schøller",
+    "url": "https://nkl.snl.no/Johannes_Caspar_Sch%C3%B8ller",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\r\n<p>S. er kjent i Trondheim fra 1773, der han flere ganger averterte tegneundervisning \"efter den Academiske Methode\". I 1775 fikk S. borgerskap som maler etter å ha fremvist \"et Landskab\" og \"en verdslig Historie\" som mesterstykke. I 1788 opplyste han selv at han stod i det Københavnske malerlaug. S. malte i 1779 fløystangen på Vår Frues kirketak og i 1780 urskiven og viserne. To signerte portretter er kjent, <em>Matematikeren Fester </em>og <em>Christian 7</em> (skjenket Leinstrand kirke 1787), antagelig en kopi etter portrett av Jens Juel, kanskje basert på Terkel Kleves stikk fra omkring 1785. En rekke portretter, deriblant flere tegnede, kan knyttes til S. på stilistisk grunnlag. De viser høy håndverksmessig dyktighet, er omhyggelig, men tørt malt. S.' navn er også satt i forbindelse med endel landskaper, dyre- og fuglebilder innfelt over dørene i Stiftsgården, Trondheim.</p>\r\n</div>",
+    "created_at": "2014-11-20T16:17:18.782+01:00",
+    "changed_at": "2024-06-18T23:27:59.075+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3439\",\"https://digitaltmuseum.no/818f8c53-e00d-4bd5-9054-49c9a43ef70a\",\"http://kulturnav.org/818f8c53-e00d-4bd5-9054-49c9a43ef70a\"]",
+        "lastname": "Schøller",
+        "firstname": "Johannes Caspar",
+        "birth_date": "0.0.1742",
+        "birthplace": "København",
+        "death_date": "0.0.1797",
+        "external_id": "person_8736ab3439",
+        "kulturnav_id": "818f8c53-e00d-4bd5-9054-49c9a43ef70a",
+        "place_of_death": "Trondheim",
+        "alternative_names": "Schiøller, Johannes Caspar"
+    },
+    "authors": [
+        {
+            "full_name": "Even Gaukstad"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "dekoratør"
+        }
+    ]
+}

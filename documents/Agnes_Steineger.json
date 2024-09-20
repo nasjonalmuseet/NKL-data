@@ -1,0 +1,769 @@
+{
+    "id": 431123,
+    "headword": "Agnes Steineger",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107187",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg Catharina",
+                "lastname": "Hess",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107186",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Peter Stamer",
+                "lastname": "Steineger",
+                "professions": [
+                    "kjøpmann"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev av Anders Askevold og Frants Bøe, Bergen sommer og høst 1880",
+                "order": "2"
+            },
+            {
+                "comment": "Elev av Aimé Morot, Paris 1886-87 (?)",
+                "order": "5"
+            },
+            {
+                "comment": "Elev av Marcus Grønvold, München 1881-82",
+                "order": "3"
+            },
+            {
+                "comment": "Bergen offentlige tegneskole vintrene 1878-80",
+                "order": "1"
+            },
+            {
+                "comment": "Bertha Wegmanns malerskole, München 1882-83 og København 1883-86",
+                "order": "4"
+            },
+            {
+                "comment": "Veiledning av gravør Meyer, J., Bergen",
+                "order": "0"
+            },
+            {
+                "comment": "Académie Julian under Tony Robert-Fleury og Académie Colarossi under Gustave Courtois og Raphael Collin 1887-88",
+                "order": "6"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Paris 1886-88, 1889-90"
+            },
+            {
+                "order": "4",
+                "description": "Italia 1888-89"
+            },
+            {
+                "order": "0",
+                "description": "Schäffers legat Opphold i Meran, Tyrol ca. 1869-78"
+            },
+            {
+                "order": "5",
+                "description": "Bosatt Italia 1902-14"
+            },
+            {
+                "order": "2",
+                "description": "København 1883-86"
+            },
+            {
+                "order": "6",
+                "description": "Dornach, Sveits 1914-18"
+            },
+            {
+                "order": "1",
+                "description": "Studieopphold i München 1881-83"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Mention honorable, Verdensutstillingen Paris 1889"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Veggdekorasjoner, Goetheanum, Dornach, Sveits (1914-18, brent)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergen Billedgalleri (Pleiebarn, 1890, Selvportrett, 1895, og Portrett av Cecilie Dahl, 1897)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "32",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "27",
+                "to_date": "",
+                "title": "Verdensutstillingen, Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1930",
+                "order": "30",
+                "to_date": "",
+                "title": "Trønder og Vestlandsmalere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1925",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1889",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1885",
+                "order": "20",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1916",
+                "order": "12",
+                "to_date": "1917",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1886",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1947",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1899",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1901",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1892",
+                "order": "22",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1933",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1929",
+                "order": "15",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1883",
+                "order": "17",
+                "to_date": "1884"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1890",
+                "order": "6",
+                "to_date": "1891",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1896",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "28",
+                "to_date": "",
+                "title": "Verdensutstillingen, Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "29",
+                "to_date": "",
+                "title": "Verdensutstillingen, Chicago"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1921",
+                "order": "26",
+                "to_date": "1922"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "31",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem 25 år"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1912",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1908",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Urdi, Bergen",
+                "from_date": "1965",
+                "order": "3",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1927",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1898",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1888",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salonen, Paris",
+                "from_date": "1887",
+                "order": "23",
+                "to_date": "1888"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1890",
+                "order": "21",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1987",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1926",
+                "order": "14",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1941",
+                "order": "16",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "selvportrett (1895, Bergen Billedgalleri) gjengitt i Wichstrøm, A.: Kvinner ved staffeliet, Oslo 1983, s. 67"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "selvportrett (1901), Bergens Kunstforening 1947, katalog nr. 5"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Paul Gauguin: L'intelligible au profil dur (olje, 1886) malt med S. som modell (iflg. Bodelsen, M. i Kunst og Kultur 1979 s. 143–44 (ill.))"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1907",
+                "order": "1",
+                "reference": "bd. 2, s. 365",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "3",
+                "reference": "s. 21",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-30",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-01-22",
+                "order": "31",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1884-05-13",
+                "order": "11",
+                "to_date": "",
+                "description": "Bergens Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-20",
+                "order": "19",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-02-04",
+                "order": "25",
+                "to_date": "",
+                "description": "i Arbeidet",
+                "authors": [
+                    "Maurstad, G. T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912-12-20",
+                "order": "21",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-01-19",
+                "order": "29",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-03-18",
+                "order": "22",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889-02-12",
+                "order": "14",
+                "to_date": "",
+                "description": "Bergensposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-01",
+                "order": "6",
+                "to_date": "0001-01-01",
+                "description": "katalog Bergens Kunstforening",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "4",
+                "reference": "s. 239 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-05",
+                "order": "16",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "8",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1889-05-01",
+                "order": "18",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-18",
+                "order": "28",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "2",
+                "reference": "s. 258",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-01-22",
+                "order": "32",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "0",
+                "reference": "s. 117–18",
+                "to_date": "",
+                "description": "Bergens Kunstforening i femti aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-01-19",
+                "order": "30",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889-02-08",
+                "order": "20",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "10",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Kvinner ved staffeliet",
+                "place": "Oslo",
+                "authors": [
+                    "Wichstrøm, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-01-18",
+                "order": "26",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-02-01",
+                "order": "24",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Glambek, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1885-04-17",
+                "order": "12",
+                "to_date": "",
+                "description": "Bergens Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "9",
+                "reference": "s. 143–44 (ill.)",
+                "to_date": "",
+                "description": "i Kunst og Kultur",
+                "authors": [
+                    "Bodelsen, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-09-18",
+                "order": "13",
+                "to_date": "",
+                "description": "Bergensposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "7",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1947-01-30",
+                "order": "23",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Sælen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "5",
+                "reference": "s. 232, 250 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888-05-04",
+                "order": "17",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-04",
+                "order": "15",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Agnes Steineger",
+    "url": "https://nkl.snl.no/Agnes_Steineger",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Som ung var S. i tvil om hun skulle bli pianist eller maler. Hun valgte malerkunsten som den sikreste levevei, med studier først i Bergen, senere München, København og Paris. Den første vinteren i München var hun utelukkende beskjeftiget med tegning hos Marcus Grønvold, men ble deretter elev av Bertha Wegmann både i München og København. Wegmann hadde antagelig formidlet ideer om det franske friluftsmaleri til München, og S.' bilder hadde fra begynnelsen en annen koloritt og naturoppfatning enn de øvrige norske München-elever. S.' motiver var portretter, landskaper, interiører og blomster, og hennes første maleri <em>Markblomster</em> ble stilt ut i Bergens Kunstforening i 1883. I Paris studerte hun under flere lærere. Hennes bilder viste etter hvert innflytelsen fra impresjonistene, bl.a. med et sterkere og lysere fargeregister. I 1889 deltok hun sammen med 11 norske kvinnelige malere på Verdensutstillingen i Paris, hvor bl.a. S. fikk mention honorable for et kvinneportrett. I 1895 malte hun <em>Selvportrett</em> (Bergen Billedgalleri) med det karakteristiske smale ansikt og de særpregede mørke øyne. Figuren er malt frontalt fra bysten, og plassert i motlys mot et vindu med landskapsutsikt. Flere av sine beste figur- og landskapsbilder malte hun for øvrig i Italia fram til 1914. Dette året møtte hun Rudolf Steiner, og etter fire års opphold i Goetheanum i Dornach, ble hun en av hans forkjempere i Bergen. Disse impulser gav seg også utslag i S.' malerier, en rekke med symbolsk antroposofisk innhold og lysende, laserende fargebehandling, men også med ekspressive trekk i de naturalistiske bilder fra 30–40-årene. S. var etter 1918 bosatt i Bergen til hun døde, 102 år gammel.</p></div>",
+    "created_at": "2014-12-21T14:15:42.520+01:00",
+    "changed_at": "2024-06-18T23:28:16.545+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3544\",\"https://digitaltmuseum.no/ec6c46f6-7633-46a3-b91f-b54a78c1442c\",\"http://kulturnav.org/ec6c46f6-7633-46a3-b91f-b54a78c1442c\"]",
+        "lastname": "Steineger",
+        "firstname": "Agnes",
+        "birth_date": "21.1.1863",
+        "birthplace": "Bergen",
+        "death_date": "16.6.1965",
+        "external_id": "person_8736ab3544",
+        "kulturnav_id": "ec6c46f6-7633-46a3-b91f-b54a78c1442c",
+        "place_of_death": "samme sted"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

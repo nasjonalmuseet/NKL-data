@@ -1,0 +1,904 @@
+{
+    "id": 416111,
+    "headword": "Jan Groth",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tekstilkunstner"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108317",
+                "birth_date": "1901",
+                "death_date": "1976",
+                "firstname": "Erling Otto",
+                "lastname": "Groth",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab102603",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Benedikte Herlufsdatter Hansen (f. 1933)",
+                "lastname": "Ida",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108318",
+                "birth_date": "1906",
+                "death_date": "1974",
+                "firstname": "Elise Bente",
+                "lastname": "Lemaitre",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "Dagali og København"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Elev av Erling Fredriksen 1956–58 og Knud Nielsen 1958–59, begge København",
+                "order": "0"
+            },
+            {
+                "comment": "volontør ved Gobelinveveriet de Uil, Amsterdam, under veversken Benedikte Hansen 1960",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Arbeids stipend Statens kunstfond, Danmark 1970"
+            },
+            {
+                "order": "1",
+                "description": "Danmarks Nationalbanks Jubileumsfond stipend 1972 og -76"
+            },
+            {
+                "order": "2",
+                "description": "Stedelijk Museum, Amsterdam, arbeidsstipend 1976"
+            },
+            {
+                "order": "3",
+                "description": "Studieopphold i Amsterdam 1960 og flere opphold i USA fra 1970"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "The Tate Gallery, London"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Cleveland Museum of Art"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Louisiana"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Malmö Museum"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Busch Reisinger Museum, Harvard University, Cambridge, Massachusetts"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Graphische Sammlung, Wien"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Fyns Stifts Kunstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Kunstmuseum Luzern"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "The Solomon Guggenheim Museum, New York"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "The Art Institute of Chicago"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Centre Georges Pompidou, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Herlev sykehus, København (1976–77)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Ministére des Affaires Culturelles, Mobilier National, Paris (1973)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Stedelijk Museum, Amsterdam"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Amos Anderssons Konstmuseum, Helsinki"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Statens Kunstfond, København"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Wadsworth Atheneum, Hartford, Connecticut"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "The Museum of Modern Art, New York"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Arkivet for Dekorativ Kunst, Lund"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Walker Art Center, Minneapolis"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Aarhus Kunstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Fondation Maegt, Saint-Paul de Vence"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Museum am Ostwall, Dortmund"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nationale Nederlanden, Haag (1968–69)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Sonja Henies og Niels Onstads Stiftelser (større samling tegninger som dekker de forskjellige utviklingsfaser i hans produksjon skisser til nesten alle billedvevnader, samt et større gobelin)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Skisser til dekorative oppgaver og samtlige gobeliner iøvrig finnes i Arkiv-museet i Lund og Sonja Henies og Niels Onstads Stiftelser"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Danmarks Radio, Århus (1973–74)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Musée National d'Art Modern, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Mibilier National, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Provinciehuis Noord-Brabant, 's Hertogenbosch, Nederland (1970–71)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Omslag til H. Nordbrandt: Spøgelseslege, København 1979"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Betty Parsons Gallery, New York",
+                "from_date": "1972",
+                "order": "1",
+                "to_date": "1973"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Holst Halvorsens Kunsthandel, Oslo",
+                "from_date": "1969",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Städtliche Gal. im Lehnbachhaus, München",
+                "from_date": "1979",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstpavillonen, Esbjerg",
+                "from_date": "1978",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Louisiana Museum for Moderne Kunst",
+                "from_date": "1975",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Musée d'Art Moderne de la Ville de Paris",
+                "from_date": "1976",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Betty Parsons Gallery, New York",
+                "from_date": "1978",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tranegaarden, Gentofte kommunes Kunstbibliotek",
+                "from_date": "1976",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1974",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fyns Stifts Kunstmuseum",
+                "from_date": "1976",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstmuseum, Rijeka, Jugoslavia",
+                "from_date": "1976",
+                "order": "46",
+                "to_date": "",
+                "title": "Biennale for tegninger"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1980",
+                "order": "28",
+                "to_date": "",
+                "title": "Ordrupgaardsamlingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "The Art Institute of Chicago",
+                "from_date": "1973",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aarhus Kunstmuseum",
+                "from_date": "1979",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sonja Henies og Niels Onstads Stiftelser",
+                "from_date": "1978",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstmuseum Luzern",
+                "from_date": "1976",
+                "order": "47",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Solomon R. Guggenheim, New York",
+                "from_date": "1973",
+                "order": "44",
+                "to_date": "",
+                "title": "Recent Acquisitions"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Wadsworth Atheneum, Hartford",
+                "from_date": "1972",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maison de la Culture, Grenoble",
+                "from_date": "1970",
+                "order": "37",
+                "to_date": "",
+                "title": "Tapisseries XV-XX Siècle"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1979",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lausanne",
+                "from_date": "1965",
+                "order": "30",
+                "to_date": "",
+                "title": "2. og 4. Biennale for Billedvev"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstindustrimuseum, København",
+                "from_date": "1968",
+                "order": "32",
+                "to_date": "",
+                "title": "Form 68"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Staatliche Kunsthalle, Baden-Baden",
+                "from_date": "1979",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Aarhus Kunstmuseum",
+                "from_date": "1969",
+                "order": "35",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. CC, Århus",
+                "from_date": "1978",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Museum am Ostwall, Dortmund",
+                "from_date": "1975",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Betty Parsons Gallery, New York",
+                "from_date": "1976",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Betty Parsons Gallery, New York",
+                "from_date": "1980",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Busch-Reisinger Museum, Harvard University",
+                "from_date": "1973",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseum København",
+                "from_date": "1971",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nordisk Kunstsentrum, Sveaborg, Helsingfors",
+                "from_date": "1979",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aarhus Kunstmuseum",
+                "from_date": "1973",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wadsworth Atheneum, Hartford",
+                "from_date": "1973",
+                "order": "43",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Museum of Modern Art, Oxford",
+                "from_date": "1980",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fyns Stifts Kunstmuseum",
+                "from_date": "1973",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Museum of Art, Carnegie Institute, Pittsburgh",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "The Art Institute of Chicago",
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "title": "Drawings from 20th Century"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sonja Henies og Niels Onstads Stiftelser",
+                "from_date": "1974",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Musée des Arts Décoratifs, Louvre, Paris",
+                "from_date": "1975",
+                "order": "45",
+                "to_date": "",
+                "title": "Tapisseries Nouvelles"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Liljevalchs Konsthall, Stockholm",
+                "from_date": "1979",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "The Art Institute of Chicago",
+                "from_date": "1977",
+                "order": "48",
+                "to_date": "1978",
+                "title": "Selected Aquisitions since 1973"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sonja Henies og Niels Onstads Stiftelser",
+                "from_date": "1970",
+                "order": "38",
+                "to_date": "",
+                "title": "Norsk Billedvev i det 20. årh."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Fyns Stifts Kunstmuseum, Odense",
+                "from_date": "1969",
+                "order": "33",
+                "to_date": "",
+                "title": "Moderne Kunst i danske Samlinger"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Musée des Gobelins Paris, Musée des Beaux-Arts i Rouen, Kunsthaus Bocholt og Städtisches Museum Braunschweig",
+                "from_date": "1971",
+                "order": "39",
+                "to_date": "",
+                "title": "Tapisseries Norvégiennes"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Clemens Århus",
+                "from_date": "1979",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lausanne",
+                "from_date": "1969",
+                "order": "31",
+                "to_date": "",
+                "title": "2. og 4. Biennale for Billedvev"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Musée des Gobelins, Paris",
+                "from_date": "1969",
+                "order": "36",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1974-09",
+                "order": "3",
+                "to_date": "",
+                "description": "Art International",
+                "place": "Lugano",
+                "authors": [
+                    "P. Hovdenakk"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "2",
+                "to_date": "",
+                "description": "katalog til utst. Sonja Henies og Niels Onstads Stiftelser",
+                "authors": [
+                    "P. Hovdenakk"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "0",
+                "to_date": "",
+                "authors": [
+                    "U. Harder"
+                ],
+                "comments": [
+                    "katalog til utst. Holst Halvorsens Kunsthandel, Oslo og Aarhus Kunstmuseum"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1979-01",
+                "order": "9",
+                "to_date": "",
+                "description": "Arts Magazine",
+                "title": "Jan Groth",
+                "place": "New York",
+                "authors": [
+                    "M. Florescu"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Wadsworth Atheneum",
+                "title": "Matrix 1980",
+                "place": "Hartford, USA",
+                "authors": [
+                    "C. Ratcliffe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "14",
+                "to_date": "",
+                "description": "The Crafts of the Modern World",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Crafts Horizons",
+                "title": "Jan Groth and the constructed line",
+                "place": "New York",
+                "authors": [
+                    "H. Pindell"
+                ],
+                "comments": [
+                    "Aug. 1."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "10",
+                "to_date": "",
+                "description": "Lademanns leksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "6",
+                "reference": "nr. 14",
+                "to_date": "",
+                "description": "Cras",
+                "title": "En nordmann i Danmark",
+                "place": "København",
+                "authors": [
+                    "P. Gammelbo"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "7",
+                "to_date": "",
+                "authors": [
+                    "G.K. Sutton"
+                ],
+                "comments": [
+                    "katalog til utst. Musée d'Art Moderne de la Ville de Paris"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "5",
+                "reference": "nr. 7",
+                "to_date": "",
+                "description": "Cras",
+                "title": "Jan Groth",
+                "place": "København",
+                "authors": [
+                    "B. Damgård"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "4",
+                "reference": "s. 21–30",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Jan Groth",
+                "authors": [
+                    "G.K. Sutton"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "13",
+                "reference": "s. 271 (ill.), 273",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "L. Østby"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "8",
+                "to_date": "",
+                "authors": [
+                    "Ø. Hjort"
+                ],
+                "comments": [
+                    "katalog til vandreutst. av tegninger Sonja Henies og Niels Onstads Stiftelser"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "11",
+                "to_date": "",
+                "description": "GSL",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "12",
+                "to_date": "",
+                "description": "Dictionary of International Biography",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Komplett dokumentasjonsmateriale finnes i Sonja Henies og Niels Onstads Stiftelser"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jan Groth",
+    "url": "https://nkl.snl.no/Jan_Groth",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>G. debuterte på Charlottenborgs Efterårsudstilling som maler 1958. Han arbeidet i denne tiden innenfor en dansk tradisjon med vekt på koloristiske kvaliteter. Fra 1960 har han arbeidet utelukkende med gobelinvev i sort og hvitt, og med tegninger i sort og hvitt. Ved overgangen til gobelin-teknikk gikk G. over til et rent nonfigurativt formspråk, fra først av inspirert av abstrakt amerikansk maleri fra 50 årene, men i løpet av få år utviklet til et meget personlig uttrykk. Hans mange utstillinger i USA har bekreftet G.s tilknytning til amerikansk modernistisk tradisjon. Men hans bilder har først og fremst sterke elementer fra europeisk abstrakt-spontant maleri, samt, særlig i tegningene, elementer som knytter seg til natur- eller landskapsopplevelser. G.s gobeliner er frittstående bilder, som helt er frigjort fra den dekorative funksjon tekstiler vanligvis er belastet med.</p>\n<p>I hans tegninger, som alle er utført med fettstift og i formatet 62,5 x 88 cm, beskriver streken et forløp i tid og rom. De har klart arkitektoniske formelementer, en horisontal hovedform som aksentueres av vertikale elementer, eller en buet form. Streken har karakter av skrift og formidler en spontan og direkte opplevelse. G.s tegninger kan samles i tematiske sykler. De tidligste arbeidene var meget komplekse, mens de senere er enklere og ofte knytter seg til bestemte formale problemstillinger. Den samme strenge forenkling av virkemidlene har G. gjennomført i sin billedvev, som er utført i samarbeide med Benedikte G.G. benytter seg kun av gobelin-teknikken. I de første arbeidene var bunnfargen hvit, og formen, som ofte hadde en klart romlig karakter, sort. Fra 1966 er forholdet omvendt: bunnfargen sort, eller brun-sort, og formen hvit. Samtidig er formspråket forandret, fra lette, store former til en ren strek, som beskriver rommet ved å forbeholde seg til bildets ytterkanter og format. Mens streken i tegningene har klar skriftkarakter, er streken i gobelinene mer å betrakte som tegn, som kontemplative formuleringer, og dermed klart i pakt med gobelin-vevens tidkrevende teknikk. Også i gobelinene er det skjedd en gradvis forenkling av formspråket, slik at billeduttrykket etter hvert konsentreres om færre elementer.</p>\n</div>",
+    "created_at": "2013-07-03T14:05:52.105+02:00",
+    "changed_at": "2024-06-18T23:25:32.183+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1279\",\"https://digitaltmuseum.no/c1a30170-c362-4121-9dcc-5a7bde4c41fc\",\"http://kulturnav.org/c1a30170-c362-4121-9dcc-5a7bde4c41fc\"]",
+        "lastname": "Groth",
+        "firstname": "Jan",
+        "birth_date": "13.11.1938",
+        "birthplace": "Stavanger",
+        "death_date": "2.3.2022",
+        "external_id": "person_8736ab1279",
+        "kulturnav_id": "c1a30170-c362-4121-9dcc-5a7bde4c41fc"
+    },
+    "authors": [
+        {
+            "full_name": "Per Hovdenakk"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20197/standard_NMK-B_MS-04185-199920150528-17392-jfi9pf.jpg",
+            "full_size_url": "https://media.snl.no/media/20197/NMK-B_MS-04185-199920150528-17392-jfi9pf.jpg",
+            "xhtml": "<div><p><i>(Uten tittel)</i>. 1962</p></div>",
+            "type": "image",
+            "heading": "Jan Groth",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20198/standard_NMK-B_MS-04186-199920150528-17392-1qx6x8f.jpg",
+            "full_size_url": "https://media.snl.no/media/20198/NMK-B_MS-04186-199920150528-17392-1qx6x8f.jpg",
+            "xhtml": "<div><p><i>(Uten tittel)</i>. 1964</p></div>",
+            "type": "image",
+            "heading": "Jan Groth",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "tekstilkunstner"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

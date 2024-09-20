@@ -1,0 +1,1262 @@
+{
+    "id": 416632,
+    "headword": "Lambert van Haven",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1674",
+                "type": "Gift med",
+                "external_id": "person_8736ab103153",
+                "birth_date": "1653",
+                "death_date": "1729",
+                "firstname": "Anne Pedersdatter",
+                "lastname": "Slange",
+                "professions": [],
+                "place": "København"
+            },
+            {
+                "from_date": "1653",
+                "type": "Gift med",
+                "external_id": "person_8736ab108697",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "(gift Haven)",
+                "lastname": "N.n.",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103152",
+                "birth_date": "",
+                "death_date": "1670",
+                "firstname": "Salomon van",
+                "lastname": "Haven",
+                "professions": [
+                    "maler",
+                    "bilthugger"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "studier i malerkunst, arkitektur og kunstpolitikk i europeiske land",
+                "order": "1"
+            },
+            {
+                "comment": "Antagelig i lære hos faren i Bergen, muligens også hos Elias Fiigenschoug sst",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Med støtte fra Frederik 3 studiereise i Italia (Venezia, Padua, Roma) 1653–57 sm.m. broren Michael og 1660–61"
+            },
+            {
+                "order": "1",
+                "description": "reise for kongens regning til Tyskland, Italia, Frankrike, Nederland og Belgia 1668–70"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Generalbygmester og Inspector over Pictura, Sculptura og alle didhen hørende Konster sst. fra 1671"
+            },
+            {
+                "order": "0",
+                "description": "Første hoffmaler ved det danske hoff i 1660-årene"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Rosenborg Slot, København (forlegg til dekorativ bord på tapetserie over Den skånske krig, tegning til skulptur)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Det Nationalhistoriske Museum på Frederiksborg Slot, Hillerød (2 portretter)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Roskilde domkirke (forlegg til beslag på Frederik 3 og Sophie Amalies sarkofager)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Kobberstiksamlingen, København og Kunstindustrimuseum, København (tegninger og forlegg til byggeprosjekter og utførte skulptur- og dekorasjonsarbeider)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København (maleri)"
+            }
+        ],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Audienssalen og Lønngangen, Frederiksborg Slot, Hillerød (1680-87)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Vor Frelsers kirke, (1682–96)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "porthus til København Slot, (1674, brent)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "tilskrevet Juellund herregård (1695, revet 1918)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "tilskrevet Charlottenborgs østfløy med kuppelsal (1680-83)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "byggearbeider på Griffenfelds gård, Købmagergade, (1671-75)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Rosenborgporten mot Østervold, (1672)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "tilskrevet fullførelse av Amalienborg Slot, (1670-75)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "tilskrevet Niels Juels Palæ (senere det Thottske Palæ), Kongens Nytorv, (1683-86)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Kommandantbolig, Rosenborg, (1672, senere ombygd)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Kronverksporten, Kronborg (1690)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Det Griffenfeldtske gravkapell ved Helligaandskirken, (1675)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "lysthus i Lundehave ved Rosenborg, (1682, senere ombygd til Marienlyst)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "I København når ikke annet er nevnt. Nørreport, (1671, revet 1856)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Lysthuset med de 4 Knapper, Kongens Have, (ca. 1672, senere inkorporert i Gardens Kaserne)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "ombygging av Det blå Lysthus (Herkulespavillionen), Kongens Have, (1671-72)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Maleri utført av broren Michael von H. (1656, Det Nationalhistoriske Museum, Frederiksborg Slot, Hillerød)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1915",
+                "order": "14",
+                "reference": "s. 178",
+                "to_date": "",
+                "description": "Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "59",
+                "reference": "bd. 1, s. 49-50",
+                "to_date": "",
+                "description": "Billedkunstens Hvem Hvad Hvor. Danmark",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "78",
+                "reference": "s. 332",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1824",
+                "order": "3",
+                "reference": "s. 671",
+                "to_date": "",
+                "description": "Bergens Beskrivelse",
+                "place": "Bergen",
+                "authors": [
+                    "Foss, H.",
+                    "Sagen, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "47",
+                "reference": "bd. 1, s. 561-64 (ill.)",
+                "to_date": "1958",
+                "description": "St. Nicolay kirke, Danmarks kirker København",
+                "place": "København",
+                "authors": [
+                    "Steenberg, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "43",
+                "reference": "s. 92",
+                "to_date": "",
+                "description": "Bidrag til en Karakteristik af Abraham Wuchters Alderdomsværk, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Sass, E. Kai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "49",
+                "reference": "bd. 1, s. 492",
+                "to_date": "",
+                "description": "Weilbach",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "39",
+                "reference": "s. 127-29",
+                "to_date": "",
+                "description": "Kongedragterne fra det 17. og 18. Aarhundre",
+                "place": "København",
+                "authors": [
+                    "Christensen, S. Flamand"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "57",
+                "reference": "s. 27-30 (ill.), 206-09, register s. 563",
+                "to_date": "",
+                "description": "Bygningsadministration og Bygningshistorie under Enevælden",
+                "place": "København",
+                "authors": [
+                    "Voss, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "53",
+                "reference": "bd. 8, sp. 877-78 (ill.)",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "68",
+                "reference": "s. 222-25 (ill.), 234, 237-38",
+                "to_date": "",
+                "description": "Magt og dragt, En bog om kunst til Else Kai Sass",
+                "place": "København",
+                "authors": [
+                    "Nørregård-Nielsen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "69",
+                "reference": "bd. 3, s. 71, 73 (ill.), 77 (ill.)",
+                "to_date": "",
+                "description": "Byens huse. Byens plan, Danmarks arkitektur",
+                "place": "København",
+                "authors": [
+                    "Hartmann, S.",
+                    "Villadsen, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "73",
+                "reference": "bd. 16, s. 159-60",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "9",
+                "reference": "s. 84-99 (ill.)",
+                "to_date": "",
+                "description": "Audienshuset og Kongens Gemak paa Frederiksborg Slot før og efter Branden i 1665, Tidsskrift for Kunstindustri",
+                "place": "København",
+                "authors": [
+                    "Liisberg, H. C. Beering"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "24",
+                "reference": "s. 20-24, 121-35 (ill.), register s. 239",
+                "to_date": "",
+                "description": "Tessin i Danmark",
+                "place": "Stockholm",
+                "authors": [
+                    "Josephson, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "79",
+                "reference": "s. 214-15, 220-21, 226",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "38",
+                "reference": "s. 143-49",
+                "to_date": "",
+                "description": "Et Inventar over Lambert van Havens Samling, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Styhr, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "28",
+                "reference": "s. 24, 134-35, 142, 163-66, pl. 59 (ill.), register s. 340",
+                "to_date": "",
+                "description": "Norsk malerkunst under renessanse og barokk",
+                "place": "Oslo",
+                "authors": [
+                    "Grevenor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "44",
+                "reference": "s. 86, 91–94 (ill.)",
+                "to_date": "",
+                "description": "Nogle Strejflys i ældre dansk Barok, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Boesen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "34",
+                "reference": "s. 36",
+                "to_date": "",
+                "description": "Billeder og Tegninger skænkede Museet som Arv efter J. Rump, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Swane, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "63",
+                "reference": "bd. 2, s. 289-91 (ill.), 293, 296",
+                "to_date": "",
+                "description": "Dansk kunsthistorie",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890",
+                "order": "6",
+                "reference": "s. 96",
+                "to_date": "",
+                "description": "Tilskueren",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "18",
+                "reference": "s. 4, 21, 30",
+                "to_date": "",
+                "description": "Malerkunsten i Norge i det attende aarhundre",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "48",
+                "reference": "s. 63-65",
+                "to_date": "",
+                "description": "Danmarks malerkunst fra middelalder til nutid",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "13",
+                "reference": "s. 114-15 (ill.), 143, 146, 172",
+                "to_date": "",
+                "description": "Rosenborg og Lysthusene i Kongens Have",
+                "place": "København",
+                "authors": [
+                    "Liisberg, H. C. Beering"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "42",
+                "reference": "s. 45",
+                "to_date": "",
+                "description": "Et Landskab af Salvator Rosa, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Zahle, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1795",
+                "order": "2",
+                "reference": "bd. 4, s. 70",
+                "to_date": "",
+                "description": "Nye Samlinger til den danske Historie",
+                "place": "København",
+                "authors": [
+                    "Suhm, P. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "77",
+                "reference": "s. 56",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "32",
+                "reference": "bd. 5, s. 540",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "58",
+                "reference": "bd. 1, s. 25, 65, 124, 157, 255, 337",
+                "to_date": "",
+                "description": "Hvem byggede hvad. Øerne",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "67",
+                "reference": "s. 15",
+                "to_date": "",
+                "description": "Konst i Norden",
+                "place": "Helsinki",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "52",
+                "reference": "s. 169-74 (ill.), 198",
+                "to_date": "",
+                "description": "Tempelbygge för protestanter",
+                "place": "Uppsala",
+                "authors": [
+                    "Hamberg, P. G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "72",
+                "reference": "bd. 3, s. 128",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "37",
+                "reference": "s. 146, 152",
+                "to_date": "",
+                "description": "Tilvækst af italiensk Barok, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Zahle, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "23",
+                "reference": "s. 147, 158",
+                "to_date": "",
+                "description": "Roskilde Domkirke",
+                "place": "København",
+                "authors": [
+                    "Lorenzen, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "19",
+                "reference": "s. 46-47",
+                "to_date": "1923",
+                "description": "Elias Fiigenschoug. Nyopdagede billeder, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Bugge, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "76",
+                "reference": "s. 264",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "27",
+                "reference": "bd. 2, s. 2-6, 72-73, register s. 675",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "33",
+                "reference": "bd. 3, s. 401-03",
+                "to_date": "",
+                "description": "Arkitekturens Historie",
+                "place": "København",
+                "authors": [
+                    "Wanscher, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "29",
+                "reference": "bd. 1, s. 19-21, 50",
+                "to_date": "",
+                "description": "Dansk Herregaardsarkitektur fra Baroktiden",
+                "place": "København",
+                "authors": [
+                    "Lorenzen, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "17",
+                "reference": "s. 93",
+                "to_date": "",
+                "description": "Kronborg Have",
+                "place": "København",
+                "authors": [
+                    "Pedersen, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "7",
+                "reference": "bd. 7, s. 168-69",
+                "to_date": "",
+                "description": "Dansk biografisk Lexicon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "62",
+                "reference": "s. 105, 221",
+                "to_date": "",
+                "description": "Historiske huse i det gamle København",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "45",
+                "reference": "s. 39, 85",
+                "to_date": "",
+                "description": "Katalog over de udstillede portrætter og genstande paa Frederiksborg",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "41",
+                "to_date": "",
+                "description": "Den danske Bog",
+                "place": "København",
+                "authors": [
+                    "Nielsen, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "1",
+                "reference": "bd. 3, s. 34, pl. 53",
+                "to_date": "",
+                "description": "Den danske Vitruvius",
+                "place": "København",
+                "authors": [
+                    "Thura, L. de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "16",
+                "reference": "s. 112",
+                "to_date": "",
+                "description": "Bremerholms Kirke",
+                "place": "København",
+                "authors": [
+                    "Bobé, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "51",
+                "reference": "Københavns Amt bd. 4, s. 1864-72 (ill.), 2241-42",
+                "to_date": "",
+                "description": "Roskilde Domkirke, Danmarks kirker",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "71",
+                "reference": "bd. 6, s. 138-40 (ill.), 144 (ill.), register s. 222",
+                "to_date": "",
+                "description": "Kirkens huse, Danmarks arkitektur",
+                "place": "København",
+                "authors": [
+                    "Smidt, C. M.",
+                    "Johannesen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "66",
+                "reference": "s. 20-22",
+                "to_date": "",
+                "description": "De kongelige lysthaver",
+                "place": "København",
+                "authors": [
+                    "Lund, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "21",
+                "reference": "bd. 1, s. 28-31, 40-41, 47-48, 51,",
+                "to_date": "",
+                "description": "Københavnske Palæer",
+                "place": "København",
+                "authors": [
+                    "Lorenzen, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "12",
+                "reference": "bd. 2, s. 183-90 (ill.), 267",
+                "to_date": "",
+                "description": "Frederiksborg. Slottets Historie",
+                "place": "København",
+                "authors": [
+                    "Beckett, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "56",
+                "reference": "s. 12",
+                "to_date": "",
+                "description": "Italian Paintings and Sculpture in Denmark",
+                "place": "København",
+                "authors": [
+                    "Olsen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "65",
+                "reference": "bd. 5, register s. 385",
+                "to_date": "",
+                "description": "Dansk kunsthistorie",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "22",
+                "reference": "bd. 2, s. 7, 25, 95 (ill.)",
+                "to_date": "",
+                "description": "Københavnske Palæer",
+                "place": "København",
+                "authors": [
+                    "Lorenzen, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "75",
+                "reference": "s. 107-08, 117-18",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1829",
+                "order": "4",
+                "reference": "s. 1302-05, 1320-23",
+                "to_date": "",
+                "description": "Nyeste Skilderie af København",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "36",
+                "reference": "s. 2, 23",
+                "to_date": "",
+                "description": "Bendix le Coffre, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Elling, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "61",
+                "reference": "s. 88, 205",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vor Frelsers kirke",
+                "place": "København",
+                "authors": [
+                    "Købke, P.",
+                    "Nielsen, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "26",
+                "reference": "s. 150",
+                "to_date": "",
+                "description": "Norges kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "30",
+                "reference": "s. 7",
+                "to_date": "",
+                "description": "Garnisons Kirke",
+                "place": "København",
+                "authors": [
+                    "Weilbach, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "15",
+                "reference": "s. 146-51",
+                "to_date": "",
+                "description": "Kunstnerregninger i Griffenfelds Bo, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Andrup, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "50",
+                "reference": "s. 34, 64, 79-81 (ill.)",
+                "to_date": "",
+                "description": "Christian Den Femtes Rosenborgtapeter fra den skaanske krig",
+                "place": "København",
+                "authors": [
+                    "Boesen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "46",
+                "reference": "bd. 1, s. 656-58 (ill.)",
+                "to_date": "1958",
+                "description": "Helligaandskirken, Danmarks kirker København",
+                "place": "København",
+                "authors": [
+                    "Steenberg, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1746",
+                "order": "0",
+                "reference": "bd. 1 (ill.)",
+                "to_date": "",
+                "description": "Den danske Vitruvius",
+                "place": "København",
+                "authors": [
+                    "Thura, L. de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "40",
+                "reference": "s. 146",
+                "to_date": "",
+                "description": "En forblommet Antique, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Poulsen, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "70",
+                "reference": "bd. 5, s. 39, 42-47 (ill.), 56, register s. 195",
+                "to_date": "",
+                "description": "Magtens bolig, Danmarks arkitektur",
+                "place": "København",
+                "authors": [
+                    "Jørgensen, L. B.",
+                    "Lund, H.",
+                    "Nørregård-Nielsen, H. E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "54",
+                "reference": "bd. 2, s. 484-635 (ill.)",
+                "to_date": "1965",
+                "description": "Vor Frelsers kirke, Danmarks kirker, København",
+                "place": "København",
+                "authors": [
+                    "Steenberg, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913",
+                "order": "11",
+                "reference": "s. 7",
+                "to_date": "",
+                "description": "Reformert Kirke",
+                "place": "København",
+                "authors": [
+                    "Lorenzen, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "20",
+                "reference": "s. 192-96 (ill.), 199-200",
+                "to_date": "1923",
+                "description": "En gruppe norskfødte kunstnere i Danmark i det 17de og 18de århundre, Kunstmuseets Aarsskrift",
+                "place": "København",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "64",
+                "reference": "bd. 1, s. 157-78 (ill.)",
+                "to_date": "",
+                "description": "Christian V's prosjekter, Christiansborg slot",
+                "place": "København",
+                "authors": [
+                    "Lund, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "55",
+                "reference": "s. 14-15, pl. 2-3",
+                "to_date": "",
+                "description": "Monumenta architecturae Danicae",
+                "place": "København",
+                "authors": [
+                    "Fischer, K.",
+                    "Elling, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "10",
+                "reference": "s. 75 (ill.), 80",
+                "to_date": "",
+                "description": "Norges kirker i det 16. og 17. aarhundre",
+                "place": "(Kristiania",
+                "authors": [
+                    "Fett, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "80",
+                "reference": "s. 87",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "74",
+                "reference": "s. 88",
+                "to_date": "1915",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1846",
+                "order": "5",
+                "reference": "s. 303",
+                "to_date": "",
+                "description": "Uddrag af Jens Bircherods historisk-topografiske Dagbøger",
+                "place": "København",
+                "authors": [
+                    "Molbech, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "25",
+                "reference": "bd. 1, s. 391-93, 401-03 (ill.)",
+                "to_date": "",
+                "description": "i Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "60",
+                "reference": "s. 51, 55, 72, 77, 81, 322-23, 369-70, 491 (ill.), register s. 537",
+                "to_date": "",
+                "description": "Kongelige portrætmalere i Danmark 1630-82",
+                "place": "København",
+                "authors": [
+                    "Eller, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "31",
+                "reference": "s. 61",
+                "to_date": "",
+                "description": "Bergen. Fortidsminder og kunstverker",
+                "place": "Bergen",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "35",
+                "reference": "bd. 1, s. 104-06, 128-32",
+                "to_date": "",
+                "description": "Det barokke Roms Arkitektur. Rom og Danmark",
+                "place": "København",
+                "authors": [
+                    "Wanscher, V."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Lambert van Haven",
+    "url": "https://nkl.snl.no/Lambert_van_Haven",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Man må anta at faren, Salomon van H., gav H. den første innføring i malerkunsten. H. er tilskrevet familieportrettet i epitafiet over presten Lammers i Mariakirken, Bergen (1648). Han var da 18 år, og må i så fall ha vært en bråmoden kunstner. Bildet har mye til felles med maleren Elias Fiigenschougs kunst, og det kan tenkes at H. har vært hans elev.</p>\n<p>H.s begavelse, og muligens hans fars berømmelse, skaffet ham innpass ved hoffet i København. Sammen med broren Michael ble han i 1653 sendt utenlands med kongelig understøttelse. Reisen gikk til Italia for å studere malerkunst. I 1660–61 var han igjen i Italia med kongelig støtte. Det er uklart hva H. foretok seg av kunstnerisk virksomhet i 1660-årene hjemme i Danmark. Det er tydelig at han knyttet nære forbindelser med hoffets mest innflytelsesrike mann Peder Schumacher (Griffenfeld), eneveldets første ideolog. H.s siste utenlandsopphold var i 1668–70, også denne gang for kongens regning. Hans oppdrag var å studere arkitektur og kunstsmak, og å kjøpe utenlandsk kunst hjem til hoffet. Hans reiseregnskap viser at han både reiste og bodde standsmessig.</p>\n<p>Ved hjemkomsten ble han utnevnt til generalbyggmester og kunstdirektør i Danmark med et årlig salær på 1500 riksdaler, et usedvanlig høyt beløp. Han var den første med en slik tittel og embete. Instruksen røper et kunstpolitisk siktemål som ble fremmet i Danmark for første gang: en sentralisert, statlig dirigert ledelse av all kunstnerisk virksomhet. Forbildet er å finne i Frankrike, der Colbert hadde organisert hele kunstlivet med det mål å forherlige det franske enevelde. I et mer beskjedent format hadde Griffenfeld og H. i Danmark den samme posisjon som Colbert og Lebrun i Frankrike. Så sterk var H.s stilling ved hoffet at da hans mesén Griffenfeld falt i unåde i 1676, fortsatte H. i kongelig tjeneste. Hans forhold til kongen var godt. Christian 5 har påtegnet en regning med følgende ordlyd: \"Jeg vil ikke regne det saa nøje med Lambert. I kan ikkun gøre ham klar, for naar han faar det, som han vil, saa græder han ikke\".</p>\n<p>H. hadde en allsidig kunstnerisk produksjon, men lite er bevart av hans malerkunst, og på dette område skiller han seg lite fra sine samtidige kolleger ved hoffet. Han ble likevel høyt vurdert; flere av hans malerier hang på fremtredende plasser i Kunstkammerets galleri. Hans forlegg for skulpturarbeider er mer ujevne. <em>Epitafiet over Niels Rosenkrantz</em> i Nikolajkirken, København (slutten av 1670-årene, ødelagt 1728) har nært slektskap med tidens flamsk-hollandske skulptur. Langt mer vellykket er det dekorative utstyr til Frederik 3 og Sophie Amalies sarkofager i Roskilde domkirke. De er helstøpte og plastisk velformede i tidens rike, franske hoffstil. Det er tydelig at han som forbilde brukte samtidige, franske ornamentstikk.</p>\n<p>H. gjorde sin største innsats som arkitekt, og hans hovedverker er <em>Vor Frelsers kirke</em>, København, og ominnredningen av en fløy i Frederiksborg slott, Hillerød. Hans største og mest tidkrevende oppgave som også ble hans største nederlag, var et prosjekt til nytt kongelig slott i København. <em>Vor Frelsers kirke</em> ble oppført i årene 1682-96, spiret ble først ferdig i 1750-årene, og da etter Lauritz de Thuras tegning. Kirkens plan er et gresk kors kombinert med et kvadratisk sentralparti. Utvendig har kirken et nært slektskap med de nederlandske reformerte kirkene, uten å være en kopi. Interiøret derimot er inspirert av den klassiserende, italienske barokk. Fra dansk synspunkt var kirken en fullstendig nyskapning, sett på bakgrunn av Christian 4s kirkebygg. Alteret skiller seg fra det øvrige interiøret; det er tegnet av Nikodemus Tessin d.y. og er et rent berninisk alter. Opprinnelig tegnet H. en mer tradisjonell alteroppsats, med sterk vekt på den arkitektoniske oppbygningen. Hans forslag ble kritisert av Tessin, som ble overlatt oppgaven å utforme en ny alteroppsats. Dette var ikke eneste gang H. ble utkonkurrert av Tessin. Gjennom hele 1680-årene arbeidet han med et stort slottsprosjekt som skulle erstatte den gamle kongeresidensen i København. Det hadde form av et firefløyet anlegg med et stort tårn; tårnet var et absolutt krav fra byggherren. Planen og tårnet var for den tiden avlegs, dessuten var en del trapper, forbindelsesganger og seremonielle rom uheldig plassert i bygningen. Alt dette ble også sterkt kritisert av Tessin, som fikk i oppdrag å tegne det nye slottet. Men i detaljer som fasadens modellering ved hjelp av risalitter og pilastre, rommenes ordning en filade og i vindusomrammingene var H. moderne nok og visste å gjøre bruk av sine arkitektstudier i Frankrike og Italia. H.s mest vellykkete verk er <em>Audiensgemakket</em> og <em>Lønngangen</em> i Frederiksborg Slot (1681–90). I <em>Lønngangen</em> felte han inn en rekke av de malerier han hjemførte fra utlandet i overdådige, franskinspirerte stukkrammer. I <em>Audiensgemakket</em> formådde han med beskjedne midler å skape et dansk motstykke til Ambassadørtrappen i Versailles. En kuppelsal med kassettak er plassert inn i en renessansebygning med gavlarker. Kassettene i taket er mindre øverst, slik at rommet virker høyt og luftig. Det dekorative utstyret er helt og holdent tatt i bruk til en monarkforherligelse med alle barokkens virkemidler. Maleriene viser monarkens seire til vanns og til lands, hans oldenborgske forfedre i helfigur og ham selv omgitt av sine tre sønner. Øverst i kuppelen er et plafondmaleri som allegorisk fremstiller Christian 5s valgspråk, Pietas et Justitia. Det var en apoteose av kongemakten som aldri tidligere hadde forekommet i Danmark. Det dansk-norske kongehus fikk rikelig igjen av sin \"Generalbygmester og Inspector over Pictura, Sculptura og alle didhen hørende Konster\".</p>\n<p>H. var en selvbevisst herre. Da Rentekammeret vil ha nærmere forklaring på mindre poster i hans byggeregnskaper, svarte han: \"Kan ikke vedkomme mig at svare til, eftersom jeg er en Generalbygmester og min Kunst altfor ædel til saadanne Opvartning\". </p>\n<p>H.s produksjon hører i sin helhet til dansk kunsthistorie, bortsett fra det nevnte og usikre ungdomsverk <em>Lammersepitafiet</em>. Man vet ikke om han noengang besøkte sitt fødeland, men han la aldri skjul på sitt norske opphav. Flere av hans bilder er signert med navn og landsbetegnelse, og på brorens portrett av ham kaller han seg nordmann fra Bergen.</p>\n</div>",
+    "created_at": "2013-07-03T16:41:14.913+02:00",
+    "changed_at": "2024-06-18T23:25:46.416+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1540\",\"https://digitaltmuseum.no/599bfc5b-92a2-4a8a-a737-4b21da3ed5a8\",\"http://kulturnav.org/599bfc5b-92a2-4a8a-a737-4b21da3ed5a8\"]",
+        "lastname": "Haven",
+        "firstname": "Lambert van",
+        "birth_date": "16.4.1630",
+        "birthplace": "Bergen",
+        "death_date": "9.5.1695",
+        "external_id": "person_8736ab1540",
+        "kulturnav_id": "599bfc5b-92a2-4a8a-a737-4b21da3ed5a8",
+        "place_of_death": "København"
+    },
+    "authors": [
+        {
+            "full_name": "Dag H. Sæverud"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

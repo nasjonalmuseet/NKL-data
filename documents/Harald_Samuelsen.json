@@ -1,0 +1,387 @@
+{
+    "id": 430397,
+    "headword": "Harald Samuelsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108775",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragna Marie Kristine",
+                "lastname": "Torkildsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108774",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Georg Olaf",
+                "lastname": "Samuelsen",
+                "professions": [
+                    "berglege"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Académie de la Grande Chaumière samme sted (aftenskole) vinteren 1909–10",
+                "order": "3"
+            },
+            {
+                "comment": "Studerte medisin i 3 år",
+                "order": "0"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 1902–03",
+                "order": "1"
+            },
+            {
+                "comment": "Académie Colarossi, Paris under Henri-Désiré Gauquié og Ferdinand Alfred Rollard vintrene 1907–10",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1909, -10. Studieopphold i Paris vintrene 1907–10"
+            },
+            {
+                "order": "2",
+                "description": "Italia, med opphold i Roma og reiser til Genova, Napoli, Siena og Firenze 1910–11"
+            },
+            {
+                "order": "1",
+                "description": "hjemreise over Tyskland og København mai 1910"
+            },
+            {
+                "order": "4",
+                "description": "flere studiereiser til København bl.a. 1906"
+            },
+            {
+                "order": "3",
+                "description": "hjemreise over München, Berlin og København mai-august 1911"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Billedhugger Trondheim domkirkes billedhuggerverksted, Trondheim 1912–30"
+            },
+            {
+                "order": "1",
+                "description": "lærer i modellering Norges Tekniske Høyskole fra 1919"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Ladejarlen, Apoteket Ladejarlens gård, Trondheim (bronse, 1930)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergmannen, Sølvverksmuseets park, Kongsberg (bronse, 1923)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1910",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "4",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1908",
+                "order": "2",
+                "to_date": "",
+                "title": "L'Exposition des Indépendants"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1908",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1909",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1919",
+                "order": "5",
+                "to_date": "",
+                "title": "Trøndernes utst."
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1931-05-09",
+                "order": "14",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-04-15",
+                "order": "0",
+                "to_date": "",
+                "description": "i La Revue Moderne Universelle",
+                "place": "Paris",
+                "authors": [
+                    "C. Neuilly"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-10-26",
+                "order": "5",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "C. W. Schnitler"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "15",
+                "reference": "s. 456",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-05-20",
+                "order": "1",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "17",
+                "reference": "s. 243",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-10-10",
+                "order": "16",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-10-24",
+                "order": "3",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-09-03",
+                "order": "2",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-10-25",
+                "order": "4",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "12",
+                "reference": "s. 174",
+                "to_date": "",
+                "description": "Studentene fra 1899",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "11",
+                "reference": "s. 271–72",
+                "to_date": "",
+                "description": "Studentene fra 1899",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-08-08",
+                "order": "9",
+                "to_date": "",
+                "description": "Husmoderen",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-09-05",
+                "order": "10",
+                "to_date": "",
+                "description": "i Norske Intelligenssedler",
+                "authors": [
+                    "S. Blehr"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-04-01",
+                "order": "6",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "C. W. Schnitler"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-09-01",
+                "order": "7",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "S. Sinding"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-09-14",
+                "order": "8",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "C. W. Schnitler"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "13",
+                "reference": "bd. 1, s. (4) (ill.) og bd. 2, s. 920",
+                "to_date": "",
+                "description": "Kongsberg 1624–1924",
+                "place": "(Kristiania",
+                "authors": [
+                    "J. K. Bergwitz"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "18",
+                "reference": "s. 28",
+                "to_date": "",
+                "place": "Trondheim",
+                "authors": [
+                    "Monumenter i Trondheim by"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Harald Samuelsen",
+    "url": "https://nkl.snl.no/Harald_Samuelsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter studenteksamen i 1899 studerte S. medisin i 3 år. Det var i denne en perioden at interessen for tegning og modellering ble vekket, noe som resulterte i at han begynte på Den kgl. Tegneskole. I 1903 avbrøt S. sine studier og drog tilbake til hjemstedet Kongsberg, hvor han ble lærling ved Den kgl. Mynt under myntgravør Ivar Throndsens kyndige veiledning. Etter et par års læretid på Kongsberg, bestemte han seg for å bli billedhugger, drog til København i 1906 og tilbrakte vintrene 1907–10 i Paris. Her debuterte S. i 1908 på L'Exposition des Indépendants med bl.a. bysten <em>Digter</em> som ble fordelaktig omtalt i pressen. Etter flere års studier i utlandet ble S. i 1912 ansatt som billedhugger ved Trondheim domkirkes billedhuggerverksted. Her utførte han en rekke skulpturer. Fra 1919 var han også ansatt som lærer i modellering ved Norges Tekniske Høyskole. Hans mest kjente arbeid er skulpturen <em>Bergmannen</em> i Kongsberg.</p></div>",
+    "created_at": "2014-11-20T14:23:45.362+01:00",
+    "changed_at": "2024-06-18T23:27:56.885+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3358\",\"https://digitaltmuseum.no/d2d460ce-a101-4a43-962d-8a82116f81d9\",\"http://kulturnav.org/d2d460ce-a101-4a43-962d-8a82116f81d9\"]",
+        "lastname": "Samuelsen",
+        "firstname": "Harald",
+        "birth_date": "10.5.1881",
+        "birthplace": "Lillesand",
+        "death_date": "5.10.1953",
+        "external_id": "person_8736ab3358",
+        "kulturnav_id": "d2d460ce-a101-4a43-962d-8a82116f81d9",
+        "place_of_death": "Trondheim"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Aaserud"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

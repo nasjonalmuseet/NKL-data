@@ -1,0 +1,527 @@
+{
+    "id": 417192,
+    "headword": "Roy Dugtorp",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101734",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hanna Sofie Svendsen",
+                "lastname": "Krohg",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101733",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johan",
+                "lastname": "Johannessen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab448",
+                "birth_date": "28.07.1913",
+                "death_date": "",
+                "firstname": "Rutt",
+                "lastname": "Bolsø",
+                "professions": [
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Jean Heiberg og Aage Storstein 1945–47 og i frescoklassen 1952–53",
+                "order": "2"
+            },
+            {
+                "comment": "SHKS under Per Krohg og August Eiebakke 1937–39",
+                "order": "0"
+            },
+            {
+                "comment": "en tid elev av Henrik Sørensen i 1939",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Lorch-Schives legat 1975"
+            },
+            {
+                "order": "10",
+                "description": "Spania 1978"
+            },
+            {
+                "order": "3",
+                "description": "Stip. for eldre fortjente kunstnere fra 1978"
+            },
+            {
+                "order": "7",
+                "description": "Marokko, Spania og München 1953"
+            },
+            {
+                "order": "0",
+                "description": "Stip. fra Fondet for dansk-norsk samarbeide 1954"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1978"
+            },
+            {
+                "order": "6",
+                "description": "Italia 1951"
+            },
+            {
+                "order": "8",
+                "description": "Danmark 1954"
+            },
+            {
+                "order": "1",
+                "description": "3% fondets stip. 1974"
+            },
+            {
+                "order": "11",
+                "description": "dessuten England"
+            },
+            {
+                "order": "9",
+                "description": "Sverige og Finland 1962"
+            },
+            {
+                "order": "5",
+                "description": "Studiereiser til Paris 1937"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Pris ved Alf Bjerckes 100-årsjubileumskonkurranse i Oslo Kunstforening 1955"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Sandnes rådhus (1964)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergen Privatbank, Sandnes (oljefrise, 1965)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Haslemoens kantine (1958)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Prestfoss herredshus, Sigdal"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Bærum herredshus, Sandvika og Alf Bjerckes fabrikker, Alnabru"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Til Aftenposten, Arbeiderbladet og Asker og Bærums Budstikke"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1965",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandnes kunstforening",
+                "from_date": "1962",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1948",
+                "order": "23",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandvika rådhus",
+                "from_date": "1978",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1947",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "26",
+                "to_date": "",
+                "title": "Østlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesunds kunstforening",
+                "from_date": "1959",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1945",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1950",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens kunstforening",
+                "from_date": "1959",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger kunstforening",
+                "from_date": "1948",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Flekkefjord Kunstforening",
+                "from_date": "1968",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1963",
+                "order": "24",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Landsforeningen Norske Malere, Oslo",
+                "from_date": "1978",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1963",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1967",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1940",
+                "order": "22",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1972",
+                "order": "25",
+                "to_date": "1974",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Molde kunstforening",
+                "from_date": "1948",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1946",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "comment": "og andre engelske byer",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Newcastle",
+                "from_date": "1961",
+                "order": "27",
+                "to_date": "",
+                "title": "Den norske akvarellutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne kunstforening",
+                "from_date": "1962",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1951",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1949",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Hybler, København",
+                "from_date": "1954",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund kunstforening",
+                "from_date": "1948",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Prestfoss",
+                "from_date": "1979",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1969",
+                "order": "18",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1963-03-23",
+                "order": "7",
+                "to_date": "",
+                "description": "Østlands-Posten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951-05-28",
+                "order": "5",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-12-14",
+                "order": "6",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-10",
+                "order": "9",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-29",
+                "order": "8",
+                "to_date": "",
+                "description": "Østlands-Posten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "10",
+                "reference": "s. 37",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-11-24",
+                "order": "0",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951-05-28",
+                "order": "4",
+                "to_date": "",
+                "description": "Vestfold",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-12-10",
+                "order": "2",
+                "to_date": "",
+                "description": "Drammens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-03-15",
+                "order": "11",
+                "to_date": "",
+                "description": "Fædrelandsvennen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-09",
+                "order": "12",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-11-27",
+                "order": "1",
+                "to_date": "",
+                "description": "Sunnmørsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "13",
+                "reference": "s. 51",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-12-20",
+                "order": "3",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Roy Dugtorp",
+    "url": "https://nkl.snl.no/Roy_Dugtorp",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>D. maler for det meste landskap og portretter, utført med brede penselstrøk og sterke farger. Hans stil er figurativ og han har bygd videre på det grunnlag hans lærere, særlig Per Krohg og Jean Heiberg, gav ham på Statens Kunstakademi, Oslo.</p></div>",
+    "created_at": "2013-07-03T20:01:51.607+02:00",
+    "changed_at": "2024-06-18T23:26:00.906+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab839\",\"https://digitaltmuseum.no/1a6c6bc1-adf6-4c9b-ad7a-f26c620f51d9\",\"http://kulturnav.org/1a6c6bc1-adf6-4c9b-ad7a-f26c620f51d9\"]",
+        "lastname": "Dugtorp",
+        "firstname": "Roy",
+        "birth_date": "21.4.1914",
+        "birthplace": "Oslo",
+        "death_date": "7.9.1988",
+        "external_id": "person_8736ab839",
+        "kulturnav_id": "1a6c6bc1-adf6-4c9b-ad7a-f26c620f51d9",
+        "place_of_death": "Lysaker",
+        "alternative_names": "Dugtorp, Roy Johan Torolf"
+    },
+    "authors": [
+        {
+            "full_name": "Tone Skedsmo"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

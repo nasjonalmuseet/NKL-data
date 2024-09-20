@@ -1,0 +1,903 @@
+{
+    "id": 416034,
+    "headword": "Severin Grande",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102579",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sakarias",
+                "lastname": "Nielsen",
+                "professions": [
+                    "husmann"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab102581",
+                "birth_date": "1896",
+                "death_date": "",
+                "firstname": "Sara Victoria",
+                "lastname": "Grande",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102580",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg Anna",
+                "lastname": "Johnsdatter",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Henri Matisse i Paris våren 1910",
+                "order": "5"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 1896, arbeidet samtidig på Eyolf Soots malerskole",
+                "order": "0"
+            },
+            {
+                "comment": "innom Zahrtmanns malerskole i København våren 1906",
+                "order": "3"
+            },
+            {
+                "comment": "Académie Colarossi under Chr. Krohg høsten 1907",
+                "order": "4"
+            },
+            {
+                "comment": "elev av Erik Werenskiold og Harriet Backer",
+                "order": "1"
+            },
+            {
+                "comment": "Académie Colarossi i Paris vinteren 1905–06",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Schäffers legat 1904 og 1905"
+            },
+            {
+                "order": "3",
+                "description": "I tillegg til Parisoppholdene nevnt ovenfor malte han sommeren 1908 i Bretagne og drev vinteren 1908–09 museumsstudier i Paris og Italia. Vinteren 1911–12 var han i Italia og Sør-Frankrike sammen med Henrik Sørensen og Per Deberitz, mens han tilbrakte vinteren 1913–14 i Marseilles-trakten sammen med Axel Revold"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1901 og 1902"
+            },
+            {
+                "order": "4",
+                "description": "1922/23 igjen i Paris"
+            },
+            {
+                "order": "2",
+                "description": "Statens stipend 1907 og 1908"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Rasmus Meyers Samlinger, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Christianssands Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Trondheim Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1964",
+                "order": "29",
+                "to_date": "",
+                "title": "De 14 femti år etter"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1917",
+                "order": "27",
+                "to_date": "",
+                "title": "Nutida norsk konst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1921",
+                "order": "19",
+                "to_date": "1933",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg og København",
+                "from_date": "1911",
+                "order": "21",
+                "to_date": "",
+                "title": "De seks"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1911",
+                "order": "23",
+                "to_date": "",
+                "title": "Den norske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1915",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1929",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1909",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1899",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1923",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1913",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1918",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1920",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "26",
+                "to_date": "",
+                "title": "San Francisco-utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm (Kungl. Akademien)",
+                "from_date": "1904",
+                "order": "20",
+                "to_date": "",
+                "title": "Norska konstnärers arbeten"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1919",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "28",
+                "to_date": "",
+                "title": "Landsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1909",
+                "order": "16",
+                "to_date": "1912",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1912",
+                "order": "24",
+                "to_date": "",
+                "title": "Norwegische Künstler"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1970",
+                "order": "30",
+                "to_date": "",
+                "title": "Matisse-elevene"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1901",
+                "order": "15",
+                "to_date": "1907",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1906",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1931",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1934",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1911",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1920",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1924",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1917",
+                "order": "4",
+                "to_date": "1918"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1919",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "25",
+                "to_date": "",
+                "title": "De 14, Jubileumsutstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Hans Ødegaard: Kunstnergruppe, 1905, lengst til høyre (Drammens Faste Galleri)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1927",
+                "order": "16",
+                "reference": "bd. 2, s. 520",
+                "to_date": "",
+                "description": "i Norsk kunsthistorie",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-09-01",
+                "order": "11",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "19",
+                "reference": "s. 234, 242",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Næringslivet i norsk kunst",
+                "authors": [
+                    "Nygård-Nilssen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "13",
+                "reference": "bd. 14, s. 504–505",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "21",
+                "reference": "s. 191, 196 (ill.)",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "18",
+                "reference": "s. 191",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "In memoriam",
+                "authors": [
+                    "Ingebretsen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-05-08",
+                "order": "2",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "25",
+                "reference": "bd. 2, s. 82",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "28",
+                "reference": "bd. 8, s. 31",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "0",
+                "reference": "s. 410",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "23",
+                "reference": "s. 95, 104 (ill.)",
+                "to_date": "",
+                "description": "Telemark i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-09-01",
+                "order": "9",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "8",
+                "reference": "s. 58–59",
+                "to_date": "1915",
+                "description": "Kunst og Kultur",
+                "title": "De 14",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "4",
+                "reference": "s. 411",
+                "to_date": "",
+                "description": "Tilskueren",
+                "title": "Ung norsk Malerkunst",
+                "place": "København",
+                "authors": [
+                    "Petersen, C.V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "31",
+                "reference": "s. 85, 201",
+                "to_date": "",
+                "description": "Kunst og Kultur reg 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "33",
+                "reference": "register s. 209",
+                "to_date": "",
+                "description": "De norske Matisse-elevene. Læretid og gjennombrudd 1908–1914",
+                "place": "Oslo",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-11-21",
+                "order": "15",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-09-18",
+                "order": "6",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "12",
+                "reference": "bd. 10, s. 34",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-11-05",
+                "order": "10",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "20",
+                "reference": "s. 68–69 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "17",
+                "reference": "bd. 4, s. 564",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "24",
+                "reference": "register s. 254",
+                "to_date": "",
+                "description": "Idékamp og stilskifte i norsk malerkunst 1900–1919",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "27",
+                "reference": "register s. 655",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "22",
+                "reference": "s. 100",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Dalen og byen. Fra Lillehammers kunstnerliv",
+                "authors": [
+                    "Lødrup, H. P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-09",
+                "order": "1",
+                "reference": "s. 20",
+                "to_date": "",
+                "description": "Det tyvende aarhundrede",
+                "title": "Ung norsk malerkunst. En kort orienterende oversikt",
+                "place": "(Kristiania",
+                "authors": [
+                    "Sørensen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "26",
+                "reference": "bd. 2, s. 291",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "7",
+                "reference": "s. 113",
+                "to_date": "",
+                "description": "Tidskriften Konst",
+                "title": "Nyare norsk konst, II. De 14",
+                "place": "Stockholm",
+                "authors": [
+                    "Moselius, C.D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "29",
+                "reference": "s. 8, 13, 37–39",
+                "to_date": "",
+                "description": "Matisse-elevene. Ekspresjonismens gjennombrudd i Norge 1908–1914",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [
+                    "katalog Oslo Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "30",
+                "reference": "s. 10, 11, 18",
+                "to_date": "",
+                "description": "Trondhjems Kunstforenings årberetning",
+                "title": "Henri Matisse og hans norske elever",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "3",
+                "reference": "s. 264 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Kunst og unge kunstnere",
+                "authors": [
+                    "Halvorsen, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "5",
+                "reference": "s. 86",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923-04-17",
+                "order": "14",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Moss Johnsen, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-01",
+                "order": "32",
+                "reference": "s. 38",
+                "to_date": "",
+                "description": "La Revue Francaise de l'Élite Européenne",
+                "title": "Henri Matisse et la peinture norvégienne",
+                "place": "Paris",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1913",
+                "order": "35",
+                "to_date": "1914",
+                "authors": [],
+                "comments": [
+                    "S. Brun"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket/269"
+                ]
+            },
+            {
+                "from_date": "1909",
+                "order": "34",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Brev S. Grande - H. Sørensen"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket/186"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Severin Grande",
+    "url": "https://nkl.snl.no/Severin_Grande",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>G. vokste opp i Verdal. Først som 27-årig håndverker bestemte han seg til å bli kunstmaler. De første år etter debuten på Høstutstillingen 1899 malte han gjerne dystert realistiske gatepartier og interiører fra Kristianias østkant, sammen med Ivar Lund, Hans Ødegaard, Anders Svarstad m.fl. Vinteren 1905–06 ble han kjent med Henrik Sørensen på Colarossi og gikk fra da av inn i kretsen av Sørensens kamerater i Kristiania og på Lillehammer. Etter elevtiden hos Krohg 1907 lysnet koloritten, slik det sees i <em>Utkant av Paris</em> (1908), et morsomt komponert vårbilde med en uryddig fasaderekke bak en inngjerdet hage. Fra følgende år kjennes en del saftiggrønne landskaper fra Hemsedal, solide om ikke særlig spennende arbeider som røper beundring for især Gerhard Munthes maleri. Oppholdet hos Matisse vårsemesteret 1910 fikk stor betydning for G.s utvikling. Hans naturalistiske uttrykksform ble beriket gjennom en nyutviklet sans for formers og fargers egenverdi. Noen direkte innflytelse fra Matisse lar seg knapt nok spore i hans bilder, derimot er impulser fra Cézanne ganske iøyenfallende. I det vakre lille bildet <em>Vinberg</em> (Bergen Billedgalleri), antagelig malt i Italia vinteren 1911–12, er koloritten ren og kraftig, formen fast og \"muret\". Fargen er omhyggelig satt på med korte, diagonalt stilte penselstrøk. Komposisjonen røper en ny sans for enkelhet, ro og stabilitet, i et bevisst, om ikke så radikalt brudd med naturalismen. På Høstutstillingen 1912 fikk G. sitt store gjennombrudd som kunstner med bildet <em>Akt</em> (1912). Den rødmende ungpiken på det fargerike divanteppet er meget fint tegnet og karakterisert, og inntrykkene fra det radikalele franske maleri virker helt assimilert. Også 1913–14 ble rike år for G. som kunstner. Bl.a. malte han frodige hagebilder fra Son med et lett dekorativt tilsnitt og frisk penselføring. I 1914 markerte G. seg blant \"De 14\" på Jubileumsutstillingen i Kristiania som en av de solide bærende krefter innen det nye norske maleri. I løpet av krigsårene kom han imidlertid til å øke sin produksjon ut over det kunstnerisk forsvarlige, og hans landskaper, interiører og stilleben fikk ofte et noe søtlig, effektbetont preg. Dette medførte negative reaksjoner fra kritikernes side, og G.s bane tok fra nå av en uheldig vending. Hans senere produksjon bidrog til at kvalitetsarbeidene fra 1910–14 etter hvert ble glemt. Først på utstillingen \"De 14 femti år etter\" i 1964 ble han på ny trukket fram i lyset.</p></div>",
+    "created_at": "2013-07-03T13:47:05.355+02:00",
+    "changed_at": "2024-06-18T23:25:30.439+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1248\",\"https://digitaltmuseum.no/2987dc2a-92b4-4159-8a08-a773658a2951\",\"http://kulturnav.org/2987dc2a-92b4-4159-8a08-a773658a2951\"]",
+        "lastname": "Grande",
+        "firstname": "Severin",
+        "birth_date": "8.11.1869",
+        "birthplace": "Verdal",
+        "death_date": "13.6.1934",
+        "external_id": "person_8736ab1248",
+        "kulturnav_id": "2987dc2a-92b4-4159-8a08-a773658a2951",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Marit Werenskiold"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15653/standard_NMK-B_NG.M.0066920130725-13675-16fot3i.jpg",
+            "full_size_url": "https://media.snl.no/media/15653/NMK-B_NG.M.0066920130725-13675-16fot3i.jpg",
+            "xhtml": "<div>\r\n<p><em>I kjøkkenet</em>, 1905. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Severin Grande",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15688/standard_NMK-B_NG.M.0155120130725-13675-465vun.jpg",
+            "full_size_url": "https://media.snl.no/media/15688/NMK-B_NG.M.0155120130725-13675-465vun.jpg",
+            "xhtml": "<div>\r\n<p><em>Sommer</em>, 1929. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Severin Grande",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15699/standard_NMK-B_NG.M.0178120130725-13675-solmqn.jpg",
+            "full_size_url": "https://media.snl.no/media/15699/NMK-B_NG.M.0178120130725-13675-solmqn.jpg",
+            "xhtml": "<div>\r\n<p><em>Kunstnerens hustru</em>, 1918. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Severin Grande",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15776/standard_NMK-B_NG.M.0424620130725-13675-1wa8cm4.jpg",
+            "full_size_url": "https://media.snl.no/media/15776/NMK-B_NG.M.0424620130725-13675-1wa8cm4.jpg",
+            "xhtml": "<div>\r\n<p><em>Oppstilling med krukker og blomster</em>, 1928. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Severin Grande",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

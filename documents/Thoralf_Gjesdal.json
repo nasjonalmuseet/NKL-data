@@ -1,0 +1,597 @@
+{
+    "id": 415961,
+    "headword": "Thoralf Gjesdal",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1930",
+                "type": "Gift med",
+                "external_id": "person_8736ab102514",
+                "birth_date": "1904",
+                "death_date": "",
+                "firstname": "Toni",
+                "lastname": "Aarsvold",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102513",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Else",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102512",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Tobias",
+                "lastname": "Gjesdal",
+                "professions": [
+                    "tømmermann"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "comment": "det meste av sitt liv",
+                "description": "Stavanger"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "3 md. på Académie Julian (1960)",
+                "order": "4"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold vinteren 1927–28",
+                "order": "1"
+            },
+            {
+                "comment": "Elev av Bjarne Hansens malerskole i Stavanger 1920–24",
+                "order": "0"
+            },
+            {
+                "comment": "3 md. på Statens Kunstakademi, Oslo under Jean Heiberg (1937–38)",
+                "order": "3"
+            },
+            {
+                "comment": "l'Académie Scandinave i Paris 3 md. høsten 1930",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "3% fondets reisestipend 1950"
+            },
+            {
+                "order": "0",
+                "description": "Statens kunstnerstipend 1949"
+            },
+            {
+                "order": "3",
+                "description": "Studiereiser til Paris 1930, Nederland og Frankrike 1949, Italia og Frankrike 1950–51, Spania 1955, Frankrike 1960"
+            },
+            {
+                "order": "1",
+                "description": "Stavanger bys kulturfond 1949"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Styremedlem Stavanger Kunstforening 1935–38"
+            },
+            {
+                "order": "1",
+                "description": "medlem av gallerikomiteen i Stavanger Faste Galleri."
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Altertavle til Orre kirke (1949)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Madla kirke (1960)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Bryne, Sandnes og Flekkefjord kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Emanuel Church, New York (1952)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1963",
+                "order": "19",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1952",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1945",
+                "order": "13",
+                "to_date": "1948",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1949",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "34",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1956",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1953",
+                "order": "39",
+                "to_date": "1954",
+                "title": "Vennskapsby utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "27",
+                "to_date": "1958",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1949",
+                "order": "36",
+                "to_date": "",
+                "title": "Malere og billedhuggere fra Stavanger Kunstforening"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1928",
+                "order": "21",
+                "to_date": "1930",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1948",
+                "order": "25",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1950",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "22",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1943",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1937",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "24",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1930",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1928",
+                "order": "31",
+                "to_date": "",
+                "title": "Landsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1937",
+                "order": "12",
+                "to_date": "1939",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "29",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1941",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1941",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1960",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1951",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1955",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1959",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1953",
+                "order": "26",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "33",
+                "to_date": "",
+                "title": "Landsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1926",
+                "order": "20",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "28",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1947",
+                "order": "35",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1941",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1951",
+                "order": "38",
+                "to_date": "",
+                "title": "Norsk nutidskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1929",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1936",
+                "order": "23",
+                "to_date": "",
+                "title": "Vestl. utstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1965",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1927",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1925",
+                "order": "30",
+                "to_date": "",
+                "title": "Jub.utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1936",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1932",
+                "order": "11",
+                "to_date": "1935",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Malt av Ansgar Larsen (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "2 selvportrett, begge udatert (ca. 1945), i familiens eie"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1965",
+                "order": "7",
+                "reference": "s. 199",
+                "to_date": "",
+                "description": "Profiler og paletter i Rogalands kunst",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. Schanche"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-02-02",
+                "order": "0",
+                "to_date": "",
+                "description": "Haugesund Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-04-07",
+                "order": "1",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-02-13",
+                "order": "2",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Kastborg, W.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-09-23",
+                "order": "6",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-10-02",
+                "order": "5",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-02-26",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "8",
+                "reference": "s 32, 166–171 (ill.)",
+                "to_date": "",
+                "description": "Stavanger. Byen i billedkunsten",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. Schanche"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-04-02",
+                "order": "4",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Thoralf Gjesdal",
+    "url": "https://nkl.snl.no/Thoralf_Gjesdal",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>G. vokste opp i et religiøst miljø og i barneårene ble hans interesse for tegning og maling, stimulert først og fremst gjennom familiens illustrerte bibel. I ungdommen vanket han hos Bjarne Hansen, der han senere ble elev. Etter utdannelse og giftemål bosatte han seg i Stavanger, først i Bjerksted, fra 1936 i Paradis. I slutten av 1920-årene og begynnelsen av 30-årene laget G. en rekke bilder fra fabrikk- og arbeiderstrøk, som <em>Ølvognen</em> (1929) og <em>Kortspillerne</em> (1930). Han benyttet seg av et kubistpåvirket, konstruktivt formspråk, og en mettet, ofte litt disig koloritt. Mot slutten av 30-årene ble formene noe mer oppløst, og fargene lysere og rikere. Etter hvert kom han til å dyrke en lett abstrahert form som gav billedflaten et oppløst uttrykk. G. hadde en stor motivkrets, men var først og fremst landskaps- og portrettmaler. Landskapsbildene har ofte motiv fra Jæren (Skeie) eller Fundingsland, Ryfylke. Portrettene spenner fra små skisser av barn til store representasjonsportretter. G. drev hver høst i årene 1942–49 malerskole i sitt hjem.</p></div>",
+    "created_at": "2013-07-03T13:36:51.051+02:00",
+    "changed_at": "2024-06-18T23:25:28.626+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1210\",\"https://digitaltmuseum.no/1c2cc469-fcd2-45b7-9ae2-e7304d41d662\",\"http://kulturnav.org/1c2cc469-fcd2-45b7-9ae2-e7304d41d662\"]",
+        "lastname": "Gjesdal",
+        "firstname": "Thoralf",
+        "birth_date": "26.12.1903",
+        "birthplace": "Stavanger",
+        "death_date": "1.4.1963",
+        "external_id": "person_8736ab1210",
+        "kulturnav_id": "1c2cc469-fcd2-45b7-9ae2-e7304d41d662",
+        "place_of_death": "samme sted"
+    },
+    "authors": [
+        {
+            "full_name": "Hild Sørby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

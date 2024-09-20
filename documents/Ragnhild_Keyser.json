@@ -1,0 +1,562 @@
+{
+    "id": 417665,
+    "headword": "Ragnhild Keyser",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104237",
+                "birth_date": "1830",
+                "death_date": "1889",
+                "firstname": "Ove Ludvig",
+                "lastname": "Keyser",
+                "professions": [
+                    "protokollsekretær"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104238",
+                "birth_date": "1849",
+                "death_date": "1942",
+                "firstname": "Karen Helga",
+                "lastname": "Ingebretsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Académie Moderne, Paris under Fernand Léger 1924–26",
+                "order": "4"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Georg Jacobsen 1935–36",
+                "order": "5"
+            },
+            {
+                "comment": "Pola Gauguin 1916–19",
+                "order": "1"
+            },
+            {
+                "comment": "Pedro Araujo, Paris 1922–23",
+                "order": "3"
+            },
+            {
+                "comment": "Elev av Harriet Backer",
+                "order": "0"
+            },
+            {
+                "comment": "André Lhote, Paris i begynnelsen av 20-årene",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "9",
+                "description": "I Norge malte hun bl.a. i Brekkestø og på Jæren 1927"
+            },
+            {
+                "order": "12",
+                "description": "Romsdal og Lesja 1930"
+            },
+            {
+                "order": "11",
+                "description": "Hvasser og Kragerø 1929"
+            },
+            {
+                "order": "6",
+                "description": "Nytt opphold i Paris vinter-vår 1930"
+            },
+            {
+                "order": "4",
+                "description": "Provence 1925"
+            },
+            {
+                "order": "2",
+                "description": "Cahors 1922"
+            },
+            {
+                "order": "0",
+                "description": "Bosatt i Paris i lange perioder fra høsten 1919 til 1927"
+            },
+            {
+                "order": "5",
+                "description": "Croty 1926"
+            },
+            {
+                "order": "14",
+                "description": "Setesdal og Rakke"
+            },
+            {
+                "order": "7",
+                "description": "Studiereiser til England"
+            },
+            {
+                "order": "10",
+                "description": "Holmsbu og Nordland 1928"
+            },
+            {
+                "order": "3",
+                "description": "Sør-Frankrike 1923"
+            },
+            {
+                "order": "13",
+                "description": "Stavern 1931"
+            },
+            {
+                "order": "8",
+                "description": "Italia og Tunis 1938–39"
+            },
+            {
+                "order": "1",
+                "description": "Studiereiser i Bretagne og Normandie 1920"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Yale University Art Gallery (Collection Société Anonyme), New Haven, Connecticut"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1931",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1939",
+                "order": "21",
+                "to_date": "",
+                "title": "International Women's Art Exhibition"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1924",
+                "order": "3",
+                "to_date": "1925",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1947",
+                "order": "1",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriets retrospektive utstilling over norsk kunst",
+                "from_date": "1940",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon des Indépendants, Paris",
+                "from_date": "1923",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1925",
+                "order": "14",
+                "to_date": "",
+                "title": "L'Art d'Aujourd'hui"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Brooklyn Museum, New York",
+                "from_date": "1926",
+                "order": "16",
+                "to_date": "1927",
+                "title": "International Exhibition of Modern Art"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon des Indépendants, Paris",
+                "from_date": "1927",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1927",
+                "order": "18",
+                "to_date": "",
+                "title": "8 skandinaviske kubister"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "20",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1938",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1927",
+                "order": "4",
+                "to_date": "1929",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1921",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riverside Museum, New York",
+                "from_date": "1939",
+                "order": "22",
+                "to_date": "1940",
+                "title": "International Women"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Mus?e d'Art Moderne de la Ville de Paris",
+                "from_date": "1982",
+                "order": "24",
+                "to_date": "",
+                "title": "Léger et l'Esprit Moderne"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1921",
+                "order": "9",
+                "to_date": "",
+                "title": "De unge"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1921",
+                "order": "10",
+                "to_date": "",
+                "title": "vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gal. d'Art Contemporain, Paris",
+                "from_date": "1926",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1932",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Académie Moderne, Gal. Aubier, Paris",
+                "from_date": "1927",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon des Indépendants, Paris",
+                "from_date": "1926",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1933",
+                "order": "6",
+                "to_date": "1936",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riga",
+                "from_date": "1934",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1926",
+                "order": "1",
+                "reference": "s. 65 (ill.)",
+                "to_date": "",
+                "description": "Modern Art",
+                "place": "New York",
+                "authors": [
+                    "Dreier, K."
+                ],
+                "comments": [
+                    "(utg. i forbindelse med utstilling i Brooklyn Museum)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1927-03-16",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Oslo Illustrerte",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "10",
+                "reference": "bd. 2, s. 204",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "4",
+                "reference": "s. 115, 124 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "3",
+                "reference": "s. 146 (ill.)",
+                "to_date": "",
+                "description": "Die Frau als Künstlerin",
+                "place": "Berlin",
+                "authors": [
+                    "Hildebrandt, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "13",
+                "reference": "s. 359, 381, 386, 392–394, 396, 452, 454, 457, 485, 496, 522 (ill.)",
+                "to_date": "",
+                "description": "Léger et l'Esprit Moderne",
+                "authors": [],
+                "comments": [
+                    "katalog Museet d'Art Moderne de la Ville de Paris"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "12",
+                "reference": "s. 72",
+                "to_date": "",
+                "description": "Streiftog og glimt. Fra Kunstnerforbundets første 50 år",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "11",
+                "reference": "s. 71–72",
+                "to_date": "",
+                "description": "Damenes årbok",
+                "place": "Oslo",
+                "authors": [
+                    "Wankel, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-05-14",
+                "order": "0",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-10-04",
+                "order": "6",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-10-12",
+                "order": "5",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-10-06",
+                "order": "7",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "8",
+                "reference": "s. 61, 67 (ill.), 69",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "9",
+                "reference": "s. 49 (ill.), s. 210",
+                "to_date": "",
+                "description": "Collection of the Société Anonyme: Museum of Modern Art 1920",
+                "place": "New Haven",
+                "authors": [
+                    "Hamilton, G. Heard"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ragnhild Keyser",
+    "url": "https://nkl.snl.no/Ragnhild_Keyser",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>I begynnelsen av 1920-årene malte K. en rekke komposisjoner hvor landskap, hus og trær på halvkubistisk manér omformes til en fast arkitektonisk helhet (<em>Cahors</em> 1922). Flere av arbeidene er vakkert, om enn noe nølende, gjennomført i en behersket fargeholdning dominert av jordbrunt, grått og olivengrønt. Fra 1922–23 stammer noen mindre figurkomposisjoner som viser påvirkningen fra læreren André Lhote. Til dels er dette kopier av hans arbeider. Fra 1924 (eller 1925) studerte K. under Fernand Léger på Académie Moderne, og hennes bilder fra de nærmeste årene er gjennomført i et strengt konstruktivt formspråk. Som motiv anvendes ofte en oppstilling av hverdagslige gjenstander, en stol, urne, bokstabel osv., stundom også en menneskefigur eller torso, men motivet underkastes en drastisk abstraksjonsprosess og omformes til en konkretistisk flatekomposisjon hvor bare enkelte karakteriserende profiler antyder utgangspunktet. På denne tiden arbeidet hun også med nonfigurative komposisjoner, staffeli-bilder beslektet med Légers \"peinture murale\". De enkelte, som regel monokrome, geometriske formelementer er presist definerte; en begrenset romlig fornemmelse fremkommer ved omhyggelig beregnede planforskyvninger. Komposisjonene er holdt i en velavveid, sterkt begrenset koloritt med hovedvekt på hvitt, grått, sort og brunt. Iblant innføres kraftigere fargekontraster, men uten at den harmoniske orden rokkes. Bildene er sobert gjennomført i en upersonlig malemåte og representerer i norsk sammenheng forbausende modne og konsekvente løsninger på konstruktive problemstillinger. Med sine nonfigurative arbeider inntok hun en meget selvstendig stilling blant Légers elever.</p>\n<p>På midten av 20-tallet deltok K. på flere utstillinger i Paris, og tre av hennes fineste arbeider (nå i Yale University Art Gallery) ble innkjøpt av den amerikanske kunstsamler Katherine Dreier. K. deltok på utstillingen 8 skandinaviske kubister i Kunstnerforbundet i 1927, men etter at hun for godt slo seg ned i Norge, oppgav hun dette avanserte maleri og tilpasset seg en mer naturalistisk uttrykksform. Hennes utstilling hos Blomqvists Kunsthandel, Oslo i 1932 omfattet vesentlig landskaper, og røpet i noen grad vanskene hun hadde hatt med å finne nytt grunnlag for sin kunst (<em>Morgen på Rakke</em>, 1931). Det kan være noe spinkelt og forsiktig over hennes gråtonte, forenklede virkelighetsskildringer. K. malte ofte sammen med venninnen Ragnhild Kaarbø, og var i likhet med henne elev av Georg Jacobsen i 1935–36. En kraftig dekorativ holdning gjør seg gjeldende i <em>Et billede</em> (1936, vist på Høstutstillingen samme år) hvor hun knytter an til erfaringer fra 1920-årene.</p>\n<p>Overensstemmende med K.s ønske ble det etter hennes død opprettet et reisefond til yngre kunstneres utdannelse.</p>\n</div>",
+    "created_at": "2013-07-03T23:07:50.793+02:00",
+    "changed_at": "2024-06-18T23:26:15.059+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2056\",\"https://digitaltmuseum.no/abe09d98-7fdd-4d31-af18-656cf65b56bc\",\"http://kulturnav.org/abe09d98-7fdd-4d31-af18-656cf65b56bc\"]",
+        "lastname": "Keyser",
+        "firstname": "Ragnhild",
+        "birth_date": "12.12.1889",
+        "birthplace": "Kristiania",
+        "death_date": "12.10.1943",
+        "external_id": "person_8736ab2056",
+        "kulturnav_id": "abe09d98-7fdd-4d31-af18-656cf65b56bc",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Steinar Gjessing"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "Keyser, Ragnhild/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15879/standard_NMK-B_NG.K_26H.1997.123120130725-13675-shrqr6.jpg",
+            "full_size_url": "https://media.snl.no/media/15879/NMK-B_NG.K_26H.1997.123120130725-13675-shrqr6.jpg",
+            "xhtml": "<div>\r\n<p><em>Komposisjon</em>, mellom 1935 og 1937. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ragnhild Keyser",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Keyser, Ragnhild/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15882/standard_NMK-B_NG.K_26H.2001.044820130725-13675-1agp7g6.jpg",
+            "full_size_url": "https://media.snl.no/media/15882/NMK-B_NG.K_26H.2001.044820130725-13675-1agp7g6.jpg",
+            "xhtml": "<div>\r\n<p><em>Stilleben med krukke, bolle og løk</em>, ca. 1925. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ragnhild Keyser",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Keyser, Ragnhild/BONO/Keyser, Ragnhild",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16040/standard_NMK-B_NG.M.0314520130725-13675-n91vcz.jpg",
+            "full_size_url": "https://media.snl.no/media/16040/NMK-B_NG.M.0314520130725-13675-n91vcz.jpg",
+            "xhtml": "<div>\r\n<p><em>Rustning</em>, antagelig 1926. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ragnhild Keyser",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

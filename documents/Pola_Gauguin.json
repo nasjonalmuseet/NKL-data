@@ -1,0 +1,1413 @@
+{
+    "id": 415914,
+    "headword": "Pola Gauguin",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "forfatter"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Far til",
+                "external_id": "person_8736ab1182",
+                "birth_date": "27.01.1911",
+                "death_date": "14.02.1976",
+                "firstname": "Paul René",
+                "lastname": "Gauguin",
+                "professions": [
+                    "maler",
+                    "grafiker",
+                    "billedhugger"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102445",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Paul",
+                "lastname": "Gauguin",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102446",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Mette Sofie",
+                "lastname": "Gad",
+                "professions": []
+            },
+            {
+                "from_date": "1910",
+                "type": "Gift med",
+                "external_id": "person_8736ab102447",
+                "birth_date": "1881",
+                "death_date": "1960",
+                "firstname": "Ingrid Stoltz",
+                "lastname": "Blehr",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kunstakademiets arkitektskole i København 1904-05, assistent hos arkitektene H.B. Storck og Anton Rosen 1906–09",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Paris og Provence 1924–29 ."
+            },
+            {
+                "order": "0",
+                "description": "Norge og deretter Paris og Bretagne 1910"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo med 5 malerier samt tresnitt og litografier"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Veggdekorasjon i Myhres tobakksforretning, Karl Johans gt. 41"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1911",
+                "order": "13",
+                "to_date": "1912",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1911",
+                "order": "12",
+                "to_date": "",
+                "title": "Kunstnernes Efteraarsudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1926",
+                "order": "21",
+                "to_date": "",
+                "title": "Les Indépendants"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsingfors",
+                "from_date": "1931",
+                "order": "22",
+                "to_date": "",
+                "title": "Interskandinavisk grafisk konst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "23",
+                "to_date": "1933",
+                "title": "Interskandinavisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1925",
+                "order": "20",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1913",
+                "order": "14",
+                "to_date": "",
+                "title": "Les Indépendants"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1916",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1921",
+                "order": "8",
+                "to_date": "1924",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1914",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "15",
+                "to_date": "",
+                "title": "San Francisco-utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1926",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1930",
+                "order": "10",
+                "to_date": "1932",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1933",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1910",
+                "order": "11",
+                "to_date": "",
+                "title": "Ung dansk Kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1919",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1928",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1919",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1923",
+                "order": "18",
+                "to_date": "",
+                "title": "Jub.utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1913",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1924",
+                "order": "19",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1918",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1917",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1913",
+                "order": "0",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "selvportrett (Høstutstillingen, Oslo 1932)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Portrett malt av Henrik Lund (utstilling Blomqvists Kunsthandel, Oslo 1915);"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1933",
+                "order": "15",
+                "reference": "s. 93–112",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Gustave Courbet",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913",
+                "order": "0",
+                "reference": "s. 255–56",
+                "to_date": "1914",
+                "description": "Kunst og Kultur",
+                "title": "Et dekorativt arbeide av Arne Lofthus",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "11",
+                "to_date": "",
+                "description": "Henrik Lund",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "(Gyldendals Små Kunstbøker)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "21",
+                "reference": "s. 157–64",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Bernt Clüver",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "32",
+                "reference": "s. 2–23",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "title": "Rolf Nesch",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "8",
+                "reference": "s. 69–78",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Gerhard Munthe - østlandsnaturens mester",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "25",
+                "reference": "s. 161–66",
+                "to_date": "",
+                "description": "Ord och Bild",
+                "title": "Kai Fjell (Forgrunnsskikkelser i nyere norsk malerkunst. 2)",
+                "place": "Stockholm",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "4",
+                "reference": "s. 81–95",
+                "to_date": "",
+                "description": "Nordmannsforbundet",
+                "title": "Maleriutstillinger i 1921",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "35",
+                "to_date": "",
+                "title": "Norwegian painters from I.C. Dahl to Edvard Munch",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "(samling reproduksjoner)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "16",
+                "to_date": "",
+                "description": "Edvard Munch",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "(2. utg. Oslo 1946)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "12",
+                "reference": "s. 87–100",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "L.O. Ravensberg",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "7",
+                "reference": "s. 129–52",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Honoré Daumier",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "22",
+                "reference": "s. 125–28",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Åtte norske malerier i farve",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "31",
+                "reference": "s. 2–19",
+                "to_date": "1948",
+                "description": "Kunsten idag",
+                "title": "Erling Enger",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "3",
+                "reference": "s. 197–265",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Paul Gauguin",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "26",
+                "reference": "s. 103–26",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Mennesket Edvard Munch",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "36",
+                "reference": "s. 2–27",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "title": "Ørnulf Bast",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-23",
+                "order": "2",
+                "to_date": "",
+                "description": "Ukens Revy",
+                "title": "Tre utstillinger (Munch m.fl.)",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "9",
+                "reference": "s 253–54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Henrik Finne og Rolf Rude",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "13",
+                "to_date": "",
+                "description": "Christian Krohg",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "30",
+                "reference": "s. 65–84",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Torvet 8, (Chr. Krohg og Kunstakademiet)",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "reference": "s. 31–54",
+                "to_date": "",
+                "description": "Edvard Munch. Mennesket og kunstneren",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "Kunst og Kulturs serie"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "23",
+                "reference": "s. 289–97",
+                "to_date": "",
+                "description": "Ord och Bild",
+                "title": "Kunstnere som døden overrumplet",
+                "place": "Stockholm",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "(Bjarne Ness, Halfdan Egedius, Per Smith-Kielland, Kristine Rivertz)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "33",
+                "reference": "s. 353–56",
+                "to_date": "",
+                "description": "Ord och Bild",
+                "title": "Agnes Hiorth (Forgrunnsskikkelser i nyere norsk malerkunst. 5)",
+                "place": "Stockholm",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "37",
+                "to_date": "",
+                "description": "Kunsthåndbogen",
+                "title": "Anker Hoffmann, Svend Johansen osv.",
+                "place": "Odense",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "6",
+                "reference": "s. 77–96",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Jacques-Louis David",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "20",
+                "reference": "s. 47–62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Rudolf Thygesen - 60 år",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "17",
+                "reference": "s. 15–17",
+                "to_date": "",
+                "place": "Amsterdam",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "Forord i katalog for utstilling Edvard Munch, Stedelijk Museum"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1914-06-20",
+                "order": "1",
+                "to_date": "",
+                "description": "Politikens",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "Kronik"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "10",
+                "reference": "s. 1–18",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Jens Thiis. Til hans 60 årsdag",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "14",
+                "to_date": "",
+                "description": "Edvard Munch",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "(Gyldendals Små Kunstbøker)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "28",
+                "to_date": "",
+                "description": "i Edvard Munch: Som vi kjente ham. Vennene forteller",
+                "title": "Munchutstillingen i Bergen 1909 (brevveksling med Sigurd Høst)",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "29",
+                "reference": "(2 bind)",
+                "to_date": "",
+                "description": "Grafikeren Edvard Munch",
+                "place": "Trondheim",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "24",
+                "to_date": "",
+                "description": "Kai Fjell. 24 fargetrykk etter malerier",
+                "title": "Forord",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "(Serien Norske malere)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "39",
+                "to_date": "",
+                "description": "Mette og Paul Gauguin",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "34",
+                "to_date": "",
+                "description": "Ludvig Karsten",
+                "place": "Oslo",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "38",
+                "to_date": "",
+                "description": "Folmer Bendtsen",
+                "place": "København",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "(Vor Tids Kunst)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "5",
+                "reference": "3, s. 11",
+                "to_date": "",
+                "description": "Art vivant",
+                "title": "La décoration a l'étranger (Fresques de Per Krohg à Kristiania)",
+                "place": "Paris",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "19",
+                "reference": "s. 9–14",
+                "to_date": "",
+                "description": "Ord och Bild",
+                "title": "Edvard Munch",
+                "place": "Stockholm",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "18",
+                "to_date": "",
+                "authors": [
+                    "GAUGUIN, Pola"
+                ],
+                "comments": [
+                    "Forord i katalog over Edvard Munchs malerier og grafiske arbeider fra tyske museer, Holst Halvorsens kunsthandel"
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1914-12-23",
+                "order": "42",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Folkestad, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "70",
+                "reference": "s. 397, 441, 474, 516, 634",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "75",
+                "reference": "s. 111",
+                "to_date": "",
+                "description": "De norske Matisse-elevene. Læretid og gjennombrudd 1908–1914",
+                "place": "Oslo",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "60",
+                "reference": "s. 190",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "51",
+                "reference": "s. 169",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "65",
+                "reference": "s. 199",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "45",
+                "reference": "bd. 2, s. 567, 568",
+                "to_date": "",
+                "description": "i Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "55",
+                "reference": "s. 63",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "61",
+                "reference": "Häfte 5, Beilage 83",
+                "to_date": "",
+                "description": "Die Kunst und das schöne Heim",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "71",
+                "reference": "s. 45, 73, 84, 106, 107, 111, 112",
+                "to_date": "",
+                "description": "Streiftog og glimt fra Kunstnerforbundets første 50 år",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-10-08",
+                "order": "41",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "76",
+                "reference": "bd. 5, s. 66",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "66",
+                "reference": "s. 78",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "52",
+                "reference": "s. 39, 40",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-12-03",
+                "order": "62",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "46",
+                "reference": "s. 64",
+                "to_date": "",
+                "description": "i Kunst og Kultur",
+                "authors": [
+                    "Langaard, J.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "56",
+                "reference": "IV/9",
+                "to_date": "",
+                "description": "i Salmonsens Konversationsleksikons Leksikon Tidsskrift",
+                "place": "København",
+                "authors": [
+                    "Uttenreitter, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "72",
+                "reference": "s. 129–137",
+                "to_date": "",
+                "description": "Øyne som ser. Et galleri av kunstnere",
+                "place": "Oslo",
+                "authors": [
+                    "Hølaas, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "44",
+                "reference": "s. 91, 92",
+                "to_date": "",
+                "description": "Nordisk kunst i dag",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "73",
+                "reference": "bd. 7, s. 621",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-03-17",
+                "order": "40",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "58",
+                "reference": "bd. 1, s. 364",
+                "to_date": "",
+                "description": "Weilbach",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-12-06",
+                "order": "67",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Hølaas, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "47",
+                "reference": "s. 137",
+                "to_date": "",
+                "description": "Bulletin de l'Art",
+                "place": "Paris",
+                "authors": [],
+                "comments": [
+                    "supplement til Revue de l'art ancien et moderne"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "53",
+                "reference": "s. 681",
+                "to_date": "",
+                "description": "Vem är Vem i Norden",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "63",
+                "reference": "bd. 2, s. 210",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhundertss",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "57",
+                "reference": "s. 168, 171, 225",
+                "to_date": "",
+                "description": "Idékamp og stilskifte i norsk malerkunst 1900–1919",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "74",
+                "reference": "s. 14, 83, 199",
+                "to_date": "",
+                "description": "Kunst og Kulturs register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "43",
+                "reference": "bd. 13, s. 271",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "69",
+                "reference": "s. 205",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "49",
+                "reference": "s. 156",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "50",
+                "reference": "s. 189",
+                "to_date": "",
+                "description": "Galerie und Sammler",
+                "place": "Zürich",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "48",
+                "reference": "s. 134",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-12-08",
+                "order": "68",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Aamot, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "59",
+                "reference": "s. 165",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-12-06",
+                "order": "54",
+                "to_date": "",
+                "description": "Politiken",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "64",
+                "reference": "bd. 2, s. 78",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "80",
+                "reference": "uten dato, samling nr. 371",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Brev til Anders Krogvig"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "81",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            },
+            {
+                "from_date": "1924",
+                "order": "77",
+                "reference": "samling nr. 334",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Brev til Jens Thiis"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "1938",
+                "order": "79",
+                "reference": "samling nr. 302",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "7 brev til Georges Sautreau"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "1926",
+                "order": "78",
+                "reference": "samling nr. 334",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Brev til Jens Thiis"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Pola Gauguin",
+    "url": "https://nkl.snl.no/Pola_Gauguin",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>G. kom til København med foreldrene i 1884 og vokste opp der. I 1912 fikk han dansk statsborgerskap. Samme år bosatte han seg i Norge, hvor han fikk statsborgerskap i 1916. I 1949 flyttet han tilbake til København og ble igjen dansk statsborger i 1953. G. drev privat malerskole i Kristiania 1917–24. Han var kunstkritiker i Tidens Tegn 1917–24, i Dagbladet i 1931–39, Tidens Tegn 1939–40, Verdens Gang 1945–50, Ekstrabladet 1950-54. Han har utført malerier, grafikk, tegninger og dekorasjoner, samt utfoldet en omfattende litterær virksomhet. I København traff han i 1906 den unge Henrik Lund og dermed også Hans Jæger og han sluttet seg til kretsen omkring denne. Han bestemte seg til å bli maler under inntrykk av norsk kunst og sluttet seg i Norge til kretsen av senimpresjonister omkring Chr. Krohg (Lund, Karsten, Folkestad).</p>\n<p>G. kom inn i en kunstnerisk krise i 1920-årene og søkte forgjeves fornyelse gjennom opphold i Frankrike. Etter hjemkomsten var han vesentlig virksom som kritiker og forfatter. Som kunstner arbeidet G. med en videreføring av impresjonismen i en dekorativ og til dels emosjonelt ekspressiv retning, uten å finne fram til en personlig stil. Høyest nådde han kanskje som grafiker. Nasjonalgalleriet, Oslo, eier bl.a. maleriet <em>Fra Homansbyen</em> (1913), et fredfullt gateparti skygget av frodig grønnsvær. I sterk kontrast står <em>Mordet</em> (1916), Nasjonalgalleriet, en dramatisk interiørscene i sterke farger og teatralsk belysning, der de maleriske virkemidler ikke makter å bære fram det tragiske i motivet. Nasjonalgalleriet eier også en stor ryggvendt kvinneakt (1913), tung i formen og syrlig i koloritten. Mer tiltalende er et par små sørfranske landskaper (1926), der G. skildrer et sollyst, fruktbart sletteland med blå åser i det fjerne. Blant tresnittene kan <em>Vinterlandskap</em> fremheves for sin karakterfulle komposisjon sammensatt av ekspressive tresilhuetter og lave byhus under sne.</p>\n</div>",
+    "created_at": "2013-07-03T13:30:09.694+02:00",
+    "changed_at": "2024-06-18T23:25:27.460+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1183\",\"https://digitaltmuseum.no/8f1f4591-704c-460e-b05e-3ba4b5c289e2\",\"http://kulturnav.org/8f1f4591-704c-460e-b05e-3ba4b5c289e2\"]",
+        "lastname": "Gauguin",
+        "firstname": "Pola",
+        "birth_date": "6.12.1883",
+        "birthplace": "Paris",
+        "death_date": "2.7.1961",
+        "external_id": "person_8736ab1183",
+        "kulturnav_id": "8f1f4591-704c-460e-b05e-3ba4b5c289e2",
+        "place_of_death": "København",
+        "alternative_names": "Gauguin, Paul Rollon"
+    },
+    "authors": [
+        {
+            "full_name": "Marit Werenskiold"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "Gauguin, Pola/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15672/standard_NMK-B_NG.M.01190b20130725-13675-s9zjbl.jpg",
+            "full_size_url": "https://media.snl.no/media/15672/NMK-B_NG.M.01190b20130725-13675-s9zjbl.jpg",
+            "xhtml": "<div>\r\n<p><em>Mordet</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Pola Gauguin",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Gauguin, Pola/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15673/standard_NMK-B_NG.M.0128220130725-13675-9frdh0.jpg",
+            "full_size_url": "https://media.snl.no/media/15673/NMK-B_NG.M.0128220130725-13675-9frdh0.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra Homansbyen</em>, 1913. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Pola Gauguin",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Gauguin, Pola/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15683/standard_NMK-B_NG.M.0147220130725-13675-1n027xm.jpg",
+            "full_size_url": "https://media.snl.no/media/15683/NMK-B_NG.M.0147220130725-13675-1n027xm.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra Provence II</em>, 1926. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Pola Gauguin",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "forfatter"
+        }
+    ]
+}

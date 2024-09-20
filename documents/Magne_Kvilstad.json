@@ -1,0 +1,458 @@
+{
+    "id": 417926,
+    "headword": "Magne Kvilstad",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104709",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna",
+                "lastname": "Bakken",
+                "professions": []
+            },
+            {
+                "from_date": "1951",
+                "type": "Gift med",
+                "external_id": "person_8736ab104710",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Inger Helene",
+                "lastname": "Søyland",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104708",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hans",
+                "lastname": "Kvilstad",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Kolsås Bærum"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Jacob Prytz og Jens von der Lippe 1950–53",
+                "order": "1"
+            },
+            {
+                "comment": "Verkstedlære ved Ganns Potteri og Teglverk og ved Graverens Teglverk, Sandnes 1948–50",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Stipend fra Fondet for dansk-norsk samarbeid 1959"
+            },
+            {
+                "order": "2",
+                "description": "Statens garantiinntekt fra 1978"
+            },
+            {
+                "order": "1",
+                "description": "stipend fra Fondet for svensk-norsk samarbeid 1963"
+            },
+            {
+                "order": "3",
+                "description": "Studiereiser til Danmark og Sverige"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "medlem Norske kunsthåndverkere"
+            },
+            {
+                "order": "0",
+                "description": "Lærer i keramikkforming ved Vestfold husflidsskole"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Foreningen Brukskunst fra 1956"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Gullmedalje på Den internasjonale keramikkutstilling, Praha 1962"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Landesgewerbeamt Baden-Würtemberg"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Keramikkrelieff, Lysaker skole, Bærum (1971)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Syracuse University Museum New York"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1958",
+                "order": "2",
+                "to_date": "",
+                "title": "Verdensutstillingen i Brussel"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1957",
+                "order": "1",
+                "to_date": "",
+                "title": "Foreningen Brukskunsts høstmønstringer"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen, Lillehammer",
+                "from_date": "1969",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandske Kunstindustrimuseum, Bergen",
+                "from_date": "1966",
+                "order": "17",
+                "to_date": "",
+                "title": "Norsk brukskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1958",
+                "order": "3",
+                "to_date": "",
+                "title": "Formes Scandinaves"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling Sverige",
+                "from_date": "1959",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling Australia",
+                "from_date": "1961",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stuttgart",
+                "from_date": "1963",
+                "order": "16",
+                "to_date": "",
+                "title": "internasjonal kunsthåndverksutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1961",
+                "order": "10",
+                "to_date": "",
+                "title": "Skandinavisk kunsthåndverk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tel Aviv",
+                "from_date": "1961",
+                "order": "9",
+                "to_date": "",
+                "title": "internasjonal keramikkutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1961",
+                "order": "12",
+                "to_date": "",
+                "title": "Norsk brukskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lima, Peru",
+                "from_date": "1961",
+                "order": "13",
+                "to_date": "",
+                "title": "Norsk brukskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Praha",
+                "from_date": "1962",
+                "order": "14",
+                "to_date": "",
+                "title": "internasjonal keramikkutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Hylla, Basarhallene i Oslo",
+                "from_date": "1981",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Milano",
+                "from_date": "1960",
+                "order": "6",
+                "to_date": "",
+                "title": "12. Triennale"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "New York",
+                "from_date": "1960",
+                "order": "7",
+                "to_date": "",
+                "title": "Scandinavian Arts & Crafts"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Faenza, Italia",
+                "from_date": "1963",
+                "order": "15",
+                "to_date": "",
+                "title": "internasjonal keramikkutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kiel",
+                "from_date": "1961",
+                "order": "8",
+                "to_date": "",
+                "title": "Norsk brukskunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gmunden, Østerrike",
+                "from_date": "1959",
+                "order": "5",
+                "to_date": "",
+                "title": "internasjonal keramikkutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1961",
+                "order": "0",
+                "reference": "s. 222 (ill.), 282",
+                "to_date": "",
+                "description": "Brukskunst i hjemmet",
+                "place": "Oslo",
+                "authors": [
+                    "Zahle, E. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "1",
+                "reference": "s. 107",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-06-17",
+                "order": "11",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "2",
+                "reference": "s. 208, nr. 7–8 s. 24",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-12-11",
+                "order": "12",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-05-02",
+                "order": "13",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-09-03",
+                "order": "10",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "3",
+                "reference": "s. 192__-;93",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-01-28",
+                "order": "9",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-04-27",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [
+                    "Aviser"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1959-09-08",
+                "order": "8",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-04-29",
+                "order": "7",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "4",
+                "reference": "s. 239, nr. 7–8 s. 12",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "5",
+                "reference": "nr. 1–2 s. 44",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Magne Kvilstad",
+    "url": "https://nkl.snl.no/Magne_Kvilstad",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>I 1953 etablerte K. eget verksted i Time på Jæren hvor han særlig baserte produksjonen på bruksgjenstander i begittet leirgods. I 1956 flyttet K. til Bærum hvor han drev et lite verksted ved Drammensveien. Året etter overtok han Kåre Fjeldsaas verksted i Munch skole på Blommenholm. Fra dette tidspunktet gikk K. over til å arbeide med gjenstander i steingods. Fra 1980 har han hatt eget verksted på Kolsås. K.s virkelige gjennombrudd som keramiker skjedde på Foreningen Brukskunsts høstmønstring i 1959, og hans steingodsarbeider er senere blitt vist på en lang rekke utstillinger. De utmerker seg gjerne ved fint oppdreide og modellerte former. Den gråhvite glasuren, av mange betraktet som noe av et varemerke, bidrar ytterligere til å understreke gjenstandens form. I mange arbeider utnyttes kontrasten mellom glasert og uglasert skjerv. Etter hvert har dristigere fargekombinasjoner gjort seg gjeldende. K.s beste keramiske arbeider er preget av samspillet mellom enkle bruksformer og stillferdige, nesten anonyme glasur- og teksturvirkninger.</p></div>",
+    "created_at": "2013-07-04T03:16:55.166+02:00",
+    "changed_at": "2024-06-18T23:26:21.830+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2263\",\"https://digitaltmuseum.no/6cee3784-6631-48bf-b5a7-d779ceb93067\",\"http://kulturnav.org/6cee3784-6631-48bf-b5a7-d779ceb93067\"]",
+        "lastname": "Kvilstad",
+        "firstname": "Magne",
+        "birth_date": "2.5.1925",
+        "birthplace": "Haugesund",
+        "external_id": "person_8736ab2263",
+        "kulturnav_id": "6cee3784-6631-48bf-b5a7-d779ceb93067"
+    },
+    "authors": [
+        {
+            "full_name": "Ivar Stranger"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        }
+    ]
+}

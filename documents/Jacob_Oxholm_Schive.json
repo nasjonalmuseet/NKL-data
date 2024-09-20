@@ -1,0 +1,340 @@
+{
+    "id": 430441,
+    "headword": "Jacob Oxholm Schive",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106882",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Christiane Fredrikke",
+                "lastname": "Wille",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106881",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jacob Motzfeldt",
+                "lastname": "Schive",
+                "professions": [
+                    "fogd"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "studier i Düsseldorf fra 1872, angivelig elev av Ludvig Munthe",
+                "order": "1"
+            },
+            {
+                "comment": "Elev av Johan Fredrik Eckersberg, Christiania 1864–70 og Morten Müller samme sted antagelig 1870–71",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studieopphold i Düsseldorf fra 1872"
+            },
+            {
+                "order": "1",
+                "description": "bosatt i Danmark fra 1885, med opphold i Dresden noen år"
+            },
+            {
+                "order": "2",
+                "description": "studiereiser i Tyskland, Danmark og Norge"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Moss Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1872",
+                "order": "3",
+                "to_date": "1894"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstverein, Berlin",
+                "from_date": "1874",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Chicago",
+                "from_date": "1893",
+                "order": "8",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1883",
+                "order": "7",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1878",
+                "order": "5",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1869",
+                "order": "1",
+                "to_date": "1876"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1881",
+                "order": "6",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1872",
+                "order": "2",
+                "to_date": "",
+                "title": "Nordisk industri- og kunstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "0",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1912-05-25",
+                "order": "0",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912-09-19",
+                "order": "1",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "5",
+                "to_date": "",
+                "description": "Personalhistorie",
+                "place": "Trondheim",
+                "authors": [
+                    "Chr. Thaulow"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "6",
+                "reference": "s. 37",
+                "to_date": "",
+                "description": "i Trondhjems Kunstforening. 90-års skrift",
+                "place": "Trondheim",
+                "authors": [
+                    "J. E. Brodahl"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "4",
+                "to_date": "",
+                "description": "Familien Schive",
+                "place": "Trondheim",
+                "authors": [
+                    "O. Schmidt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "10",
+                "reference": "s. 79, 277",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "H. Alsvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "7",
+                "reference": "s. 141, 212",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "S. Willoch"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "2",
+                "reference": "s. 10",
+                "to_date": "",
+                "description": "Hvad jeg saa og hvem jeg mødte",
+                "place": "(Kristiania",
+                "authors": [
+                    "W. Peters"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "9",
+                "to_date": "",
+                "description": "Trondheim byhistorie",
+                "place": "Trondheim",
+                "authors": [
+                    "K. Mykland"
+                ],
+                "comments": [
+                    "bd. 3"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "8",
+                "reference": "s. 1183–84 (ill.), 176, 264",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "O. Flønes",
+                    "J. J. Grimelund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "3",
+                "reference": "s. 25",
+                "to_date": "",
+                "description": "Kunst, kamp, kultur",
+                "place": "(Kristiania",
+                "authors": [
+                    "E. Werenskiold"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jacob Oxholm Schive",
+    "url": "https://nkl.snl.no/Jacob_Oxholm_Schive",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. var landskapsmaler og malte hovedsakelig høst- og vinterlandskaper, de siste minner om Morten Müllers sene bilder. Han malte også enkelte fargefriske og sommerlige kyststudier, bl.a. <em>Hus ved stranden</em> (1885, Nasjonalgalleriet, Oslo). Malerier av S. ble utloddet i kunstforeningene i Trondheim (åtte ganger), Drammen (fire ganger) og Kristiania (to ganger). Sine siste leveår tilbrakte S. på Lillehammer og i Vestre Gausdal.</p></div>",
+    "created_at": "2014-11-20T15:29:20.491+01:00",
+    "changed_at": "2024-06-18T23:27:58.072+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3401\",\"https://digitaltmuseum.no/2fd9cdfd-33f5-4bcf-86d0-fba1aac5c9eb\",\"http://kulturnav.org/2fd9cdfd-33f5-4bcf-86d0-fba1aac5c9eb\"]",
+        "lastname": "Schive",
+        "firstname": "Jacob Oxholm",
+        "birth_date": "19.2.1847",
+        "birthplace": "Ørlandet",
+        "death_date": "24.5.1912",
+        "external_id": "person_8736ab3401",
+        "kulturnav_id": "2fd9cdfd-33f5-4bcf-86d0-fba1aac5c9eb",
+        "place_of_death": "Lillehammer",
+        "alternative_names": "Schiwe, Jacob Oxholm"
+    },
+    "authors": [
+        {
+            "full_name": "Helen Holager"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20509/standard_NMK-B_NG.M.0327520151204-26003-1grphlh.jpg",
+            "full_size_url": "https://media.snl.no/media/20509/NMK-B_NG.M.0327520151204-26003-1grphlh.jpg",
+            "xhtml": "<div><p><i>Hus ved stranden</i>. Jacob Oxholm Schive. 1885. <a href=\"http://digitaltmuseum.no/011041108813\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Jacob Oxholm Schive",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

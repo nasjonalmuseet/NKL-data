@@ -1,0 +1,432 @@
+{
+    "id": 418107,
+    "headword": "Sverre Lura",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105153",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Selma",
+                "lastname": "Johannesen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105152",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Toralv",
+                "lastname": "Lura",
+                "professions": [
+                    "steintrykker"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Stavanger"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein og Per Krohg 1950–56",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Carsten Lien og Chrix Dahl 1946–50",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Houens legat 1956"
+            },
+            {
+                "order": "1",
+                "description": "Schäffers legat 1954"
+            },
+            {
+                "order": "0",
+                "description": "Statens arbeidsstipend 1951"
+            },
+            {
+                "order": "3",
+                "description": "Flere studiereiser til Frankrike, Italia, Danmark og Nederland i 1950-årene"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "medlem Bildende Kunstneres Forening Rogaland"
+            },
+            {
+                "order": "0",
+                "description": "Timelærer i grafikk ved Stavanger yrkesskole 1969–72"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Foreningen Norske Grafikere, jurymedlem første halvdel av 1950-årene"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Domkirkens menighetshus, Bethel, Stavanger (1958)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Norsk Forening for Grafisk Kunst grafikkmappe 1953"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "A. Kielland: Torvmyr, Oslo 1953"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Vår kirke, Oslo 1952"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk Grafikkunion, København",
+                "from_date": "1956",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1954",
+                "order": "5",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1954",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Norske Grafikeres utstilling i Stockholm",
+                "from_date": "1956",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling, Sverige",
+                "from_date": "1958",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vennskapsbyutstilling i Jyväskylä, Finland",
+                "from_date": "1957",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ljubljana",
+                "from_date": "1956",
+                "order": "10",
+                "to_date": "",
+                "title": "Norveska Grafika"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1952",
+                "order": "1",
+                "to_date": "1953",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "2",
+                "to_date": "1956",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "3",
+                "to_date": "1956",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frankrike",
+                "from_date": "1956",
+                "order": "9",
+                "to_date": "",
+                "title": "La Gravure Norvégienne Contemporaine"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1950",
+                "order": "0",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tunis",
+                "from_date": "1969",
+                "order": "16",
+                "to_date": "",
+                "title": "Gravures Norvégiennes Contemporaines"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "17",
+                "to_date": "",
+                "title": "Bildende Kunstneres Forening Rogalands jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "England",
+                "from_date": "1961",
+                "order": "15",
+                "to_date": "",
+                "title": "Norwegian Graphic Art"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "São Paulo",
+                "from_date": "1955",
+                "order": "8",
+                "to_date": "",
+                "title": "Biennalen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger",
+                "from_date": "1954",
+                "order": "6",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1954",
+                "order": "7",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1980",
+                "order": "8",
+                "reference": "bd. 7, s. 713",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "5",
+                "reference": "s. 212",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-07-14",
+                "order": "7",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-12-06",
+                "order": "4",
+                "to_date": "",
+                "description": "i Jyväskylän Sanomat",
+                "authors": [
+                    "Ritva"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-12-01",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Jyväskylän Sanomat",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "2",
+                "to_date": "",
+                "description": "i Työn Voima",
+                "authors": [
+                    "Selin, H."
+                ],
+                "comments": [
+                    "nr. 278"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "0",
+                "reference": "s. 56 (ill.)",
+                "to_date": "",
+                "description": "Norske grafikere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Landslaget aktuell kunst"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1957-12-01",
+                "order": "1",
+                "to_date": "",
+                "description": "i Keskisuomalainen",
+                "authors": [
+                    "Asunta, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "6",
+                "reference": "s. 222",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Sverre Lura",
+    "url": "https://nkl.snl.no/Sverre_Lura",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>L. debuterte som grafiker på Høstutstillingen 1950, samme året som han begynte på Akademiet. Hans arbeider i første halvdel av 50-årene er tydelig påvirket av Carsten Lien og Chrix Dahl. Allerede som akademielev i 1952–53 assisterte L. Carsten Lien ved hans utsmykkingsoppdrag til Nedre Eiker gravkapell i Mjøndalen og to år senere ved takdekorasjonene i Hole kirke, Røyse. Selv om L. mottok impulser fra sine lærere ved akademiet, var han på denne tiden i ennå større grad påvirket av eldre mestre som Tintoretto, Tizian og Goya. Etter akademitiden vendte L. tilbake til hjembyen Stavanger, hvor han i perioder ikke var virksom som kunstner.</p>\n<p>L.s mest aktive tid som billedkunstner var i 50 og 60-årene. Fra denne tiden er hans kjente raderinger <em>Roma I</em> (1953, Nasjonalgalleriet, Oslo) og <em>Katedralen i Chartres</em> (1954, Nationalmuseum, Stockholm). L. benytter blyantskisser som utgangspunkt for sine grafiske blad. Han oppfatter det norske fjellandskap grafisk, samtidig som han ser klare paralleller og slektskap mellom disse storslåtte, høyreiste fjell og monumentaliteten i greske templer og gotiske katedraler. Kontraster og balanse mellom det bærende og det bårne, det statiske og det dynamiske, mellom det vertikale og horisontale, det tunge og lette, og den dramatiske effekt mellom lys og skygge forsøker L. å sammenfatte i sine arbeider. L. tar utgangspunkt i et naturalistisk formspråk, men han forenkler dette ved å fremheve viktige detaljer. Musikken er en viktig inspirasjonskilde som L. benytter bevisst. Dette kommer særlig til uttrykk i de klangfulle valører i sort-hvitt, i de myke overgangene mellom lyse og mørke partier og i den rytmiske måten han bruker streken på. Bortsett fra noen få litografiske blad, har L. hovedsakelig arbeidet med dyptrykkteknikker. De fleste arbeidene er i sort-hvitt. L. er først og fremst grafiker, men han har også arbeidet med tempera og pastell.</p>\n</div>",
+    "created_at": "2013-07-04T07:21:03.538+02:00",
+    "changed_at": "2024-06-18T23:26:26.920+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2480\",\"https://digitaltmuseum.no/334db3cf-7984-4672-8049-5300e3c880fe\",\"http://kulturnav.org/334db3cf-7984-4672-8049-5300e3c880fe\"]",
+        "lastname": "Lura",
+        "firstname": "Sverre",
+        "birth_date": "6.5.1920",
+        "birthplace": "Stavanger",
+        "external_id": "person_8736ab2480",
+        "kulturnav_id": "334db3cf-7984-4672-8049-5300e3c880fe",
+        "alternative_names": "Lura, Sverre Emil"
+    },
+    "authors": [
+        {
+            "full_name": "Berit Wathne"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        }
+    ]
+}

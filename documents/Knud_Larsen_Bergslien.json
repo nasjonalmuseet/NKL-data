@@ -1,0 +1,680 @@
+{
+    "id": 416411,
+    "headword": "Knud Larsen Bergslien",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100678",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kirsten Knutsdotter",
+                "lastname": "Gjelle",
+                "professions": []
+            },
+            {
+                "type": "Bror av",
+                "external_id": "person_8736ab332",
+                "birth_date": "12.11.1830",
+                "death_date": "18.09.1898",
+                "firstname": "Brynjulf Larsen",
+                "lastname": "Bergslien",
+                "professions": [
+                    "stempelskjærer",
+                    "billedhugger",
+                    "gravør"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100677",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lars Bergeson",
+                "lastname": "Bergslien",
+                "professions": [
+                    "husmann"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "avbrutt av opphold i Paris med Charles Gleyre som lærer",
+                "order": "2"
+            },
+            {
+                "comment": "Elev av Hans L. Reusch, Bergen",
+                "order": "0"
+            },
+            {
+                "comment": "kunstak. i Antwerpen under Josephus Laurentius Dyckmann",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Paris 1850–51"
+            },
+            {
+                "order": "9",
+                "description": "Frankrike"
+            },
+            {
+                "order": "6",
+                "description": "Wien 1878"
+            },
+            {
+                "order": "12",
+                "description": "Tyskland"
+            },
+            {
+                "order": "11",
+                "description": "Sveits"
+            },
+            {
+                "order": "10",
+                "description": "Italia"
+            },
+            {
+                "order": "3",
+                "description": "Düsseldorf 1855–1869"
+            },
+            {
+                "order": "4",
+                "description": "reiser rundt i Norge og Sverige"
+            },
+            {
+                "order": "7",
+                "description": "Hellas 1902"
+            },
+            {
+                "order": "5",
+                "description": "en rekke tyske byer 1873"
+            },
+            {
+                "order": "0",
+                "description": "Statsstipend 1854"
+            },
+            {
+                "order": "1",
+                "description": "Bosatt i Antwerpen 1849–52"
+            },
+            {
+                "order": "8",
+                "description": "dessuten England"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Lærer ved Tegneskole i Bergen 1852–54"
+            },
+            {
+                "order": "1",
+                "description": "lærer ved J.F. Eckersbergs malerskole, og leder av skolen fra 1870 til ca. 1900"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Vasaordenen"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Historisk museum Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Det kgl. Slott, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "museum i Hannover"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Eidsvoldsminnet"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Göteborg Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Islands Kunstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Kunsthalle Hamburg"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Malmö Museum"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1857",
+                "order": "3",
+                "to_date": "",
+                "title": "Den nordiske Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordenfjeldske Kunstindustrimuseum",
+                "from_date": "",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1881",
+                "order": "8",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1840",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1850",
+                "order": "1",
+                "to_date": "1872"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1872",
+                "order": "6",
+                "to_date": "",
+                "title": "Den nordiske udstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "9",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1866",
+                "order": "5",
+                "to_date": "",
+                "title": "Den nordiske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1862",
+                "order": "4",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Det Kongelige Norske Videnskabers Selskab",
+                "from_date": "",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1876",
+                "order": "7",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Fredrik Kolstø: Maleren Knud Bergslien (1897, gjengitt i Kunst og Kultur 1961 s. 21)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1858",
+                "order": "0",
+                "reference": "s. 226–27",
+                "to_date": "",
+                "description": "Illustreret Nyhedsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1869",
+                "order": "2",
+                "reference": "s. 212",
+                "to_date": "",
+                "description": "Skilling-Magazin",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "20",
+                "reference": "register bd. s. 27",
+                "to_date": "1921",
+                "description": "Bergen 1814–1914",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1879",
+                "order": "4",
+                "reference": "bd. 2, s. 45",
+                "to_date": "",
+                "description": "Adolph Tidemand",
+                "place": "(Kristiania",
+                "authors": [
+                    "L. Dietrichson"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "22",
+                "reference": "s. 164",
+                "to_date": "1917",
+                "description": "Kunst og Kultur",
+                "title": "Brev fra Hans og Betzy Gude",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "24",
+                "to_date": "",
+                "description": "Dei tre Bergslikunstnarane",
+                "place": "Voss",
+                "authors": [
+                    "M. Dagestad"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-11-09",
+                "order": "17",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "12",
+                "reference": "s. 213",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907-05-06",
+                "order": "15",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1898",
+                "order": "10",
+                "reference": "s. 140",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "5",
+                "reference": "s. 88–89",
+                "to_date": "",
+                "description": "Bergens Kunstforening i 50 år",
+                "place": "Bergen",
+                "authors": [
+                    "J. Bøgh"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "27",
+                "reference": "bd. 2, s. 501",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "7",
+                "to_date": "",
+                "description": "Malerwerke des Neunzehnten Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "F. von Boetticher"
+                ],
+                "comments": [
+                    "ny utgave"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "18",
+                "reference": "bd. 3, s. 415",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "21",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "28",
+                "reference": "s. 60, 173",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1873",
+                "order": "3",
+                "reference": "s. 457",
+                "to_date": "",
+                "description": "Almuevennen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "19",
+                "to_date": "",
+                "description": "Bergens museums aarbok 1912",
+                "title": "Bergenske malte portretter",
+                "place": "Bergen",
+                "authors": [
+                    "A.M. Wiesener",
+                    "C.W. Schnitler"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "25",
+                "reference": "bd. 1, s. 180",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "L. Østby",
+                    "H. Alsvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "23",
+                "reference": "s. 472",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1863",
+                "order": "1",
+                "to_date": "",
+                "description": "Illustreret Nyhedsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907-06-02",
+                "order": "16",
+                "to_date": "",
+                "description": "Norsk Familiejournal",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "13",
+                "reference": "bd. 1, s. 215, 231–33, bd. 2, s. 113, 114, 306, 323, 328, 331",
+                "to_date": "1907",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "J. Thiis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "14",
+                "reference": "s. 111, 114",
+                "to_date": "",
+                "description": "Norsk Billedkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "R. Thommessen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "11",
+                "reference": "s. 129",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "9",
+                "reference": "s. 33",
+                "to_date": "",
+                "description": "Det nye Norges Malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "A. Aubert"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "6",
+                "reference": "bd. 1",
+                "to_date": "",
+                "description": "Malerwerke des Neunzehnten Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "F. von Boetticher"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "26",
+                "reference": "register bd. 3, s. 956",
+                "to_date": "1972",
+                "description": "Drammen. En norsk østlandsbys utviklingshistorie",
+                "place": "Drammen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "8",
+                "reference": "bd. 2, s. 236",
+                "to_date": "",
+                "description": "Svundne Tider",
+                "place": "(Kristiania",
+                "authors": [
+                    "L. Dietrichson"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Knud Larsen Bergslien",
+    "url": "https://nkl.snl.no/Knud_Larsen_Bergslien",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>B. vokste opp i et gårdbrukerhjem og tilhørte en kunstnerisk begavet slekt. Han begynte tidlig å tegne. 18 år gammel lot han seg verve som soldat i Bergen for å tjene sitt brød. I fritiden tegnet han flittig og forsøkte også å skaffe seg kunnskap i astronomi og matematikk, noe han fortsatte med senere i livet, bl.a. de sommere han tilbrakte hos Helge Væringsåsen i Østerdalen. Denne bygde til og med et observatorium til ham. Etter to års garnisonstjeneste kunne han ofre seg helt for kunsten og fikk H. Reusch til lærer. B. malte på denne tid mest portretter og stilleben. Ved hjelp av støtte fra borgere i Bergen reiste han sommeren 1849 til Akademiet i Antwerpen og fikk Dyckmann som lærer. I 1852–54 var B. lærer ved en tegneskole som Lyder Sagen hadde fått i stand i Bergen. </p>\n<p>I 1855 drog B. til Düsseldorf, hvor han, avbrutt av enkelte studiereiser, ble til våren 1869. Han utførte en rekke genrebilder av norsk folkeliv og fortsatte Tidemands tradisjon som folkelivsskildrer. Fra 1856 til 1872 leverte han årvisst figurbilder fra røkstuer, seterscener og fiskerstuer til utlodningen i Christiania Kunstforening. Han malte også en rekke historiemalerier som er blitt vel kjente gjennom utallige reproduksjoner, f.eks. <em>Birkebeinerne på ski over Filefjeld fører Håkon Håkonsøn som barn til Trondhjem</em> (1869), <em>Kong Sverre i snestormen på Vossefjeldene</em> (1870) og <em>Oscar 2.s kroning i Trondhjems Domkirke</em> (1874, Det Kgl. Slott Oslo). Til kong Oscars kroning i 1873 malte han 5 dekorasjonsmalerier til Stiftsgården i Trondheim. Etter 1869 malte han hovedsakelig portretter. B. hadde en fremragende evne til å fange inn den rent ytre likhet hos modellene. Dette kan henge sammen med at han på et tidlig tidspunkt var oppmerksom på den betydning fotografiet skulle få for malerkunsten. Han hadde også en sterk innlevelsesevne og formådde i sine beste portretter å trenge inn til modellens personlighet. Tydelig kommer dette fram i det ypperlige portrett av kunstnerens far, (Nasjonalgalleriet, Oslo). I hans senere år kunne hans portretter virke noe løse og lite gjennomarbeidede. Etter 1874 stilte han sjelden ut. Blant hans portretter kan nevnes <em>Eilert Sundt</em> (Oslo Arbeidersamfund); <em>General Wergeland</em> (Kristiania Frimurerlosje); <em>J.F. Eckersberg</em> (Oslo Kunstforening). Han har også portrettert Schweigaard, Asbjørnsen, P.A. Munch. Foruten de mange representasjonsportretter finner vi ellers et fortryllende barnebilde av Brynjulf Bergsliens datter Helga (gjengitt i M. Dagestad: Dei tre Bergslikunstnarane, Voss 1945, s. 31). B.s vesentligste betydning i norsk kunsthistorie ligger i hans lærergjerning for den generasjon av malere som satte sitt preg på norsk kunst fra 1880-årene og inn i vårt århundre. Blant de kunstnere som var elever på Bergsliens malerskole i \"Pultosten\", kan nevnes Chr. Skredsvig, Hans Heyerdahl, Eilif Peterssen, Gerhard Munthe, Edvard Munch, Harriet Backer, Kalle Løchen, Torstein Torsteinson, Halfdan Egedius og Thorvald Erichsen. \"Gamle Bergslien\" var avholdt både som menneske og som lærer, selv om hans elever ikke alltid fulgte hans anvisninger og var enige i hans noe düsseldorfpregede fargesyn, men hans koloritt kunne til sine tider være ganske djerv. </p>\n<p>Gudes karakteristikk av B. som menneske synes å dekke den alminnelige oppfatning: B. var en kar med malm i og en tvers gjennom elskelig personlighet.</p>\n</div>",
+    "created_at": "2013-07-03T15:37:42.677+02:00",
+    "changed_at": "2024-06-18T23:25:40.495+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab334\",\"https://digitaltmuseum.no/5e4d5e9a-c734-43a9-970a-9cf3b09193ce\",\"http://kulturnav.org/5e4d5e9a-c734-43a9-970a-9cf3b09193ce\"]",
+        "lastname": "Bergslien",
+        "firstname": "Knud Larsen",
+        "birth_date": "15.5.1827",
+        "birthplace": "Voss",
+        "death_date": "27.11.1908",
+        "external_id": "person_8736ab334",
+        "kulturnav_id": "5e4d5e9a-c734-43a9-970a-9cf3b09193ce",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Bergslien, Knud"
+    },
+    "authors": [
+        {
+            "full_name": "Sonja Hagemann"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

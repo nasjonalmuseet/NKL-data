@@ -1,0 +1,636 @@
+{
+    "id": 430479,
+    "headword": "Anna Schønheyder",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "tekstilkunstner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106940",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Wilhelm Andreas",
+                "lastname": "Hartmann",
+                "professions": [
+                    "ingeniør"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106938",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Diderik Christian Sommerschild",
+                "lastname": "Schønheyder",
+                "professions": [
+                    "sorenskriver"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106939",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie Kathinka",
+                "lastname": "Maurer",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Henri Matisse, Paris 1909",
+                "order": "3"
+            },
+            {
+                "comment": "Viggo Johansen og Joakim Skovgaard, København 1903–04",
+                "order": "2"
+            },
+            {
+                "comment": "Eugène Carrière, Paris før 1909",
+                "order": "4"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under bl.a. Johan Nordhagen 1900, 1905–09",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Harriet Backer og Oluf Wold Torne antagelig 1901–03",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Italia 1915"
+            },
+            {
+                "order": "0",
+                "description": "Schäffers legat 1913–14"
+            },
+            {
+                "order": "2",
+                "description": "København 1903–04"
+            },
+            {
+                "order": "4",
+                "description": "opphold i Düsseldorf 1920–21"
+            },
+            {
+                "order": "1",
+                "description": "Studieopphold i Paris flere vintre mellom 1899–1909, dessuten 1919 (hjemreise via London)"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "0",
+                "description": "Tegner Den norske husflidsforening gjennom en årrekke etter 1910"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hagenbund, Wien",
+                "from_date": "1912",
+                "order": "8",
+                "to_date": "",
+                "title": "Norwegische Künstler"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "10",
+                "to_date": "",
+                "title": "San Francisco-utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1909",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1906",
+                "order": "3",
+                "to_date": "1911",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1902",
+                "order": "2",
+                "to_date": "1904",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "13",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Jubileumsutstillingen i 1914, Kristiania",
+                "from_date": "",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1953",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo jub.utst.",
+                "from_date": "1951",
+                "order": "12",
+                "to_date": "",
+                "title": "For 40 år siden"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Efterudst., Trondheim",
+                "from_date": "1902",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1907",
+                "order": "6",
+                "to_date": "",
+                "title": "Grafisk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Den norske utst., Helsinki",
+                "from_date": "1911",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Selvportrett (olje ca. 1905, privat eie) vist på minneutst., Kunstnerforbundet, Oslo 1953"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1983",
+                "order": "10",
+                "reference": "bd. 6, s. 389",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "2",
+                "reference": "s. 291",
+                "to_date": "",
+                "description": "Kunsten og den gode form",
+                "place": "Oslo",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907-12-09",
+                "order": "12",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-21",
+                "order": "29",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Kvalvaag, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "6",
+                "reference": "s. 213",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-09",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-15",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-14",
+                "order": "24",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-19",
+                "order": "27",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "8",
+                "reference": "s. 128, 245",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-11-01",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-10-19",
+                "order": "15",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-05-21",
+                "order": "17",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-06-07",
+                "order": "19",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "9",
+                "reference": "s. 40",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "0",
+                "reference": "bd. 2, s. 409",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-21",
+                "order": "30",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907-10-20",
+                "order": "11",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "1",
+                "reference": "s. 31 (ill.)",
+                "to_date": "",
+                "description": "Norske malere",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "3",
+                "reference": "bd. 2, s. 551",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-16",
+                "order": "26",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-12-15",
+                "order": "21",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "5",
+                "reference": "bd. 30, s. 229–30",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-21",
+                "order": "28",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Kvalvaag, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-09",
+                "order": "23",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-09-10",
+                "order": "14",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-06-06",
+                "order": "18",
+                "to_date": "",
+                "description": "i Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "Ring, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-10-12",
+                "order": "16",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Thornam, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-08-01",
+                "order": "20",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "7",
+                "reference": "s. 45",
+                "to_date": "",
+                "description": "Norsk grafikk i det tyvende århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Sinding-Larsen, K."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Anna Schønheyder",
+    "url": "https://nkl.snl.no/Anna_Sch%C3%B8nheyder",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. var en meget allsidig kunstner som gjorde seg bemerket både som maler, grafiker og tekstilkunstner. Hun debuterte på Høstutstillingen 1902 med <em>Kirke, Vågå</em>. Hennes malerier preges av en klar oppbygning, brede strøk og en sikker koloritt. Man sporer en påvirkning fra Harriet Backer og Oluf Wold-Torne, som var hennes første lærere. De beste arbeidene syns å være utført før 1910. Fra denne perioden er <em>Vågå kirke før gudstjenesten</em> (ca. 1906, Nasjonalgalleriet, Oslo) og <em>Steinhuggere, Hvaler</em> (ca. 1908, privat eie, vist minneutst. Kunstnerforbundet, Oslo 1953). I 1909 var S. i Paris hvor hun ble opptatt som elev hos Henri Matisse, et elevforhold som preget hennes seneste produksjon. På Jubileumsutstillingen 1914 var S. representert med blant annet billedteppet <em>Sagnet om Lavransonen</em> som hun høstet god kritikk for.</p></div>",
+    "created_at": "2014-11-20T16:19:34.677+01:00",
+    "changed_at": "2024-06-18T23:27:59.148+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3442\",\"https://digitaltmuseum.no/c8a50e1c-0a1b-4a05-a229-cef317319f2c\",\"http://kulturnav.org/c8a50e1c-0a1b-4a05-a229-cef317319f2c\"]",
+        "lastname": "Schønheyder",
+        "firstname": "Anna",
+        "birth_date": "28.8.1877",
+        "birthplace": "Kristiania",
+        "death_date": "11.4.1927",
+        "external_id": "person_8736ab3442",
+        "kulturnav_id": "c8a50e1c-0a1b-4a05-a229-cef317319f2c",
+        "place_of_death": "Oslo",
+        "alternative_names": "Schønheyder, Anna Hartmann"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Aaserud"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20521/standard_NMK-B_NG.M.0225620151204-26003-l1ms9k.jpg",
+            "full_size_url": "https://media.snl.no/media/20521/NMK-B_NG.M.0225620151204-26003-l1ms9k.jpg",
+            "xhtml": "<div><p><i>Pikekammeret på Lye i Vågå</i>. Anna Schønheyder. <a href=\"http://digitaltmuseum.no/011041108450\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Anna Schønheyder",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20522/standard_NMK-B_NG.M.0225720151204-26003-1p0vh7d.jpg",
+            "full_size_url": "https://media.snl.no/media/20522/NMK-B_NG.M.0225720151204-26003-1p0vh7d.jpg",
+            "xhtml": "<div><p><i>Vågå kirke før gudstjenesten</i>. Anna Schønheyder. 1906. <a href=\"http://digitaltmuseum.no/011041108451\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Anna Schønheyder",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "tekstilkunstner"
+        }
+    ]
+}

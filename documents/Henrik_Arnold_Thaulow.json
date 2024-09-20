@@ -1,0 +1,135 @@
+{
+    "id": 430897,
+    "headword": "Henrik Arnold Thaulow",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107522",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anne Cathrine",
+                "lastname": "Tyrholm",
+                "professions": null
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107521",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hans Henrik",
+                "lastname": "Thaulow",
+                "professions": [
+                    "fogd",
+                    "justisråd",
+                    "generalveimester"
+                ]
+            },
+            {
+                "from_date": "1764",
+                "type": "Gift med",
+                "external_id": "person_8736ab107523",
+                "birth_date": "1746",
+                "death_date": "1818",
+                "firstname": "Jacobine",
+                "lastname": "Christye",
+                "professions": null
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Kristiansand"
+            }
+        ],
+        "educations": [],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Stipend fra Kongelig Partikulærkasse, København 1749-63"
+            },
+            {
+                "order": "1",
+                "description": "Bosatt i Danmark til 1763"
+            },
+            {
+                "order": "2",
+                "description": "Flere reiser, bl.a. til Paris 1749"
+            },
+            {
+                "order": "3",
+                "description": "Roma og Dresden 1753"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1952",
+                "order": "0",
+                "reference": "bd. 3, s. 359",
+                "to_date": "",
+                "description": "Weilbach Kunstnerleksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938",
+                "order": "1",
+                "reference": "bd. 32, s. 583",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Henrik Arnold Thaulow",
+    "url": "https://nkl.snl.no/Henrik_Arnold_Thaulow",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>T. drev i 1750-årene kunsthandel i København og solgte flere ganger kobberstikk og malerier til kongen, muligens også egne arbeider. Fra 1763 var T. auksjonsdirektør og rådstueskriver i Kristiansand. Han har også solgt egne arbeider i Norge.</p></div>",
+    "created_at": "2014-12-19T15:31:07.821+01:00",
+    "changed_at": "2024-06-18T23:28:09.713+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3707\",\"https://digitaltmuseum.no/81489478-6135-413d-94b9-8f6a3659ba23\",\"http://kulturnav.org/81489478-6135-413d-94b9-8f6a3659ba23\"]",
+        "lastname": "Thaulow",
+        "firstname": "Henrik Arnold",
+        "birth_date": "27.12.1722",
+        "birthplace": "antagelig i Moss",
+        "death_date": "22.6.1799",
+        "external_id": "person_8736ab3707",
+        "kulturnav_id": "81489478-6135-413d-94b9-8f6a3659ba23",
+        "place_of_death": "København"
+    },
+    "authors": [
+        {
+            "full_name": "Svein Aamold"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

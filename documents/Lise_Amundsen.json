@@ -1,0 +1,410 @@
+{
+    "id": 415940,
+    "headword": "Lise Amundsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100071",
+                "birth_date": "1903",
+                "death_date": "",
+                "firstname": "Erik",
+                "lastname": "Jebsen",
+                "professions": []
+            },
+            {
+                "from_date": "1955",
+                "type": "Gift med",
+                "external_id": "person_8736ab100073",
+                "birth_date": "1930",
+                "death_date": "",
+                "firstname": "Roald",
+                "lastname": "Amundsen",
+                "professions": [
+                    "jurist"
+                ],
+                "place": "Oslo"
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100072",
+                "birth_date": "1905",
+                "death_date": "",
+                "firstname": "Margit",
+                "lastname": "von Erpecom",
+                "professions": [
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Halden"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "veiledning av prof. Egon Weiner, Chicago University, bosatt i Norge 3–4 mndr. årlig fra 1976",
+                "order": "9"
+            },
+            {
+                "comment": "elev av prof. Anthony Caro ved St. Martin School of Art, London, 6 md. 1957",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo (før 1911: Den kgl. Tegneskole), tekstil (diplom) og skulptur, modellering under billedhugger Alvsåker 1950–55",
+                "order": "2"
+            },
+            {
+                "comment": "elev av Annasif Døhlen 1960",
+                "order": "5"
+            },
+            {
+                "comment": "kurs i industridesign, boliginnredning og fargelære",
+                "order": "7"
+            },
+            {
+                "comment": "hospitant hos billedhugger Nils Flakstad 1957",
+                "order": "4"
+            },
+            {
+                "comment": "elev av billedhugger Mathias Jacobsen 1948–49, begge i Kristiansand",
+                "order": "1"
+            },
+            {
+                "comment": "i steinhuggerlære hos Fagernes, Halden, 1964–65",
+                "order": "6"
+            },
+            {
+                "comment": "Tegnet fra 13-årsalderen hos maler Olaf Hasaas",
+                "order": "0"
+            },
+            {
+                "comment": "Bergenholtz Dekorasjonsskole",
+                "order": "8"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "London 6 md. i 1957"
+            },
+            {
+                "order": "3",
+                "description": "Mexico en md. i 1978"
+            },
+            {
+                "order": "4",
+                "description": "kortere reiser til bl.a. London, Paris og Firenze"
+            },
+            {
+                "order": "0",
+                "description": "Italia 2 md. i 1954"
+            },
+            {
+                "order": "2",
+                "description": "Montreal, Washington og Michigan 9 uker både i 1967 og i 1972"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "assosiert medlem av Norsk Billedhuggerforening"
+            },
+            {
+                "order": "1",
+                "description": "Gruppe 10, Halden"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Østfold Bildende Kunstnere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Halden Sparebank"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Storebrand, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Tekstilarbeider: Kreditkassen, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Sarpsborg (rundkjøringen ved sykehuset)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Haldens og Sarpsborgs Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Kreditkassen, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Park Hotell, Halden"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Risum husmorskole, Idd"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Halden Sparebank"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Greåker skole"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Halden politikammer"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Skulptur: Norsk rikskringkasting (13 år, 1977)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Østerbro sentralinstitutt for psykisk utviklingshemmede"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Snåsa kommunes alderssenter"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1965",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk Designcentrum"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Moss kunstfor.",
+                "from_date": "1975",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1964",
+                "order": "12",
+                "to_date": "",
+                "title": "Signert Design i Norway Designs"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1964",
+                "order": "13",
+                "to_date": "",
+                "title": "Dagens Hushäll"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Moss kunstgalleri",
+                "from_date": "1974",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Borgarsyssel museum",
+                "from_date": "1974",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "K. Hus",
+                "from_date": "1964",
+                "order": "10",
+                "to_date": "",
+                "title": "Brukskunsts høstmønstring"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1967",
+                "order": "11",
+                "to_date": "1969"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Parma",
+                "from_date": "1980",
+                "order": "9",
+                "to_date": "",
+                "title": "Accademia delle Arti e del Lavoros utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Halden Kunstforening",
+                "from_date": "",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Halden og Sarpsborg kunstfor.",
+                "from_date": "1979",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1965",
+                "order": "15",
+                "to_date": "",
+                "title": "17. Internasjonale Håndverksmesse"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "3",
+                "to_date": "",
+                "title": "Østl.utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "OK",
+                "from_date": "1971",
+                "order": "16",
+                "to_date": "",
+                "title": "Norsk tekstil nå"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1980-01-17",
+                "order": "2",
+                "to_date": "",
+                "description": "Tistaposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dictinary of Contemporary European Artists",
+                "place": "Milano",
+                "authors": [],
+                "comments": [
+                    "Ed. Accademia Italia delle Arti e del Lavoro"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "0",
+                "reference": "s. 22",
+                "to_date": "",
+                "description": "The World Who's Who of Women",
+                "place": "Cambridge",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Lise Amundsen",
+    "url": "https://nkl.snl.no/Lise_Amundsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>A. flyttet fra Oslo til Halden i 1961; ble ansatt som frilans designer ved Haldens Bomullsspinderi &amp; Væveri 1963–71 og deltok i utviklingen av ullryer for maskinfremstilling i Norge og Sverige. Hun var designer for Haldengardiner AS 1971–74 og fargekonsulent for Halden kommune. A. opprettet eget konsulentkontor i design og markedsføring i Halden fra 1967 sammen med sin mann. Fra 1975 valgte A. å konsentrere seg helt om skulpturen. Hun modellerer i leire med sikte på støping, fortrinnsvis i bronse, men bruker også bronseblandet og sandblandet polyester foruten tre. A. konsentrerte seg i begynnelsen hovedsaklig om naturalistiske, karakteriserende portretter og statuetter. Spesielt gode er portrettene av barn og unge. Skulpturen <em>13 år</em> var med på Høstutstillingen 1977. Barn er et gjennomgangsmotiv. Flere av barnestudiene er i en tett, forenklet form og ofte med et humoristisk, fortellende poeng. Ellers har hun arbeidet mye med mor og barn-motivet der både glede, undring og angst får komme frem. Disse tankene utarbeider hun i poengterte, kristne temaer, hvorav flere er i relieffs form. A. fikk tidlig sterke impulser hos Caro og senere Weiner til å utvikle et abstrakt formspråk. Innflydelse fra Henry Moore og Barbara Hepworth kan spores i flere arbeider som f.eks. <em>Ømhet i skogen</em> (1977), <em>Underet</em> (1976), <em>Jeg er her tilstede</em> (1979) og <em>Kjærlighet i vekst</em> (1977). A. har fortsatt å pendle mellom den abstrakte og den naturalistiske stil, noe som har forhindret ren formdyrking og beriket den mer direkte og fortellende del av hennes skulptur.</p></div>",
+    "created_at": "2013-07-03T13:34:26.598+02:00",
+    "changed_at": "2024-06-18T23:25:28.033+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab48\",\"https://digitaltmuseum.no/88dcdb19-5c98-4ee6-aeeb-d77f24549f33\",\"http://kulturnav.org/88dcdb19-5c98-4ee6-aeeb-d77f24549f33\"]",
+        "lastname": "Amundsen",
+        "firstname": "Lise",
+        "birth_date": "17.2.1933",
+        "birthplace": "Kristiansand",
+        "external_id": "person_8736ab48",
+        "kulturnav_id": "88dcdb19-5c98-4ee6-aeeb-d77f24549f33",
+        "alternative_names": "Amundsen, Lise Margit Elisabeth"
+    },
+    "authors": [
+        {
+            "full_name": "Unni Nøding"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

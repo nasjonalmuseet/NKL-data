@@ -1,0 +1,451 @@
+{
+    "id": 418004,
+    "headword": "Jan Lervik",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104901",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Randi",
+                "lastname": "Monsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104900",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Leif",
+                "lastname": "Lervik",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab2366",
+                "birth_date": "27.01.1943",
+                "death_date": "",
+                "firstname": "Kirsten",
+                "lastname": "Lervik",
+                "professions": [
+                    "tekstilkunstner"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1953–55",
+                "order": "0"
+            },
+            {
+                "comment": "hospitant grafikklinjen Statens Kunstakademi, Oslo 1 år",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Italia"
+            },
+            {
+                "order": "0",
+                "description": "Studiereiser Hellas"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Tegnerforbundet"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Landsforeningen Norske Malere"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Ski og Sandefjord kommuner"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Acanthus, Oslo",
+                "from_date": "1980",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1964",
+                "order": "13",
+                "to_date": "1966",
+                "title": "Tegnerforbundet vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ski rådhus",
+                "from_date": "1969",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "12",
+                "to_date": "1974",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "11",
+                "to_date": "1965",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Pettersson, Tønsberg",
+                "from_date": "1981",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ski rådhus, Ski",
+                "from_date": "1969",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "9",
+                "to_date": "1975",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Bobolina, Oslo",
+                "from_date": "1967",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Kunstnernes Hus, Oslo",
+                "from_date": "1971",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "10",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vasastadens konstsalong, Göteborg",
+                "from_date": "1974",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1978",
+                "order": "15",
+                "to_date": "",
+                "title": "Landsforeningen Norske Malere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord kunstforening",
+                "from_date": "1972",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen kunstforeninger",
+                "from_date": "1972",
+                "order": "3",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1971-09-24",
+                "order": "6",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-09-16",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-02",
+                "order": "7",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-23",
+                "order": "8",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-28",
+                "order": "9",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-04",
+                "order": "16",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-29",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "0",
+                "reference": "s. 184",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-30",
+                "order": "11",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Dæhlin, E. O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-16",
+                "order": "15",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Wego, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-31",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "3",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-05",
+                "order": "13",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Røed, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "1",
+                "reference": "s. 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-06",
+                "order": "14",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "2",
+                "reference": "s. 116,122",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "4",
+                "reference": "s. 52",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jan Lervik",
+    "url": "https://nkl.snl.no/Jan_Lervik",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>L. debuterte som tegner og grafiker i 1959 og som maler i 1965. Han arbeider til daglig i reklamebransjen. Fram til 1971 utviklet L.s formspråk seg fra naturalisme mot en stadig større grad av abstraksjon. Fra 1971 kunne hans bilder deles i to motivgrupper: bilder som uttrykte vekst, blomstring og naturglede, og bilder hvor han var inspirert av kloder, romfart, østens mystikk og symboler. Tusjtegningene hadde ofte en snert av humor og satire, og strekføringen var lekende og samtidig presis med treffende kontraster fra svart til hvitt. I løpet av 70-årene har L. arbeidet seg fram til et enhetlig impresjonistisk maleri. Motivene er naturstemninger hentet fra Norge, Danmark og Frankrike. Disse bildene utmerker seg ved sin rytmiske disponering av flaten og en spesiell ripeteknikk i fargen, som har en dominans av vårgrønt og distanserende blått.</p></div>",
+    "created_at": "2013-07-04T04:45:57.407+02:00",
+    "changed_at": "2024-06-18T23:26:24.224+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2365\",\"https://digitaltmuseum.no/7871449b-872e-482e-bedd-5ad35310b131\",\"http://kulturnav.org/7871449b-872e-482e-bedd-5ad35310b131\"]",
+        "lastname": "Lervik",
+        "firstname": "Jan",
+        "birth_date": "25.12.1935",
+        "external_id": "person_8736ab2365",
+        "kulturnav_id": "7871449b-872e-482e-bedd-5ad35310b131"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

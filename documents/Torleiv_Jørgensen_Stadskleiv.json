@@ -1,0 +1,956 @@
+{
+    "id": 431068,
+    "headword": "Torleiv Jørgensen Stadskleiv",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107133",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jørgen Olsen",
+                "lastname": "Stadskleiv",
+                "professions": null
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107134",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg Torleivsdatter",
+                "lastname": "Klokkerstuen",
+                "professions": null
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Den kgl. Tegneskole under bl.a. Julius Middelthun 1883–86",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Chr. Krohg vinteren 1884",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Chr. Krohg, Eilif Peterssen, Hans Heyerdahl og Erik Werenskiold på malerskolen i Observatoriegt., Kristiania 1887",
+                "order": "2"
+            },
+            {
+                "comment": "Kristian Zahrtmanns skole, København 1887–88, februar-mars 1898, desember 1898-januar 1899, desember 1901- mars 1902",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1887 og -91"
+            },
+            {
+                "order": "1",
+                "description": "Hielmstierne Rosencrones legat 1893"
+            },
+            {
+                "order": "2",
+                "description": "Schäffers legat 1898"
+            },
+            {
+                "order": "3",
+                "description": "Statens reisestipend 1898 og -99"
+            },
+            {
+                "order": "4",
+                "description": "Studieopphold i København 1887-88, februar-mars 1898, desember 1898-januar 1899, desember 1901-mars 1902"
+            },
+            {
+                "order": "5",
+                "description": "Firenze og Roma 1899"
+            },
+            {
+                "order": "6",
+                "description": "Paris 1899-1900"
+            },
+            {
+                "order": "7",
+                "description": "Reise til Berlin og München 1899"
+            },
+            {
+                "order": "8",
+                "description": "Belgia, Nederland og Sverige 1900"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Rasmus Meyers Samlinger, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Skiens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Lårdal Bygdemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Fylkesmuseum for Telemark og Grenland"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Det Kgl. Slott, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1913",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1935",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1945",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tønsberg Kunstforening",
+                "from_date": "1945",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1947",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bø folkeakademi",
+                "from_date": "1963",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1966",
+                "order": "6",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1886",
+                "order": "7",
+                "to_date": "1889",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1891",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "9",
+                "to_date": "1898",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1902",
+                "order": "11",
+                "to_date": "1906",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1908",
+                "order": "12",
+                "to_date": "1909",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "13",
+                "to_date": "1914",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1916",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1925",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1934",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1936",
+                "order": "17",
+                "to_date": "1938",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norska Konstnärers Arbeten, Stockholm",
+                "from_date": "1904",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1911",
+                "order": "20",
+                "to_date": "",
+                "title": "norsk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "21",
+                "to_date": "",
+                "title": "Brighton-utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "22",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "23",
+                "to_date": "",
+                "title": "San Francisco-utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborgs Konstfor.",
+                "from_date": "1915",
+                "order": "24",
+                "to_date": "",
+                "title": "Norsk målarkonst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "25",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år, Kunstnernes Hus, Oslo"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1941",
+                "order": "26",
+                "to_date": "",
+                "title": "Telemarksutst."
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Selvportrett (olje Trøndelag Kunstgalleri)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "tegnet selvportrett (1882, privat eie) gjengitt i Kunst og Kultur 1940 s. 211"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "to oljemalerier (1898 og ca. 1900) gjengitt i Kunst og Kultur 1937 s. 188–89"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Stadskleiv og Reynolds foran peisen, maleri utført av Halfdan Egedius (olje 1892, privat eie) gjengitt i Parmann, Ø.: Halfdan Egedius. Liv og verk, Oslo 1979, s. 32"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "to blyanttegninger utført av Halfdan Egedius (1895) begge gjengitt samme sted s. 66 og 71"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Drømmeren, maleri utført av Halfdan Egedius (olje 1896, Nasjonalgalleriet, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "tegning utført av Sverre Sondbø (1934) gjengitt i Østvedt, E.: På gamle tufter. Ti Telemarksprofiler, Skien 1975"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "byste utført av Dyre Vaa (bronse 1944, Skiens Faste Galleri)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Egedius har brukt S. som modell til hovedfiguren i Spill og dans (1896, Nasjonalgalleriet, Oslo), den ene av karene i Lørdagskveld (1893, Nasjonalgalleriet, Oslo) og til flere av Snorre-illustrasjonene"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1904",
+                "order": "0",
+                "reference": "s. 177",
+                "to_date": "",
+                "description": "Norsk billedkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thommessen, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1907",
+                "order": "1",
+                "reference": "bd. 2, s. 363, 387, 389",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1914",
+                "order": "2",
+                "to_date": "",
+                "description": "Halfdan Egedius",
+                "place": "(Kristiania",
+                "authors": [
+                    "Halvorsen, W."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927",
+                "order": "3",
+                "reference": "bd. 12, s. 116",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1937",
+                "order": "4",
+                "reference": "bd. 31, s. 438",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1942",
+                "order": "5",
+                "reference": "s. 69–83",
+                "to_date": "",
+                "description": "Telemark i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944",
+                "order": "6",
+                "reference": "s. 26–61",
+                "to_date": "",
+                "description": "På gamle stier",
+                "place": "(Oslo)",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944",
+                "order": "7",
+                "reference": "s. 236 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1951",
+                "order": "8",
+                "reference": "bd. 1, s. 413, 430",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H.",
+                    "Østby, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "9",
+                "reference": "s. 151",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850–1950",
+                "place": "Oslo",
+                "authors": [
+                    "Sundseth, A. B.",
+                    "Melhus, A. C."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1959",
+                "order": "10",
+                "to_date": "",
+                "description": "Skiens historie",
+                "place": "(Skien",
+                "authors": [
+                    "Seierstad, J.",
+                    "Østvedt, E."
+                ],
+                "comments": [
+                    "bd. 3, register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1961",
+                "order": "11",
+                "to_date": "1972",
+                "description": "Drammen. En norsk østlandsbys utviklingshistorie",
+                "place": "Drammen",
+                "authors": [
+                    "Pedersen, T.",
+                    "Thorson, O. W."
+                ],
+                "comments": [
+                    "bd. 3, register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1962",
+                "order": "12",
+                "reference": "bd. 14, s. 265–66",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967",
+                "order": "13",
+                "to_date": "",
+                "description": "Torleiv Stadskleiv",
+                "place": "Oslo",
+                "authors": [
+                    "Vaa, D."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "14",
+                "reference": "s. 131, 248",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1975",
+                "order": "15",
+                "to_date": "",
+                "description": "Telemark. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1975",
+                "order": "16",
+                "reference": "s. 89–106",
+                "to_date": "",
+                "description": "På gamle tufter. Ti Telemarksportretter",
+                "place": "(Skien",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "17",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "18",
+                "reference": "bd. 11, s. 75",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "19",
+                "reference": "bd. 5, s. 243",
+                "to_date": "",
+                "description": "i Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Berg, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1913-01-04",
+                "order": "20",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1925-10-09",
+                "order": "21",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1925-10-12",
+                "order": "22",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-02-14",
+                "order": "23",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-10-05",
+                "order": "24",
+                "to_date": "",
+                "description": "Fylkesavisen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-10-06",
+                "order": "25",
+                "to_date": "",
+                "description": "Fylkesavisen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944-10-10",
+                "order": "26",
+                "to_date": "",
+                "description": "Varden",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-10-06",
+                "order": "27",
+                "to_date": "",
+                "description": "Varden",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-10-08",
+                "order": "28",
+                "to_date": "",
+                "description": "Telemark Arbeiderblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-10-08",
+                "order": "29",
+                "to_date": "",
+                "description": "Telen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-10-13",
+                "order": "30",
+                "to_date": "",
+                "description": "Agderp.",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-12-14",
+                "order": "31",
+                "to_date": "",
+                "description": "Vestfold Arbeiderblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-05-03",
+                "order": "32",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-05-03",
+                "order": "33",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-05-12",
+                "order": "34",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-05-14",
+                "order": "35",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958-04-19",
+                "order": "36",
+                "to_date": "",
+                "description": "Porsgrunns Dagblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963-03-15",
+                "order": "37",
+                "to_date": "",
+                "description": "Varden",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965-10-25",
+                "order": "38",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Hedlund, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1966-01-13",
+                "order": "39",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1966-01-17",
+                "order": "40",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Hougen, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1966-01-17",
+                "order": "41",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-04-04",
+                "order": "42",
+                "to_date": "",
+                "description": "i Dag og Tid",
+                "authors": [
+                    "Dalgard, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982-01-06",
+                "order": "43",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Børte, T."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982-01-07",
+                "order": "44",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Børte, T."
+                ],
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1976",
+                "order": "45",
+                "publisher": "Universitetet i Oslo",
+                "to_date": "",
+                "description": "Zahrtmanns malerskole 1885-1908",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": null
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Torleiv Jørgensen Stadskleiv",
+    "url": "https://nkl.snl.no/Torleiv_J%C3%B8rgensen_Stadskleiv",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>S. reiste fra Bø i Telemark for å begynne på Den kgl. Tegneskole høsten 1883. Samme sommer hadde han vist Erik Werenskiold noen av sine tegninger. Werenskiold hadde med begeistring vist tegningene til Ludvig Skramstad og Gerhard Munthe, og sammen anbefalte de S. på Tegneskolen. Allerede det første året på skolen viste S. sine gode evner som tegner. Først gikk han i gipsklassen, men avanserte raskt til figurklassen, hvor han fikk Middelthun som lærer. S.' tegninger fra denne tiden synes på mange måter å ligge nær Werenskiolds, men de er tørrere. De er som regel veltrufne redegjørelser for mennesker og landskap. De mange tegninger av foreldrene, <em>Halfdan Egedius</em> (Nasjonalgalleriet, Oslo) og av den kjente modellen <em>Jossa</em> (1887, privat eie) vitner om inngående studium av modellenes karakter. For S. var ikke tegningen bare et nødvendig teknisk hjelpemiddel for oppbygningen av malerier, men et selvstendig kunstnerisk uttrykk. Samtidig som han gikk på Tegneskolen var S. vinteren 1884 elev av Chr. Krohg i Pultosten. Økonomien tvang S. til å slutte på Tegneskolen etter tre år, men vinteren 1887 fikk han igjen anledning til å fortsette sine studier i Kristiania, hvor han malte med Werenskiold, Peterssen, Heyerdahl og Krohg på deres malerskole. Fra 1880-årene fins bl.a. et par selvportretter (ett i Trøndelag Kunstgalleri), <em>Jens fra Maridalen</em> (1887, Skiens Faste Galleri), <em>Jente i blått</em>, (1888) og <em>Far</em>, som alle klart viser inntrykk mottatt fra lærerne. Med Finnes legat drog S. i 1887 til København hvor han oppholdt seg et par år på Zahrtmanns malerskole. Senere frekventerte han skolen noen måneder i 1898 og -99 og i 1901–02. Statens reisestipend muliggjorde reiser til Italia og Frankrike i 1899–1900. I Italia malte S. i Firenze og Roma hvor han hovedsakelig kopierte i museene. Under Paris-oppholdet fikk hans malerier en større dristighet enn det som kjennetegner hans øvrige produksjon fra 80-årene. Noen aktstudier fra Paris er noe av det mest kraftfulle han har gjort. I løpet av sin utdannelsestid i 1880- og 90-årene levde S. vekselvis i Telemark om sommeren og i Kristiania om vinteren. I løpet av 90-årene fikk han også rikelig anledning til å utvikle sin kunst om somrene hjemme i Telemark til tross for gårdsarbeid. S. utgjorde et naturlig og sentralt midtpunkt i det rike kunstnermiljø i Bø. Det var her den 27 år gamle S. for første gang traff den 15 år gamle Halfdan Egedius, sommeren 1892. Ut over sin egen innsats som kunstner inntar S. gjennom sitt nære vennskap med Egedius en plass i norsk kunsthistorie. S. mottok nyheten om vennens tidlige død i 1899 på vei til Italia. Det kan virke som S. aldri helt kom over dette tapet. Etter hjemkomsten fra Paris vendte S. tilbake til Telemark hvor han ble resten av livet. </p>\n<p>For S. var alltid virkelighetsstudiet det mest avgjørende, og det var bare i Telemark han følte seg intimt knyttet til naturen og folkelynnet. Han skildret det som var karakteristisk for bygdas liv og natur, oftest med en sikker strek. Etter 1900 finner vi færre menneskefremstillinger i hans maleri. Skoglandskaper, og senere høyfjellsbilder dominerte. Han nådde lengst som figurmaler, hvor han gjerne samlet seg godt om personkarakteristikken. Som landskapsmaler inntar han ingen iøynefallende plass blant norske malere og han nådde sjelden fram til originale konsepsjoner eller selvstendige iakttagelser. Hans naturskildringer, ofte dominert av blå, gule og grønne farger, er ekte og tilforlatelige, blottet for effektjageri, men av begrenset koloristisk verdi. Som landskapsmaler nådde han lengst i slutten av 1890-årene og det første tiår etter århundreskiftet. Et maleri som <em>Midtsommer</em> (ant. 1898, Nasjonalgalleriet), der en frodig blomstrende tornebusk fyller forgrunnen, har et nyromantisk preg av poesi. Han forble hele sitt liv en romantiker, med forkjærlighet for lyriske tolkninger fulle av drøm og elegi, men bildene ble ofte for detaljerte på bekostning av helhetsinntrykket, som i <em>Sommerregn</em> (1900, Nasjonalgalleriet). S. var en kunstner som i 1880- og 90-årene utviklet seg i takt med hovedstrømningene i norsk maleri. Etter 1900 innfridde han ikke de håp man hadde til hans utvikling. Han trakk seg etter hvert bort fra byliv og mennesker og levde i ensomhet i sitt fjell- og skogrike hvorfra han hentet sine motiver. S. hadde få separatutstillinger, men deltok jevnlig på fellesmønstringer.</p>\n</div>",
+    "created_at": "2014-12-21T13:55:17.006+01:00",
+    "changed_at": "2024-06-18T23:28:14.885+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3519\",\"https://digitaltmuseum.no/ebb2af04-0b81-49a7-a2fd-1571c2512872\",\"http://kulturnav.org/ebb2af04-0b81-49a7-a2fd-1571c2512872\"]",
+        "lastname": "Stadskleiv",
+        "firstname": "Torleiv Jørgensen",
+        "birth_date": "10.10.1865",
+        "birthplace": "Bø, Telemark",
+        "death_date": "17.8.1946",
+        "external_id": "person_8736ab3519",
+        "kulturnav_id": "ebb2af04-0b81-49a7-a2fd-1571c2512872",
+        "place_of_death": "samme sted"
+    },
+    "authors": [
+        {
+            "full_name": "Tone Skedsmo"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

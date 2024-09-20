@@ -1,0 +1,406 @@
+{
+    "id": 418044,
+    "headword": "Anne Lindvik",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104993",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johan Peter",
+                "lastname": "Holtsmark",
+                "professions": [
+                    "professor"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104994",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Elinor",
+                "lastname": "Rømcke",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab104995",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Harold Bernhard",
+                "lastname": "Lindvik",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bærum"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein, Alf-Jørgen Aas og Halvdan Ljøsne 1964–68",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1945–46",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens etterutdanningsstipend 1972"
+            },
+            {
+                "order": "6",
+                "description": "Nederland"
+            },
+            {
+                "order": "3",
+                "description": "England"
+            },
+            {
+                "order": "2",
+                "description": "Italia"
+            },
+            {
+                "order": "5",
+                "description": "Hellas"
+            },
+            {
+                "order": "1",
+                "description": "Studiereiser til Sovjet"
+            },
+            {
+                "order": "4",
+                "description": "Frankrike"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "5",
+                "description": "Bildende Kunstnere i Bærum, medlem Kunstnerisk Råd 1981"
+            },
+            {
+                "order": "2",
+                "description": "Trøndelag Bildende Kunstnere"
+            },
+            {
+                "order": "4",
+                "description": "Akershus Bildende Kunstneres Forening, medlem utsmykkingsutvalget 1981"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "0",
+                "description": "Lærer ved Asker malerskole 1978–80, Bærum malerklubb 1978–81, Asker Friundervisning fra 1981"
+            },
+            {
+                "order": "3",
+                "description": "Landsforeningen Norske Malere, medlem utstillingsutvalget 1978–80"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Eidsvoll kommune"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Marinteknisk senter, Trondheim (maleri)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Tavastehus kommune, Finland"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Telemark og Akershus fylkeskommuner"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Halden politikontor (maleri, 1978)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1972",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": "",
+                "title": "Galleri Landsforeningen Norske Malere, Oslo"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hamar kunstforening",
+                "from_date": "1981",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "7",
+                "to_date": "1980",
+                "title": "Østlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "8",
+                "to_date": "",
+                "title": "Kvinneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "12",
+                "to_date": "",
+                "title": "Trøndelag Bildende Kunstneres jubileumsutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Musk, Lommedalen",
+                "from_date": "1978",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "11",
+                "to_date": "1975",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "14",
+                "to_date": "1981",
+                "title": "Telemarksutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Århus",
+                "from_date": "1975",
+                "order": "9",
+                "to_date": "",
+                "title": "Kunstnernes Påskeudst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo kunstforening",
+                "from_date": "1981",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Henrik, Eidsvoll",
+                "from_date": "1979",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "10",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Teaterveggen, Trondheim",
+                "from_date": "1973",
+                "order": "1",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1978-11-22",
+                "order": "7",
+                "to_date": "",
+                "description": "i Asker og Bærums Budstikke",
+                "authors": [
+                    "Egebakken, E. A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-09-27",
+                "order": "6",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "0",
+                "reference": "s. 186",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-03",
+                "order": "9",
+                "to_date": "",
+                "description": "i Hamar Arbeiderblad",
+                "authors": [
+                    "Solberg, O. K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-18",
+                "order": "3",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-15",
+                "order": "2",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-15",
+                "order": "1",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-19",
+                "order": "4",
+                "to_date": "",
+                "description": "Norges Handels og Sjøfartstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-19",
+                "order": "5",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-02-19",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Anne Lindvik",
+    "url": "https://nkl.snl.no/Anne_Lindvik",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>L. viste i 1972 bl.a. landskaps- og bybilder med tydelig påvirkning fra J.W. Turner. Hun malte også figurbilder. L. har senere dyrket den lyriske side ved sine naturopplevelser. Hun skaper harmoni og helhet i billedflaten ved oppløsning av naturformene og med en sløret og dus koloritt av pastelltoner. Motivene er ofte sett i et vart skumringslys eller i tåke. L.s tegninger varierer fra det gjennomarbeidede til en mer frigjort og spontan strek.</p></div>",
+    "created_at": "2013-07-04T05:44:12.928+02:00",
+    "changed_at": "2024-06-18T23:26:25.213+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2411\",\"https://digitaltmuseum.no/9d0a5d8f-f01c-4d64-95cd-7eaa32a7ab02\",\"http://kulturnav.org/9d0a5d8f-f01c-4d64-95cd-7eaa32a7ab02\"]",
+        "lastname": "Lindvik",
+        "firstname": "Anne",
+        "birth_date": "25.7.1924",
+        "birthplace": "Oslo",
+        "external_id": "person_8736ab2411",
+        "kulturnav_id": "9d0a5d8f-f01c-4d64-95cd-7eaa32a7ab02",
+        "alternative_names": "Lindvik, Anne Elisabeth"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

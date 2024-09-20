@@ -1,0 +1,893 @@
+{
+    "id": 417477,
+    "headword": "Eli Johnsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tekstilkunstner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab1359",
+                "birth_date": "08.05.1924",
+                "death_date": "25.12.2008",
+                "firstname": "Per",
+                "lastname": "Göransson",
+                "professions": [
+                    "tekstilkunstner",
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104056",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Alvilde",
+                "lastname": "Foss",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104055",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Oscar",
+                "lastname": "Johnsen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Konstfackskolan Stockholm 1947-51",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole aftenskolen 1942-46",
+                "order": "0"
+            },
+            {
+                "comment": "Konstskolan Umeå, grafikk-kurs 1979",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "5",
+                "description": "Flere studiereiser til Italia og andre europeiske land"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1980"
+            },
+            {
+                "order": "1",
+                "description": "Statens stipend for brukskunstnere 1961"
+            },
+            {
+                "order": "6",
+                "description": "Mexico og Guatemala 1967"
+            },
+            {
+                "order": "3",
+                "description": "Statens 3-årige arbeidsstipend 1977"
+            },
+            {
+                "order": "0",
+                "description": "Norsk-finsk statsstipend 1958"
+            },
+            {
+                "order": "2",
+                "description": "Oslo bys stipend 1971"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Lærer i tekstiltegning Statens Lærerskole i forming, Oslo fra 1953"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Landsforeningen Norske Malere"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre, jurymedlem 1976 og 1979/80."
+            },
+            {
+                "order": "3",
+                "description": "Norske tekstilkunstnere"
+            }
+        ],
+        "awards": [
+            {
+                "order": "2",
+                "description": "Sammen med Per Göransson: 1. premie i konkurranse Romerike yrkesskole 1961"
+            },
+            {
+                "order": "3",
+                "description": "1. premie i konkurranse Stavanger Bibliotek 1962"
+            },
+            {
+                "order": "1",
+                "description": "Innkjøp i konkurranse om høysetepartiet i Håkonshallen, Bergen 1959"
+            },
+            {
+                "order": "0",
+                "description": "Lunningprisen 1965"
+            },
+            {
+                "order": "4",
+                "description": "delt 1. premie i engere konkurranse Linköping Nye Bibliotek 1972"
+            },
+            {
+                "order": "5",
+                "description": "delt 1. premie i engere konkurranse Statens Lærerskole i forming, Notodden 1976"
+            },
+            {
+                "order": "6",
+                "description": "1. premie Høyesteretts sal, Oslo tinghus 1982"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Hinna husmorskole (1975)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "AS Vinmonopolet, Hasle, Oslo (1972)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Voss husflidskule (1975-76)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Hotell Klubben teater, Tønsberg (applikasjon, sceneteppe, 1968)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Statens Lærerskole i forming, Notodden (billedvev, 1976)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Landesgewerbeamt, Stuttgart"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Skien Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Skänninge Kyrkas menighetshus, Sverige (1969)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Ås rådhus (1973)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Tiurleiken skole, Oslo (veggfelt, akryl på betong og forskjellige tekstile teknikker, 1979-80)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Brevik kirke (1966)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "NVE, Oslo (billedvev, 1968)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Stavanger Bibliotek (dobbeltvev, 1962-65)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Sammen med Per Göransson: Romerike yrkesskole (vev, 1961)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Statens Konstråd, Sverige"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "De Sandvigske Samlinger, Lillehammer"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Linköping Nye Bibliotek (billedvev og sgrafetto, 1970-73)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 27, Oslo",
+                "from_date": "1965",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "33",
+                "to_date": "",
+                "title": "Tapisseries norvégiennes de l'art nouveau à nos jours, Tyskland"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "23",
+                "to_date": "1977",
+                "title": "Høstutstillingen, Oslo"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1976",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "25",
+                "to_date": "1981",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1962",
+                "order": "27",
+                "to_date": "1963",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1968",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Sigvat Skald, Sarpsborg",
+                "from_date": "1981",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1979",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1973",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1978",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1972",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1971",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "St. Lars, Linköping",
+                "from_date": "1979",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nygårdsmagasinet, Linköping",
+                "from_date": "1976",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "29",
+                "to_date": "1970",
+                "title": "Experiencias artistico textiles, Madrid"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1971",
+                "order": "31",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn jub.utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1961",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordenfjeldske Kunstindustrimuseum, Trondheim",
+                "from_date": "1972",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Heland, Stockholm",
+                "from_date": "1971",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1960",
+                "order": "26",
+                "to_date": "",
+                "title": "12. Triennale di Milano"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "24",
+                "to_date": "",
+                "title": "Høstutstillingen, Oslo"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund og Haugesund kunstforeninger",
+                "from_date": "1982",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1965",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1964",
+                "order": "28",
+                "to_date": "",
+                "title": "Foreningen Brukskunsts høstmønstring"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Konstforum, Norrköping",
+                "from_date": "1971",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ås Kunstforening",
+                "from_date": "1972",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Finspång, Sverige",
+                "from_date": "1979",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Östergötlands läns Landsting, Linköping",
+                "from_date": "1977",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vadköping, Örebro",
+                "from_date": "1975",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Basarhallene, Oslo",
+                "from_date": "1970",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sonja Henies og Niels Onstads Stiftelser",
+                "from_date": "1970",
+                "order": "30",
+                "to_date": "",
+                "title": "Norsk vevkunst i det 20. årh."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "32",
+                "to_date": "",
+                "title": "Tapisseries norvégiennes de l'art nouveau à nos jours, Paris"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1974",
+                "order": "13",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1971",
+                "order": "22",
+                "reference": "s. 60",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "0",
+                "reference": "s. 104",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "28",
+                "to_date": "",
+                "description": "Idé og form",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "nr. 2"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "26",
+                "reference": "s. 179",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "24",
+                "reference": "s. 55",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "10",
+                "to_date": "1966",
+                "description": "Dansk Kunsthåndverk",
+                "place": "København",
+                "authors": [],
+                "comments": [
+                    "nr. 3"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-09",
+                "order": "16",
+                "to_date": "",
+                "description": "Dagbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "2",
+                "reference": "nr. 5 s. 3",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "14",
+                "reference": "s. 68-69, 84",
+                "to_date": "",
+                "description": "Norsk kunsthåndverk",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "4",
+                "reference": "s. 103, nr. 10 s. VIIInr. 1 s. I, nr. 7/8 s. XII",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "7",
+                "reference": "s. 14, nr. 1 s. I",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "12",
+                "to_date": "",
+                "description": "Mobilia",
+                "place": "Snekkersten, Danmark",
+                "authors": [],
+                "comments": [
+                    "nr. 146"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "9",
+                "reference": "s. 134, 136, 160-61, 176, 240, 279 (ill.)",
+                "to_date": "",
+                "description": "Brukskunst i hjemmet",
+                "place": "Oslo",
+                "authors": [
+                    "Zahle, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "21",
+                "reference": "s. 182, 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-11-03",
+                "order": "19",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-29",
+                "order": "18",
+                "to_date": "",
+                "description": "Stavanger Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "5",
+                "reference": "s. 189-93, nr. 7/8 s. 0",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "29",
+                "reference": "bd. 6, s. 516",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "23",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "27",
+                "reference": "s. 127",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "17",
+                "to_date": "",
+                "description": "A-magasinet",
+                "authors": [],
+                "comments": [
+                    "nr. 34"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "8",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [
+                    "nr. 4"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "11",
+                "to_date": "",
+                "description": "Form",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [
+                    "nr. 2"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "25",
+                "reference": "s. 53",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "13",
+                "to_date": "",
+                "description": "34 skandinaviske designere",
+                "place": "København",
+                "authors": [
+                    "Møller, S. E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "3",
+                "reference": "nr. 3 s. 32",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-02-21",
+                "order": "15",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "6",
+                "reference": "s. 289",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "20",
+                "reference": "s. 212",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-11-21",
+                "order": "30",
+                "to_date": "",
+                "description": "Fredriksstad Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Eli Johnsen",
+    "url": "https://nkl.snl.no/Eli_Johnsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>J. tilhører den generasjon tekstilkunstnere som fikk sin utdannelse i 1940-årene, og som fra ca. 1960 jevnlig har deltatt på utstillinger her hjemme og representert Norge på vandreutstillinger i utlandet. Med solid kjennskap til vevteknikker og materialbruk har hun stadig utviklet seg, og har en stor produksjon av billedtepper, applikasjoner, collager og akvareller. Mens billedvev i Norge på slutten av 1940-tallet hovedsakelig var ensbetydende med hakketeknikk i plantefarget spelsau-ull, tilegnet J. seg i Sverige kunnskap om en rekke ulike vevteknikker og variert materialbruk. Tekstilmaterialets muligheter er viktig for J. Komposisjoner er sprunget direkte ut fra materialene og teknikken. Et godt eksempel på hennes ukonvensjonelle teknikk er teppene i Stavanger Bibliotek (1962-65) der hun har brukt dobbeltvevteknikk i billedfremstillinger. En del av J.s tepper er resultat av et inspirerende samarbeid med hennes mann, maleren og tekstilkunstneren Per Göransson. Dette gjelder særlig de monumentale teppene til offentlige bygg. Fra begynnelsen av 60-årene har J. og Göransson flere ganger vunnet premier i konkurranser om tekstil utsmykking til slike bygg. Som mange av samtidens kunstnere er J. ikke bare opptatt av komposisjon, form, farge og teknikker. I dels abstrakte, dels figurative tepper med rikt symbolbruk sier hun sin mening om ulike forhold. I tepper som <em>Til naturvernåret</em> (1970), <em>Romdrakt for en dame</em> (1967), <em>Atomkraftdansen</em> (1979) og <em>Makten I</em>, ønsker J. å si noe om naturvern og forurensning, nedrustning, fredsarbeid og abortsak. I enkelte av teppene vever hun inn sitater eller bokstaver som dekorative elementer. Flere tepper fungerer som hyldningsdikt, f.eks. <em>Kallocain, hommage à Karin Boye</em> (1965), inspirert av den svenske forfatterinnens fremtidsroman Kallocain. <em>Hommage à Bjørnstjerne Bjørnson</em> (1968) og <em>Hyldningssång till 70-talet av Stig Carlson</em> (1970) er andre eksempler på hyldningsdikt til mennesker hun setter høyt. J.s mange naturpoetiske tepper viser hvordan hun bearbeider sine naturinntrykk til vare stemningsbilder. Flere tepper har tittel <em>Våren kommer</em> (1967-70), der hun gir uttrykk for vårens vesen, de groende og spirende krefter i utfoldelse. <em>Blått vann</em> (1968-70), <em>Vestenvind</em> (1970), <em>Vinterskog</em> (1970), <em>St. Hanskveld</em> (1974) antyder med sine titler noe av det som har inspirert henne. Materialer som silke, lin, bomull og metall brukes hyppig for å understreke form og motiv. J. har videre humoristiske tepper med underliggende brodd som f.eks. <em>Midler avsatt til kunstnerisk utsmykning</em>, eller hun lar sterke farger, deres samspill og kontraster slippe til i <em>Vinblomst</em> (1972), <em>Mexicona</em> (1970) og <em>Kjærlighetstreet</em> J. har vært ansatt som tegnelærer ved Statens Lærerskole i forming, Oslo gjennom 30 år, og hun har hatt stor betydning for en rekke yngre tekstilkunstnere. Se også Per Göransson.</p></div>",
+    "created_at": "2013-07-03T21:44:58.264+02:00",
+    "changed_at": "2024-06-18T23:26:09.010+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1969\",\"https://digitaltmuseum.no/ee4be0ea-b759-4443-b31e-e2ee5e7b7d4d\",\"http://kulturnav.org/ee4be0ea-b759-4443-b31e-e2ee5e7b7d4d\"]",
+        "lastname": "Johnsen",
+        "firstname": "Eli",
+        "birth_date": "21.8.1926",
+        "birthplace": "Oslo",
+        "external_id": "person_8736ab1969",
+        "kulturnav_id": "ee4be0ea-b759-4443-b31e-e2ee5e7b7d4d",
+        "alternative_names": "Johnsen, Eli Marie"
+    },
+    "authors": [
+        {
+            "full_name": "Hjørdis Danbolt"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tekstilkunstner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

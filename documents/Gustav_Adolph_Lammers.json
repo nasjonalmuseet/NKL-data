@@ -1,0 +1,674 @@
+{
+    "id": 417942,
+    "headword": "Gustav Adolph Lammers",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            },
+            {
+                "description": "prest"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104764",
+                "birth_date": "1770",
+                "death_date": "1847",
+                "firstname": "Ernst Anton Henrik",
+                "lastname": "Lammers",
+                "professions": [
+                    "generalmajor"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104765",
+                "birth_date": "1773",
+                "death_date": "1843",
+                "firstname": "Seriane Magdalena",
+                "lastname": "Hagen",
+                "professions": []
+            },
+            {
+                "from_date": "1829",
+                "type": "Gift med",
+                "external_id": "person_8736ab104766",
+                "birth_date": "1810",
+                "death_date": "1898",
+                "firstname": "Henriette Nicoline",
+                "lastname": "Rode",
+                "professions": [],
+                "place": "Christiania"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev ved Den kgl. Tegneskole fra 1818",
+                "order": "0"
+            },
+            {
+                "comment": "examen artium i Christiania 1821",
+                "order": "1"
+            },
+            {
+                "comment": "cand. theol. ved Universitetet i Christiania 1825",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Stockholm 1859"
+            },
+            {
+                "order": "2",
+                "description": "Danmark 1858"
+            },
+            {
+                "order": "1",
+                "description": "Sverige 1855"
+            },
+            {
+                "order": "4",
+                "description": "Tyskland 1866, -69 og -72"
+            },
+            {
+                "order": "0",
+                "description": "Reiser til Tyskland og Italia 1846 - 47"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bamble (Moses mottar Lovens tavler, Jesus i Getsemane og 4 hellige menn og kvinner utført i grisaille, 1845)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Oscar 2s kapell, Sør-Varanger (Jesus på korset, 1866)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bakke i Trondheim (Jesus i Getsemane, 1833)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Bø og Lunde i Telemark (Jesu åpenbarelse for Maria Magdalena, 1866 og 1873)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Alterbilder til følgende kirker: Hospitalkirken i Trondheim (Jesus på korset, 1830)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "malerier i Skien og Larvik kirker"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Representert i Fylkesmuseum for Telemark og Grenland, Skien (en større samling malerier, akvareller, tegninger og skissebøker)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "De Sandvigske Samlinger, Lillehammer (portrettegninger)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Botne i Vestfold (1865)"
+            }
+        ],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "nytt tårn, Langesund kirke (antagelig bare klokkeetasje og spir, 1855)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "tårn og nyinnredning, Tanum i Brunlanes (1848 - 50)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Sigdal, også kalt Holmen (1849 - 53)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Krødsherad, også kalt Olberg (L.s tegninger til Bamble og Sigdal bearbeidet av arkitekt Wilhelm Hanstein, 1857 - 59)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Sinnssykeanstalten Tronka, Erling Skakkes gt. 66, Trondheim for Trondhjems hospital, sammen med Ole Peter Riis Høegh (1833 - 42)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "forsamlingslokale for Den frie apostolisk christelige Menighed i Skien, Liegt. matr. nr. 346b (1857 - 58, brent 1886)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Kirker: Bamble (1841 - 45, takrytter fjernet og nytt tårn bygd av arkitekt Haldor Børve 1902)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Antatte arbeider: Bedehus på Skien prestegårds grunn, senere kalt Hauges Minde (1850, revet ca. 1902)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "almueskole, Kirkebakken, Langesund (1839, tilbygd 1868, revet 1975)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "ny 2. etasje etter brann på hovedbygning, Slaattenes, Langesund (ca. 1858)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Hisøy ved Arendal (1846 - 49)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Kjose i Brunlanes (1848 - 50)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1820",
+                "order": "0",
+                "to_date": "",
+                "title": "Årsutstilling Den kgl. Tegneskole"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1901",
+                "order": "2",
+                "to_date": "",
+                "title": "Den kulturhistoriske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1824",
+                "order": "1",
+                "to_date": "",
+                "title": "Årsutstilling Den kgl. Tegneskole"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "selvportrett (olje, 1868, Fylkesmuseum for Telemark og Grenland, Skien)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Oljemaleri utført av Johan Görbitz (ca. 1850, Bamble kirke)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "",
+                "order": "0",
+                "reference": "bd. 3, s. 412",
+                "to_date": "",
+                "description": "Skrifter med religiøst innhold",
+                "authors": [
+                    "Halvorsens J.B.",
+                    "LAMMERS, Gustav Adolph"
+                ],
+                "comments": [
+                    "se"
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1980",
+                "order": "22",
+                "reference": "bd. 7, s. 442",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "20",
+                "to_date": "",
+                "description": "Ett med sin by, Larvik kirke 300 år",
+                "place": "Larvik",
+                "authors": [
+                    "Nord E.",
+                    "Wasberg G. Christie"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "15",
+                "reference": "bd. 2, register s. 683 (ill.)",
+                "to_date": "",
+                "description": "Skiens historie",
+                "place": "(Skien",
+                "authors": [
+                    "Østvedt E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "7",
+                "reference": "bd. 15, s. 294",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "24",
+                "reference": "bd. 1, s. 196–98, 253–55 (ill.)",
+                "to_date": "",
+                "description": "Buskerud, Norges kirker",
+                "place": "Oslo",
+                "authors": [
+                    "Christie S.",
+                    "Christie H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "17",
+                "reference": "bd. 3, s. 252",
+                "to_date": "",
+                "description": "Botne bygdebok",
+                "place": "Holmestrand",
+                "authors": [
+                    "E. K. Sanner"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "5",
+                "reference": "s. 44, 56, 67, 110, 114 (ill.)",
+                "to_date": "",
+                "description": "Fra den gamle tegneskole",
+                "place": "(Kristiania",
+                "authors": [
+                    "Krogvig A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "26",
+                "reference": "register s. 365 (ill.)",
+                "to_date": "",
+                "description": "Nidaros kirkes spital 700 år",
+                "place": "Trondheim",
+                "authors": [
+                    "Grankvist R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "13",
+                "reference": "s. 14–36 (ill.)",
+                "to_date": "",
+                "description": "Hisøy kirke 1849–1949",
+                "place": "Arendal",
+                "authors": [
+                    "Dannevig B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1844",
+                "order": "1",
+                "reference": "s. 92",
+                "to_date": "",
+                "description": "Biographiske efterretninger om den nordenfjeldske geistlighed",
+                "place": "Christiania",
+                "authors": [
+                    "Erlandsen A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "9",
+                "reference": "s. 48, 114",
+                "to_date": "",
+                "description": "Skien før branden 1886",
+                "place": "Oslo",
+                "authors": [
+                    "Borchsenius J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "3",
+                "reference": "s. 98, 121 (ill.)",
+                "to_date": "",
+                "description": "Brunlanes",
+                "place": "(Kristiania",
+                "authors": [
+                    "Berg L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "11",
+                "reference": "katalog Fylkesmuseum for Telemark og Grenland(ill.)",
+                "to_date": "",
+                "description": "G. A. Lammers som kunstner",
+                "place": "(Skien",
+                "authors": [
+                    "Berge R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "21",
+                "reference": "register s. 240 (ill.)",
+                "to_date": "",
+                "description": "Fra Langesunds historie",
+                "place": "Langesund",
+                "authors": [
+                    "Tangen J. Lund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "16",
+                "reference": "s. 121–22 (ill.)",
+                "to_date": "",
+                "description": "Bakklandet sogn og kirke 1715–1965",
+                "place": "Trondheim",
+                "authors": [
+                    "Løkhaug J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "8",
+                "reference": "s. 76–78, 86–88",
+                "to_date": "",
+                "description": "Bamble herred",
+                "place": "(Skien",
+                "authors": [
+                    "Folkestad G. K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "register s. 268, 275 (ill.)",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "25",
+                "reference": "bd. 4, s. 59, 98–99 (ill.)",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-10-11",
+                "order": "6",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "23",
+                "reference": "register s. 315",
+                "to_date": "",
+                "description": "Veiryddere. Gustav Adolph Lammers og den bevegelsen og de medarbeiderne som grunnla de eldste norske frimenigheter som utgjør Det Norske Misjonsforbunds forhistorie og opprinnelse",
+                "place": "Oslo",
+                "authors": [
+                    "Diesen I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "27",
+                "reference": "nr. 4, s. 77–78",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1878-05-03",
+                "order": "2",
+                "to_date": "",
+                "description": "Grenmar",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "18",
+                "reference": "s. 30",
+                "to_date": "",
+                "description": "Kong Oscar II kapell, Grense Jakobselv 1869–1969",
+                "place": "Kirkenes",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "14",
+                "reference": "s. 10–14, 22–23 (ill.)",
+                "to_date": "",
+                "description": "Bedehuset Hauges Minde og Skien Indremisjon 100 år, 1850–1950",
+                "place": "(Skien",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "reference": "s. 134",
+                "to_date": "",
+                "description": "Foreningen til norske Fortidsminnesmerkers Bevarings Aarsberetning 1914",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "12",
+                "reference": "s. 11–26 (ill.)",
+                "to_date": "",
+                "description": "Bamble kirke 19. oktober 1845 - 19. oktober 1945",
+                "place": "(Skien",
+                "authors": [
+                    "Barland K.",
+                    "Folkestad G.",
+                    "Høimyr N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "10",
+                "reference": "bd. 8, s. 128–30",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1978",
+                "order": "28",
+                "publisher": "Universitetet i Oslo",
+                "reference": "bd. 1, s. 32–33",
+                "to_date": "",
+                "description": "Kirkebygging på landet 1814–1880 og Linstows typetegninger",
+                "authors": [
+                    "Eldal J. C."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "arkivalia i Kirkedep. arkiv"
+                ],
+                "archives": [
+                    "Riksarkivet"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Gustav Adolph Lammers",
+    "url": "https://nkl.snl.no/Gustav_Adolph_Lammers",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>L. var konstituert adjunkt ved katedralskolen i Christiania før han ble prest ved hospitalet i Trondheim i 1827; han var sogneprest i Bamble fra 1835 og i Skien fra 1848/49. I Skien satte han i gang en sterk religiøs vekkelse, og i 1853 stiftet han den første indremisjonsforening. L.s kompromissløse kamp mot vanekristendom førte i 1856 til at han gikk ut av statskirken og dannet en frimenighet. Etter at han gikk tilbake til statskirken i 1860, fikk han ikke noe nytt embete og han skal deretter hovedsakelig ha arbeidet med maleri. Han var stortingsrepresentant i 1839 og 1842.</p>\n<p>L. var arkitekt for de første nygotiske trekirker i Norge. Den første var <em>Bamble kirke</em> i hans eget sognekall hvor tegningene forelå i 1841. Den er nærmest en langkirke med en mindre tverrarm på hver langside. Langkirkevirkningen er understreket i interiøret hvor tverrarmene er oppfylt av gallerier. Kirken hadde opprinnelig ikke tårn, bare takrytter over den ene tverrarmen. Bygningskroppen er sterkt preget av nyklassisistiske trebygninger, mens detaljene er utført i nygotikk. Særlig viser interiøret gotiske detaljer som i sin rike form er sjeldne i norsk trearkitektur. De store vinduene i skipet skyldes en uttalelse fra arkitekt Chr. H. Grosch, idet de opprinnelige planer hadde det åttekantete vinduet over alteret som hovedlyskilde. Ideen var trolig et resultat av hans sterke religiøse engasjement. Det samme engasjementet kan være årsaken til hans interesse for gotikken, som arkitekt Linstow allerede i L.s tid som elev ved Den kgl. Tegneskole, hadde fremhevet som uttrykk for religiøs tro. L.s øvrige kirker bygger i hovedtrekkene på formene fra Bamble bortsett fra at de alle ble planlagt med tårn i vest. Det er grunn til å tro at L. også stod for utformingen av de to bedehus som ble oppført under hans tid i Skien. Det religiøse engasjement dominerer også L.s billedkunst, og han leverte bl.a. en del alterbilder til norske kirker. Blant inspirasjonskildene kan nevnes italiensk barokkmaleri og nazareneren Julius Schnorr von Carolsfeld. Fra L.s hånd fins f.eks. en rekke kopier og skisser etter sistnevnte og Carracci-elevene Guercino og Guido Reni. Hans maleri har ofte et akademisk preg både i figurtegningen og malemåte. L. har gitt vesentlige trekk til Ibsens Brand.</p>\n</div>",
+    "created_at": "2013-07-04T03:36:49.178+02:00",
+    "changed_at": "2024-06-18T23:26:22.336+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2290\",\"https://digitaltmuseum.no/971284bf-702f-4c52-98a7-00fe0a4e2c5a\",\"http://kulturnav.org/971284bf-702f-4c52-98a7-00fe0a4e2c5a\"]",
+        "lastname": "Lammers",
+        "firstname": "Gustav Adolph",
+        "birth_date": "26.5.1802",
+        "birthplace": "København",
+        "death_date": "2.5.1878",
+        "external_id": "person_8736ab2290",
+        "kulturnav_id": "971284bf-702f-4c52-98a7-00fe0a4e2c5a",
+        "place_of_death": "Skien"
+    },
+    "authors": [
+        {
+            "full_name": "Jens Christian Eldal"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        },
+        {
+            "description": "prest"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

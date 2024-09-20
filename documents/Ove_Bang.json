@@ -1,0 +1,903 @@
+{
+    "id": 416259,
+    "headword": "Ove Bang",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100518",
+                "birth_date": "1869",
+                "death_date": "1901",
+                "firstname": "Maggie",
+                "lastname": "Caspersen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100517",
+                "birth_date": "1865",
+                "death_date": "1935",
+                "firstname": "Rudolph Wilhelm",
+                "lastname": "Bang",
+                "professions": [
+                    "prost"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "utdannet som arkitekt ved Norges Tekniske Høyskole 1913–17",
+                "order": "1"
+            },
+            {
+                "comment": "Examen artium ved Fredrikstad off. skole 1913",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "Italia 1923"
+            },
+            {
+                "order": "6",
+                "description": "Stockholm 1930"
+            },
+            {
+                "order": "8",
+                "description": "Tyskland, Tsjekkoslovakia, Nederland og Frankrike 1932"
+            },
+            {
+                "order": "10",
+                "description": "Italia 1939"
+            },
+            {
+                "order": "9",
+                "description": "Paris 1937"
+            },
+            {
+                "order": "1",
+                "description": "Egers legat 1937"
+            },
+            {
+                "order": "3",
+                "description": "Sverige 1922"
+            },
+            {
+                "order": "0",
+                "description": "A. C. Houens legat 1930"
+            },
+            {
+                "order": "5",
+                "description": "Nederland 1928"
+            },
+            {
+                "order": "7",
+                "description": "Berlin 1931"
+            },
+            {
+                "order": "2",
+                "description": "Studiereiser til England 1920"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "5",
+                "description": "formann i Fritt Arkitektlag 1935–36"
+            },
+            {
+                "order": "3",
+                "description": "Oslo Arkitektforenings rettsutvalg 1937"
+            },
+            {
+                "order": "2",
+                "description": "medlem av Oslo Arkitektforenings velferdskomité 1931–33"
+            },
+            {
+                "order": "6",
+                "description": "jurymedlem for flere konkurranser, bl.a. Tromsø Tinghus"
+            },
+            {
+                "order": "1",
+                "description": "medlem av redaksjonskomiteen for Norske Arkitekters Landsforbunds byggehåndbok 1935–36"
+            },
+            {
+                "order": "0",
+                "description": "Suppleant til Norske Arkitekters Landsforbunds landsstyre 1933, medlem 1936, -38 og -40"
+            },
+            {
+                "order": "4",
+                "description": "og Oslo Arkitektforenings stipendkomité 1940-41"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "A. C. Houens premie for Bibelskolen, Staffeldts gt. 4, Oslo, 1936"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Politimesterboligen"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Feriehjem for Norsk Hydros arbeidere, Tinn"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Et utvalg villaer og småhus: I Oslo hvis ikke annet er nevnt. Enebolig for frkn. Barth Olsen, Rjukan (1930)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Sarpsborg Folkebibliotek (1940)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "villa i Anne Maries vei 18 (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Handelens Hus, Stavanger, 1932"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "enebolig for dosent Sverre Steen, Nypeveien 6 (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Oslo Tinghus, Grubbegt. 1, Oslo (1936–38)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "enebolig for frk. Holby, Fana (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Barnehjem på Miland"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "innkjøp Oslo Handelsgymnasium, 1936"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "konkurranse forslag Nordnes, Bergen, (1941)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "enebolig for apotekvisitør dr. Carl Stousland, Holsteinvn. 9 (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "innkjøpt Columbarium på Vindern (1925)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Aftenpostens konkurranse om sportshytter 1930"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "2. premie Norsk rikskringkastning, 1935 (sammen med Grimsgaard)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Folkehøyskole i Elverum (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Vindern, Oslo (1935, sammen med Arne Korsmo)"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "1. premie Rådhus, Horten 1938 (sammen med Grimsgaard)"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "en av fire 1. premier Regjeringsbygning, Oslo 1940"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Prosjekter: 2. og 3. premie i Socialdepartementets konkurranse om standardhuser 1922"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "3. premie og innkjøp Kinematograf og festivitetsbygning, Horten 1931 (sammen med Grimsgaard)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "og Fjellbanens stasjonsbygning, alle Rjukan"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Større arbeider før 1930: Sorenskrivergården"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "hytteanlegg i Vågå (1931)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "hytte på Geilo (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Samfundshuset, Torggt. 17, Oslo (1934–40)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Framhuset, Bygdøy 1934"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "villa for dr. Leiv Kreyberg, Bærumsveien 5 C (1933)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Villa Ditlev-Simonsen, Ullern (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "enebolig for byggmester Aksel F. Hansen, Holsteinvn. 7"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Studentersamfund i Trondheim (1927)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Større arbeider etter 1930: Det Norske Lutherske Indremisjonssambands Bibelskole, Staffeldts. gt.4, Oslo (1934–35)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "enebolig for o.r.sakfører Trygve Winsnes, Holmenvn. 87 (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "premie Skolebygning i Kristiansand S 1938 (sammen med Grimsgaard)"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "Reguleringsplaner: Vestre Vika, Oslo (1935, sammen med Johan Ellefsen og 1939)"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "boligprosjekt for OBOS, Iladalen, Oslo 1935, (sammen med Reiner, Jan)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "3. premie Tidens Tegns konkurranse om bebyggelse på østlandsgårder (sammen med Øyvin Holst Grimsgaard)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "innkjøpt Odd Fellow-gården, Oslo 1931 (sammen med Grimsgaard)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "forslag til Kristiansunds gjenreisning (1941)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Frøystul kraftstasjon (1924)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "1. premie og videre bearbeidelse av Bakkehaugen kirke, Oslo 1939–42 (fullført 1959 av Erling Viksjø)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "4. premie Studenterhjem på Blindern 1922"
+            }
+        ],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Under Dusken,"
+            }
+        ],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1935",
+                "order": "3",
+                "reference": "tillegg s. 42–43",
+                "to_date": "",
+                "description": "Byggekunst",
+                "title": "Le Corbusier: La ville radieuse",
+                "authors": [
+                    "Bang, Ove"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "publisher": "Selskabet for Oslo Byes Vel",
+                "reference": "s. 17–41",
+                "to_date": "",
+                "description": "Forstaden",
+                "title": "Villaen. Nogen hovepunkter ved planleggelsen",
+                "authors": [
+                    "Bang, Ove"
+                ],
+                "comments": [
+                    "[Oslo 1932]"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "4",
+                "reference": "s. 174–77 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "title": "Analyse av et boligprosjekt",
+                "authors": [
+                    "Reiner, Jan",
+                    "Bang, Ove"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "2",
+                "reference": "s. 181–87 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "title": "Reguleringsplan for Vestre Vika",
+                "authors": [
+                    "Ellefsen, J.",
+                    "Bang, Ove"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "0",
+                "reference": "s. 55–56 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "title": "Småhus",
+                "authors": [
+                    "Bang, Ove"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1932",
+                "order": "21",
+                "reference": "s. 156–159 (ill.), tillegg. s. 2",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "u.å.",
+                "order": "8",
+                "reference": "s. 122, 289, 318",
+                "to_date": "",
+                "description": "Oslo Gårdkalender, 1925–45",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "13",
+                "reference": "s. 177",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "11",
+                "reference": "s. 295",
+                "to_date": "",
+                "description": "Forening til norske Fortidsminnesmerkers Bevarings Aarsberetning registerbd.",
+                "place": "Sarpsborg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "9",
+                "reference": "s. 341, 372, 373, 382, 398, 410–11",
+                "to_date": "",
+                "title": "Norske hus",
+                "place": "Oslo",
+                "authors": [
+                    "Eliassen, A."
+                ],
+                "comments": [
+                    "m.fl."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "6",
+                "reference": "s. 22",
+                "to_date": "",
+                "description": "Studentene fra 1913",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "19",
+                "reference": "s. 64 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "18",
+                "reference": "s. 36 (ill.), s. 51–67 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "25",
+                "reference": "s. 126–27 (ill.), s. 213–14 (ill.), tillegg s. 10, 13, 17, 37, 45, 46",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "27",
+                "reference": "s. 168 (ill.), 191, 224–5 (ill.), tillegg s. 6, 15, 17, 34",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "23",
+                "reference": "s. 100 (ill.) s. 211 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "30",
+                "reference": "s. 117–21 (ill.), 131, tillegg s. 10",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "36",
+                "reference": "s. 185–188 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935-04-01",
+                "order": "16",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Korsmo, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "34",
+                "reference": "s. 25 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "32",
+                "reference": "s. 106 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "22",
+                "reference": "s. 136–347 (ill.), 244, tillegg s. 8, 12",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "7",
+                "to_date": "",
+                "description": "Arkitekt Ove Bang. Hans læreår og virke",
+                "place": "Oslo",
+                "authors": [
+                    "Blakstad, G.",
+                    "Munthe Kaas, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "12",
+                "reference": "s. 51, 229, 311, 335",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "reference": "s. 140–41",
+                "to_date": "",
+                "description": "Vi fra Norges Tekniske Høyskole 1910–19",
+                "place": "Stavanger",
+                "authors": [
+                    "Brochmann, G."
+                ],
+                "comments": [
+                    "[Stvg. 1933]",
+                    "(red.)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "14",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 2, spalte 132"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "20",
+                "reference": "s. 176, 187, 256 og 260 (ill.), s. 296 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "10",
+                "reference": "s. 295",
+                "to_date": "",
+                "description": "St. Halvard register bd.",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "24",
+                "reference": "s. 122 (ill.), s. 157 (ill.), 201–07 (ill.), tillegg s. 36, 41, 42",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "29",
+                "reference": "s. 40–41 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "26",
+                "reference": "s. 210–12 (ill.), s. 259 (ill.), tillegg s. 11, 41",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "28",
+                "reference": "s. 114–15 (ill.), s. 171 (ill.), 218 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-05-22",
+                "order": "17",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Munthe Kaas, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "31",
+                "reference": "s. 17–24 (ill.), tillegg 7–8 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "37",
+                "reference": "s. 26–40, s. 113–137",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "35",
+                "reference": "s. 78–79 (ill.), 82, 89",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "15",
+                "reference": "bd. 1, s. 632",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "33",
+                "reference": "s. 143–56 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ove Bang",
+    "url": "https://nkl.snl.no/Ove_Bang",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\r\n<p>B. var assistent hos Magnus Poulsson 1917–19 og flyttet til Rjukan i 1919 der han fram til 1922 var ansatt i Norsk Hydro ved byanleggene, og siden drev egen arkitektpraksis. Praksis i Oslo fra 1930. B. ble sterkt påvirket av Magnus Poulsson i tiden han arbeidet som assistent for ham. Dette preger mange av arbeidene fra Rjukantiden: saltak, liggende panel og smårutede vinduer plasserer dem i det som ofte er kalt en \"nasjonal\" stil. Treet var B.s kjæreste byggemateriale i denne perioden, og han valgte det også i sine mest vellykkede konkurranseprosjekter. B. ble aldri klassisist som så mange av sine kolleger i 20-årene, hans spede forsøk på klassisistiske konkurranseprosjekter nådde heller ikke opp. Utkastet til <em>Studentersamfundet i Trondhjem</em> viser en forunderlig mangel på det som senere skulle bli en av hans sterke sider, nemlig evnen til organisk sammenkobling av de enkelte bygningselementer.</p>\r\n<p>I 1928 reiste B. sammen med en del kolleger på studietur til Nederland, og møtet med Willem Marinus Dudoks arbeider må ha vært av avgjørende betydning for hans utvikling som arkitekt. I <em>enebolig for frkn. Barth Olsen</em> fra 1931 ser vi allerede utviklet de fremste karakteristika for B.s villaproduksjon fra 30-årene: en harmonisk, men samtidig spenningsfylt sammenføyning av de enkelte bygningsblokker, en kontakt mellom ute- og innerom som trekker disse inn i hverandre, en naturlig innpasning i terrenget og en ytterst funksjonell planløsning.</p>\r\n<p>Nye studiereiser rundt i Europa og påvirkning fra Le Corbusier forsterket ytterligere B.s funksjonalistiske arkitekturoppfatning, og med <em>Bibelskolen</em> (1935) fikk han sitt definitive gjennombrudd. Innvielsesdagen for dette bygg ble av Arne Korsmo karakterisert som en fødselsdag for moderne norsk arkitektur, som her fikk sitt første storverk. Fra nå av stod B. ubestridt i første rekke blant norske arkitekter, noe som også ble bekreftet ved en lang rekke premier i konkurranser. Hans <em>Villa Ditlev-Simonsen</em> er et av funksjonalismens aller ypperste verk i Norge, og er bl.a. et godt eksempel på B.s evne til utsøkt proporsjonering av de enkelte elementer i fasaden. Denne villa er, i likhet med hans store bygg, utført i betong, mens han vanligvis foretrakk tre som materiale for sine småhus. Et fellestrekk for mange av hans bygg er uttrykt i B.s motto \"S.K.\", som står for synlig konstruksjon.</p>\r\n<p>B. arbeidet også med reguleringsspørsmål. I hans plan for Vestre Vika finner vi som et hovedpoeng aksen mellom Akershus og det Kgl. slott, et ledd i planen som senere er realisert. Mot slutten av sitt liv fant B. tilbake til enkelte nasjonale trekk i sin arkitektur, det ble færre flate tak, og proporsjoneringen av bygningskroppene nærmet seg hans tidligste arbeider.</p>\r\n<p>B. tegnet ellers i Under dusken, organ for Studentersamfundet i Trondheim, og har bl.a. tegnet bladets vignett. Han har også arbeidet som raderer og maler.</p>\r\n</div>",
+    "created_at": "2013-07-03T14:53:32.604+02:00",
+    "changed_at": "2024-06-18T23:25:36.852+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab247\",\"https://digitaltmuseum.no/0c0df8d5-df5c-4218-b368-0cee4a4d58e0\",\"http://kulturnav.org/0c0df8d5-df5c-4218-b368-0cee4a4d58e0\"]",
+        "lastname": "Bang",
+        "firstname": "Ove",
+        "birth_date": "13.9.1895",
+        "birthplace": "Røyken",
+        "death_date": "21.5.1942",
+        "external_id": "person_8736ab247",
+        "kulturnav_id": "0c0df8d5-df5c-4218-b368-0cee4a4d58e0",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Dag Myklebust"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "BY-NC-SA",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15548/standard_KFS_DEX_T_4474_00420130725-13675-l8o7m6.jpg",
+            "full_size_url": "https://media.snl.no/media/15548/KFS_DEX_T_4474_00420130725-13675-l8o7m6.jpg",
+            "xhtml": "<p>Bakkehaugen kirke i Oslo, 1959. Foto: Teigens Fotoatelier / DEXTRA Photo</p>",
+            "type": "image",
+            "heading": "Ove Bang",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15562/standard_NMK-A_NAMF.00231.00120130725-13675-1kbgjbo.jpg",
+            "full_size_url": "https://media.snl.no/media/15562/NMK-A_NAMF.00231.00120130725-13675-1kbgjbo.jpg",
+            "xhtml": "<div>\r\n<p>Samfunnshuset, hovedfasaden mot Olaf Bulls plass og fasade mot Torggata, Oslo. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ove Bang",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20107/standard_NMK-A_NAMT.oba010.00120150528-17392-143u70m.jpg",
+            "full_size_url": "https://media.snl.no/media/20107/NMK-A_NAMT.oba010.00120150528-17392-143u70m.jpg",
+            "xhtml": "<div><p><i>Villa Ditlev-Simonsen</i>. 1936</p></div>",
+            "type": "image",
+            "heading": "Ove Bang",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20108/standard_NMK-A_NAMT.oba109.00120150528-17392-1hd9zjf.jpg",
+            "full_size_url": "https://media.snl.no/media/20108/NMK-A_NAMT.oba109.00120150528-17392-1hd9zjf.jpg",
+            "xhtml": "<div><p><i>Rytme. Regjeringsbygning</i></p></div>",
+            "type": "image",
+            "heading": "Ove Bang",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

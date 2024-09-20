@@ -1,0 +1,580 @@
+{
+    "id": 417333,
+    "headword": "Jan Jarlum",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab103920",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Signe Marie",
+                "lastname": "Kristoffersen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103918",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bjørn Arne",
+                "lastname": "Jarlum",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103919",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Evelyn Mabel",
+                "lastname": "Friberg",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "comment": "i 11 år",
+                "description": "Åmotfors i Sverige"
+            },
+            {
+                "order": "1",
+                "description": "Hamar"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Selvlært, assistent hos Arnold Haukeland ved utarbeidelsen av Sjøfartsmonumentet i Stavanger og hos Gunnar Janson ved utarbeidelsen av Nasjonalmonumentet på Akershus festning",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "3%-fondets stipend 1967"
+            },
+            {
+                "order": "6",
+                "description": "Statens reisestipend 1977"
+            },
+            {
+                "order": "5",
+                "description": "Grinifangers kulturfonds stipend 1975"
+            },
+            {
+                "order": "2",
+                "description": "Henrichsens legat 1972"
+            },
+            {
+                "order": "1",
+                "description": "Lorch-Schives legat 1971 og -72"
+            },
+            {
+                "order": "7",
+                "description": "Studiereiser til Nederland, Frankrike, Tyskland, Belgia, Spania, Danmark, Sverige og Finland"
+            },
+            {
+                "order": "3",
+                "description": "Hielmstierne Rosencrones legat 1972 og -77"
+            },
+            {
+                "order": "4",
+                "description": "Hans Evensens legat 1975"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem Norsk Billedhuggerforening"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "3",
+                "description": "Unge Kunstneres Samfunn, styremedlem, medlem billedhuggerjuryen 1965-69"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Andøy rådhus, Andenes 1974 (fontene og fonteneskulptur)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "IBM-huset, Oslo 1970"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "SAS Hotel Scandinavia, Oslo 1971"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "9. april 1940, Norges Hjemmefrontmuseum, Akershus, Oslo (1968)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norsk Billedhuggerforening vandreutst., Bergen",
+                "from_date": "1966",
+                "order": "8",
+                "to_date": "",
+                "title": "Ti norske billedhuggere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1975",
+                "order": "5",
+                "to_date": "1977",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1965",
+                "order": "6",
+                "to_date": "1969",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norsk Billedhuggerforening vandreutst., Trondheim",
+                "from_date": "1966",
+                "order": "9",
+                "to_date": "",
+                "title": "Ti norske billedhuggere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1977",
+                "order": "7",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Cambridge Art Assosiation, Massachusetts",
+                "from_date": "1966",
+                "order": "11",
+                "to_date": "",
+                "title": "Ung Norsk Grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1969",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norsk Billedhuggerforening vandreutst., Kristiansund",
+                "from_date": "1966",
+                "order": "10",
+                "to_date": "",
+                "title": "Ti norske billedhuggere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Løvebakken, Oslo",
+                "from_date": "1970",
+                "order": "18",
+                "to_date": "",
+                "title": "Byens bilde"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arkiv För Dekorativ Konst, Lund",
+                "from_date": "1969",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Studio Pyton, Drammen",
+                "from_date": "1982",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1968",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liljevalchs Konsthall, Stockholm",
+                "from_date": "1970",
+                "order": "19",
+                "to_date": "",
+                "title": "14 Norske Skulptörer"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1968",
+                "order": "14",
+                "to_date": "",
+                "title": "Ungdomsbiennalen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arvika Konstför.",
+                "from_date": "1978",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1967",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1969",
+                "order": "15",
+                "to_date": "",
+                "title": "Den internasjonale Ungdomsbiennale"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1965",
+                "order": "3",
+                "to_date": "1967",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1967",
+                "order": "13",
+                "to_date": "1969",
+                "title": "Ung Skandinavisk Kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Karl Johans gt., Oslo",
+                "from_date": "1967",
+                "order": "12",
+                "to_date": "",
+                "title": "Månedens skulptur"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1973",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1971",
+                "order": "16",
+                "reference": "s. 211",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "17",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "20",
+                "reference": "s. 264",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "19",
+                "reference": "s. 316 (ill.)",
+                "to_date": "",
+                "description": "Norsk skulptur i 50 år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "18",
+                "reference": "s. 193",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-27",
+                "order": "7",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-11",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-23",
+                "order": "5",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-17",
+                "order": "4",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-23",
+                "order": "6",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-08",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-08",
+                "order": "0",
+                "to_date": "",
+                "description": "Dagbl.",
+                "authors": [],
+                "comments": [
+                    "(ill)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-19",
+                "order": "11",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-05-04",
+                "order": "15",
+                "to_date": "",
+                "description": "i Dagbl.",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-05-02",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-16",
+                "order": "3",
+                "to_date": "",
+                "description": "Dagbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-25",
+                "order": "12",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-05-04",
+                "order": "14",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-19",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "8",
+                "reference": "s. 78 (ill.), 80",
+                "to_date": "",
+                "description": "Norsk kunst i dag",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-18",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jan Jarlum",
+    "url": "https://nkl.snl.no/Jan_Jarlum",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>J. er rørlegger av yrke. Han debuterte med skulptur på Høstutstillingen 1965 og med maleri og collage på separatutstilling i 1967. Maleriene var modellert opp av strie, gas, bølgepapp og papir og overmalt med hvit farge og pastell. Han var opptatt av stofflighet, struktur og den hvite fargen. Som billedhugger startet J. nonfigurativt med jernbånd i en enkel og streng form, fortsatte så med abstraksjoner av hoder og skikkelser og viste i 1968 jerntrådskulpturer som i sitt rene formuttrykk virker som tredimensjonale tegninger i jern. Tråder er limt sammen i bunter og stråler, og skulpturene gir ofte inntrykk av spirende krefter. J.s grafiske form er influert av hans skulptur. De fleste av hans arbeider har bare nummer, ingen assosiasjonsskapende titler.</p></div>",
+    "created_at": "2013-07-03T20:53:35.196+02:00",
+    "changed_at": "2024-06-18T23:26:05.244+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1897\",\"https://digitaltmuseum.no/d9dcafac-f550-4b97-8d58-200097c2611a\",\"http://kulturnav.org/d9dcafac-f550-4b97-8d58-200097c2611a\"]",
+        "lastname": "Jarlum",
+        "firstname": "Jan",
+        "birth_date": "2.3.1938",
+        "birthplace": "Oslo",
+        "death_date": "6.8.2004",
+        "external_id": "person_8736ab1897",
+        "kulturnav_id": "d9dcafac-f550-4b97-8d58-200097c2611a",
+        "alternative_names": "Jarlum, Jan Sture"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

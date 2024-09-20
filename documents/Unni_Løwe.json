@@ -1,0 +1,541 @@
+{
+    "id": 418148,
+    "headword": "Unni Løwe",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "to_date": "1969",
+                "type": "Gift med",
+                "external_id": "person_8736ab2526",
+                "birth_date": "27.11.1938",
+                "death_date": "",
+                "firstname": "Trygve",
+                "lastname": "Løwe",
+                "professions": [
+                    "maler",
+                    "grafiker"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105263",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Rosemarie",
+                "lastname": "Schwabe-Hansen",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105262",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Egil",
+                "lastname": "Bjørn-Hansen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bærum"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein, Alf-Jørgen Aas og Halvdan Ljøsne 1964–70",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1961–64",
+                "order": "1"
+            },
+            {
+                "comment": "Bjarne Engebrets malerskole 1960",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "7",
+                "description": "Portugal"
+            },
+            {
+                "order": "8",
+                "description": "Marokko"
+            },
+            {
+                "order": "6",
+                "description": "Nederland"
+            },
+            {
+                "order": "1",
+                "description": "3%-fondets stipend 1978"
+            },
+            {
+                "order": "5",
+                "description": "Polen"
+            },
+            {
+                "order": "2",
+                "description": "Borghild Berge Lexows legat 1979"
+            },
+            {
+                "order": "4",
+                "description": "Spania"
+            },
+            {
+                "order": "0",
+                "description": "Rolf Stenersens legat 1977"
+            },
+            {
+                "order": "3",
+                "description": "Studiereiser Frankrike"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "4",
+                "description": "Akershus Bildende Kunstneres Forening"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Unge Kunstneres Samfunn, jurymedlem 1978"
+            },
+            {
+                "order": "3",
+                "description": "Bildende Kunstnere i Bærum"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Landsforeningen Norske Malere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "7",
+                "to_date": "1978",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn, Kunstnernes Hus, Oslo",
+                "from_date": "1978",
+                "order": "15",
+                "to_date": "",
+                "title": "Samliv"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1978",
+                "order": "16",
+                "to_date": "",
+                "title": "Reidar Aulie og hans elever"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling, Malmö Konsthall",
+                "from_date": "1980",
+                "order": "17",
+                "to_date": "1981",
+                "title": "Nordisk kvinneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1975",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "11",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1970",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "9",
+                "to_date": "1974",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1971",
+                "order": "13",
+                "to_date": "",
+                "title": "juniutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "12",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "8",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Intimsalen, Kunstnerforbundet, Oslo",
+                "from_date": "1973",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Musk, Lommedalen",
+                "from_date": "1976",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "10",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tønsberg Kunstforening",
+                "from_date": "1976",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Intimsalen, Kunstnerforbundet, Oslo",
+                "from_date": "1980",
+                "order": "3",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1973-05-26",
+                "order": "9",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-02",
+                "order": "12",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-02",
+                "order": "10",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-01",
+                "order": "11",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "13",
+                "reference": "s. 60",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "14",
+                "reference": "s. 193",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "6",
+                "reference": "s. 188",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-29",
+                "order": "5",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "7",
+                "reference": "s. 61",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-20",
+                "order": "3",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "8",
+                "reference": "s. 142",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-21",
+                "order": "4",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-15",
+                "order": "1",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Woll, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-16",
+                "order": "2",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Steen, S.-Johnsen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-08",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-13",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-26",
+                "order": "21",
+                "to_date": "",
+                "description": "i Asker og Bærums Budstikke",
+                "authors": [
+                    "Dybing, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-11",
+                "order": "17",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Dæhlin, E. O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-28",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-14",
+                "order": "19",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Arneberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-03",
+                "order": "16",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-11-08",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Unni Løwe",
+    "url": "https://nkl.snl.no/Unni_L%C3%B8we",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>L. debuterte i Unge Kunstneres Samfunn 1970 med malerier som var figurative, men i en tilsiktet naivisme med preg av barnetegningens forenklinger. Bildene viste mennesker, ofte i grupper, i enkle livssituasjoner. Fargeholdningen med gjennomgående bruk av blått, fiolett og grønt, gav bildene en stemning av melankoli og ensomhet. Uttrykksformen minnet om Marc Chagall, men L.s billedverden var preget av menneskelig fremmedgjøring. Fra 1975 viste hennes arbeider en bevisst kritisk holdning til aktuelle samfunnsproblemer, særlig til kvinnens rolle i dagens samfunn. Figurfremstillingen var blitt mer jordnær og detaljert, men de store stirrende øyne og maskelignende trekk skapte menneskelige sjabloner og ikke individer.</p></div>",
+    "created_at": "2013-07-04T08:04:11.960+02:00",
+    "changed_at": "2024-06-18T23:26:28.079+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2527\",\"https://digitaltmuseum.no/cb992c59-b796-43e3-b30a-c725abe6f08e\",\"http://kulturnav.org/cb992c59-b796-43e3-b30a-c725abe6f08e\"]",
+        "lastname": "Løwe",
+        "firstname": "Unni",
+        "birth_date": "28.8.1943",
+        "birthplace": "Oslo",
+        "death_date": "20.1.2006",
+        "external_id": "person_8736ab2527",
+        "kulturnav_id": "cb992c59-b796-43e3-b30a-c725abe6f08e"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

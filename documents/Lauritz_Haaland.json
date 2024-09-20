@@ -1,0 +1,479 @@
+{
+    "id": 414559,
+    "headword": "Lauritz Haaland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "marinemaler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "to_date": "1937",
+                "type": "Gift med",
+                "external_id": "person_8736ab103733",
+                "birth_date": "1851",
+                "death_date": "",
+                "firstname": "Ingeborg (inga) Severine",
+                "lastname": "Henrichsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103732",
+                "birth_date": "1808",
+                "death_date": "",
+                "firstname": "Laurentza",
+                "lastname": "Olsdatter",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103731",
+                "birth_date": "1816",
+                "death_date": "",
+                "firstname": "Lars",
+                "lastname": "Haaland",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "comment": "bortsett fra opphold i Kristiania 1902–08",
+                "description": "Kvitsøy"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Knud Bergsliens malerskole og Statens Håndverks- og Kunstindustriskole, Oslo 1880",
+                "order": "1"
+            },
+            {
+                "comment": "Utdannet som skipsbygger i Bergen",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereiser i Europa, bl.a. Hamburg og Berlin"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Sølvmedalje, London 1893"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Stavanger Sjøfartsmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Helge Væringsaasens samling, Elverum"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norsk Sjøfartsmuseum, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Bergen Sjøfartsmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Sandnes Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1887",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1896",
+                "order": "9",
+                "to_date": "1897"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1901",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1975",
+                "order": "12",
+                "to_date": "",
+                "title": "Stavanger sett med kunstnerøyne"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1905",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hotel Fønix, Stavanger",
+                "from_date": "1895",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1888",
+                "order": "6",
+                "to_date": "1899"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1893",
+                "order": "7",
+                "to_date": "",
+                "title": "Fiskeriutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1925",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1882",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1884",
+                "order": "3",
+                "to_date": "1891",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1887",
+                "order": "5",
+                "to_date": "1893"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1887",
+                "order": "4",
+                "to_date": "",
+                "title": "Chicago-utst."
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1882-08",
+                "order": "1",
+                "to_date": "",
+                "description": "Stavangeren",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-11",
+                "order": "9",
+                "to_date": "",
+                "description": "Stavangeren",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1880-10-16",
+                "order": "0",
+                "to_date": "",
+                "description": "Folkebladet",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "7",
+                "reference": "s. 249",
+                "to_date": "",
+                "description": "Stavanger 1814–1914",
+                "place": "Stavanger",
+                "authors": [
+                    "Tveteraas, R. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "14",
+                "reference": "s. 15",
+                "to_date": "",
+                "description": "Stavanger sett med kunstnerøyne",
+                "authors": [],
+                "comments": [
+                    "katalog Stavanger Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "8",
+                "reference": "bd. 15, s. 385–86",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "15",
+                "reference": "register s. 533",
+                "to_date": "",
+                "description": "Rogaland, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "5",
+                "reference": "s. 226",
+                "to_date": "",
+                "description": "Norsk Familiejournal",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03-08",
+                "order": "16",
+                "to_date": "",
+                "description": "Farmand",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "6",
+                "reference": "bd. 2, s. 331",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-03",
+                "order": "2",
+                "to_date": "",
+                "description": "Stavanger Amtstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "12",
+                "reference": "s. 148",
+                "to_date": "",
+                "description": "For den bildende kunst, Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "11",
+                "reference": "s. 101, 259",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1897-11-07",
+                "order": "4",
+                "to_date": "",
+                "description": "Hamburger Fremdenblatt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1895",
+                "order": "3",
+                "to_date": "",
+                "description": "Stavanger Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "10",
+                "reference": "s. 280",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "13",
+                "reference": "s. 136 og 142",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867- 1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            },
+            {
+                "from_date": "1922",
+                "order": "17",
+                "to_date": "1924",
+                "description": "Notater og regnskap",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "i Einar Hvidings eie, Hinna ved Stavanger"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Lauritz Haaland",
+    "url": "https://nkl.snl.no/Lauritz_Haaland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. var først og fremst hjemstavnsskildrer. Han hentet motiver fra sine nærmeste omgivelser og fra Nordsjøen. Ifølge Thiis interesserte hans bilder mer ved emnet enn ved utførelsen. Han var svært produktiv, malte fra 3 til 8 bilder hver måned. Hans produksjon er ujevn og til dels rutinepreget. H. synes å ha hatt et meget nært forhold til havet i alle dets skiftende belysninger, helst frådende, stormfullt hav, men også det stille hav som avspeiler himmelen. I stor utstrekning brukte han fiskebåter, dampskip og sjøfugl som staffasje og samlende midtpunkt. Hans skuter er så korrekt og nitid tegnet at de har funnet veien til våre sjøfartsmuseer som eksempler på forskjellige skipstyper. Blant hans rene marinemalerier fins fine stemningsbilder i beskjedent format. H. går inn i rekken av de kunstnere som har skildret norsk næringsliv, hovedsakelig hummer-, makrell- og sildefiske. Blant hans hovedverker kan nevnes <em>Sildefiske</em> (utstilt i Stavanger Kunstforening 1887). H. solgte sine bilder lettere og til bedre priser enn vanlig i hans samtid. Ifølge en notisbok fra 1883–86 fikk han opp til kr 500 for enkelte bilder, men de fleste ble solgt for kr 80 og mindre. Han hadde et godt marked i Hamburg hvor en skipsmegler var kontaktmann. Foruten til Tyskland, solgte han også til England, Frankrike og Amerika. H. holdt regnskap over sine salg med nøyaktige blyantskisser av hvert bilde, tilføyd opplysninger om format, den pris han oppnådde og den pris han hadde forlangt.</p></div>",
+    "created_at": "2013-06-09T16:48:51.630+02:00",
+    "changed_at": "2024-06-18T23:25:20.803+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1807\",\"https://digitaltmuseum.no/7472137b-687d-4176-99d3-2d8142016369\",\"http://kulturnav.org/7472137b-687d-4176-99d3-2d8142016369\"]",
+        "lastname": "Haaland",
+        "firstname": "Lauritz",
+        "birth_date": "12.11.1855",
+        "birthplace": "Hvidingsø (Kvitsøy) i Ryfylke",
+        "death_date": "27.6.1938",
+        "external_id": "person_8736ab1807",
+        "kulturnav_id": "7472137b-687d-4176-99d3-2d8142016369",
+        "place_of_death": "Kvitsøy",
+        "alternative_names": "Haaland, Lars Lauritz Larsen"
+    },
+    "authors": [
+        {
+            "full_name": "Sonja Hagemann"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "marinemaler"
+        }
+    ]
+}

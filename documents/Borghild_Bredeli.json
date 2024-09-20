@@ -1,0 +1,518 @@
+{
+    "id": 416680,
+    "headword": "Borghild Bredeli",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Asker"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "studier i kunsthistorie, nordisk språk og litteratur og pedagogikk ved Universitetet i Oslo",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein, Alf-Jørgen Aas og Halvdan Ljøsne 1965–69",
+                "order": "2"
+            },
+            {
+                "comment": "kurser og seminarer i billedterapi",
+                "order": "4"
+            },
+            {
+                "comment": "Elev av Arne Solheim og Dagfin Kjølsrud i Vennesla",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "Utenriksdepartementets utvekslingsstipend, Kulturavtalen Norge-Egypt 1976"
+            },
+            {
+                "order": "2",
+                "description": "Namdalsstipend"
+            },
+            {
+                "order": "5",
+                "description": "Studieopphold i Spania 1969"
+            },
+            {
+                "order": "6",
+                "description": "studiereise til Egypt 1976"
+            },
+            {
+                "order": "1",
+                "description": "Astrid Aasens gave to ganger"
+            },
+            {
+                "order": "0",
+                "description": "Utdannelsesstipend 1969"
+            },
+            {
+                "order": "3",
+                "description": "stipend fra Fondet for svensk-norsk samarbeid"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "4",
+                "description": "kunstnergruppen Kontrast"
+            },
+            {
+                "order": "2",
+                "description": "Trøndelag Bildende Kunstnere"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "1",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "3",
+                "description": "Akershus Bildende Kunstnere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Molde, Bryne og Namsos kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Asker kommune"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Gotlands Kulturnämnd, Sverige"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Henrik, Eidsvoll",
+                "from_date": "1975",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Musk. Bærum",
+                "from_date": "1974",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund Kunstforening",
+                "from_date": "",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "11",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Asker rådhus",
+                "from_date": "1977",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "13",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Molde Kunstforening",
+                "from_date": "",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "12",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1970",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "title": "Kontrast - 8 trøndere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Hos Oss, Visby, Gotland, Sverige",
+                "from_date": "",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1980",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Landsforeningen Norske Malere, Oslo",
+                "from_date": "1980",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssand Kunstforening",
+                "from_date": "1977",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1975",
+                "order": "16",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1975",
+                "order": "17",
+                "to_date": "",
+                "title": "Sommerutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1972",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1971",
+                "order": "14",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "title": "Ung skandinavisk kunst"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1979-09-03",
+                "order": "2",
+                "to_date": "",
+                "description": "Dagbladet",
+                "title": "Tegning med funksjonshemmede - pedagogikk eller terapi?",
+                "authors": [
+                    "Bredeli, Borghild"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Billedterapi for funksjonshemmede i Grunnskolen",
+                "authors": [
+                    "Bredeli, Borghild"
+                ],
+                "comments": [
+                    "Rapport for Grunnskolerådet"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Tegneforming i institusjon",
+                "authors": [
+                    "Bredeli, Borghild"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1980-02-13",
+                "order": "17",
+                "to_date": "",
+                "description": "i Asker og Bærums Budstikke",
+                "authors": [
+                    "Egebakken, E.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-08",
+                "order": "5",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-01",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-02",
+                "order": "4",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-04-25",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Asker og Bærums Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-08",
+                "order": "6",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-20",
+                "order": "13",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-14",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-09",
+                "order": "7",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-10-14",
+                "order": "16",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-04-15",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Fædrelandsvennen",
+                "authors": [
+                    "Opstad, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-10",
+                "order": "8",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-04-30",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Drammens Tidende/Buskeruds Blad",
+                "authors": [
+                    "Lund, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-02-13",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-16",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Asker og Bærums Budstikke",
+                "authors": [
+                    "Granum, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-11",
+                "order": "9",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-16",
+                "order": "12",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Borghild Bredeli",
+    "url": "https://nkl.snl.no/Borghild_Bredeli",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. arbeidet først med abstrakte materialbilder, men gikk så over til å male naturstudier, fortrinnsvis i akvarellteknikk. I akrylmaleriene fremstiller hun mennesker og mellommenneskelige forhold.</p></div>",
+    "created_at": "2013-07-03T16:54:31.777+02:00",
+    "changed_at": "2024-06-18T23:25:47.730+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab505\",\"https://digitaltmuseum.no/e1f67065-17fa-4a48-8586-9b302324c9bc\",\"http://kulturnav.org/e1f67065-17fa-4a48-8586-9b302324c9bc\"]",
+        "lastname": "Bredeli",
+        "firstname": "Borghild",
+        "birth_date": "14.4.1930",
+        "birthplace": "Leinstrand i Sør-Trøndelag",
+        "external_id": "person_8736ab505",
+        "kulturnav_id": "e1f67065-17fa-4a48-8586-9b302324c9bc",
+        "alternative_names": "Tveiten, Borghild Bredeli"
+    },
+    "authors": [
+        {
+            "full_name": "Bodil Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

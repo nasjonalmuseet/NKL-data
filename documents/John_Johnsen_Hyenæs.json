@@ -1,0 +1,164 @@
+{
+    "id": 418441,
+    "headword": "John Johnsen Hyenæs",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "lærer"
+            },
+            {
+                "description": "rosemaler"
+            },
+            {
+                "description": "kirkesanger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab103693",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kari Jakobsdatter",
+                "lastname": "Austrheim",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103692",
+                "birth_date": "1779",
+                "death_date": "1855",
+                "firstname": "Kari Olsdatter",
+                "lastname": "Vik",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103691",
+                "birth_date": "1770",
+                "death_date": "1844",
+                "firstname": "Jon Olsen",
+                "lastname": "Hyenæs",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Selvlært",
+                "order": "0"
+            }
+        ],
+        "travels": [],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Nordfjord Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Historisk museum, Bergen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1949",
+                "order": "1",
+                "to_date": "",
+                "description": "Striden millom sokneprest Jørgen Meier Heffermehl og Skule-Jo",
+                "place": "Sandane",
+                "authors": [
+                    "Lothe, A.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "0",
+                "reference": "Historisk-antikvarisk rekke nr. 3, s. 6-8 (ill.)",
+                "to_date": "",
+                "description": "Ekspansjon i bygdekunsten, Bergens museums årbok",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Rosemaling i Gloppen og Breim",
+                "authors": [
+                    "Hauken, T.",
+                    "Mykleby, A."
+                ],
+                "comments": [
+                    "manuskript Nordfjord Folkemuseum"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "John Johnsen Hyenæs",
+    "url": "https://nkl.snl.no/John_Johnsen_Hyen%C3%A6s",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>I 1828 ble H. utnevnt til skoleholder i omgangsskoledistriktet Ytre Gloppen. Fra 1837 var han kirkesanger i hovedsognet Gloppen, men ble avsatt i 1851. Han var bonde og virksom som rosemaler. Man kjenner arbeider av ham fra tidlig i 1840-årene til ca. 1880. Malemåten er meget karakteristisk og lett gjenkjennelig. Så vidt man vet malte han bare vegetabilske motiver, blomsterstengler eller bånd, sorte, snodde linjer med fjæraktige blader og bladnerver. Arbeidene har intet til felles med mer sjablongmessig rosemaling, ikke ett motiv er likt det andre. Også navntrekkene eller versene på ølbollene hører med. Skriften er særpreget og atypisk. Med sin levende, lett nervøse malestil er H. antagelig den mest personlige og særpregete rosemaler i Gloppen og Breim.</p></div>",
+    "created_at": "2013-07-05T14:33:24.445+02:00",
+    "changed_at": "2024-06-18T23:26:34.735+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1784\",\"https://digitaltmuseum.no/18255041-8308-4f13-917b-cb9cc428d520\",\"http://kulturnav.org/18255041-8308-4f13-917b-cb9cc428d520\"]",
+        "lastname": "Hyenæs",
+        "firstname": "John Johnsen",
+        "birth_date": "0.6.1805",
+        "birthplace": "Gloppen",
+        "death_date": "0.0.1884",
+        "external_id": "person_8736ab1784",
+        "kulturnav_id": "18255041-8308-4f13-917b-cb9cc428d520",
+        "place_of_death": "Gloppen",
+        "alternative_names": "Skule-Jo"
+    },
+    "authors": [
+        {
+            "full_name": "Axel Chr. Mykleby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "lærer"
+        },
+        {
+            "description": "rosemaler"
+        },
+        {
+            "description": "kirkesanger"
+        }
+    ]
+}

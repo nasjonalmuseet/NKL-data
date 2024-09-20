@@ -1,0 +1,801 @@
+{
+    "id": 414569,
+    "headword": "Aasta Hansteen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "forfatter"
+            },
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab103025",
+                "birth_date": "1787",
+                "death_date": "1840",
+                "firstname": "Johanne",
+                "lastname": "Borch",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab103024",
+                "birth_date": "1784",
+                "death_date": "1873",
+                "firstname": "Christopher",
+                "lastname": "Hansteen",
+                "professions": [
+                    "professor"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "H. fikk sin første tegneundervisning av Carl Pedersen under et opphold i København sommeren 1841, deretter tegnet hun med Hans Johan Fredrik Berg i Christiania",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Carl Sohn i Düsseldorf 1849–52 og av Ange Tissier i Paris 1855–56",
+                "order": "3"
+            },
+            {
+                "comment": "elev av Jørgen Roed i København desember 1844-januar 1846",
+                "order": "2"
+            },
+            {
+                "comment": "elev av Johan Gørbitz i Christiania 1843–45",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Studiereise i Telemark sommeren 1852, senere i 50-årene kortere studiereiser flere steder på Østlandet"
+            },
+            {
+                "order": "1",
+                "description": "Düsseldorf 1849–52 og Paris 1855–56"
+            },
+            {
+                "order": "3",
+                "description": "korte opphold i Paris 1860 og København 1864"
+            },
+            {
+                "order": "4",
+                "description": "bosatt i Boston, USA 1880–89"
+            },
+            {
+                "order": "5",
+                "description": "opphold i Chicago 1881–82/83"
+            },
+            {
+                "order": "0",
+                "description": "Studieopphold i København 1841, 1844–46"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Finansdep."
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Berg-Kragerø museum"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Vesterheim, The Norwegian American Museum, Decorah, Iowa"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Eidsvollsminne"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "private kunstgall. Kansas City",
+                "from_date": "1882",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1867",
+                "order": "10",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "private kunstgall. Boston",
+                "from_date": "1881",
+                "order": "16",
+                "to_date": "1885"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1855",
+                "order": "9",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1865",
+                "order": "14",
+                "to_date": "",
+                "title": "Fiskeriutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1866",
+                "order": "15",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1858",
+                "order": "11",
+                "to_date": "",
+                "title": "Markedsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1859",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1849",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "private kunstgall. Chicago",
+                "from_date": "1882",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1847",
+                "order": "0",
+                "to_date": "1862"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1854",
+                "order": "7",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1853",
+                "order": "6",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1852",
+                "order": "4",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1855",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1859",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1858",
+                "order": "8",
+                "to_date": "1859",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1862",
+                "order": "13",
+                "to_date": "",
+                "title": "Verdensutst. i London"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1861",
+                "order": "5",
+                "to_date": "",
+                "title": "Nordisk utst."
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "portrettbyste og statuett, utført av Gustav Vigeland (1903)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "flere karikaturtegninger, tegnet av Olav Gulbransson (1899, 1903)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "portrett, malt av Oda Krohg (olje, 1903, Nasjonalgalleriet, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "portrett, malt av Marie Hauge (1903, Drammen Faste Galleri)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Selvportretter (olje, 1844 og tegning, 1869)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1871",
+                "order": "2",
+                "reference": "s. 231–37",
+                "to_date": "",
+                "description": "Kvindens Stilling i verden, Nordisk Månedskrift for folkelig og kristelig Oplysning",
+                "place": "Odense",
+                "authors": [
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1880",
+                "order": "4",
+                "reference": "nr. 14 (ill.)",
+                "to_date": "",
+                "description": "Den nye Tid",
+                "place": "Chicago",
+                "authors": [
+                    "M. Thrane (red.)",
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "6",
+                "to_date": "",
+                "description": "Alexander Kielland og Bj. Bjørnson, Nylænde",
+                "authors": [
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1862",
+                "order": "0",
+                "to_date": "",
+                "description": "Skrift og Umskrift i Landsmaalet",
+                "place": "Christiania",
+                "authors": [
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1871",
+                "order": "1",
+                "to_date": "",
+                "description": "Hvad er det Emancipationens Modstandere vil?, Dagbladet",
+                "authors": [
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [
+                    "nr. 134"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1880",
+                "order": "5",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [
+                    "nr. 69, 82, 101 og 119"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1878",
+                "order": "3",
+                "to_date": "",
+                "description": "Kvinden skabt i Guds Billede",
+                "place": "Christiania",
+                "authors": [
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1960",
+                "order": "31",
+                "reference": "bd. 3, register s. 543",
+                "to_date": "1973",
+                "description": "Fredrikstad bys historie",
+                "place": "Fredrikstad",
+                "authors": [
+                    "Dehli, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "33",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 8, sp. 586–87"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "35",
+                "reference": "bd. 6, register s. 497",
+                "to_date": "",
+                "description": "Norges litteraturhistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Beyer, E. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "25",
+                "reference": "s. 63–72, 76–96",
+                "to_date": "",
+                "description": "Reise til Tellemarken 1852",
+                "place": "Oslo",
+                "authors": [
+                    "Dunker, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "36",
+                "reference": "bd. 5, s. 396",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "24",
+                "reference": "bd. 10, s. 865",
+                "to_date": "",
+                "description": "Salmonsen",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "22",
+                "reference": "s. 35–44",
+                "to_date": "",
+                "description": "Aasta Hansteen, i N. Høgh (red): Norske kvinder",
+                "place": "(Kristiania",
+                "authors": [
+                    "Løken, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "28",
+                "reference": "s. 35, 59, 99",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "1 s. 307–10. For øvrig en mengde bidrag til dagspressen og tidskrifter like til sin død",
+                "order": "8",
+                "to_date": "",
+                "authors": [
+                    "HANSTEEN, Aasta"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1855-08-27",
+                "order": "12",
+                "to_date": "",
+                "description": "Aftenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1898-10-15",
+                "order": "18",
+                "reference": "s. 306–11",
+                "to_date": "",
+                "description": "i Nylænde",
+                "place": "(Kristiania",
+                "authors": [
+                    "Kieler, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "29",
+                "reference": "s. 33, 100",
+                "to_date": "",
+                "description": "Breve til Julie Winther",
+                "place": "Oslo",
+                "authors": [
+                    "Dunker, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1859-05-08",
+                "order": "10",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "20",
+                "reference": "bd. 2, s. 366",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "16",
+                "reference": "bd. 2, s. 543",
+                "to_date": "",
+                "description": "Norsk forfatterlexikon 1814–1880",
+                "place": "(Kristiania",
+                "authors": [
+                    "Halvorsen, J.B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "32",
+                "reference": "register s. 392",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "30",
+                "reference": "register s. 276",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1861-08-08",
+                "order": "14",
+                "to_date": "",
+                "description": "Aftenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "26",
+                "reference": "bd. 16, s. 15",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "34",
+                "reference": "s. 205",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1848-04-02",
+                "order": "9",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "23",
+                "reference": "s. 40",
+                "to_date": "",
+                "description": "Breve til Professor Gude, Samtiden",
+                "authors": [
+                    "Kjerulf, Halfdan"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "27",
+                "reference": "bd. 5, s. 428–32",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "37",
+                "reference": "bd. 5, s. 492",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1861-06-24",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894-11-07",
+                "order": "17",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Johnsen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "19",
+                "reference": "bd. 1, s. 231",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "21",
+                "reference": "bd. 3, s. 61",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1849",
+                "order": "11",
+                "to_date": "1880",
+                "description": "Bergens Adressecontoirs Efterretninger",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1879",
+                "order": "15",
+                "reference": "bd. 2, s. 29, 45",
+                "to_date": "",
+                "description": "Adolph Tidemand",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Aasta Hansteen",
+    "url": "https://nkl.snl.no/Aasta_Hansteen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. var den første norske kvinne som gjennomførte en grundig kunstnerisk utdannelse, som elev av de fremste lærere samtiden kunne by på, både i Norge og utlandet. Sitt første maleri, et selvportrett, malte hun under læretiden hos Gørbitz. Den klassiserende portrettstil hun lærte hos ham ble fulgt opp under studietiden hos den danske gullaldermaleren Jørgen Roed. Hennes første større portrett, av <em>Karoline Ewald</em> (1846), er forbløffende modent gjennomført i komposisjon, tegning og farge, mens personkarakteristikken i dette og senere portretter er litt tung og stereotyp. I perioden 1847–52 malte H. i Christiania en serie genrebilder av barn. Disse ble stilt ut i Christiania og København kunstforeninger. Studiene i Düsseldorf tilførte maleriet hennes en mer dempet koloritt og mykere konturer. Hun arbeidet med større figurkomposisjoner, både med motiver fra norsk folkeliv og bilder med mer europeisk tilsnitt. Et italiensk motiv, <em>Pilegrimer ved brønnen</em> (1851), er et hovedverk fra denne tiden og ble stilt ut flere ganger i Norge i 1850- og 60-årene. Fra 1852 til 1855 arbeidet H. som portrettmaler i Christiania. Hun malte portrettet av sin far, <em>professor Hansteen</em> (1853, Nasjonalgalleriet, Oslo), senere gjentatt flere ganger, og utførte en rekke bestillingsportretter, bl.a. av statsråd <em>J.H. Vogt</em> (1853), oberst <em>H. Sibbern</em> (1855, Eidsvollsgalleriet) og <em>sorenskriver Rasch</em> (Eiker kommune). I 1855 tegnet hun <em>Camilla Collett</em>, <em>J.S. Welhaven</em> og <em>A.M. Schweigaard</em> (Nasjonalgalleriet). Dessuten malte hun noen følsomme barneportretter, av <em>Chr. H. Schweigaard</em> (1852, Berg-Kragerø museum) og <em>Sofie og Mathilde Dunker</em> (1854). Portrettene viser at Düsseldorf-lærdommen aldri overskygget de klassisistiske kunnskapene, og hun forble friskere og mer robust enn mange av sine samtidige. Disse årenes virksomhet nådde et høydepunkt med deltagelsen på Verdensutstillingen i Paris i 1855, der hun som eneste norske kvinne deltok med fire bilder. Hensikten med det etterfølgende studieår i Paris var, etter egne ord, å tilegne seg den franske koloritt. Det bekrefter mistanken om at hun ikke fant seg tilrette med Düsseldorf-skolens neddempete farger. Hun studerte med Ange Tissier, men arbeidet også selvstendig med et par større bibelske komposisjoner, hvorav ett, <em>Moses støttet av Aron og Hur</em> (1856), ble fullført. Det er en enkel komposisjon med tre figurer mot et kulisseaktig, vidt landskap. Det dystre <em>Grubleren</em> (1856, Norsk Folkemuseum, senere innkjøpt av Henrik Ibsen), er også malt under Paris-oppholdet. Etter noen års sykdom (1856–58) ble H. innstilt til Statens reisestipend for å kunne fortsette figurstudiene i Paris, men innstillingen ble ikke fulgt av departementet. Likevel hadde hun et nytt Paris-opphold i 1860 og malte da <em>Jael og Sisera</em>, et nytt gammeltestamentlig motiv. De to bibelske bildene ble hyppig utstilt i Norge og utlandet i 60-årene, og hun anså dem selv for sine hovedverker til tross for at hun lyktes bedre i portrettene. I 60- og 70-årene overtok andre interesser, målsak og kvinnesak, og hun malte lite. I forbindelse med interessen for landsmål, endret hun sitt danske døpenavn Asta til den norske formen Aasta. I 1880 utvandret H. til USA, fordi hun møtte liten forståelse for sine merkesaker i Norge. Hun gikk dermed inn i sin annen fase som maler, i det hun baserte sitt livsopphold i USA på kunstnerisk virksomhet, til tross for at hun var mer engasjert i kvinnesak, arbeidersak og religiøse spørsmål. H. malte over 70 bilder i Boston og Chicago, bl.a. portretter av <em>Bjørnstjerne Bjørnson</em> for den norske forening i Boston, og av <em>Marcus Thrane</em>, dessuten en rekke folkelivsskildringer som slo godt an hos norsk-amerikanere. Hun utførte også et allegorisk bilde, <em>Europe pays Homage to American Women</em> (1881). Etter 1889, da H. vendte tilbake til Norge, malte hun ikke i det hele tatt.</p></div>",
+    "created_at": "2013-06-09T16:58:10.614+02:00",
+    "changed_at": "2024-06-18T23:25:21.050+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1488\",\"https://digitaltmuseum.no/04364e09-1f47-42d7-885f-2805627d6a29\",\"http://kulturnav.org/04364e09-1f47-42d7-885f-2805627d6a29\"]",
+        "lastname": "Hansteen",
+        "firstname": "Aasta",
+        "birth_date": "10.12.1824",
+        "birthplace": "Christiania",
+        "death_date": "13.4.1908",
+        "external_id": "person_8736ab1488",
+        "kulturnav_id": "04364e09-1f47-42d7-885f-2805627d6a29",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Hansteen, Asta"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Wichstrøm"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15903/standard_NMK-B_NG.M.0028820130725-13675-10aivf6.jpg",
+            "full_size_url": "https://media.snl.no/media/15903/NMK-B_NG.M.0028820130725-13675-10aivf6.jpg",
+            "xhtml": "<div>\r\n<p><em>Professor Christopher Hansteen</em>, 1853. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Aasta Hansteen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16128/standard_NMK-B_NG.M.0447720130725-13675-88y2yq.jpg",
+            "full_size_url": "https://media.snl.no/media/16128/NMK-B_NG.M.0447720130725-13675-88y2yq.jpg",
+            "xhtml": "<div>\r\n<p><em>Sittende dame med roser i håret</em>, 1853. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Aasta Hansteen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "forfatter"
+        },
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

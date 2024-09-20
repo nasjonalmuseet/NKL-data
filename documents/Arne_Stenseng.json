@@ -1,0 +1,873 @@
+{
+    "id": 431153,
+    "headword": "Arne Stenseng",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "kunsthistoriker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107208",
+                "birth_date": "1865",
+                "death_date": "1950",
+                "firstname": "Augusta",
+                "lastname": "Saugstad",
+                "professions": null
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107207",
+                "birth_date": "1861",
+                "death_date": "1931",
+                "firstname": "Johan Severin",
+                "lastname": "Stenseng",
+                "professions": [
+                    "agent"
+                ]
+            },
+            {
+                "from_date": "1946",
+                "type": "Gift med",
+                "external_id": "person_8736ab107209",
+                "birth_date": "1903",
+                "death_date": "1979",
+                "firstname": "Lajla",
+                "lastname": "Pharo",
+                "professions": null
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks og Kunstindustriskole, Oslo under August Eiebakke og Eivind Nielsen 4 mndr. 1929-30",
+                "order": "0"
+            },
+            {
+                "comment": "Elev av Torstein Torsteinson vinteren 1932-33",
+                "order": "1"
+            },
+            {
+                "comment": "Magistergraden i kunsthistorie, Universitetet i Oslo 1941",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1928 og -29"
+            },
+            {
+                "order": "1",
+                "description": "Benneches legat 1932 og -33"
+            },
+            {
+                "order": "2",
+                "description": "Unge Kunstneres Samfunn stipend 1936"
+            },
+            {
+                "order": "3",
+                "description": "Storms stipend 1938"
+            },
+            {
+                "order": "4",
+                "description": "Brochs legat 1940"
+            },
+            {
+                "order": "5",
+                "description": "NAVF forskningsstipend 1959-62"
+            },
+            {
+                "order": "6",
+                "description": "Reiser til Sverige 1933, -46, -53, -55, -59"
+            },
+            {
+                "order": "7",
+                "description": "Danmark 1933, -47, -51, -58"
+            },
+            {
+                "order": "8",
+                "description": "Nederland 1938, -48"
+            },
+            {
+                "order": "9",
+                "description": "England og Skottland 1938, -54"
+            },
+            {
+                "order": "10",
+                "description": "Belgia 1948"
+            },
+            {
+                "order": "11",
+                "description": "Italia og Sveits 1949"
+            },
+            {
+                "order": "12",
+                "description": "Frankrike 1951, -58"
+            },
+            {
+                "order": "13",
+                "description": "Spania 1958"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Konservator den sakkyndige Akershus-komité 1946-60"
+            },
+            {
+                "order": "1",
+                "description": "Sekretær Statens Håndverks og Kunstindustriskole, Oslo 1946"
+            },
+            {
+                "order": "2",
+                "description": "Hovedsekretær Foreningen til norske Fortidsminnesmerkers Bevaring 1947-59"
+            },
+            {
+                "order": "3",
+                "description": "Sekretær Norsk Portrettarkiv og Norske Minnesmerkers Fond"
+            },
+            {
+                "order": "4",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "5",
+                "description": "Medlem Tegnerforbundet 1955, styremedlem 1957-59"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Universitetsbiblioteket, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Ringsaker kommune"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Ringsaker Sparebank"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Ringsaker Brannkasse"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Tegninger i mappe: Glimt fra Tryggve Andersens Ringsaker, Oslo 1966 (med egne tekster)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Glimt fra steder hvor kjent folk har bodd, Oslo 1973"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hamar Kunstforening",
+                "from_date": "1946",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "1968",
+                "order": "1",
+                "to_date": "",
+                "title": "Landsforbundet Norsk Brukskunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Elverum Kunstforening",
+                "from_date": "1969",
+                "order": "2",
+                "to_date": "",
+                "title": "Lillehammer Bys malerisamling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hamar Kunstforening",
+                "from_date": "1969",
+                "order": "3",
+                "to_date": "",
+                "title": "Lillehammer Bys malerisamling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ringsaker Sparebank, Moelv",
+                "from_date": "1971",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Brumunddal",
+                "from_date": "1972",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Buttekvern, Brumunddal",
+                "from_date": "1978",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "7",
+                "to_date": "1933",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1935",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1935",
+                "order": "10",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1957",
+                "order": "11",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn jub. utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "12",
+                "to_date": "",
+                "title": "Tegnerforbundets utst."
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1934",
+                "order": "0",
+                "reference": "s. 111–26",
+                "to_date": "",
+                "description": "Rondane sett med malerøyne, Den Norske Turistforenings årbok",
+                "place": "Oslo",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1939",
+                "order": "1",
+                "reference": "s. 161–72",
+                "to_date": "",
+                "description": "Einar Sandberg, Kunst og Kultur",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947",
+                "order": "2",
+                "reference": "s. 33–40",
+                "to_date": "",
+                "description": "Frederik Collett, Lars Jorde, Kunst og Kultur",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1949",
+                "order": "3",
+                "reference": "s. 77–83",
+                "to_date": "",
+                "description": "Fra Norges antikvariske opdagelse. Nyfunne malerier av Knud Baade, FNFB årbok",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1949",
+                "order": "4",
+                "reference": "s. 65–72",
+                "to_date": "",
+                "description": "Torpo stavkirke, Drammens Turistforenings årbok",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950",
+                "order": "5",
+                "reference": "s. 7–22",
+                "to_date": "",
+                "description": "Alf Lundeby 80 år, Kunst og Kultur",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950",
+                "order": "6",
+                "to_date": "",
+                "description": "Alf Lundeby, 1870-1950, Årbok for Gudbrandsdalen",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950",
+                "order": "7",
+                "to_date": "",
+                "description": "Akershus slott. Veileder",
+                "place": "Oslo",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1951",
+                "order": "8",
+                "reference": "s. 131–38 (sammen med Nygård-Nilssen, A. og R. Kjellberg)",
+                "to_date": "1952",
+                "description": "Akershus slott. Bruk og møbelering, FNFB årbok",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1955",
+                "order": "9",
+                "to_date": "",
+                "description": "Alf Lundeby",
+                "place": "Oslo",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958",
+                "order": "10",
+                "to_date": "",
+                "description": "Nore stavkirke",
+                "place": "Oslo",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1960",
+                "order": "11",
+                "reference": "s. 124–38",
+                "to_date": "",
+                "description": "Rondane sett med malerøyne, Den Norske Turistforening, årbok",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "12",
+                "to_date": "",
+                "description": "Harald Sohlberg",
+                "place": "Oslo",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-06-22",
+                "order": "13",
+                "to_date": "",
+                "description": "Ved St. Hans-tider, Nationen",
+                "authors": [
+                    "Stenseng, Arne Johan"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "order": "14",
+                "description": "Medarbeider i Kringla heimsins og NBL",
+                "from_date": "",
+                "to_date": "",
+                "reference": "",
+                "title": "",
+                "place": "",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1950",
+                "order": "15",
+                "reference": "s. 810",
+                "to_date": "",
+                "description": "Norges filologer og realister",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1955",
+                "order": "16",
+                "reference": "s. 210",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "17",
+                "reference": "s. 233, 244 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961",
+                "order": "18",
+                "reference": "s. 503–04",
+                "to_date": "",
+                "description": "Studentene fra 1936",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965",
+                "order": "19",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1966",
+                "order": "20",
+                "reference": "bd. 15, s. 2–3",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "1969",
+                "description": "Østby, L. i katalog Tegnerforbundet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1969",
+                "order": "22",
+                "reference": "s. 54, 56 (ill.)",
+                "to_date": "",
+                "description": "i Kunst og Kultur",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "23",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Hedmark, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979",
+                "order": "24",
+                "reference": "bd. 3, s. 540 (ill.)",
+                "to_date": "",
+                "description": "Cappelens musikkleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979",
+                "order": "25",
+                "reference": "nr. 2 s. 31 (ill.)",
+                "to_date": "",
+                "description": "Kunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "26",
+                "reference": "bd. 11, s. 130",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "27",
+                "reference": "s. 11–12",
+                "to_date": "",
+                "description": "Arne Stenseng 1907-1980, FNFB årbok",
+                "authors": [
+                    "Sinding-Larsen, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982",
+                "order": "28",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Vest-Oppland og Valdres. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1930-10-09",
+                "order": "29",
+                "to_date": "",
+                "description": "i Oslo Illustrerte",
+                "authors": [
+                    "Janson, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1931-10-14",
+                "order": "30",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1946-03-06",
+                "order": "31",
+                "to_date": "",
+                "description": "i Hamar Arbeiderblad",
+                "authors": [
+                    "Gramm, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1946-03-13",
+                "order": "32",
+                "to_date": "",
+                "description": "i Hamar Arbeiderblad",
+                "authors": [
+                    "Gramm, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1959-03-28",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-10-30",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Nyquist, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-11-06",
+                "order": "35",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-11-07",
+                "order": "36",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Steen-Johnsen, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-11-13",
+                "order": "37",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1969-01-16",
+                "order": "38",
+                "to_date": "",
+                "description": "Dagningen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1969-01-17",
+                "order": "39",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Gudbrandsdølen",
+                "authors": [
+                    "Holbø, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1969-02-01",
+                "order": "40",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1969-02-04",
+                "order": "41",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Ringsaker Blad/Brumunddølen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971-12-06",
+                "order": "42",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972-10-19",
+                "order": "43",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977-06-04",
+                "order": "44",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978-04-22",
+                "order": "45",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Arne Stenseng",
+    "url": "https://nkl.snl.no/Arne_Stenseng",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. vokste opp på Ringsaker og følte seg alltid nært knyttet til denne bygda med dens gamle kulturminner. Han arbeidet 1924-35 som lensmannsbetjent der. Harald Sohlberg ble interessert i hans kunstneriske forsøk og hjalp ham til et stipend så han kom inn på Statens Håndverks og Kunstindustriskole, Oslo. S. debuterte på Høstutstillingen 1930 med <em>Sommernatt</em>, neste år fulgte <em>Byget vårvær</em> (Trøndelag Kunstgalleri), 1932 <em>Forsommeraften</em> og 1933 <em>Lys natt</em>. Disse dempede, stillferdige naturstemninger var sterkt påvirket av Sohlbergs romantiske ungdomskunst. Torstein Torsteinsons malemåte lå ham derimot fjernt, men \"jeg begynte å komme til bevisshet om lys og rom\" sier han, \"dypere innblikk i disse begreper gav Torsteinson meg\". I 1935 fikk han antatt sin første tegning, et portrett av moren, på Høstutstillingen, og fra da av var det som tegner han markerte seg. Han brukte helst blyant i mange forskjellige hårdhetsgrader, og utformet på strengt naturalistisk grunnlag en overordentlig følsom og fin-nervet tegnestil, som særlig kom til sin rett i landskapene fra hjembygda og i studiene fra hans mange reiser. Men han var også en god portrettegner og har avbildet mange kjente personligheter innen vitenskap, diktning og musikkliv. Høyest nådde han i de også kulturhistorisk viktige <em>Glimt fra Tryggve Andersens Ringsaker</em> (1966), landskaper og gammel byggeskikk utført i blyant, med egne tekster, etterfulgt av <em>Glimt fra steder hvor kjent folk har bodd</em> (1973). I senere år var S. mest opptatt av vitenskapelig arbeid og publikasjonsvirksomhet, men leverte fra 1953 ofte tegninger, bl.a. portretter, til Nationen.</p></div>",
+    "created_at": "2014-12-21T14:23:43.219+01:00",
+    "changed_at": "2024-06-18T23:28:17.301+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3553\",\"https://digitaltmuseum.no/f181f89e-a2c0-4274-be40-c4866e2ef719\",\"http://kulturnav.org/f181f89e-a2c0-4274-be40-c4866e2ef719\"]",
+        "lastname": "Stenseng",
+        "firstname": "Arne",
+        "birth_date": "5.6.1907",
+        "birthplace": "Kristiania",
+        "death_date": "19.5.1980",
+        "external_id": "person_8736ab3553",
+        "kulturnav_id": "f181f89e-a2c0-4274-be40-c4866e2ef719",
+        "place_of_death": "Hamar",
+        "alternative_names": "Stenseng, Arne Johan"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "kunsthistoriker"
+        }
+    ]
+}

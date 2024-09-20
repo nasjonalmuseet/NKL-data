@@ -1,0 +1,610 @@
+{
+    "id": 414541,
+    "headword": "Karl Johan Flaathe",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102236",
+                "birth_date": "1897",
+                "death_date": "1970",
+                "firstname": "Karoline",
+                "lastname": "Fjærem",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102235",
+                "birth_date": "1891",
+                "death_date": "1930",
+                "firstname": "Einar Andreas",
+                "lastname": "Flaathe",
+                "professions": [
+                    "skipskaptein"
+                ]
+            },
+            {
+                "from_date": "1946",
+                "type": "Gift med",
+                "external_id": "person_8736ab102237",
+                "birth_date": "1915",
+                "death_date": "",
+                "firstname": "Anna",
+                "lastname": "Vie",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kunstskolen i Trondheim 1946–47",
+                "order": "1"
+            },
+            {
+                "comment": "Harald Krogh Stabells tegneskole, Trondheim 1945",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Stinius Fredriksen og Per Palle Storm 1946–48",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "7",
+                "description": "Sveits 1974"
+            },
+            {
+                "order": "2",
+                "description": "Statens Kunstfond 1961"
+            },
+            {
+                "order": "1",
+                "description": "Lorch-Schives legat 1959 og -62"
+            },
+            {
+                "order": "4",
+                "description": "Statens reise- og studiestipend 1970 og -71"
+            },
+            {
+                "order": "5",
+                "description": "Reiser til Tyskland og Italia 1958"
+            },
+            {
+                "order": "3",
+                "description": "Statens ett-årige arbeidstipend 1965 og -66"
+            },
+            {
+                "order": "0",
+                "description": "3% fondets stipend 1958"
+            },
+            {
+                "order": "6",
+                "description": "Sverige 1965, -66, -67"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "timelærer ved Trondheim yrkesskole og Trondheim Katedralskole"
+            },
+            {
+                "order": "6",
+                "description": "medlem Norsk Billedhuggerforening"
+            },
+            {
+                "order": "0",
+                "description": "Steinhugger ved Nidaros Domkirkes Restaureringarbeider 1945–60"
+            },
+            {
+                "order": "1",
+                "description": "lærer i forming ved Sverresborg skole, Trondheim 1960–74"
+            },
+            {
+                "order": "5",
+                "description": "sekretær i Trøndelag Bildende Kunstnere"
+            },
+            {
+                "order": "3",
+                "description": "hovedansvarlig for skulpturundervisning Kunstskolen i Trondheim 1950–75, daglig leder 1950–62, rektor dagskolen 1974–75"
+            },
+            {
+                "order": "4",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "3. premie i konkurranse om fiskerimonument, Ålesund 1959"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Trøndelag kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Kristiansund Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Mo i Rana Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Hane (bronse, 1965), Johan O. Helgesen"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Bjørnefontene (bronse, 1974/75), Trondheim kommune, foreløpig ikke oppsatt"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Knelende gutt (bronse, 1963), Sverresborg skole"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Ugle (marmor, 1961), Ugla skole"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Tove (bronse, 1960), Trondheim rådhus"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Såmannen (bronse, utkast til konk. Bjørnsonmonument 1960), Bøndernes Bank"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Pike med krukke (bronse, 1966), Statens Attføringsinstitutt"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Kari (bronse, 1957), Nyborg skole"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Trondheim: Harlequin (bronse, 1957/58), Prinsen Hotell"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1962-05",
+                "order": "10",
+                "to_date": "",
+                "title": "Norsk Billedhuggerforening Jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1955",
+                "order": "4",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1950",
+                "order": "9",
+                "to_date": "",
+                "title": "Juleutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1957",
+                "order": "5",
+                "to_date": "1965",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1976",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "11",
+                "to_date": "",
+                "title": "Ostsee Biennale"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1970-04",
+                "order": "1",
+                "to_date": "1970-05"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1958",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1970",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1969",
+                "order": "7",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1967",
+                "order": "6",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1950",
+                "order": "8",
+                "to_date": "",
+                "title": "Sommerutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "",
+                "order": "22",
+                "reference": "s. 25",
+                "to_date": "",
+                "description": "i Årsberetning 1975 for Trondhjems Kunstforening",
+                "authors": [
+                    "Bleken, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-06-12",
+                "order": "16",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-10-23",
+                "order": "24",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-28",
+                "order": "14",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-08",
+                "order": "10",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-11",
+                "order": "12",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-22",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-04",
+                "order": "8",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-12-12",
+                "order": "4",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "2",
+                "reference": "s. 262",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-07-07",
+                "order": "20",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-11-08",
+                "order": "0",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "i Katalog minneutstilling 1976",
+                "authors": [
+                    "Bleken, H."
+                ],
+                "comments": [
+                    "Trondhjems Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "18",
+                "reference": "nr. 3/4 s. 25–27",
+                "to_date": "",
+                "description": "i Kunst og Kunstnere",
+                "authors": [
+                    "Bleken, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-28",
+                "order": "15",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-13",
+                "order": "13",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Brun, H.J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-09",
+                "order": "11",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-08-22",
+                "order": "1",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-03-02",
+                "order": "19",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "i Katalog separatutstilling 1970",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [
+                    "(Oslo og Trondheim)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-08",
+                "order": "9",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-05-02",
+                "order": "7",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "3",
+                "reference": "s. 253",
+                "to_date": "",
+                "description": "Norsk skulptur i femti år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "17",
+                "reference": "s. 186, 188",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "21",
+                "reference": "s. 8–9",
+                "to_date": "",
+                "description": "i Trondhjems Kunstforening 1945–70",
+                "place": "Trondheim",
+                "authors": [
+                    "Kristiansen, H."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Karl Johan Flaathe",
+    "url": "https://nkl.snl.no/Karl_Johan_Flaathe",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>F. ble ansatt som steinhugger ved Nidaros Domkirkes Restaureringsarbeider i 1945 og hugde for kirken til 1960, etterat han med permisjon derfra hadde studert ved Statens Kunstakademi, Oslo 1946–48. Han debuterte på Høstutstillingen 1955 med bysten <em>Eva</em> og stilte i de følgende år ut en rekke byster og hoder, oftest portretter av unge mennesker, særlig piker. Den stramme, ytre form med små, nesten umerkelige planforskyvninger og foriktige variasjoner i overflaten gir skulpturen liv og gir en stille, litt innadvendt karakteristikk av modellene. De samme idealer preger hans helfigurer, f.eks. den stående, fløytespillende <em>Harlequin</em> (bronse, 1957/58) og fonteneskulpturene <em>Knelende gutt</em>, som samler vann i hendene (bronse, 1963), og en sittende <em>Pike med krukke</em> (bronse, 1966). Handlingsmotivet peker innover, figurene blir psykologisk fordypet i seg selv og tilskuerens oppmerksomhet rettes mot det som skjer i overflaten. Selv i bystene av <em>Håkon Onstad</em> (bronse, 1962) og <em>Harald Torp</em> (bronse, 1970/71) ligger det dynamiske uttrykket i spenningen mellom det svulmende volum og tilstramningen i den forsiktig fasetterte overflate. Uttrykk og psykologisk karakteristikk skapes ikke ved minespill eller gester, men gjennom rent skulpturale virkemidler. F. har treffende kalt seg selv en \"klassisist... som søker den stramme og mest mulig presise form\". Ingebrigt Vik var den norske billedhugger som har betydd mest for hans holdning til skulpturen. På bakgrunn av hans strenge stil- og formsans er det egnet til å forbause at han aldri fikk utføre selvstendige skulpturoppdrag for Nidaros Domkirkes Restaureringsarbeider, til tross for at han var knyttet til kirken i 15 år som steinhugger.</p>\n<p>Fra midten av 1960-årene forsøkte F. i noen arbeider å drive abstraksjonen mot det nonfigurative, men det virker som han trengte den motstanden som ligger i naturforbildet for å oppnå en levende spenning i formen. Med naturen på avstand kunne også en filosofisk symbolikk gjøre seg gjeldende, som i stålskulpturen <em>Madonna</em> (1969–70), der han søker å samle en hel verdensanskuelse i et par sterkt abstraherte, erotiske symboler. Den eksperimenterende holdningen førte imidlertid på denne tiden til en enda mer avklaret og hel form i byster og dyrefigurer. På sommerutstillingen i Trondheim Kunstforening i 1969 hadde F. en <em>Labyrint</em> av sorte plater, som i sitt indre åpenbarte en hemmelighetsfull kasse med skuff. Når skuffen ble åpnet, kom det til syne en hånd med rose og et øye, samtidig som et lydbånd med pust og hjerteslag ble satt i gang. Ideen med labyrinten ble mer vellykket gjennomført i en rekke \"titteskap\" på utstillingen i 1970. De bestod av sammenstilte kasser av dels gjennomsiktig, dels matt og farget plexiglass, og fremstod som nonfigurative skulpturer i en klar, velavveiet form, utført med omhyggelig håndverksmessig presisjon. Noen av kassene inneholdt enkle, symbolske gjenstander, som var direkte synlige gjennom glasset eller kom til syne gjennom små kikkhull mellom uendelige landskaper av motstilte, gjensidig reflekterende speil. På en måte realiserte F. i disse \"titteskap\", i et annet formspråk, intensjoner som også uttrykkes i hans øvrige skulpturer: et spenningsfylt forhold mellom en klar ytre form og et indre psykisk rom, som formen samtidig skjuler og viser hen til.</p>\n<p>F. nedla i alle år et stort arbeide i organisasjonen Trøndelag Bildende Kunstnere, som han var med å starte, Kunstskolen i Trondheim, og i kunstpedagogisk virksomhet ellers. Bl.a. var han i en årrekke timelærer ved Trondheim yrkesskole og Trondheim Katedralskole og 1960–74 formingslærer ved Sverresborg skole. Hans usedvanlige åpenhet, som kanskje også gjorde ham selv ekstra sårbar, førte nok til at hans arbeidsinnsats ofte ble sett på som en selvfølge, samtidig som større oppdrag og innkjøp sjelden ble ham til del. Det er karakteristisk at den stimulans og arbeidsmessige frihet som de større stipendiene gav, også førte til utviklende og skapende perioder.</p>\n</div>",
+    "created_at": "2013-06-09T16:41:26.663+02:00",
+    "changed_at": "2024-06-18T23:25:20.408+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1090\",\"https://digitaltmuseum.no/2dabe123-5476-47c3-81f6-3b37688cad5b\",\"http://kulturnav.org/2dabe123-5476-47c3-81f6-3b37688cad5b\"]",
+        "lastname": "Flaathe",
+        "firstname": "Karl Johan",
+        "birth_date": "30.3.1920",
+        "birthplace": "Trondheim",
+        "death_date": "12.2.1975",
+        "external_id": "person_8736ab1090",
+        "kulturnav_id": "2dabe123-5476-47c3-81f6-3b37688cad5b",
+        "place_of_death": "samme sted"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

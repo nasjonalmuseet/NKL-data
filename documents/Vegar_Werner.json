@@ -1,0 +1,556 @@
+{
+    "id": 431334,
+    "headword": "Vegar Werner",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab1048",
+                "birth_date": "28.06.1950",
+                "death_date": "",
+                "firstname": "Liv",
+                "lastname": "Fiskergård",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108120",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Steinar",
+                "lastname": "Werner",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108121",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Berit",
+                "lastname": "Dyrud",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Molde"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo, bokkunstlinjen under bl.a. Niclas Gulbrandsen og Ottar Helge Johannessen 1973-76",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Møre og Romsdals fylkes kulturstipend 1978, -83"
+            },
+            {
+                "order": "4",
+                "description": "Studiereise til England 1979"
+            },
+            {
+                "order": "0",
+                "description": "3%-fondets stipend 1975, -78, -84"
+            },
+            {
+                "order": "3",
+                "description": "Statens materialstipend 1978"
+            },
+            {
+                "order": "1",
+                "description": "Den norske Bokklubbens reisestipend 1978"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Tegnerforbundet"
+            },
+            {
+                "order": "3",
+                "description": "Bildende Kunstnere Møre og Romsdal"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Premier i konkurranse utsmykking Kunstnersenteret Møre og Romsdal 1983"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Dale dagsenter og skole, Kristiansund (1983-84)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "avgangshallen, Molde lufthavn (1984)."
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Molde Kunstforening"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "B. Eide: Brune og blågrå duer, novelle i Folkevett, Oslo 1982, nr. 1"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "plateomslag og plakater"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "13",
+                "to_date": "",
+                "title": "POL -66"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "6",
+                "to_date": "1983",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "7",
+                "to_date": "1979",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "8",
+                "to_date": "",
+                "title": "Tegnerforbundets vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "15",
+                "to_date": "",
+                "title": "Tegning"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "11",
+                "to_date": "",
+                "title": "Møreutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "12",
+                "to_date": "",
+                "title": "POL -66"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "10",
+                "to_date": "",
+                "title": "Visuelt"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "5",
+                "to_date": "1978",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "9",
+                "to_date": "",
+                "title": "Tegnerforbundets 60-års jubileumsutst."
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Tegnede selvportretter (1977, -82) gjengitt katalog Galleri Lubbenes, Molde 1981 og katalog Galleri Koloritten, Stavanger 1983"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1982-06-02",
+                "order": "20",
+                "to_date": "",
+                "description": "Aarhus Stiftstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "3",
+                "to_date": "",
+                "description": "katalog Galleri Tanum",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-03-16",
+                "order": "24",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-10-23",
+                "order": "22",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "9",
+                "to_date": "",
+                "description": "Kunstforum",
+                "authors": [],
+                "comments": [
+                    "nr. 5"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-21",
+                "order": "15",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-03-28",
+                "order": "13",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "5",
+                "to_date": "",
+                "description": "Galleri Lubbenes",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-05-28",
+                "order": "11",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "7",
+                "reference": "(alle ill.)",
+                "to_date": "",
+                "description": "Galleri Parken",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-03-19",
+                "order": "17",
+                "to_date": "",
+                "description": "i Romsdals Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-22",
+                "order": "19",
+                "to_date": "",
+                "description": "Sunnmørsp.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "1",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-10-22",
+                "order": "27",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "2",
+                "reference": "s. 195",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-10-12",
+                "order": "21",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "4",
+                "to_date": "",
+                "description": "katalog Galleri Tanum",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-03-16",
+                "order": "23",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-04-06",
+                "order": "25",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "0",
+                "reference": "s. 173",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-03-14",
+                "order": "16",
+                "to_date": "",
+                "description": "i Romsdals Folkebl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-03-19",
+                "order": "18",
+                "to_date": "",
+                "description": "Sunnmørsp.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-10-25",
+                "order": "28",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-10",
+                "order": "14",
+                "to_date": "",
+                "description": "i Romsdals Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-05-24",
+                "order": "10",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "8",
+                "reference": "bd. 12, s. 562",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-10-22",
+                "order": "26",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "6",
+                "to_date": "",
+                "description": "Galleri Koloritten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-22",
+                "order": "12",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Vegar Werner",
+    "url": "https://nkl.snl.no/Vegar_Werner",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>W.s tegninger varierer i størrelse fra miniatyrformat til maleri-dimensjoner. Han behandler motivene i en blanding av figurasjon og abstrakt uttrykk, med delvis oppløste menneskefigurer i lysømfintlige halvabstrakte landskaper eller satt i kontrast til grafiske mønstre av ruter og geometriske snitt. Tegningene er utført i en nitid og presis strekteknikk, hovedsakelig i blyant. Et fint spinn av streker i varierende tetthetsgrad gir et rikt register av mørke og lyse valører. Han tegner også portretter og arbeider med linoleumssnitt.</p></div>",
+    "created_at": "2014-12-21T16:10:02.772+01:00",
+    "changed_at": "2024-06-18T23:28:21.930+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3991\",\"https://digitaltmuseum.no/463648dd-b96e-4546-a425-be88271e0dc4\",\"http://kulturnav.org/463648dd-b96e-4546-a425-be88271e0dc4\"]",
+        "lastname": "Werner",
+        "firstname": "Vegar",
+        "birth_date": "30.1.1951",
+        "birthplace": "Oslo",
+        "external_id": "person_8736ab3991",
+        "kulturnav_id": "463648dd-b96e-4546-a425-be88271e0dc4",
+        "alternative_names": "Werner, Vegar"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "id": 430024,
+    "headword": "Carl Nielsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105839",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Niels Erland",
+                "lastname": "Nielsen",
+                "professions": [
+                    "snekkermester"
+                ]
+            },
+            {
+                "type": "Bror av",
+                "external_id": "person_8736ab3593",
+                "birth_date": "1856",
+                "death_date": "24.07.1914",
+                "firstname": "Georg Fredrik Nielsen",
+                "lastname": "Strømdal",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105840",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Caroline Juliane",
+                "lastname": "Strøm",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab105841",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Mathilde",
+                "lastname": "Caspersen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Hans Gude, Karlsruhe omkring 1875",
+                "order": "1"
+            },
+            {
+                "comment": "Knud Bergslien og Morten Müllers malerskole tidlig i 1870-årene",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Romsdal, Sogn og Vågå 1886"
+            },
+            {
+                "order": "1",
+                "description": "reiser i Norge bl.a. til Romsdal 1884"
+            },
+            {
+                "order": "3",
+                "description": "Hardanger, Volda, Stjørdal 1887"
+            },
+            {
+                "order": "6",
+                "description": "Sogn 1900"
+            },
+            {
+                "order": "0",
+                "description": "Studieopphold i Tyskland omkring 1875 (tilbake i Norge tidligst 1877)"
+            },
+            {
+                "order": "7",
+                "description": "Nordfjord, Sogn og Romsdal 1906"
+            },
+            {
+                "order": "5",
+                "description": "Nordfjord 1896"
+            },
+            {
+                "order": "4",
+                "description": "Oslofjorden og omegn 1889–90"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "inspektør Christiania Kunstforening 1890–99, 1902–05"
+            },
+            {
+                "order": "3",
+                "description": "sekretær Bildende Kunstneres Styre fra 1905"
+            },
+            {
+                "order": "1",
+                "description": "Fast sekretær Høstutstillingen fra 1884"
+            },
+            {
+                "order": "4",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "0",
+                "description": "Overlærer Den kgl. Tegneskole 1885–1908"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Christianssands Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Drammens Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Helge Væringsaasens samling, Elverum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1877",
+                "order": "2",
+                "to_date": "1908"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1878",
+                "order": "3",
+                "to_date": "1890"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "title": "Jubileumsutstillingen 1914"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1896",
+                "order": "1",
+                "to_date": "1907",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "i Paris",
+                "from_date": "1889",
+                "order": "7",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1879",
+                "order": "4",
+                "to_date": "1881"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1886",
+                "order": "5",
+                "to_date": "1898"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1882",
+                "order": "0",
+                "to_date": "1890",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk utstilling, København",
+                "from_date": "1888",
+                "order": "6",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1908",
+                "order": "2",
+                "reference": "s. 300 (ill.)",
+                "to_date": "",
+                "description": "Vor tid",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-07-30",
+                "order": "4",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "1",
+                "reference": "bd. 1, s. 268",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-07-29",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "6",
+                "reference": "s. 25, 47",
+                "to_date": "",
+                "description": "Kunst. Kamp. Kultur",
+                "place": "(Kristiania",
+                "authors": [
+                    "Werenskiold, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "11",
+                "reference": "bd. 1, s. 188",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L.",
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "17",
+                "reference": "bd. 8, s. 566",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "10",
+                "reference": "s. 513",
+                "to_date": "",
+                "description": "i Hamars historie",
+                "place": "Hamar",
+                "authors": [
+                    "Johannesen O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "9",
+                "reference": "s. 179",
+                "to_date": "",
+                "description": "Bergens kunstforening 1838-1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "0",
+                "reference": "s. 82",
+                "to_date": "",
+                "description": "Af Hans Gudes Liv og Værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "5",
+                "reference": "s. 4",
+                "to_date": "",
+                "description": "Den kgl. Tegneskole årsberetning 1908/09",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "13",
+                "reference": "s. 149",
+                "to_date": "",
+                "description": ": For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "12",
+                "reference": "s. 208",
+                "to_date": "",
+                "description": "Äldre nordiska målninger, katalog Nationalmuseum",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "7",
+                "reference": "bd. 25, s. 464",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "8",
+                "reference": "register s. 212",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836-1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "14",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "16",
+                "reference": "bd. 7, s. 720",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "15",
+                "reference": "s. 231",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Carl Nielsen",
+    "url": "https://nkl.snl.no/Carl_Nielsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>N. fikk sin kunstneriske utdannelse i 1870-årene, først et par år på Knud Bergslien og Morten Müllers malerskole i Christiania og deretter som elev av Hans Gude i Karlsruhe. Nærmere data er ikke kjent, men et bilde datert 1877 bærer påskriften \"Carlsruhe\". N. gikk inn for landskapsmaleriet med vekt på norske fjord- og fjellandskaper, nærmest i Gudes stil, men utførelsen er gjerne mer tørr og nøktern. Sine beste egenskaper viste han i naturstudier og mindre arbeider, som kan ha en stillferdig dempet tone. Han synes i ungdomsårene også å ha mottatt inntrykk av August Cappelen; en kopi etter dennes Skogtjern i nedre Telemark er datert 1874 (Helge Væringsaasens samling, Elverum). Utover i 80-årene foretok N. ifølge Høstutstillingens kataloger, stadige studiereiser omkring i Norge. På grunn av sykdom fikk han neppe malt stort de siste par år av sitt liv. Av hans arbeider kan nevnes <em>Ved Gjende</em> (1874, Nasjonalgalleriet, Oslo), <em>Fra Romsdal</em> (Eidsvåg) (1884, Nasjonalgalleriet) og <em>Husmannsplass i Hitterdal</em> (1891, Drammens Kunstforening Faste Galleri). To større bilder ble vist på utstillinger i utlandet: <em>Hjørundfjord</em> i København i 1888 og <em>Odda, Hardanger</em>, på Verdensutstillingen i Paris 1889.</p>\n<p>Til kunstforeningene særlig i Kristiania og Bergen leverte han flittig bilder, til Christiania Kunstforening således 36 arbeider i perioden 1877–1908. Han har også utført enkelte grafiske arbeider. N. kom tidlig med i kunstnernes organisasjonsarbeide. Han støttet i 1881 aksjonen mot Christiania Kunstforenings innkjøpspolitikk, hjalp i 1882 Frits Thaulow med å organisere den første Høstutstilling og var fra 1884 dens første sekretær. Mye arbeid nedla han som inspektør i Kunstforeningen og som overlærer ved Den kgl. Tegneskole.</p>\n</div>",
+    "created_at": "2014-11-20T10:39:41.180+01:00",
+    "changed_at": "2024-06-18T23:27:47.424+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2880\",\"https://digitaltmuseum.no/012e13f8-0977-462d-9b97-28e0e3bdcc3f\",\"http://kulturnav.org/012e13f8-0977-462d-9b97-28e0e3bdcc3f\"]",
+        "lastname": "Nielsen",
+        "firstname": "Carl",
+        "birth_date": "5.7.1848",
+        "birthplace": "Christiania",
+        "death_date": "28.7.1908",
+        "external_id": "person_8736ab2880",
+        "kulturnav_id": "012e13f8-0977-462d-9b97-28e0e3bdcc3f",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Nielsen, Carl Adolph"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20326/standard_NMK-B_NG.M.00458b20151204-26003-13qurk8.jpg",
+            "full_size_url": "https://media.snl.no/media/20326/NMK-B_NG.M.00458b20151204-26003-13qurk8.jpg",
+            "xhtml": "<div><p><i>Fra Eidsvåg i Romsdal</i>. Carl Nielsen. 1884. <a href=\"http://digitaltmuseum.no/011041107420\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Carl Nielsen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20327/standard_NMK-B_NG.M.0344620151204-26003-58eozi.jpg",
+            "full_size_url": "https://media.snl.no/media/20327/NMK-B_NG.M.0344620151204-26003-58eozi.jpg",
+            "xhtml": "<div><p><i>Loen, Nordfjord</i>. Carl Nielsen. 1894. <a href=\"http://digitaltmuseum.no/011041108870\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Carl Nielsen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

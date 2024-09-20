@@ -1,0 +1,655 @@
+{
+    "id": 416593,
+    "headword": "Rutt Bolsø",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab839",
+                "birth_date": "21.04.1914",
+                "death_date": "07.09.1988",
+                "firstname": "Roy",
+                "lastname": "Dugtorp",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100923",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Chr.",
+                "lastname": "Bolsø",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100924",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragna",
+                "lastname": "Bakken",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Lysaker ved Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Doro von Hannos malerskole samme sted",
+                "order": "4"
+            },
+            {
+                "comment": "Harald Krohg Stabells malerskole i Trondheim 1930–31",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1937–39 under Per Krohg og Karl Høgberg",
+                "order": "2"
+            },
+            {
+                "comment": "Den Tekniske Aftenskole, Kristiansund N 1928",
+                "order": "0"
+            },
+            {
+                "comment": "Carl von Hannos malerskole i Oslo",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "5",
+                "description": "Firenze 1952"
+            },
+            {
+                "order": "1",
+                "description": "Studiereiser til Paris 1937 og -50"
+            },
+            {
+                "order": "6",
+                "description": "London 1954"
+            },
+            {
+                "order": "2",
+                "description": "München 1938"
+            },
+            {
+                "order": "0",
+                "description": "Statens garantiinntekt fra 1978"
+            },
+            {
+                "order": "4",
+                "description": "Göteborg 1949"
+            },
+            {
+                "order": "3",
+                "description": "København 1946 og -50"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Akershus Bildende Kunstnere"
+            },
+            {
+                "order": "2",
+                "description": "Bildende Kunstnere i Bærum"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Landsforeningen Norske Malere"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Prisbelønnet ved Alf Bjerckes jubileumskonkurranse i Oslo Kunstforening 1955 og ved Horten Verfts utsmykningskonkurranse for skip 1976"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Sunnmørskafeen, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Hjemmenes Vel, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Veggmalerier i spisesalen, Sanderstølen Hotell"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Prestfoss herredshus, Sigdal"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Magasinet for alle"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Arbeiderbladet"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Flekkefjord Kunstforening",
+                "from_date": "1968",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aalesunds Kunstforening",
+                "from_date": "1952",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Prestfoss samfunnshus, Sigdal",
+                "from_date": "1979",
+                "order": "35",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1952",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1963",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund N",
+                "from_date": "1943",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Porsgrunn Kunstforening",
+                "from_date": "1967",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1963",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Godthåp rekonvalesenthjem, Bærum",
+                "from_date": "1978",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1949",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Club Playa del Moro, Tenerife",
+                "from_date": "1978",
+                "order": "40",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Molde Kunstforening",
+                "from_date": "1949",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sandvika rådhus",
+                "from_date": "",
+                "order": "42",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1971",
+                "order": "37",
+                "to_date": "1972",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund N",
+                "from_date": "1961",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1959",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1946",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1947",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1957",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund N",
+                "from_date": "1950",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1967",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund N",
+                "from_date": "1932",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1974",
+                "order": "39",
+                "to_date": "1975",
+                "title": "Sommerutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandnes Kunstforening",
+                "from_date": "1962",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Porsgrunn Kunstforening",
+                "from_date": "1960",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1960",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1959",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sandvika kino",
+                "from_date": "",
+                "order": "43",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Dønski alderssenter",
+                "from_date": "1978",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Musk, Bærum",
+                "from_date": "",
+                "order": "41",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1961",
+                "order": "38",
+                "to_date": "",
+                "title": "Tverrsnitt i dag, 3. Jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1947",
+                "order": "36",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Molde Kunstforening",
+                "from_date": "1943",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Modum Kunstforening",
+                "from_date": "1979",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Rykkinn bibliotek",
+                "from_date": "1978",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christiansands Kunstforening",
+                "from_date": "1969",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1944",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1964",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Egersund Kunstforening",
+                "from_date": "1969",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1945",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1944",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Hybler, København",
+                "from_date": "1954",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1951",
+                "order": "15",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1959-11-13",
+                "order": "9",
+                "to_date": "",
+                "description": "i Haugesunds Avis",
+                "authors": [
+                    "Kristiansen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-03-22",
+                "order": "10",
+                "to_date": "",
+                "description": "i Telemark Arbeiderblad",
+                "authors": [
+                    "Bodvin, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "13",
+                "reference": "s. 228, 235",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944-02-26",
+                "order": "4",
+                "to_date": "",
+                "description": "i Dagsposten",
+                "authors": [
+                    "Undersaker, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-11-24",
+                "order": "5",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-09-18",
+                "order": "0",
+                "to_date": "",
+                "description": "i Romsdalsposten",
+                "authors": [
+                    "Sylthe, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944-02-23",
+                "order": "3",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944-02-16",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-10-19",
+                "order": "1",
+                "to_date": "",
+                "description": "i Romsdals Budstikke",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-23",
+                "order": "12",
+                "to_date": "",
+                "description": "Østlandsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-03-28",
+                "order": "11",
+                "to_date": "",
+                "description": "Porsgrunns Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951-05-28",
+                "order": "7",
+                "to_date": "",
+                "description": "Vestfold",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-12-20",
+                "order": "6",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951-05-29",
+                "order": "8",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Rutt Bolsø",
+    "url": "https://nkl.snl.no/Rutt_Bols%C3%B8",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. begynte sin kunstneriske løpebane i ung alder og stilte alt tidlig i 1930-årene ut i Kristiansund N sammen med sin far, Chr. B. Fra 1943 har hun jevnlig hatt utstillinger sammen med sin mann, Roy Dugtorp. B.s produksjon består av akvareller og oljemalerier, gjerne i et relativt beskjedent format. Mens de tidlige bildene stort sett er stemningslandskaper og figurkomposisjoner i et moderat naturalistisk formspråk, viser enkelte senere malerier en tendens til forenkling og store fargeflater av rent dekorativ karakter.</p></div>",
+    "created_at": "2013-07-03T16:26:27.128+02:00",
+    "changed_at": "2024-06-18T23:25:45.436+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab448\",\"https://digitaltmuseum.no/5e46e435-5890-4d4b-a8a6-99edd8eea5a4\",\"http://kulturnav.org/5e46e435-5890-4d4b-a8a6-99edd8eea5a4\"]",
+        "lastname": "Bolsø",
+        "firstname": "Rutt",
+        "birth_date": "28.7.1913",
+        "birthplace": "Trondheim",
+        "external_id": "person_8736ab448",
+        "kulturnav_id": "5e46e435-5890-4d4b-a8a6-99edd8eea5a4"
+    },
+    "authors": [
+        {
+            "full_name": "Bodil Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

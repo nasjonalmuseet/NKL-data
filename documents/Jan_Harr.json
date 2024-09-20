@@ -1,0 +1,818 @@
+{
+    "id": 416538,
+    "headword": "Jan Harr",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103049",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Randi",
+                "lastname": "Heitmann",
+                "professions": []
+            },
+            {
+                "type": "Bror av",
+                "external_id": "person_8736ab1499",
+                "birth_date": "08.05.1940",
+                "death_date": "",
+                "firstname": "Karl Erik",
+                "lastname": "Harr",
+                "professions": [
+                    "grafiker",
+                    "maler",
+                    "tegner"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103044",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karl",
+                "lastname": "Harr",
+                "professions": []
+            },
+            {
+                "type": "Bror av",
+                "external_id": "person_8736ab1497",
+                "birth_date": "10.03.1951",
+                "death_date": "",
+                "firstname": "Eva",
+                "lastname": "Harr",
+                "professions": [
+                    "grafiker"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Reidar Aulie 1970–73",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo, keramikklinjen 1966–70",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Reusch' legat 1974"
+            },
+            {
+                "order": "1",
+                "description": "Besøkte første gang Italia i 1968, senere reiser i alle vesteuropeiske land, Hellas og Ungarn"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Porsgrunn Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "B. Ekström: Sommardygn, 1977"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "21",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Porsgrunn Kunstforening",
+                "from_date": "1970",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1978",
+                "order": "30",
+                "to_date": "",
+                "title": "Romantik - realisme"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1970",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Odense",
+                "from_date": "1970",
+                "order": "23",
+                "to_date": "",
+                "title": "Ung norsk kunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1979",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1974",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Buttekvern, Brumunddal",
+                "from_date": "1976",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Alexander, Berlin",
+                "from_date": "1972",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1977",
+                "order": "28",
+                "to_date": "",
+                "title": "9 med tegninger"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1975",
+                "order": "19",
+                "to_date": "1977",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1975",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "24",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn jub. utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund Kunstforening",
+                "from_date": "1981",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Era, Karlstad",
+                "from_date": "1978",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Buttekvern, Brumunddal",
+                "from_date": "1980",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1979",
+                "order": "20",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Era, Karlstad",
+                "from_date": "1978",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1970",
+                "order": "22",
+                "to_date": "",
+                "title": "Romantikk, figurativ kunst fra 1960-årene"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1971",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1967",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Intimgall. Bergens Kunstforening",
+                "from_date": "1973",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 27, Oslo",
+                "from_date": "1972",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1981",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1976",
+                "order": "27",
+                "to_date": "",
+                "title": "Ungt norsk uttrykk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lunds Konsthall",
+                "from_date": "1975",
+                "order": "25",
+                "to_date": "",
+                "title": "En ny nordisk romantik"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Festspillene i Nord-Norge, Harstad",
+                "from_date": "1977",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 12 B, Fredrikstad",
+                "from_date": "1974",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1977",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Tanum",
+                "from_date": "1976",
+                "order": "13",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Maleri utført av Karl-Erik Harr gjengitt i F 15 Kontakt, Moss 1974, nr. 1, s. 4"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1977-12-08",
+                "order": "27",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "7",
+                "reference": "s. 59",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-12-18",
+                "order": "13",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Widerøe, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-11-19",
+                "order": "15",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-06",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "5",
+                "reference": "s. 115, 199",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-11-26",
+                "order": "17",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-02-12",
+                "order": "34",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Mørkhagen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-26",
+                "order": "25",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "4",
+                "reference": "s. 61, 116 (ill.), 187",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-11-24",
+                "order": "35",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-14",
+                "order": "29",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "2",
+                "reference": "s. 32",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "22",
+                "reference": "s. 256",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-11",
+                "order": "31",
+                "to_date": "",
+                "description": "i Østlendingen",
+                "authors": [
+                    "Andersen, F.Aa"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-04-13",
+                "order": "12",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "10",
+                "reference": "hefte 98 s. 51 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-11-22",
+                "order": "0",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "28",
+                "reference": "hefte 7, s. 14–25 (13 ill.)",
+                "to_date": "",
+                "description": "Fra en samtale med Jan Harr, Kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Koefoed, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "8",
+                "reference": "s. 60 (ill.), 63",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-02",
+                "order": "26",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "6",
+                "reference": "s. 59",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-10-25",
+                "order": "14",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-06-24",
+                "order": "24",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Gaup, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-11",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-11-23",
+                "order": "16",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "33",
+                "to_date": "",
+                "description": "Norsk malerkunst, hovedlinjer gjennom 200 år",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1967-11-22",
+                "order": "1",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "23",
+                "reference": "bd. 1, s. 138–40 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunst i bilder",
+                "place": "Oslo",
+                "authors": [
+                    "Simonnæs, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "3",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-14",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Norvin, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "32",
+                "reference": "s. 52, 104 (ill.)",
+                "to_date": "",
+                "description": "Norsk maleri 70-tallet",
+                "place": "Oslo",
+                "authors": [
+                    "Gulliksen, B.M.",
+                    "Johnsrud, E.H.",
+                    "Sørensen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-03",
+                "order": "18",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-29",
+                "order": "30",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-29",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Arneberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "9",
+                "reference": "s. 119",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jan Harr",
+    "url": "https://nkl.snl.no/Jan_Harr",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. utdannet seg først som keramiker på Statens Håndverks- og Kunstindustriskole og utstilte keramiske arbeider på Festspillene i Nord-Norge 1967. Samme år debuterte han som maler i Unge Kunstneres Samfunn. Hans nord-norske landskaper vakte tidlig oppmerksomhet, og han stod snart sentralt blant de unge nyromantikere som omkring 1970, med utgangspunkt i 1890-årenes stemningskunst, søkte uttrykk for en ny lyrisk naturopplevelse. I sine små oljebilder og akvareller stiller han gjerne blomster i lysende farger som en storformet, omhyggelig detaljert forgrunn mot en lett sløret, disig bakgrunn med fjerne utsyn eller ruvende fjell, mens mellomgrunnen bare er lett antydet. Drømmende skogstemninger og sarte skyformasjoner inngår også i hans billedrepertoar. Bildene har betegnende titler som <em>Blånende bakker</em> og <em>Gyllen natt</em> (1979). En temautstilling, Mellom blomster og fjell (1979), var bygd opp på to motiver, geitrams og fjellet Støvla i Lofoten. En del av denne utstillingen var illustrasjoner i scraperboard-teknikk til Börje Ekströms dikt, Sommardygn (utgitt 1977). H.s tidlige stofftette, fint utpenslede malerier med presist avveide fargekvantiteter, f.eks. <em>Stille natt</em> (1971, Nasjonalgalleriet, Oslo), har i senere år veket plassen for rendyrkede, malerisk mer substansløse stemninger. Han har også arbeidet som designer og scenograf.</p></div>",
+    "created_at": "2013-07-03T16:09:12.368+02:00",
+    "changed_at": "2024-06-18T23:25:43.957+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1498\",\"https://digitaltmuseum.no/d5f54f13-1733-4599-96bf-29634031c9a1\",\"http://kulturnav.org/d5f54f13-1733-4599-96bf-29634031c9a1\"]",
+        "lastname": "Harr",
+        "firstname": "Jan",
+        "birth_date": "18.5.1945",
+        "birthplace": "Harstad",
+        "external_id": "person_8736ab1498",
+        "kulturnav_id": "d5f54f13-1733-4599-96bf-29634031c9a1"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

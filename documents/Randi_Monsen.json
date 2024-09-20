@@ -1,0 +1,606 @@
+{
+    "id": 418287,
+    "headword": "Randi Monsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105544",
+                "birth_date": "1878",
+                "death_date": "1954",
+                "firstname": "Christian Fredrik",
+                "lastname": "Monsen",
+                "professions": [
+                    "skoleinspektør",
+                    "statsråd",
+                    "stortingsrepresentant"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105545",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Aasta",
+                "lastname": "Monsen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "hospitant under Chrix Dahl og under Eugen Pettersen 1958",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, boklinjen under Carsten Lien, Karl Høgberg, Kåre Wildhagen og Thorbjørn Lie-Jørgensen 1940–45",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold 1935–36",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole 1930–31 (aftenskolen), under Carl von Hanno og Per Krohg 1934–35 (dagskolen)",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Tegnerforbundets reisestipend 1956"
+            },
+            {
+                "order": "2",
+                "description": "Oslo Bys stipend 1947"
+            },
+            {
+                "order": "8",
+                "description": "Paris 1966"
+            },
+            {
+                "order": "1",
+                "description": "Unge Kunstneres Samfunn stipend 1943"
+            },
+            {
+                "order": "6",
+                "description": "Reise London og Paris høsten 1947"
+            },
+            {
+                "order": "4",
+                "description": "Statens reise- og studiestipend 1966"
+            },
+            {
+                "order": "9",
+                "description": "Italia-Firenze 1979"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1940 og -42"
+            },
+            {
+                "order": "7",
+                "description": "Roma 2 md. 1956"
+            },
+            {
+                "order": "5",
+                "description": "Th. Fearnleys Minnestipend 1977"
+            },
+            {
+                "order": "10",
+                "description": "Paris 1981"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Tegnerforbundet styremedlem 1970-76, formann 1976-80"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Unge Kunstneres Samfunn 1935-65"
+            },
+            {
+                "order": "0",
+                "description": "Tegner i Arbeiderbladet 1935–40 (fra teaterpremierer), fra 1945 fast tilknyttet som avistegner noen år"
+            },
+            {
+                "order": "4",
+                "description": "styremedlem Oslo Kunstforening 1977-79"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre, styremedlem 1970–73, viseformann 1973–76, svart/hvitt juryen for tegnere 1969"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "A. Espeland: Durra på eventyr, Stavanger 1944"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Dorian Red [A. Paasche Aasen]: Herrefolk og andre fe, Oslo 1945"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "O.A. Diserud: Bak disken og på landeveien, Oslo 1946"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Y. Ustvedt: Det skjedde i Norge, Oslo 1978–79, 2 bind"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "P. Gjesdahl: Premierer og portretter, Oslo 1957"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "I. Valen: Tvillingene i Sundet, Oslo 1952"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "bang [O. Bang-Hansen]: Tanker i hytt og vær, Oslo 1948"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "S. Oftedal: Ni venner i profil, Oslo 1948"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1946",
+                "order": "0",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1957",
+                "order": "11",
+                "to_date": "",
+                "title": "Nordiske tegneres utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1981",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": "",
+                "title": "Norsk tegnekunst i 60 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "12",
+                "to_date": "",
+                "title": "Nordisk Kunstforbunds utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1950",
+                "order": "1",
+                "to_date": "1953",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Reykjavik",
+                "from_date": "1972",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1974",
+                "order": "14",
+                "to_date": "",
+                "title": "Nationaltheatret i strek gjennom 75 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Haaken",
+                "from_date": "1982",
+                "order": "16",
+                "to_date": "",
+                "title": "7 avistegnere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegnerforbundets faste vår- og vandreutstillinger",
+                "from_date": "1951",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1950",
+                "order": "6",
+                "to_date": "",
+                "title": "Norsk tegnekunst fra Werenskiold til idag"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1946",
+                "order": "5",
+                "to_date": "",
+                "title": "8 tegnere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1954",
+                "order": "9",
+                "to_date": "",
+                "title": "Tegnerforbundet utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Reykjavik",
+                "from_date": "1954",
+                "order": "10",
+                "to_date": "",
+                "title": "Hin Opinbera Norska Listsyning"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1951",
+                "order": "8",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Portrett utført av Øyvind Sørensen gjengitt i Aftenposten 18.2.1960"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "",
+                "order": "10",
+                "reference": "s. 57, 227",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "0",
+                "reference": "s. 310",
+                "to_date": "",
+                "description": "i Konstrevy",
+                "place": "Stockholm",
+                "authors": [
+                    "Nielssen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "1",
+                "reference": "s. 117–18",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850–1950",
+                "place": "Oslo",
+                "authors": [
+                    "Melhus, A. C.",
+                    "Sundseth, A. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "3",
+                "reference": "s. 180, 182 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "2",
+                "reference": "register s. 278",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "reference": "register s. 395 (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-06-03",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Plesner, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "17",
+                "reference": "s. 338",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "16",
+                "reference": "s. 229",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "13",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "14",
+                "reference": "nr. 2, s. 31 (ill.)",
+                "to_date": "",
+                "description": "Kunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "15",
+                "reference": "s. 63",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-02-18",
+                "order": "5",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-02-18",
+                "order": "4",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-02-19",
+                "order": "6",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-07-16",
+                "order": "12",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Schade, R. E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "11",
+                "reference": "bind 13, s. 730",
+                "to_date": "1945",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-02-19",
+                "order": "7",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "8",
+                "reference": "s. XXIV, pl. 101, s. VII (biografiske oppl.)",
+                "to_date": "",
+                "description": "Norsk tegnekunst i Nasjonalgalleriet",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Randi Monsen",
+    "url": "https://nkl.snl.no/Randi_Monsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>M. begynte å tegne fra teaterpremierer for Arbeiderbladet i 1935. Etter et opphold under krigen var hun fra 1945 fast knyttet som avistegner i Arbeiderbladet i noen år og tegnet fortrinnsvis teatertegninger og \"ukens portrett\". Hun debuterte på utstillingen 8 tegnere i Kunstnerforbundet i 1946. Som teatertegner var M. inspirert av Thoralf Kloumann, men hun fant tidlig sin form. Hennes arbeider på utstillingen 7 avistegnere i Galleri Haaken i 1982 viste at hennes teatertegninger vesentlig har hatt de samme grunntrekk gjennom 30 år. Hun viste bl.a. tegningene <em>Figaros bryllup</em> (1947), <em>Måne for livets stebarn</em> (1976) og <em>Lille Eyolf</em> (1978). M. arbeider med voldsomme kontraster mellom svart og hvitt, og skraverer med penn. Persontegningen er psykologisk pågående uten at det blir karikaturer. Hennes teatertegninger fremstår som gjennomkomponerte parafraser over forestillingene. Som portrettegner søker hun mer det karakteristiske hos modellen enn det karikerte. Hun karakteriserer seg selv som den malende katten Mons, men med godt skjulte klør. Hennes portretter danner et galleri av samtidens kjente kvinner og menn.</p></div>",
+    "created_at": "2013-07-04T10:34:39.635+02:00",
+    "changed_at": "2024-06-18T23:26:31.472+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2750\",\"https://digitaltmuseum.no/6eeaaad7-a488-44cd-a0d8-610717bcf846\",\"http://kulturnav.org/6eeaaad7-a488-44cd-a0d8-610717bcf846\"]",
+        "lastname": "Monsen",
+        "firstname": "Randi",
+        "birth_date": "18.2.1910",
+        "birthplace": "Hamar",
+        "death_date": "24.8.1997",
+        "external_id": "person_8736ab2750",
+        "kulturnav_id": "6eeaaad7-a488-44cd-a0d8-610717bcf846"
+    },
+    "authors": [
+        {
+            "full_name": "Sonja Hagemann"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

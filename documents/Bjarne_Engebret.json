@@ -1,0 +1,905 @@
+{
+    "id": 417386,
+    "headword": "Bjarne Engebret",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101930",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragnhild",
+                "lastname": "Walby",
+                "professions": []
+            },
+            {
+                "from_date": "1933",
+                "type": "Gift med",
+                "external_id": "person_8736ab101931",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragnhild",
+                "lastname": "Thomassen",
+                "professions": [],
+                "place": "Oslo"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101929",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Martin",
+                "lastname": "Engebret",
+                "professions": [
+                    "malemester"
+                ]
+            },
+            {
+                "from_date": "1943",
+                "type": "Gift med",
+                "external_id": "person_8736ab101932",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Laila",
+                "lastname": "Friis",
+                "professions": [],
+                "place": "Oslo"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold 1930–32 (?)",
+                "order": "1"
+            },
+            {
+                "comment": "Elev av Bjørn Smith-Hald (tegning) og T. Torsteinson (maleri) i 1920-årene",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Blomstipend 1937"
+            },
+            {
+                "order": "3",
+                "description": "Statens 3-årige arbeidsstipend fra 1966"
+            },
+            {
+                "order": "2",
+                "description": "3% fondets stipend 1955"
+            },
+            {
+                "order": "7",
+                "description": "Paris og København 1938"
+            },
+            {
+                "order": "9",
+                "description": "Italia 1955"
+            },
+            {
+                "order": "1",
+                "description": "Oslo bys stipend 1949"
+            },
+            {
+                "order": "6",
+                "description": "Studiereiser til Møre 1932"
+            },
+            {
+                "order": "8",
+                "description": "Gotland 1952"
+            },
+            {
+                "order": "4",
+                "description": "Statens stipend for eldre fortjente kunstnere fra 1972"
+            },
+            {
+                "order": "5",
+                "description": "Bildende Kunstneres Hjelpefond"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem av Juryen for Offisielle Kunstutstillinger, oppnevnt av Bildende Kunstneres Styre, Statens Kunstakademi, Nasjonalgalleriets råd og stemmeberettigede malere, billedhuggere og tegnere/grafikere 1961–63"
+            },
+            {
+                "order": "1",
+                "description": "varamedlem til Riksgalleriets innkjøpskomite 1965–67"
+            },
+            {
+                "order": "2",
+                "description": "Drev egen malerskole i Oslo 1940–1961"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "E. deltok i konkurransen om Stortingets utsmykning (1959) og hans utkast Solen ble innkjøpt"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Drammen Posthus (1965–66)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Av E.s mange portretter kan nevnes Chr. Hornsrud, (1950) og Ivar Lykke, (1951, begge i Stortinget)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Göteborg Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Skeikampen Høyfjellshotell (Vårbilde, 1948 og Fra Fetsund, 1953)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Tostrupkjelleren (1943)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Emil Stang, (1952, Høyesterett)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "A.W. Brøggers Boktrykkeri, Oslo (spisesalen) (1930)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Trygve Bratteli (1976, Arbeiderpartiets sentralstyre)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "A. Sandemoses bibliotek i Kjørkelvik (1948- 49)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Bygningsarbeidernes Hus, Oslo (Blomstertorv, 1942)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Svenskhemmet Voksenåsen (Skog, 1964)."
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "KNA-restauranten (1937) (ødelagt under 2. verdenskrig)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Gunnar Ousland (1950, Folkets Hus, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Erling Hanson, (1952, Kunstnerforeningen, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1964",
+                "order": "12",
+                "to_date": "1965",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1942",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1945",
+                "order": "10",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1933",
+                "order": "24",
+                "to_date": "",
+                "title": "Blomster og stilleben"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sonja Henies og Niels Onstads Stiftelse",
+                "from_date": "1972",
+                "order": "5",
+                "to_date": "1973",
+                "title": "30-års modernistene"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Kunstnernes Hus, Oslo",
+                "from_date": "1964",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1930",
+                "order": "18",
+                "to_date": "",
+                "title": "7 unge malere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1931",
+                "order": "20",
+                "to_date": "",
+                "title": "Sort-hvitt-utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1931",
+                "order": "22",
+                "to_date": "",
+                "title": "Kunstnerforbundet gjennom 20 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet",
+                "from_date": "1935",
+                "order": "26",
+                "to_date": "",
+                "title": "Arbeidslivet i norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1945",
+                "order": "31",
+                "to_date": "",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1933",
+                "order": "7",
+                "to_date": "1934",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "28",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1950",
+                "order": "35",
+                "to_date": "",
+                "title": "Utstillingsrevyen 1930-50"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1971",
+                "order": "14",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1947",
+                "order": "33",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Royal Society of British Artists Galleries, London",
+                "from_date": "1928",
+                "order": "16",
+                "to_date": "",
+                "title": "Exhibition of Norwegian Art"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1931",
+                "order": "21",
+                "to_date": "",
+                "title": "De unges utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1969",
+                "order": "13",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1948",
+                "order": "11",
+                "to_date": "1962",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1938",
+                "order": "9",
+                "to_date": "1940",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1935",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1930",
+                "order": "19",
+                "to_date": "",
+                "title": "Sommerutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1956",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Reykjavik",
+                "from_date": "1954",
+                "order": "38",
+                "to_date": "",
+                "title": "Hin Opinbera Norska Listsýning 1954"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1938",
+                "order": "29",
+                "to_date": "",
+                "title": "Vi kan-utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Kunstnernes Hus, Oslo",
+                "from_date": "1967",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1933",
+                "order": "25",
+                "to_date": "",
+                "title": "11 unge malere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1931",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1936",
+                "order": "27",
+                "to_date": "",
+                "title": "Rolf Stenersens Samling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst 1940"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1936",
+                "order": "8",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1948",
+                "order": "34",
+                "to_date": "",
+                "title": "Rolf Stenersens Samling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1928",
+                "order": "6",
+                "to_date": "1931",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm og Göteborg",
+                "from_date": "1951",
+                "order": "36",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1946",
+                "order": "32",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1973",
+                "order": "15",
+                "to_date": "1974",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1929",
+                "order": "17",
+                "to_date": "",
+                "title": "De 8 yngste malere"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Selvportretter, 1943 og -53"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1946",
+                "order": "16",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "13",
+                "reference": "s. 188-189, 191 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "21",
+                "reference": "s. 131, 187 (ill.), 191, 258",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "14",
+                "reference": "s. 62, 143",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "18",
+                "reference": "s. 54, 108, 167",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "2",
+                "reference": "s. 39",
+                "to_date": "",
+                "description": "Konstrevy",
+                "title": "Norsk konst 1945",
+                "authors": [
+                    "Blomberg, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "6",
+                "reference": "s. 44, 48 (ill.)",
+                "to_date": "",
+                "description": "Moderne norsk malerkunst",
+                "place": "København",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "12",
+                "reference": "s. 200-201, 203 (ill)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "4",
+                "to_date": "",
+                "description": "Kvinnen og tiden",
+                "title": "Norsk maleri i dag",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "7",
+                "reference": "s. 111, 171, 195, 211, 217–218, 251 (ill.)",
+                "to_date": "",
+                "description": "Ung norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "10",
+                "reference": "s. 196",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-09-18",
+                "order": "0",
+                "reference": "s. 15",
+                "to_date": "",
+                "description": "Lørdagskvelden, Arbeiderbladet",
+                "title": "Bjarne Engebret",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "17",
+                "reference": "s. 132",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "20",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "22",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "15",
+                "reference": "s. 122",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "23",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "9",
+                "reference": "s. 280-282 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "19",
+                "reference": "s. 56",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "1",
+                "reference": "s. 72, pl. 134",
+                "to_date": "",
+                "description": "Kvinneportretter i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Gran, H.",
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "3",
+                "to_date": "",
+                "description": "Bonytt",
+                "title": "Unge Kunstneres Samfunn jubileumsutstilling",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "8",
+                "reference": "nr. 12 s. 367 (ill.)",
+                "to_date": "",
+                "description": "Kooperatøren",
+                "title": "Bjarne Engebret",
+                "authors": [
+                    "Moen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "5",
+                "reference": "s. 139, 144 (ill.)",
+                "to_date": "",
+                "description": "Gudbrandsdalen og malerne",
+                "place": "Oslo",
+                "authors": [
+                    "Refsum, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "11",
+                "reference": "s. 252",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1977",
+                "order": "24",
+                "reference": "s. 33-34, 40-42, 116-126, 129, 145-147, 153",
+                "to_date": "",
+                "title": "Studier i norsk modernistisk maleri 1930-40",
+                "authors": [
+                    "Gjessing, S."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Bjarne Engebret",
+    "url": "https://nkl.snl.no/Bjarne_Engebret",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>E. var tidlig bestemt på å bli maler og studerte hos Torstein Torsteinson før han i 1931 ble elev av Axel Revold på Statens Kunstakademi. Han hørte med til den krets av akademikamerater som mottok sterke inntrykk fra den store tyske utstilling i Kunstnernes Hus i 1932. I løpet av 1932/33 oppgav han Revoldskolens robuste, spettede malemåte, og inspirert av kunstnere som Ernst L. Kirchner og Karl Schmidt-Rottluff underkastet han etter hvert motivene hardhendt forenkling, samtidig som fargene ble drevet opp i styrke og plassert på lerretet i kontante, unyanserte felter. Et bilde som <em>Onnearbeidere</em> (1934) er med sin koloritt i giftiggrønt, sterkt gult, søtsupperødt, lilla, brunt og turkis, distinkt fremmed for det man ofte kalte \"den norske fargefølelse\" og Revold-skolens forkjærlighet for den primære fargetreklang rødt, blått og gult. Denne ekspresjonistiske fasen i E.s produksjon kulminerer med det frapperende <em>Kvinner på stranden</em> fra 1934, vist på Høstutstillingen samme år. Bildet er djervt disponert, farge satt mot farge uten formidlende overganger. Modellene er brutalt avskåret i over- og underkant og trengt sammen i en tilnærmet kvadratisk flate. Koloritten er drevet opp mot det dissonerende i intensitet, og fargene er satt på det grove, sugende lerretet med resolutt, litt dump presisjon. Den brede rammen er en integrert del av fargekomposisjonen og understreker maleriets flatekarakter. Også i en del rene landskapsbilder finner man dette formspråk gjennomført: vidtgående abstrahering, forkjærlighet for brutte linjer og spisse vinkler, kraftig, unaturalistisk fargebruk og minimal dybdevirkning.</p>\n<p>E. var på denne tiden utvilsomt blant våre mest radikale malere. Han stilte seg tilsynelatende kjølig overfor tidens norske sosialrealisme og \"tendens-kunsten\", og betraktet maleriet primært som en flate som skulle fylles med farger og former i et uttrykksfullt, dekorativt mønster. Overgangen til et nonfigurativt maleri i 1935 må sees som et uttrykk for viljen til å rendyrke disse kvaliteter. På en utstilling i Kunstnernes Hus, Oslo samme år viste han en rekke nonfigurative komposisjoner malt al fresco. E. utviklet en spesiell teknikk som gjorde at han oppnådde kraftigere koloristiske virkninger enn man var vant til i norsk frescomaleri. Samtiden betvilte da også bildenes ekthet. Utgangspunktet for disse eksperimentene synes å ha vært Légers tunge, emblematiske maleri fra omkr. 1930 (presentert ved en utstilling i Kunstnerforbundet høsten 1934). I flere bilder opererer E. med amorfe, amøbelignende former avsatt mot stramme rektangulære fargeplan; andre verker kan med sin rytmiske svarte strektegning og sine karakteristiske \"leddknuter\" bringe tankene hen på Miro, f.eks. <em>Komposisjon i fresco no. 21</em> og Riksgalleriets <em>Komposisjon i fresco nr. 20</em>. </p>\n<p>I pressen ble E. i overveiende grad karakterisert som surrealist, noe kunstneren distanserte seg fra: \"Enhver får forstå billedene efter som det passer ham, men de får betrakte dem utenfra og ikke tenke på \"sjel\"\" (1935). De ting han utstilte, var dekorative materialeksperimenter, men ble betegnet som surrealisme.</p>\n<p>E. møtte liten forståelse for sine nonfigurative arbeider og søkte seg raskt over i et mer naturalistisk formspråk. I siste halvdel av 30-årene malte han en rekke bybilder i en kraftig, dekorativ fargeholdning (<em>Fortausrestaurant, Paris</em>, 1938 og <em>Place Contrescarpe</em>, 1939); en mer tander forfinet koloritt finner man i noen lyriske skildringer av mor og barn fra omkring 1940 (<em>Barnet stelles</em>, 1939 og <em>I sengen</em>, 1940). Fra krigsårene stammer noen dypstemte fjellandskaper hvor koloritten igjen har blitt fyldigere. Langt sterkere preg av refleksjon og beregning har hans produksjon fra årene omkring 1945 (<em>Interiør med figur</em> og <em>Mor og barn</em>, begge 1944–45). Bildets arkitektoniske oppbygning aksentueres kraftig og billedflaten deles opp i et fasettaktig mønster. Det avklarede resultat av disse konstruktive bestrebelsene finner man i det stramt oppbygde <em>Trær, Sagene</em> fra 1948, vist på Høstutstillingen samme år. En mer spontan naturopplevelse kommer til uttrykk i en del landskaper fra Lista (1949–50). I en rekke skoginteriører fra 1950-årene arbeidet E. med det kompliserte optiske spill av sollys mellom trestammene på Ekely. I disse bildene forenes de flyktige lysvirkninger med de konstruktive elementer trærne gir; på en utvungen måte utløses både de rent maleriske og de mer spekulative sider ved hans talent.</p>\n<p>Arbeidet med å omsette naturinntrykk til en så fast billedmessig enhet som mulig kan senere stundom føre til en sterkere grad av abstraksjon, men uten at den klare relasjon til motivet brytes (<em>Skygger</em>, 1965).</p>\n<p>E.s maleri kjennetegnes av en usentimental, saklig og åpen innstilling; uten å virke konstruert får hans beste arbeider en gjennomreflektert klarhet.</p>\n<p>Gjennom årene har E. malt en rekke fint karakteriserte portretter, bl.a. av flere av arbeiderbevegelsens fremste politikere.</p>\n<p>Med sine store kunnskaper og sin tolerante, nøkterne personlighet var E. usedvanlig godt egnet som lærer, og i over 20 år drev han en privat malerskole i Oslo. Den fikk mange elever, og var for mange av våre yngre kunstnere en forskole for Statens Kunstakademi.</p>\n</div>",
+    "created_at": "2013-07-03T21:08:44.878+02:00",
+    "changed_at": "2024-06-18T23:26:06.520+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab940\",\"https://digitaltmuseum.no/162fa6da-6852-4424-8998-1c94a1683da7\",\"http://kulturnav.org/162fa6da-6852-4424-8998-1c94a1683da7\"]",
+        "lastname": "Engebret",
+        "firstname": "Bjarne",
+        "birth_date": "5.11.1905",
+        "birthplace": "Kristiania",
+        "death_date": "28.5.1985",
+        "external_id": "person_8736ab940",
+        "kulturnav_id": "162fa6da-6852-4424-8998-1c94a1683da7",
+        "place_of_death": "Oslo",
+        "alternative_names": "Engebret, Bjarne Robert"
+    },
+    "authors": [
+        {
+            "full_name": "Steinar Gjessing"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "Engebret, Bjarne/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15757/standard_NMK-B_NG.M.0357220130725-13675-3f5wkp.jpg",
+            "full_size_url": "https://media.snl.no/media/15757/NMK-B_NG.M.0357220130725-13675-3f5wkp.jpg",
+            "xhtml": "<div>\r\n<p><em>Slåttekarer</em>, 1934. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Bjarne Engebret",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Engebret, Bjarne/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15764/standard_NMK-B_NG.M.0387220130725-13675-137f8s8.jpg",
+            "full_size_url": "https://media.snl.no/media/15764/NMK-B_NG.M.0387220130725-13675-137f8s8.jpg",
+            "xhtml": "<div>\r\n<p><em>Komposisjon</em>, 1935. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Bjarne Engebret",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Engebret, Bjarne/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15805/standard_NMK-B_NG.M.0448820130725-13675-1b8qi0l.jpg",
+            "full_size_url": "https://media.snl.no/media/15805/NMK-B_NG.M.0448820130725-13675-1b8qi0l.jpg",
+            "xhtml": "<div>\r\n<p><em>Komposisjon i fresco nr. 13</em>, 1935. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Bjarne Engebret",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

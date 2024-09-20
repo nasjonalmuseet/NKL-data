@@ -1,0 +1,474 @@
+{
+    "id": 416648,
+    "headword": "Louise Dahm Hedemark",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab103176",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Rolf Øistein",
+                "lastname": "Hedemark",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab103174",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jacob",
+                "lastname": "Dahm",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab103175",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Agnes",
+                "lastname": "Johannessen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Fjellhamar"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Reidar Aulie, Alf-Jørgen Aas, Halvdan Ljøsne og Arne Malmedal 1966–70",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under bl.a. Finn Faaborg 1962–63",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "3%-fondets stip. 1975 og -82"
+            },
+            {
+                "order": "3",
+                "description": "Statens reisestip. 1978"
+            },
+            {
+                "order": "1",
+                "description": "Statens 3-årige arbeidsstip. 1971–73"
+            },
+            {
+                "order": "0",
+                "description": "Th. Fearnleys Minnestip. II"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem Foreningen Norske Grafikere"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Oslo politiskole (maleri, 1979)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Fredrikstad Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn Vårutst.",
+                "from_date": "1970",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1968",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1971",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Norske Grafikere, Oslo",
+                "from_date": "1981",
+                "order": "17",
+                "to_date": "",
+                "title": "5 teknikker"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Werther Kunsttage, Tyskland",
+                "from_date": "1974",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1982",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": "",
+                "title": "Grafikere fra Kunstakademiet"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1980",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1980",
+                "order": "16",
+                "to_date": "",
+                "title": "Grafikk-triennalen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liljevalchs Konsthall, Stockholm",
+                "from_date": "1970",
+                "order": "11",
+                "to_date": "",
+                "title": "Unge norske omkring Akademiet"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Norske Grafikere, Oslo",
+                "from_date": "1972",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1973",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1968",
+                "order": "9",
+                "to_date": "",
+                "title": "Ung skandinavisk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1968",
+                "order": "10",
+                "to_date": "",
+                "title": "Juniutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1972",
+                "order": "8",
+                "to_date": "1978",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1969",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1982-01-21",
+                "order": "14",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-29",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "iVerdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "12",
+                "reference": "s. 186",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-24",
+                "order": "7",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-01-18",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Mørstad, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "0",
+                "reference": "s. 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-03-07",
+                "order": "10",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "11",
+                "reference": "s. 29 (ill.)",
+                "to_date": "",
+                "description": "Norsk grafikere i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Flor, H. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "1",
+                "reference": "s. 114, 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-31",
+                "order": "9",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-11-30",
+                "order": "4",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hofseth, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "3",
+                "reference": "s. 128, 139",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "2",
+                "reference": "s. 131",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "5",
+                "reference": "s. 126",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "6",
+                "reference": "s. 194 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Louise Dahm Hedemark",
+    "url": "https://nkl.snl.no/Louise_Dahm_Hedemark",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. begynte som grafiker og eksperimenterte med koldnålsradering, sukkerakvatint, etsning, tresnitt og linosnitt. Arbeidene var figurative, men sterkt abstraherte. Fra 1973 har H. også arbeidet i olje. På utstillingene i Kunstnernes Hus 1975 og Kunstnerforbundet 1982 viste hun malerier med sterkt uttrykksbærende strøk og farger. Motivene var i hovedsak figurer, alene eller i grupper, satt inn i rom eller i landskap. H. gir den subjektive opplevelse visuell form. Motivene kan oppfattes som mystiske seremonier.</p></div>",
+    "created_at": "2013-07-03T16:46:52.080+02:00",
+    "changed_at": "2024-06-18T23:25:46.827+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1549\",\"https://digitaltmuseum.no/6613ab93-b386-4c23-af62-6b03f474e00e\",\"http://kulturnav.org/6613ab93-b386-4c23-af62-6b03f474e00e\"]",
+        "lastname": "Hedemark",
+        "firstname": "Louise Dahm",
+        "birth_date": "16.12.1938",
+        "birthplace": "Buenos Aires",
+        "external_id": "person_8736ab1549",
+        "kulturnav_id": "6613ab93-b386-4c23-af62-6b03f474e00e"
+    },
+    "authors": [
+        {
+            "full_name": "Randi Gaustad"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

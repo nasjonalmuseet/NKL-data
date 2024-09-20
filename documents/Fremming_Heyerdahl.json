@@ -1,0 +1,611 @@
+{
+    "id": 416840,
+    "headword": "Fremming Heyerdahl",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab1632",
+                "birth_date": "08.07.1857",
+                "death_date": "10.10.1913",
+                "firstname": "Hans",
+                "lastname": "Heyerdahl",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103352",
+                "birth_date": "1854",
+                "death_date": "1931",
+                "firstname": "Maren Christine",
+                "lastname": "Heyerdahl",
+                "professions": [
+                    "sanger"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Harriet Backers malerskole 1902–03",
+                "order": "3"
+            },
+            {
+                "comment": "kort tid elev av Gudmund Stenersen",
+                "order": "4"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under Wilhelm Holter, Oscar Wergeland og Eivind Nielsen 1900–02",
+                "order": "2"
+            },
+            {
+                "comment": "elev av sin far",
+                "order": "1"
+            },
+            {
+                "comment": "Académie Colarossi og Académie Humbert, Paris, 6 md. 1904",
+                "order": "5"
+            },
+            {
+                "comment": "Anneneksamen 1899",
+                "order": "0"
+            },
+            {
+                "comment": "forelesninger i anatomi ved École des Beaux-Arts, Paris",
+                "order": "6"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1904 og 1905"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold Frankrike, hovedsakelig Paris 1904–07"
+            },
+            {
+                "order": "1",
+                "description": "Kunstnerforeningens Københavnerstip. 1908"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon des Indépendants, Paris",
+                "from_date": "1906",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon des Indépendants, Paris",
+                "from_date": "1905",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1901",
+                "order": "10",
+                "to_date": "",
+                "title": "De unges utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1915",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen, Oslo gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1901",
+                "order": "7",
+                "to_date": "1904",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1916",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1911",
+                "order": "8",
+                "to_date": "1913",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen kunstforening",
+                "from_date": "1910",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim kunstforening",
+                "from_date": "1910",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund kunstforening",
+                "from_date": "1910",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Brighton",
+                "from_date": "1913",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund kunstforening",
+                "from_date": "1910",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania kunstforening",
+                "from_date": "1910",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1916",
+                "order": "5",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Selvportrett 1901 (privat eie)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1909-10-30",
+                "order": "3",
+                "to_date": "",
+                "description": "Statens kunstutstilling 1909, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-10-21",
+                "order": "7",
+                "to_date": "",
+                "description": "Statens 28. kunstutstilling, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-11-20",
+                "order": "5",
+                "to_date": "",
+                "description": "Statens kunstutstilling 1909, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "11",
+                "to_date": "",
+                "description": "Dagsp.",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900-10-13",
+                "order": "1",
+                "to_date": "",
+                "description": "Bastø, Hjem for vanvyrdede Børn, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-11-04",
+                "order": "9",
+                "to_date": "",
+                "description": "Statens 28. kunstutstilling, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-11-06",
+                "order": "4",
+                "to_date": "",
+                "description": "Statens kunstutstilling 1909, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-10-28",
+                "order": "8",
+                "to_date": "",
+                "description": "Statens 28. kunstutstilling, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "12",
+                "to_date": "",
+                "description": "Politiken",
+                "place": "København",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-09-30",
+                "order": "6",
+                "to_date": "",
+                "description": "Kunstutstillinger, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912-10-19",
+                "order": "10",
+                "to_date": "",
+                "description": "Statens kunstutstilling, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906-10-28",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Montmartre, Morgenbladet",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-10-02",
+                "order": "2",
+                "to_date": "",
+                "description": "Eilif Peterssens udsmykning af Ullern kirke, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900-08-11",
+                "order": "0",
+                "to_date": "",
+                "description": "Aasgaardstrand, Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "HEYERDAHL, Olai"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1967",
+                "order": "30",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-04",
+                "order": "23",
+                "to_date": "",
+                "description": "Drammens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-09-08",
+                "order": "18",
+                "to_date": "",
+                "description": "Nidaros",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-06",
+                "order": "24",
+                "to_date": "",
+                "description": "Drammens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-09-19",
+                "order": "19",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906-04-14",
+                "order": "16",
+                "to_date": "",
+                "description": "i Politiken",
+                "authors": [
+                    "Levy, Louis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-02-10",
+                "order": "21",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926-02-06",
+                "order": "26",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "28",
+                "to_date": "",
+                "description": "Studentene fra 1898",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "14",
+                "to_date": "",
+                "description": "Figaro",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "29",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J. J.",
+                    "Flønes, O."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1916-02-12",
+                "order": "22",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "25",
+                "to_date": "",
+                "description": "Studentene fra 1898",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-02-08",
+                "order": "20",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "27",
+                "to_date": "",
+                "description": "Slekten Heyerdahl",
+                "place": "Oslo",
+                "authors": [
+                    "Sollid, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1906-06",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Le Figaro Illustré",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906-04-02",
+                "order": "15",
+                "to_date": "",
+                "description": "Times",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Fremming Heyerdahl",
+    "url": "https://nkl.snl.no/Fremming_Heyerdahl",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Gjennom sin far fikk H. tidlig interesse for bildende kunst, men det var først i sitt 20. år at han besluttet å velge kunstnerbanen. Akttegninger fra Académie Colarossi viser H. som en habil naturalist. På Salon des Indépendants i 1906 vakte han imidlertid en viss oppmerksomhet med sine to symbolistiske billedserier <em>Syner på Verdensaltet</em> og <em>En planets liv</em>, stilistisk i slekt med naivistene og tematisk åpenbart inspirert av de populære skriftene til den franske, teosofisk orienterte astronomen Camille Flammarion. Seriene vant da også forfatterens anerkjennelse. H.s arbeider for øvrig er påvirket av farens sene produksjon både i utførelse og motivvalg, med hovedvekt lagt på landskap og portretter. H.s kunst eide opprinnelig en dekorativ fasthet og koloristisk sjarme som dessverre i løpet av få år vek plassen for en løs og bredpenslet manér, preget av manglende konsentrasjon i uttrykket. H. drev malerskole i Drammen i 1916.</p></div>",
+    "created_at": "2013-07-03T17:46:07.512+02:00",
+    "changed_at": "2024-06-18T23:25:51.617+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1630\",\"https://digitaltmuseum.no/8b456c52-eddb-49ec-8804-7e7953d701b5\",\"http://kulturnav.org/8b456c52-eddb-49ec-8804-7e7953d701b5\"]",
+        "lastname": "Heyerdahl",
+        "firstname": "Fremming",
+        "birth_date": "8.7.1880",
+        "birthplace": "Paris",
+        "death_date": "1.1.1944",
+        "external_id": "person_8736ab1630",
+        "kulturnav_id": "8b456c52-eddb-49ec-8804-7e7953d701b5",
+        "place_of_death": "Gran",
+        "alternative_names": "Heyerdahl, Hans Olai Fremming"
+    },
+    "authors": [
+        {
+            "full_name": "Trond Aslaksby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

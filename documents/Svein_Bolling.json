@@ -1,0 +1,561 @@
+{
+    "id": 416587,
+    "headword": "Svein Bolling",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100918",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jens",
+                "lastname": "Bolling",
+                "professions": [
+                    "skuespiller"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100919",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Liv",
+                "lastname": "Strømsted",
+                "professions": [
+                    "skuespiller"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Reidar Aulie 1970–74",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1978"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Seljord Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Riksgalleriet (2 malerier)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo (maleriene Hund IV og Landskap med kanal)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1975",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. I, Bergen",
+                "from_date": "1979",
+                "order": "16",
+                "to_date": "",
+                "title": "Mennesker 79"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandvika kino",
+                "from_date": "1975-12",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1977",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1977",
+                "order": "9",
+                "to_date": "1979",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Biggie, Stavanger",
+                "from_date": "1977",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1972",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. K, Oslo",
+                "from_date": "1978-11",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "10",
+                "to_date": "",
+                "title": "Østl.utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. K, Oslo",
+                "from_date": "1979-02",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. K, Oslo",
+                "from_date": "1977",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Kim, Stavanger",
+                "from_date": "1974-03",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Gall. Horneman, Trondheim og Gall. 12 B., Fredrikstad",
+                "from_date": "1979",
+                "order": "5",
+                "to_date": "",
+                "title": "Tre malere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "13",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F15, Moss",
+                "from_date": "1978",
+                "order": "14",
+                "to_date": "",
+                "title": "Reidar Aulie og hans elever"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1974",
+                "order": "11",
+                "to_date": "",
+                "title": "Juniutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1977-03-29",
+                "order": "9",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "2",
+                "reference": "s. 63",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-12",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "3",
+                "reference": "s. 50",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-06",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fredriksstad Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-20",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Svensen, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "4",
+                "reference": "s. 164, 168",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-01-30",
+                "order": "18",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-03-23",
+                "order": "7",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-03-24",
+                "order": "8",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Arneberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "6",
+                "reference": "s. 56-57",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-03-29",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Gaup, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-07",
+                "order": "19",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "5",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-20",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-04-01",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-04-13",
+                "order": "12",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-15",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-01-31",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-10",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-01-30",
+                "order": "17",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-16",
+                "order": "23",
+                "to_date": "",
+                "description": "Fredriksstad Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-23",
+                "order": "16",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-15",
+                "order": "15",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Svein Bolling",
+    "url": "https://nkl.snl.no/Svein_Bolling",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. har helt fra debuten 1972 på Høstutstillingen markert seg blant de unge ny-figurative malere som med utgangspunkt i eldre romantisk maleri søker å gi uttrykk for allmennmenneskelige følelser og stemninger. Han har malt bleke solnedganger over kuplete trekroner, måneskinn over sjøen, det svinnende skumringslys i store mørke rom, også figurstudier og portretter som det av <em>Sven Sivesind</em> (1978) og et <em>Kvinneportrett</em> (Høstutstillingen 1975). I 1978 viste han på Høstutstillingen og i Galleri K en rekke studier av hunder, en av dem i Nasjonalgalleriet, der han i en tung og unyansert, mørk koloritt skaper et inntrykk av noe farlig og truende, av frykt og aggresjon.</p></div>",
+    "created_at": "2013-07-03T16:25:30.357+02:00",
+    "changed_at": "2024-06-18T23:25:45.296+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab445\",\"https://digitaltmuseum.no/072b24ac-82c2-4d68-a3f6-a07d61cd17ff\",\"http://kulturnav.org/072b24ac-82c2-4d68-a3f6-a07d61cd17ff\"]",
+        "lastname": "Bolling",
+        "firstname": "Svein",
+        "birth_date": "13.4.1948",
+        "birthplace": "Oslo",
+        "external_id": "person_8736ab445",
+        "kulturnav_id": "072b24ac-82c2-4d68-a3f6-a07d61cd17ff"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20132/standard_NMK-B_MS-00174-198820150528-17392-1oyc7v7.jpg",
+            "full_size_url": "https://media.snl.no/media/20132/NMK-B_MS-00174-198820150528-17392-1oyc7v7.jpg",
+            "xhtml": "<div><p><i>Åpent landskap</i>. 1975</p></div>",
+            "type": "image",
+            "heading": "Svein Bolling",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20133/standard_NMK-B_MS-01804-198820150528-17392-1r9odwi.jpg",
+            "full_size_url": "https://media.snl.no/media/20133/NMK-B_MS-01804-198820150528-17392-1r9odwi.jpg",
+            "xhtml": "<div><p><i>Studie</i></p></div>",
+            "type": "image",
+            "heading": "Svein Bolling",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20134/standard_NMK-B_MS-02529-198820150528-17392-uomfu1.jpg",
+            "full_size_url": "https://media.snl.no/media/20134/NMK-B_MS-02529-198820150528-17392-uomfu1.jpg",
+            "xhtml": "<div><p><i>Kvinne i rom</i></p></div>",
+            "type": "image",
+            "heading": "Svein Bolling",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20135/standard_NMK-B_MS-02530-198820150528-17392-1pz0u7h.jpg",
+            "full_size_url": "https://media.snl.no/media/20135/NMK-B_MS-02530-198820150528-17392-1pz0u7h.jpg",
+            "xhtml": "<div><p><i>Kunsten å reflektere riktig</i>. 1983</p></div>",
+            "type": "image",
+            "heading": "Svein Bolling",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20136/standard_NMK-B_MS-03934-199720150528-17392-c1azrz.jpg",
+            "full_size_url": "https://media.snl.no/media/20136/NMK-B_MS-03934-199720150528-17392-c1azrz.jpg",
+            "xhtml": "<div><p><i>Hvilende skikkelse I</i>. 1996</p></div>",
+            "type": "image",
+            "heading": "Svein Bolling",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

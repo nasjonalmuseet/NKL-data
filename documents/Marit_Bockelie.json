@@ -1,0 +1,584 @@
+{
+    "id": 416569,
+    "headword": "Marit Bockelie",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "musiker"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": {},
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100890",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Thorleif August",
+                "lastname": "Bockelie",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100891",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gunnvor",
+                "lastname": "Helseth",
+                "professions": []
+            },
+            {
+                "from_date": "1958",
+                "type": "Gift med",
+                "external_id": "person_8736ab100892",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Erik",
+                "lastname": "Thommessen",
+                "professions": [
+                    "arkitekt"
+                ],
+                "place": "Oslo"
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "delvis i Oslo - 1958"
+            },
+            {
+                "order": "0",
+                "description": "Tromsø"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo 1960–64",
+                "order": "2"
+            },
+            {
+                "comment": "Norges Musikkhøgskole 1971–75, diplomlinjen 1976–78",
+                "order": "4"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Kaare Wildhagen, Finn Faaborg og Chrix Dahl 1953–56",
+                "order": "0"
+            },
+            {
+                "comment": "B. har arbeidet ved Atelier Nord",
+                "order": "3"
+            },
+            {
+                "comment": "Accademia di Belle Arti, Ravenna (mosaikkteknikk) 1956–59",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Troms fylkes kulturstipend 1965"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold i Italia 1956–59"
+            },
+            {
+                "order": "3",
+                "description": "reise til Island og Sovjetunionen"
+            },
+            {
+                "order": "0",
+                "description": "Tromsø bys stipend 1954, -55, -56 og -57"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "4",
+                "description": "Nord-Norske Bildende Kunstnere"
+            },
+            {
+                "order": "1",
+                "description": "medlem av Foreningen Norske Grafikere"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Unge Kunstneres Samfunn, vararepresentant til grafikkjuryen 1967, styremedlem 1969"
+            }
+        ],
+        "awards": {},
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "spisesalen i Tromsdalen Gjestgiveri (1968)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "vestibylen i værvarslingsbygget i Tromsø (bymotiv fra Tromsø samt Tor kjørende over himmelen, 1962)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "møtesalene i Åsgård sykehus (1968) og Andenes rådhus (1972)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "møtesalen i Tromsøsund Meieri (1965)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Tromsø Museum"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "spisesalen, Regionsykehuset i Tromsø (1964)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bodø Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Asker Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "mosaikker i vestibylen i herredshuset i Målselv (historien om fogden J. Holmboe, 1961)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo (grafikk)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Monumentalmalerier i bystyresalen i Bodø rådhus (Draugen, 1960 ill. i Nordland Framtid 1.4.1960)"
+            }
+        ],
+        "performed_productions": {},
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Tidvis avistegner i Nordlys"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Grafikkmappe fra Tromsø Kunstforening 1975"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen 1977 (Sveve, tresnitt), 1978 (Fløyterens hjerte, tresnitt)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Tromsøskisser. Tegninger fra Tromsø 1964–1977, Tromsø 1978"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Frimerkeserien Norsk Folkedans 1976 (med egen tekst)"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1964",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammen",
+                "from_date": "1963",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Narvik",
+                "from_date": "1978",
+                "order": "15",
+                "to_date": "",
+                "comment": "(Festspillene i Nord-Norge)"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Harstad",
+                "from_date": "1971",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "19",
+                "to_date": "",
+                "title": "Østlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1971",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Murmansk",
+                "from_date": "1967",
+                "order": "23",
+                "to_date": "",
+                "title": "Nordkalottutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1978",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ål i Hallingdal",
+                "from_date": "1977",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Jylland",
+                "from_date": "1976",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Norske Grafikere, Oslo",
+                "from_date": "1976",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1957",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Bergfjerdingen, Oslo",
+                "from_date": "1964",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1975",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1946",
+                "order": "20",
+                "to_date": "",
+                "title": "N-n. utstilling",
+                "comment": "(Festspillene i Nord-Norge)"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bodø",
+                "from_date": "1971",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund",
+                "from_date": "1976",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Murmansk",
+                "from_date": "1970",
+                "order": "24",
+                "to_date": "",
+                "title": "Nordkalottutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1977",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1977",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Atelier Nord",
+                "from_date": "",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Herning, Danmark",
+                "from_date": "1976",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Elverum",
+                "from_date": "1977",
+                "order": "12",
+                "to_date": ""
+            }
+        ],
+        "portraits": {},
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1960-04-01",
+                "order": "0",
+                "to_date": "",
+                "description": "Nordlands Framtid",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-05-05",
+                "order": "4",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Malmanger, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-05-03",
+                "order": "3",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-05-14",
+                "order": "8",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-05-24",
+                "order": "5",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "9",
+                "reference": "s. 183",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-09-01",
+                "order": "6",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-09-06",
+                "order": "7",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-05",
+                "order": "2",
+                "to_date": "",
+                "description": "Tromsø",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-05",
+                "order": "1",
+                "to_date": "",
+                "description": "Nordlys",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Marit Bockelie",
+    "url": "https://nkl.snl.no/Marit_Bockelie",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B.s arbeider er figurative og fortellende. Hennes motiver er tildels hentet fra den faktiske virkelighet, tildels fra en fabulerende sagn- og eventyrverden. Hennes form og uttrykk spenner fra lyrisk/realistisk naturskildring (tegninger og raderinger), spesielt landskapsmotiv fra Nord-Norge, til dekorativ og flatefyllende forenkling (monumentalarbeider og tresnitt). Særlig tresnittene, som er utført i kraftige, rene farger, er preget av ornamental stilisering. De viser tydelig B.s interesse for folkekunst, folkedans og musikk. B. har en særpreget, frodig og spontan uttrykksform, ofte preget av naiv sjarm og burlesk humor.</p></div>",
+    "created_at": "2013-07-03T16:20:18.601+02:00",
+    "changed_at": "2024-06-18T23:25:44.796+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab431\",\"https://digitaltmuseum.no/8a883116-5460-4eae-a061-fbc7e76a9017\",\"http://kulturnav.org/8a883116-5460-4eae-a061-fbc7e76a9017\"]",
+        "lastname": "Bockelie",
+        "firstname": "Marit",
+        "birth_date": "9.10.1933",
+        "birthplace": "Bodø",
+        "external_id": "person_8736ab431",
+        "kulturnav_id": "8a883116-5460-4eae-a061-fbc7e76a9017"
+    },
+    "authors": [
+        {
+            "full_name": "Sidsel Helliesen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "musiker"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

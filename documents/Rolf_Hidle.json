@@ -1,0 +1,883 @@
+{
+    "id": 416880,
+    "headword": "Rolf Hidle",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103365",
+                "birth_date": "1908",
+                "death_date": "",
+                "firstname": "Jenny",
+                "lastname": "Hoff",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103364",
+                "birth_date": "1903",
+                "death_date": "1978",
+                "firstname": "Johannes",
+                "lastname": "Hidle",
+                "professions": [
+                    "bilmekaniker"
+                ]
+            },
+            {
+                "from_date": "1958",
+                "type": "Gift med",
+                "external_id": "person_8736ab103366",
+                "birth_date": "1928",
+                "death_date": "",
+                "firstname": "Agnete Tove",
+                "lastname": "Mellentin",
+                "professions": [],
+                "place": "København"
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Øya Hemnes"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev av Henry Imsland 1954",
+                "order": "6"
+            },
+            {
+                "comment": "Arbeidernes Kunstsirkel, Oslo under Kåre Wildhagen og Bjarne Brunsvik 1951",
+                "order": "5"
+            },
+            {
+                "comment": "Stavanger Tegneskole under Erik Haugland 1948",
+                "order": "4"
+            },
+            {
+                "comment": "litografisk utdannelse ved Dreyer Grafiske Anstalt, Stavanger 1944–49",
+                "order": "1"
+            },
+            {
+                "comment": "Stavanger Tekniske aftenskole 1945-48",
+                "order": "2"
+            },
+            {
+                "comment": "Stavanger Tegneskole under Leif Søyland 1944",
+                "order": "0"
+            },
+            {
+                "comment": "hospitant ved kunstakademiet i København 1959",
+                "order": "8"
+            },
+            {
+                "comment": "frihåndstegning hos Bjarne Hansen 1946",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein 1955–58",
+                "order": "7"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "3% fondets stip. 1965 og 1971"
+            },
+            {
+                "order": "0",
+                "description": "Unge Kunstneres Samfunn arbeidsstip. 1962"
+            },
+            {
+                "order": "9",
+                "description": "Island 1957–59"
+            },
+            {
+                "order": "10",
+                "description": "Italia 1957 og 1979"
+            },
+            {
+                "order": "7",
+                "description": "Spania, Portugal og Frankrike 1954"
+            },
+            {
+                "order": "4",
+                "description": "Akershus fylkes kulturstip. 1979"
+            },
+            {
+                "order": "8",
+                "description": "Nederland, Belgia og Frankrike 1956"
+            },
+            {
+                "order": "3",
+                "description": "Namdalsstip. 1971"
+            },
+            {
+                "order": "2",
+                "description": "Conrad Mohrs legat 1969"
+            },
+            {
+                "order": "6",
+                "description": "Studiereiser til Italia og Frankrike 1953"
+            },
+            {
+                "order": "5",
+                "description": "Statens garantiinntekt fra 1979"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "5",
+                "description": "Foreningen Norske Grafikere"
+            },
+            {
+                "order": "8",
+                "description": "medlem av styret for Østlandsutst. 1980–81, formann 1982"
+            },
+            {
+                "order": "4",
+                "description": "jurymedlem 1962–64"
+            },
+            {
+                "order": "0",
+                "description": "Lærer i maling og tegning AOF og Studentersamfundets Fri Undervisning fra 1972"
+            },
+            {
+                "order": "7",
+                "description": "Akershus Bildende Kunstneres Forening"
+            },
+            {
+                "order": "3",
+                "description": "Medlem av Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "6",
+                "description": "Bildende Kunstneres Forening Rogaland"
+            },
+            {
+                "order": "2",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "1",
+                "description": "daglig leder for Akershus Bildende Kunstnere fra 1978"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Oppegård kommunes kulturpris 1974"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Unge Kunstneres Samfunn konkurranse Kunst i sykestuene, 1962"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Flekkefjord og Namsos kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Rostock Kunsthalle"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1975",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1962",
+                "order": "46",
+                "to_date": "",
+                "title": "Rostock"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1964",
+                "order": "36",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1972",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Østlandsutst.",
+                "from_date": "1982",
+                "order": "42",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Stavanger Kunstgalleri",
+                "from_date": "1968",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1979",
+                "order": "51",
+                "to_date": "",
+                "title": "6 norske grafikere"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1979",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1962",
+                "order": "0",
+                "to_date": "",
+                "title": "Admiralgardens Kunstgalleri"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1964",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1965",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1976",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1967",
+                "order": "37",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1971",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Gall. Per",
+                "from_date": "1968",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1960",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1963",
+                "order": "47",
+                "to_date": "",
+                "title": "Norske grafikere"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1958",
+                "order": "43",
+                "to_date": "",
+                "title": "20 unge malere"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1974",
+                "order": "50",
+                "to_date": "",
+                "title": "Bildende Kunstneres Forening Rogalands vandreutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1980",
+                "order": "54",
+                "to_date": "",
+                "title": "Akershus Bildende Kunstneres Forenings vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1978",
+                "order": "39",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1976",
+                "order": "38",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1965",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1977",
+                "order": "9",
+                "to_date": "",
+                "title": "Aurskog-Høland rådhus"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1961",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1970",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1971",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1974",
+                "order": "8",
+                "to_date": "",
+                "title": "Kolbotn Samfunnshus"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1972",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1973",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1981",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1979",
+                "order": "53",
+                "to_date": "",
+                "title": "Akershus Bildende Kunstneres Forenings vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1959",
+                "order": "44",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1964",
+                "order": "2",
+                "to_date": "",
+                "title": "grafikkutst. i 12 norske byer"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1977",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1967",
+                "order": "48",
+                "to_date": "",
+                "title": "11 norske malere"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1966",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1980",
+                "order": "40",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Gall. ByggekunstF",
+                "from_date": "1974",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1970",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1962",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Haugesund",
+                "from_date": "1979",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1970",
+                "order": "49",
+                "to_date": "",
+                "title": "Kent and Folkestone Arts Centre"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1973",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1974",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1978",
+                "order": "52",
+                "to_date": "",
+                "title": "Akershus Bildende Kunstneres Forenings vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1961",
+                "order": "45",
+                "to_date": "",
+                "title": "5 malere"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1961",
+                "order": "35",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1963",
+                "order": "1",
+                "to_date": "",
+                "title": "grafikkutst. i 12 norske byer"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Østlandsutst.",
+                "from_date": "1981",
+                "order": "41",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1963",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1971",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1964",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1969",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Vestlandsutst.",
+                "from_date": "1967",
+                "order": "25",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1974-03-11",
+                "order": "17",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-29",
+                "order": "15",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-01-31",
+                "order": "20",
+                "to_date": "",
+                "description": "Haugesunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-11",
+                "order": "16",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-23",
+                "order": "4",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-22",
+                "order": "19",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Remfeldt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-21",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-19",
+                "order": "3",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-12",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "0",
+                "reference": "s. 50 (ill.)",
+                "to_date": "",
+                "description": "106 norske grafikere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "1",
+                "reference": "s. 257",
+                "to_date": "",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. Schanche"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-11-09",
+                "order": "12",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Jutrem, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-11-09",
+                "order": "11",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "13",
+                "reference": "s. 58",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-24",
+                "order": "5",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-11-01",
+                "order": "9",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "14",
+                "reference": "s. 207",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-24",
+                "order": "6",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-30",
+                "order": "8",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-11-02",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-25",
+                "order": "7",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Rolf Hidle",
+    "url": "https://nkl.snl.no/Rolf_Hidle",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. har hele tiden arbeidet innenfor et naturalistisk og figurativt formspråk, men med stor forenkling av motivene. Ved at han utelater alle for ham uvesentlige detaljer, får hans malerier et noe skisseaktig preg. Foruten den innflytelse og påvirkning som hans lærere gav ham under studietiden, har impulser fra de mange studieturene til Frankrike, Italia og Spania og særlig til Island vært av stor betydning for ham som billedkunstner. Selv om H. ikke lenger er bosatt i Rogaland, søker han ofte sine motiver på Vestlandet. Jærnaturen med skiftende lys og dramatiske atmosfærevirkninger kommer tydelig fram i mange av hans landskapsbilder. Form og koloritt er bygd opp av massive elementer i mørklodne farger. Koloristisk benytter H. seg mer av valører enn av kontraster. Han forsøker å beskrive det stofflige i naturen, jorden, steinene, trærne og heiene. Denne stofflige naturopplevelse blir gjerne fremstilt i et særskilt lys, en romantisk skumringstilstand som <em>Kornåker</em> (1968) og <em>Jærlandskap</em> (1968). Det er nettopp i denne skumringstilstand at hans naturformer får sin spesielle stoffvirkning og maleriske sammenheng. Utover i 70-årene ble hans palett noe lysere, f.eks. <em>Jærlandskap</em> (1974) der bildets komposisjon er basert på kraftige fargebrudd og sterke kontraster i svart og gult. H. foretrekker det lille format. Foruten landskapsmaleriene, som dominerer hans produksjon, har han malt en rekke figurbilder, akter og portretter. Typisk for H. er også de mange skildringer av livet ved kysten med fiske, båter og gamle fabrikker, et miljø som H. selv har vokst opp i og opplevd som barn. H. har i siste halvdel av 70-årene også vært engasjert i organisasjonsarbeid og pedagogisk virksomhet.</p></div>",
+    "created_at": "2013-07-03T17:58:03.128+02:00",
+    "changed_at": "2024-06-18T23:25:52.626+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1639\",\"https://digitaltmuseum.no/293c763b-16ba-4b83-a9dc-37897b116a87\",\"http://kulturnav.org/293c763b-16ba-4b83-a9dc-37897b116a87\"]",
+        "lastname": "Hidle",
+        "firstname": "Rolf",
+        "birth_date": "12.5.1930",
+        "birthplace": "Finnøy i Ryfylke",
+        "external_id": "person_8736ab1639",
+        "kulturnav_id": "293c763b-16ba-4b83-a9dc-37897b116a87"
+    },
+    "authors": [
+        {
+            "full_name": "Berit Wathne"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

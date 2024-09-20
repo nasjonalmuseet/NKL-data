@@ -1,0 +1,794 @@
+{
+    "id": 431179,
+    "headword": "Per Vigeland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "glassmaler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab3919",
+                "birth_date": "25.01.1879",
+                "death_date": "01.01.1951",
+                "firstname": "Valborg Kristine Madsen",
+                "lastname": "Vigeland",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab3913",
+                "birth_date": "02.12.1875",
+                "death_date": "22.12.1948",
+                "firstname": "Emanuel",
+                "lastname": "Vigeland",
+                "professions": [
+                    "maler",
+                    "billedhugger"
+                ]
+            },
+            {
+                "from_date": "1936",
+                "type": "Gift med",
+                "external_id": "person_8736ab107946",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Helleberg",
+                "lastname": "Randi",
+                "professions": null
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Emanuel Vigelands akademi for glassmaleri 1919-22",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Kristiania/Statens Håndverks- og Kunstindustriskole, Oslo 1920-23, -25, -29",
+                "order": "1"
+            },
+            {
+                "comment": "kunstak., Firenze 1924",
+                "order": "2"
+            },
+            {
+                "comment": "École des Beaux-Arts, Paris under Lucien Simon 1928",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Houens legat 1927 og -32"
+            },
+            {
+                "order": "1",
+                "description": "Opphold i Italia vinteren 1924"
+            },
+            {
+                "order": "2",
+                "description": "Paris vinteren 1928"
+            },
+            {
+                "order": "3",
+                "description": "senere reiser til Italia"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "R. Vasa O"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Glassmalerier: Østre Fredrikstad kirke (1942 og -46)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Svenska Margaretakyrkan, Oslo (ca. 1946/50)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "ti doble vinduer i skipet, Uranienborg kirke, Oslo (etter 1948) sammen med Maria V. etter Emanuel V.s kartonger"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Tønsberg domkirke (1954)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Holmestrand kirke (1957)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Lillestrøm kirke (1960)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Tromsø domkirke (1961)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Laksevåg kirke"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Halden gravkapell"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Sylling kirke"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Tanum kirke"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Ballangen kirke"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Tingelstad kapell"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Ris kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Frogner kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Bamle kirke"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Kirklandet gravkapell, Kristiansund"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Mysen kirke"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Strandvik kirke"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Mesnalien kapell"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Hurum kirke"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Vålerengen kirke, Oslo (tapt ved brann 1979)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Freskomalerier: Capella Johannea, Majorstuen kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Vestre krematorium gamle kapell, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Ila kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Grorud kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Gravkapell, Vår Frelsers gravlund, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Tønsberg domkirke"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Tønsberg krematorium"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Horten krematorium"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Hamar krematorium"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Mosaikker: Ås kirke"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Høybråten kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Askim gravkapell"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Kolbu kirke"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Hauketo/Prinsdal kapell, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Minnesmerke over de falne i 2. verdenskrig, Tønsberg"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "møtesalen, Oslo Arbeidersamfunn"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "6. veggmalerier i festsalen, Ringnes Bryggeri, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "alterbilde i dåpskapellet, Sinsen kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Brooklyn Museum of Art, New York"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Fadervår. Utlagt av Ivar Welle, Oslo 1932"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "from_date": "1926",
+                "order": "0",
+                "to_date": "",
+                "title": "Nyere norsk kirkelig kunsthaandverk"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1923",
+                "order": "0",
+                "reference": "s. 361",
+                "to_date": "",
+                "description": "Norvegia Sacra",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1925-05-12",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1926-12-23",
+                "order": "2",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1926-12-24",
+                "order": "3",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927",
+                "order": "4",
+                "reference": "bd. 2, s. 627",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1931-11-06",
+                "order": "5",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1932-07-08",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1932-10-01",
+                "order": "7",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1933",
+                "order": "8",
+                "reference": "s. 236, 262, 268 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1933-01-05",
+                "order": "9",
+                "to_date": "",
+                "description": "Norrlandsp.",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1933-03-22",
+                "order": "10",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1939-11-20",
+                "order": "11",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1943-09-23",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944-05-19",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945-01-05",
+                "order": "14",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1946-08-09",
+                "order": "15",
+                "to_date": "",
+                "description": "Vestfold Arbeiderblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-04-20",
+                "order": "16",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-09-21",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948",
+                "order": "18",
+                "to_date": "",
+                "description": "Hamars historie",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-09-24",
+                "order": "19",
+                "to_date": "",
+                "description": "Vårt Land",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950-05-06",
+                "order": "20",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952-03-20",
+                "order": "21",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953-09-13",
+                "order": "22",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953-11-07",
+                "order": "23",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1954-02-06",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1954-02-15",
+                "order": "25",
+                "to_date": "",
+                "description": "Akers Blad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1955-12-20",
+                "order": "26",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961-06-09",
+                "order": "27",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961",
+                "order": "28",
+                "reference": "bd. 1, s. 841",
+                "to_date": "",
+                "description": "Soga for Fusa - Hålandsdal og Strandvik",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "29",
+                "reference": "s. 93",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1964-02-01",
+                "order": "30",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1964-02-16",
+                "order": "31",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1964-02-16",
+                "order": "32",
+                "to_date": "",
+                "description": "Demokraten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1964-02-18",
+                "order": "33",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965-03-17",
+                "order": "34",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965-11-17",
+                "order": "35",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-02-07",
+                "order": "36",
+                "to_date": "",
+                "description": "Øvre Smålenene",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1970",
+                "order": "37",
+                "reference": "hefte 91, s. 16",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "38",
+                "reference": "bd. 3, s. 706",
+                "to_date": "",
+                "description": "Tromsø bys historie",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "39",
+                "reference": "registers. 278",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "40",
+                "reference": "s. 38, 44 (ill.)",
+                "to_date": "",
+                "description": "Kirkelandet kirkegård 100 år",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "41",
+                "reference": "bd. 12, s. 447",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Per Vigeland",
+    "url": "https://nkl.snl.no/Per_Vigeland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>V. fikk allerede som 22-åring et av sine største oppdrag, utsmykningen av Capella Johannea i Majorstuen kirke, Oslo. I freskomaleriene her er V. tydelig påvirket av faren. Stilen er sirlig, og vekten er lagt på en forsiktig linjeføring. Men V. viser samtidig en bevisst bruk av lyse farger for å utvide det lille kirkerommet. V. hjalp faren med å male kuppelfreskene i det nåværende Vestre krematorium, gamle kapell, Oslo, og sammen drog de omkring 1930 til New York for å dekorere en påtenkt kirke der. Dette oppdraget ble det imidlertid ikke noe av. I stedet kjøpte Brooklyn Museum of Art ett glassmaleri av hver av dem. Årene 1931-32 malte V. 6 bilder til festsalen i Ringnes Bryggeri, Oslo. Motivene er Fridtjof Nansens og Otto Sverdrups polarekspedisjoner med Fram, Axel Heibergs arbeid for skogsaken og brødrene Amund A. og Ellef Ringnes foran Ringnes gård.</p>\n<p>V. har dekorert en rekke kirker og kapeller rundt i Norge. Blant hans større arbeider er glassmaleriene til Tønsberg domkirke og Frogner kirke, Oslo, som beskjeftiget ham i mange år. Glassmaleriene preges av en kraftig linjeføring, dekorativ form og figurene er ofte i sterk bevegelse. Med et økende antall krematorier fikk V. også en rekke dekorative oppdrag. Han har utført freskomalerier i Tønsberg, Horten og Hamar krematorier. Disse preges i likhet med glassmaleriene av hans sikre sans for form og linje. Blant V.s mosaikkarbeider fins et minnesmerke over falne i 2. verdenskrig i Tønsberg og en veggmosaikk i møtesalen, Oslo Arbeidersamfunn, som forestiller Eilert Sundt som såmann, en familie med barn og det nye regjeringsbygget. V.s kirkemosaikker, f.eks. i Høybråten kirke, Oslo, karakteriseres av en dekorativ, nesten ornamental stil. I 1953 utførte V. en mosaikk med <em>St. Georg og dragen</em> som motiv til en privatbolig i Kristiansund N., et sjeldent oppdrag for en kirkekunstner. Blant V.s senere arbeider fins glassmalerier til Tromsø domkirke (1961) og Vålerengen kirke (1967, ødelagt ved brann 1979).</p>\n</div>",
+    "created_at": "2014-12-21T14:42:04.088+01:00",
+    "changed_at": "2024-06-18T23:28:17.973+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3916\",\"https://digitaltmuseum.no/a58d8bcd-0f24-4cd1-b32f-cb7da6554959\",\"http://kulturnav.org/a58d8bcd-0f24-4cd1-b32f-cb7da6554959\"]",
+        "lastname": "Vigeland",
+        "firstname": "Per",
+        "birth_date": "5.2.1904",
+        "birthplace": "København",
+        "death_date": "30.1.1968",
+        "external_id": "person_8736ab3916",
+        "kulturnav_id": "a58d8bcd-0f24-4cd1-b32f-cb7da6554959",
+        "place_of_death": "Oslo",
+        "alternative_names": "Vigeland, Per"
+    },
+    "authors": [
+        {
+            "full_name": "Jan Kokkin"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "glassmaler"
+        }
+    ]
+}

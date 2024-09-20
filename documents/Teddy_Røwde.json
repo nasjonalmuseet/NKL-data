@@ -1,0 +1,739 @@
+{
+    "id": 430388,
+    "headword": "Teddy Røwde",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1949",
+                "type": "Gift med",
+                "external_id": "person_8736ab106841",
+                "birth_date": "1904",
+                "death_date": "",
+                "firstname": "Arvid",
+                "lastname": "Brodersen",
+                "professions": [
+                    "professor"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106838",
+                "birth_date": "1876",
+                "death_date": "1955",
+                "firstname": "Peter M. B.",
+                "lastname": "Røwde",
+                "professions": [
+                    "generalkonsul"
+                ]
+            },
+            {
+                "from_date": "1932",
+                "type": "Gift med",
+                "external_id": "person_8736ab106840",
+                "birth_date": "1908",
+                "death_date": "",
+                "firstname": "Halvor",
+                "lastname": "Heyerdahl",
+                "professions": null
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106839",
+                "birth_date": "1881",
+                "death_date": "1972",
+                "firstname": "Ragna Marie",
+                "lastname": "Bingen",
+                "professions": null
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev malerklassen Statens Håndverks- og Kunstindustriskole, Oslo 1928",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold 1929–31, avbrutt av reise til Paris 1929 hvor hun var elev ved Académie Julian",
+                "order": "1"
+            },
+            {
+                "comment": "privatundervisning av Per Krohg, Oslo",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Opphold i Paris 1927–28 og -29"
+            },
+            {
+                "order": "1",
+                "description": "USA 1936 og -45"
+            },
+            {
+                "order": "2",
+                "description": "Paris 1947–48"
+            },
+            {
+                "order": "3",
+                "description": "Mexico to vintre omkring 1964"
+            },
+            {
+                "order": "4",
+                "description": "flere reiser i Europa"
+            },
+            {
+                "order": "5",
+                "description": "delvis bosatt i New York siden 1948"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Göteborgs Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "H. Wergeland, gjenfortalt av L. Tveterås: Røde og grå dompaper, Stavanger 1943"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "L. Tveterås: Barnet som ingen ville leke med, Stavanger 1944"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "utg. L. Tveterås: H. Wergeland. Ånd og ild. Dikt og prosa, I-II, Stavanger [1946]"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "O. Eidem: Fuglen som aldri sang, Oslo [1949]"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1940",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1947",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1953",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "3",
+                "to_date": "1936",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1948",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "6",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "7",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1946",
+                "order": "8",
+                "to_date": "",
+                "title": "Ung norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København Kunstforening",
+                "from_date": "1946",
+                "order": "9",
+                "to_date": "",
+                "title": "Rolf E. Stenersens Samling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riksförbundet för Bildande Konst, vandreutstilling i Sverige",
+                "from_date": "1946",
+                "order": "10",
+                "to_date": "",
+                "title": "Rolf E. Stenersens Samling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1948",
+                "order": "11",
+                "to_date": "",
+                "title": "Rolf E. Stenersens Samling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1948",
+                "order": "12",
+                "to_date": "",
+                "title": "Nordiska konstnärinnor"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1949",
+                "order": "13",
+                "to_date": "",
+                "title": "Fra noen maleres samlinger"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1958",
+                "order": "14",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Selvportrett (1948) gjengitt Revold, R.: Norges billedkunst i det 19. og 20. århundre, Oslo 1953, bd. 2, s. 236"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "fire portretter utført av Reidar Aulie, ett gjengitt Oslo Aftenavis 8.10.1930"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1944",
+                "order": "0",
+                "reference": "s. 215 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "1",
+                "reference": "s. 214, 222 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1945",
+                "order": "2",
+                "reference": "register s. 94 (ill.)",
+                "to_date": "",
+                "description": "Kvinneportretter i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R.",
+                    "Gran, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947",
+                "order": "3",
+                "reference": "register s. 165",
+                "to_date": "",
+                "description": "Norge som malerne så det",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948",
+                "order": "4",
+                "reference": "s. [50] (ill.)",
+                "to_date": "",
+                "description": "Moderne norsk malerkunst",
+                "place": "København",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1949",
+                "order": "5",
+                "reference": "register s. 268 (ill.)",
+                "to_date": "",
+                "description": "Ung norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "6",
+                "reference": "s. 141",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850–1950",
+                "place": "Oslo",
+                "authors": [
+                    "Melhus, A. C.",
+                    "Sundseth, A.B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953",
+                "order": "7",
+                "reference": "bd. 2, s. 231, 237 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1960",
+                "order": "8",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Streiftog og glimt",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "9",
+                "reference": "s. 242",
+                "to_date": "",
+                "description": "Kunst og Kultur, register 1910–67",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "10",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "bd. 16, spalte 709"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1974",
+                "order": "11",
+                "reference": "s. 121–23 (ill.)",
+                "to_date": "",
+                "description": "Rolf E. Stenersens gave til Oslo by - Akersamlingen",
+                "place": "Oslo",
+                "authors": [
+                    "Eggum, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "12",
+                "reference": "s. 209",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "13",
+                "reference": "bd. 10, s. 179",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983",
+                "order": "14",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "bd. 7, register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1940-03",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Urd",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1940",
+                "order": "16",
+                "reference": "s. 148–49 (ill.)",
+                "to_date": "",
+                "description": "Teddy Røwde, Konstrevy",
+                "place": "Stockholm",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1941",
+                "order": "17",
+                "reference": "s. 48 (ill.)",
+                "to_date": "",
+                "description": "Norsk konst av i dag, Konstrevy",
+                "place": "Stockholm",
+                "authors": [
+                    "Blomberg, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1946",
+                "order": "18",
+                "reference": "s. 193–94",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950",
+                "order": "19",
+                "reference": "s. 72",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947",
+                "order": "20",
+                "reference": "hefte 4 s. 52 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953",
+                "order": "21",
+                "reference": "hefte 26 s. 52–53 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1954",
+                "order": "22",
+                "reference": "hefte 27 s. 4–19 (ill.)",
+                "to_date": "",
+                "description": "Teddy Røwde",
+                "authors": [
+                    "Moen, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1937-08-21",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Lørdagskvelden (Arbeiderbladet)",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": [
+                    "Aviser"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1940-02-19",
+                "order": "24",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": [
+                    "Aviser"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1940-02",
+                "order": "25",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [
+                    "nr. 43"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1947-10-16",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-10-22",
+                "order": "27",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-10-30",
+                "order": "28",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1947-11-01",
+                "order": "29",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953-10-05",
+                "order": "30",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953-10-06",
+                "order": "31",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953-10-14",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Finne, F."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953-10-10",
+                "order": "33",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Teddy Røwde",
+    "url": "https://nkl.snl.no/Teddy_R%C3%B8wde",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>R. debuterte på Høstutstillingen 1932 med <em>Brygge</em> og <em>Spebarn</em>. Etter endt utdannelse reiste R. i 1936 til USA. En togreise om høsten fra New York til Dayton i Ohio fikk avgjørende betydning for hennes kunst. Hun opplevde sterkt det enorme, frodige landskapet der menneskene ble så utrolig små. Hennes første separatutstilling i Kunstnerforbundet i 1940 vakte betydelig interesse og ble et kunstnerisk gjennombrudd. R.s bilder fra de mektige slettene i Ohio og Louisiana eller fra negerkvarterene i New Orleans vitner om en naivistisk, særpreget kunstner som gikk egne veier. R. har alltid foretrukket små formater, gjerne miniatyrer. Hun går ofte tett inn på motivet og formidler skjønnheten i planter og alt som vokser med stor detaljrikdom, f.eks. <em>Ugress</em> (1939) og <em>Sogn Haveby</em> (1940). Karakteristisk for hennes tidkrevende teknikk er bruk av små, tette og pastose strøk som samler seg til hele fargeflater og gir bildene en ornamental virkning. Koloritten er rik, ofte kjølig og raffinert, overflaten kan i enkelte bilder minne om emalje. Teknisk er R. beslektet med van Gogh. Også i tegninger bruker hun den samme teknikk med små streker og prikker som samler seg til en form. Hennes portretter viser en særpreget karakterisering av modellen som vitner om medfølelse og ømhet. Her er den småpenslede teknikken forlatt til fordel for større flater med bredere strøk, som i <em>Dame i Central Park, New York</em>. R. har en liten produksjon bak seg og i årenes løp har hun kastet mye hun ikke var fornøyd med. Noen miniatyrer fra opphold i Mexico omkring 1964 viser at hun har arbeidet mot en mer abstrakt uttrykksform. Utgangspunktet for de velkomponerte, poetiske bilder er hennes opplevelser av naturen.</p></div>",
+    "created_at": "2014-11-20T14:11:28.487+01:00",
+    "changed_at": "2024-06-18T23:27:56.672+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3349\",\"https://digitaltmuseum.no/5216108d-be44-49bc-9b1f-df71cede7b46\",\"http://kulturnav.org/5216108d-be44-49bc-9b1f-df71cede7b46\"]",
+        "lastname": "Røwde",
+        "firstname": "Teddy",
+        "birth_date": "16.4.1912",
+        "birthplace": "Kristiania",
+        "death_date": "12.1.1994",
+        "external_id": "person_8736ab3349",
+        "kulturnav_id": "5216108d-be44-49bc-9b1f-df71cede7b46",
+        "place_of_death": "Oslo",
+        "alternative_names": "Røwde, Teddy Gerd Ragna"
+    },
+    "authors": [
+        {
+            "full_name": "Ingeborg Wikborg"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

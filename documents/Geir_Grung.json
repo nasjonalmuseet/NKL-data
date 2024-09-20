@@ -1,0 +1,638 @@
+{
+    "id": 416125,
+    "headword": "Geir Grung",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102609",
+                "birth_date": "02.12.1895",
+                "death_date": "",
+                "firstname": "Grace Lehmann",
+                "lastname": "Hjørdis",
+                "professions": [
+                    "sanger"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab1287",
+                "birth_date": "27.12.1894",
+                "death_date": "02.10.1945",
+                "firstname": "Leif Kuhnle",
+                "lastname": "Grung",
+                "professions": [
+                    "arkitekt",
+                    "maler",
+                    "grafiker"
+                ]
+            },
+            {
+                "from_date": "1974",
+                "type": "Gift med",
+                "external_id": "person_8736ab102608",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kjøde",
+                "lastname": "Dagny",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens arkitektkurs, Oslo, 1949",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "reise i Finnmark"
+            },
+            {
+                "order": "4",
+                "description": "reiser i Midtøsten, Vest-India"
+            },
+            {
+                "order": "6",
+                "description": "Sør-Amerika 1976"
+            },
+            {
+                "order": "1",
+                "description": "levde et halvt år med beduinerstammer i Sahara i 1954"
+            },
+            {
+                "order": "7",
+                "description": "flere reiser i Mellom-Amerika, USA, Karibien, 1972–79"
+            },
+            {
+                "order": "8",
+                "description": "reiser i Det fjerne østen og til Stillehavsøyene"
+            },
+            {
+                "order": "5",
+                "description": "Øst-Afrika 1973"
+            },
+            {
+                "order": "3",
+                "description": "sammen med Jørn Utzon et halvt års studiereise i Sovjet, Mongolia, Kina, Japan, Alaska, 1958"
+            },
+            {
+                "order": "0",
+                "description": "Studiereiser i Frankrike, England, Italia"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem Oslo Arkitektforening"
+            },
+            {
+                "order": "1",
+                "description": "medlem CIAM"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Houens Fonds diplom for Økern aldershjem sammen med Sverre Fehn, Oslo 1961"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "båtserie for Fjordplast A/S"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "innredningen for flere skip"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "ominnredning av butikklokaler for bl.a. David-Andersen A/S og Tostrup A/S, begge Karl Johans gt., Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "1. premie i lukket konkurranse Kodak, 1975"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "innkjøp Norsk legesenter, Oslo, 1978"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "2. premie Stavanger Sparekasse, 1958"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Vestre vei 81, Nesøya, Asker (1969), enebolig for Finn Ferner"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Røldal- Suldal Kraftanlegg for Norsk Hydro A/S (1961–67)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "A/S Skinnsenteret, Økern torgvei 18, Oslo (1968)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Martensbygget for Ditlef Martens A/S, Mindemyren, Bergen (1965)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Kodak Norge A/S, Trollåsveien 6, Oppegård (1978)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Åsjordet 7, Oslo (1959) enebolig for Ormann"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Ullevål transformatorstasjon, Ullevål understasjon, Kirkeveien 57, Oslo (1966)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Jongskollen 27, Sandvika (1963), eget hus"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Boligbygg: Byggesystemet Sun House, første gang presentert i Norge i 1969, senere produsert i Brasil"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Økern aldershjem, Økernveien 155, Oslo (1955)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Håndverkets Hus på Maihaugen, Lillehammer, (1959) sammen med Sverre Fehn etter 1. premie i konkurranse, 1949"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "hotell Barquisimeto, Venezuela. Prosjekter: Innkjøp Nordkapprestauranten, 1956"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Eivindvik, Bergen (1973) (Sun House), enebolig for Thor Bache-Wiig. G.s engasjement utenfor Norge er omfattende. Her nevnes prosjekt for 2700 leiligheter, El Ancon, Tenerife"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Industri- og kontorbygg: Ringhuset for Gustav A Ring A/S, Sørkedalsvn. 33, Oslo (1965)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1953",
+                "order": "0",
+                "reference": "s. 187–192 (ill.)",
+                "to_date": "",
+                "description": "Gammelt og nytt Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "1",
+                "reference": "s.29–39 (ill.)",
+                "to_date": "",
+                "description": "Reise, folkeliv og gammel arkitektur i Kina, Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1952",
+                "order": "13",
+                "reference": "s.108–109, 116–117, 273 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "2",
+                "reference": "s. 401–408 (ill.)",
+                "to_date": "",
+                "description": "Musei. Architettura - tecnica",
+                "place": "Milano",
+                "authors": [
+                    "R. Aloi"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "4",
+                "reference": "s. 751–754 (ill.)",
+                "to_date": "",
+                "description": "The architect and building news",
+                "place": "London",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "19",
+                "reference": "s. 221–229 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "s. 117–121 (ill.)",
+                "order": "11",
+                "to_date": "",
+                "description": "Arkkitehti",
+                "place": "Helsinki 1956",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "9",
+                "reference": "nr.124, s. 26 (ill.), nr. 128, s. 32–33 (ill.)",
+                "to_date": "",
+                "description": "L'architecture d'aujourd'hui",
+                "place": "Boulogne",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "8",
+                "reference": "nr 93, s. 70–71, 86–87 (ill.)",
+                "to_date": "",
+                "description": "L'architecture d'aujourd'hui",
+                "place": "Boulogne",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "15",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "17",
+                "reference": "s. 57–68 (ill.), s. 198, 210–213 (ill.)s. 91, 99, 263 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "6",
+                "reference": "nr.12, s.82–84 (ill.)",
+                "to_date": "",
+                "description": "Architecture and urbanism",
+                "place": "Tokyo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "27",
+                "reference": "nr. 215 (ill.)",
+                "to_date": "",
+                "description": "Norske arkitektkonkurranser",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "29",
+                "reference": "s. 237–239 (ill.)",
+                "to_date": "",
+                "description": "Werk Basel",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "10",
+                "reference": "nr. 133, s. 94–97 (ill.)nr.163, s. 94–95 (ill.)",
+                "to_date": "",
+                "description": "L'architecture d'aujourd'hui",
+                "place": "Boulogne",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "23",
+                "reference": "nr. 209, s. 19 (ill.)",
+                "to_date": "",
+                "description": "Casabella",
+                "place": "Milano",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "22",
+                "reference": "s. 86–91 (ill.), s. 192 ff. (ill.)s.115 (ill.), 191–197 (ill.)s. 52–53 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "25",
+                "reference": "nr. 32 (ill.)",
+                "to_date": "",
+                "description": "Norske arkitektkonkurranser",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "18",
+                "reference": "s. 195–199 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "20",
+                "reference": "s. 101 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "14",
+                "reference": "s. 140 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "3",
+                "reference": "s.196 (ill.)s. 236–237 (ill.)s. 325 (ill.)",
+                "to_date": "",
+                "description": "Arkitektnytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "12",
+                "reference": "s. 54–55 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "16",
+                "reference": "s. 89–100 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "7",
+                "reference": "nr.73, s. 44–45 (ill.)",
+                "to_date": "",
+                "description": "L'architecture d'aujourd'hui",
+                "place": "Boulogne",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "5",
+                "reference": "s. 77 (ill.)",
+                "to_date": "",
+                "description": "Architectural review",
+                "place": "London",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "28",
+                "reference": "nr. 9, s. 6–9 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "26",
+                "reference": "nr. 53 (ill.)",
+                "to_date": "",
+                "description": "Norske arkitektkonkurranser",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "21",
+                "reference": "s. 182–196 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "24",
+                "reference": "nr. 9, s. 51–62 (ill.)",
+                "to_date": "",
+                "description": "The Kentiku",
+                "place": "Tokyo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "vol. 1, 1964 s. 220–221, 224 (ill.)",
+                "order": "30",
+                "to_date": "",
+                "description": "World architecture",
+                "place": "London",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Geir Grung",
+    "url": "https://nkl.snl.no/Geir_Grung",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>G. var ansatt ved Statens arkitektkurs 1949, deretter hos Byarkitekten i Oslo. Han opprettet egen praksis i 1954 sm.m Georg Greve under firmanavnet arkitektene Greve og Grung. Fra 1970 het firmaet arkitekt Geir Grung og etter 1971 arkitekt Geir Grung A/S. G. har vært foreleser ved Norges Tekniske Høyskole og Arkitekthøyskolen i Oslo.</p></div>",
+    "created_at": "2013-07-03T14:08:37.012+02:00",
+    "changed_at": "2024-06-18T23:25:32.507+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1286\",\"https://digitaltmuseum.no/b8d77cb2-4275-47ab-8c96-40e9d2896f8e\",\"http://kulturnav.org/b8d77cb2-4275-47ab-8c96-40e9d2896f8e\"]",
+        "lastname": "Grung",
+        "firstname": "Geir",
+        "birth_date": "23.12.1926",
+        "birthplace": "Bergen",
+        "death_date": "16.3.1989",
+        "external_id": "person_8736ab1286",
+        "kulturnav_id": "b8d77cb2-4275-47ab-8c96-40e9d2896f8e",
+        "place_of_death": "Oslo",
+        "alternative_names": "Grung, Geir Lehmann"
+    },
+    "authors": [
+        {
+            "full_name": "Elisabeth Seip"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "BY-NC-SA",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15546/standard_KFS_DEX_T_4031_01820130725-13675-1292rxy.jpg",
+            "full_size_url": "https://media.snl.no/media/15546/KFS_DEX_T_4031_01820130725-13675-1292rxy.jpg",
+            "xhtml": "<div>\r\n<p>Økern Aldershjem, 1955. Foto: Teigens Fotoatelier / DEXTRA Photo</p>\r\n</div>",
+            "type": "image",
+            "heading": "Geir Grung",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20201/standard_NMK-A_NAMF.01051.00920150528-17392-ow3anb.jpg",
+            "full_size_url": "https://media.snl.no/media/20201/NMK-A_NAMF.01051.00920150528-17392-ow3anb.jpg",
+            "xhtml": "<div><p><i>Arkitekt Geir Grungs eget hus på Jongskollen</i></p></div>",
+            "type": "image",
+            "heading": "Geir Grung",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20202/standard_NMK-A_NAMF.01000.00220150528-17392-1aqdbb8.jpg",
+            "full_size_url": "https://media.snl.no/media/20202/NMK-A_NAMF.01000.00220150528-17392-1aqdbb8.jpg",
+            "xhtml": "<div><p><i>Vettre skole</i></p></div>",
+            "type": "image",
+            "heading": "Geir Grung",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20203/standard_NMK-A_NAMF.01058.00420150528-17392-1yo2gq3.jpg",
+            "full_size_url": "https://media.snl.no/media/20203/NMK-A_NAMF.01058.00420150528-17392-1yo2gq3.jpg",
+            "xhtml": "<div><p><i>Inngangsparti til Tysso II</i></p></div>",
+            "type": "image",
+            "heading": "Geir Grung",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

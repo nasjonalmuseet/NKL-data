@@ -1,0 +1,747 @@
+{
+    "id": 417102,
+    "headword": "Ba Dedekam",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101611",
+                "birth_date": "1911",
+                "death_date": "1978",
+                "firstname": "Tom",
+                "lastname": "Wilhelmsen",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101609",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Finn",
+                "lastname": "Dedekam",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101610",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Valborg",
+                "lastname": "Boe",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Pratt Grafic Center, New York 1972",
+                "order": "3"
+            },
+            {
+                "comment": "Art Students Leage, New York under John Hovannes, Roberto de Lamonica og José de Creeft 1958, -59 og -60",
+                "order": "2"
+            },
+            {
+                "comment": "Queen Anne's Studio, London 1932",
+                "order": "0"
+            },
+            {
+                "comment": "SHKS 1933–35",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Italia"
+            },
+            {
+                "order": "0",
+                "description": "Studieopphold i London 1932, New York 1958, -59, -60 og -72"
+            },
+            {
+                "order": "1",
+                "description": "studiereiser til Mexico"
+            },
+            {
+                "order": "3",
+                "description": "Frankrike"
+            },
+            {
+                "order": "4",
+                "description": "Spania"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett i Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Grand Prix for skulptur på utstillingen Grand Prix International de Peinture et Sculpture par Association des Artistes de France et d'Outre-Mer, Paris 1972"
+            },
+            {
+                "order": "2",
+                "description": "Grand Prix Art Décoratif, Dauville 1976"
+            },
+            {
+                "order": "1",
+                "description": "Grafikkpris, Cannes 1975"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Benatovs samling, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Kronprins Harald, byste (bronse, 1937), Haraldvangen, Hurdalen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Rom",
+                "from_date": "1975",
+                "order": "27",
+                "to_date": "",
+                "title": "Grand Prix des 7 Vollines"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "New York",
+                "from_date": "1973",
+                "order": "23",
+                "to_date": "",
+                "title": "Associated American Artists"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Roma",
+                "from_date": "1976",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. La Caverne des Arts, Paris",
+                "from_date": "1974",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1963",
+                "order": "13",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammen",
+                "from_date": "1980",
+                "order": "33",
+                "to_date": "",
+                "title": "Nordisk Skulpturbiennale"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "17",
+                "to_date": "",
+                "title": "Østensjøutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Tanum, Oslo",
+                "from_date": "1978",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1974",
+                "order": "25",
+                "to_date": "",
+                "title": "1. Halle aux Toiles"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Luxembourg",
+                "from_date": "1980",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Biarritz",
+                "from_date": "1976",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1970",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1970",
+                "order": "20",
+                "to_date": "",
+                "title": "UKS jubileumsutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Intimgalleriet, Bergen Kunstforening",
+                "from_date": "1973",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Galtung, Oslo",
+                "from_date": "1975",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1972",
+                "order": "22",
+                "to_date": "",
+                "title": "Grand Prix International de Peinture et Sculpture"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1974",
+                "order": "14",
+                "to_date": "1975",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Dauville",
+                "from_date": "1976",
+                "order": "28",
+                "to_date": "",
+                "title": "Grand Prix"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Intimgalleriet, Bergen Kunstforening",
+                "from_date": "1974",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lyon",
+                "from_date": "1978",
+                "order": "30",
+                "to_date": "",
+                "title": "Grand Prix"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1970",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1974-01",
+                "order": "24",
+                "to_date": "",
+                "title": "Månedens skulptur"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "UKS",
+                "from_date": "1962",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Milano",
+                "from_date": "1980",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1960",
+                "order": "12",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Cannes",
+                "from_date": "1975",
+                "order": "26",
+                "to_date": "",
+                "title": "11. Grand Prix International de Peinture la Côte d'Azur"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Mouffe, Paris",
+                "from_date": "1976",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Cannes",
+                "from_date": "1976",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1972",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1966",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Abidjan, Elfenbenskysten",
+                "from_date": "1972",
+                "order": "21",
+                "to_date": "",
+                "title": "Internasjonal kunst- og kulturutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1970",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø Kunstforening",
+                "from_date": "1974",
+                "order": "6",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1974-04-27",
+                "order": "21",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-09-06",
+                "order": "7",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-09-17",
+                "order": "15",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-28",
+                "order": "19",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-22",
+                "order": "17",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-09-16",
+                "order": "11",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-16",
+                "order": "29",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-09-11",
+                "order": "13",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "3",
+                "reference": "s. 183",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-08",
+                "order": "25",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "1",
+                "reference": "s. 263",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-13",
+                "order": "27",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-09-08",
+                "order": "9",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-22",
+                "order": "18",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "5",
+                "reference": "s. 65",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-05-15",
+                "order": "23",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-09-14",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-09-06",
+                "order": "8",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "12",
+                "reference": "s. 227–28 (ill.)",
+                "to_date": "",
+                "description": "Norsk skulptur",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-04-12",
+                "order": "20",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-09-14",
+                "order": "10",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Dæhlin, E.O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-21",
+                "order": "16",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Hjelde, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "6",
+                "reference": "s. 193",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "2",
+                "reference": "s. 56",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-05-14",
+                "order": "24",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "4",
+                "reference": "s. 63, 195",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "0",
+                "reference": "hefte 60, s. 50",
+                "to_date": "",
+                "description": "K. idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-13",
+                "order": "28",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Sørensen , G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-09",
+                "order": "26",
+                "to_date": "",
+                "description": "i NHST",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-05-14",
+                "order": "22",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ba Dedekam",
+    "url": "https://nkl.snl.no/Ba_Dedekam",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>D. har gjennom hele sin kunstneriske løpebane drevet vekselbruk mellom forskjellige teknikker, fra skulptur til maleri, grafikk og glassrelieffer. Hennes intime formspråk kommer kanskje best til uttrykk i skulpturene. De er ofte små av format og har en sluttet kompakt form som harmonerer godt med de materialene hun bruker - marmor, alabast, kleberstein samt andre steinsorter, og bronse. Motivets utgangspunkt er gjerne mennesket, men hun har også vært opptatt av dyr. Hun abstraherer skulpturene ned til rolige, organiske, runde og nesten innadvendte former, uten at den rent figurative fremstillingen blir borte. Den delikate materialbehandlingen spenner fra sensuell glattpolert overflate til mer rufsete og grov tilhugging. Hun gjør all bearbeidelsen av steinen selv, for ikke å bryte den direkte kontakt med materialet. Flere års hugging i stein utløste imidlertid trangen til å finne en annen uttrykksform. D. valgte grafikken, begynte med kobberstikk og gikk siden videre til friere former for materialtrykk, som i sin form kan minne om arbeider av Rolf Nesch. I sine grafiske arbeider går D. tingene nært inn på livet, fra nitide studier av blader til fisk på havets bunn eller balettdansere i bevegelse. I de seneste glassrelieffene fra midten av 70-årene synes hun å bevege seg i en mer abstrakt retning, noe som vel ikke minst skyldes dette materialets karakter.</p></div>",
+    "created_at": "2013-07-03T19:33:34.265+02:00",
+    "changed_at": "2024-06-18T23:25:58.497+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab778\",\"https://digitaltmuseum.no/81c445d6-8b7e-42ac-92db-fa652185264b\",\"http://kulturnav.org/81c445d6-8b7e-42ac-92db-fa652185264b\"]",
+        "lastname": "Dedekam",
+        "firstname": "Ba",
+        "birth_date": "22.11.1914",
+        "birthplace": "Oslo",
+        "death_date": "31.8.2010",
+        "external_id": "person_8736ab778",
+        "kulturnav_id": "81c445d6-8b7e-42ac-92db-fa652185264b",
+        "place_of_death": "Morges, Sveits",
+        "alternative_names": "Dedekam, Cecilie"
+    },
+    "authors": [
+        {
+            "full_name": "Stig Andersen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

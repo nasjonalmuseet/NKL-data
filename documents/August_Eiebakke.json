@@ -1,0 +1,682 @@
+{
+    "id": 417298,
+    "headword": "August Eiebakke",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kristian Zahrtmanns skole, København, jan.-april 1892 og feb. 1898",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Julius Middelthun, Mathias Skeibrok og Harald Petersen 1883–89 med enkelte avbrudd",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Chr. Krohg, Hans Heyerdahl og Eilif Peterssen 1886–87",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "5",
+                "description": "Italia"
+            },
+            {
+                "order": "3",
+                "description": "Frankrike"
+            },
+            {
+                "order": "2",
+                "description": "Senere flere reiser til Danmark"
+            },
+            {
+                "order": "4",
+                "description": "Nederland"
+            },
+            {
+                "order": "6",
+                "description": "Tyskland, til dels med stipendier"
+            },
+            {
+                "order": "0",
+                "description": "Paris april 1893"
+            },
+            {
+                "order": "1",
+                "description": "Italia våren 1894, 1895–96 og 1904–5"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem av styret i Bildende Kunstneres Styre 1916–21"
+            },
+            {
+                "order": "0",
+                "description": "Lærer på Statens Håndverks- og Kunstindustriskole, Oslo fra 1910, overlærer samme sted fra 1912 til 1937"
+            },
+            {
+                "order": "2",
+                "description": "varamedlem til innkjøpskomiteen for Nasjonalgalleriet 1913–15"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Gullmedalje på Verdensudstillingen i Paris 1900"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Universitetet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "F. Nansen: Fram over Polhavet, Kristiania og København 1897"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1900",
+                "order": "15",
+                "to_date": "",
+                "title": "Verdensudstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1939",
+                "order": "0",
+                "to_date": "",
+                "title": "Minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1921",
+                "order": "9",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1894",
+                "order": "2",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1896",
+                "order": "3",
+                "to_date": "1899",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1916",
+                "order": "8",
+                "to_date": "1919",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1905",
+                "order": "5",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1907",
+                "order": "6",
+                "to_date": "1910",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1902",
+                "order": "4",
+                "to_date": "1903",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1912",
+                "order": "7",
+                "to_date": "1913",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1923",
+                "order": "10",
+                "to_date": "1924",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1926",
+                "order": "11",
+                "to_date": "1928",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1904",
+                "order": "17",
+                "to_date": "",
+                "title": "Norska Konstnärers arbeten i Kungl. Ak. för de Fria Konsterna"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1901",
+                "order": "16",
+                "to_date": "",
+                "title": "Den Frie Udstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1887",
+                "order": "13",
+                "to_date": "1897"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "19",
+                "to_date": "",
+                "title": "Brightonutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1931",
+                "order": "12",
+                "to_date": "1933",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "20",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1897",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riga",
+                "from_date": "1934",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1887",
+                "order": "1",
+                "to_date": "1892",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Roma",
+                "from_date": "1911",
+                "order": "18",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Selvportrett gjengitt i H. Alsvik og L. Østby: Norges billedkunst, Oslo 1951, bd. 1, s. 413"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1951",
+                "order": "22",
+                "reference": "hefte 17, s. 12",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "7",
+                "reference": "s. 78",
+                "to_date": "",
+                "description": "i Det nye Norges malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "24",
+                "reference": "s. 77 og 193",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "26",
+                "reference": "s. 64",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903-03-19",
+                "order": "3",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-07-23",
+                "order": "20",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "5",
+                "reference": "s. 634",
+                "to_date": "",
+                "description": "Samtiden",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "25",
+                "reference": "s. 174",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-07-22",
+                "order": "18",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-04-25",
+                "order": "16",
+                "to_date": "",
+                "description": "Glomdalen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "1",
+                "to_date": "1893",
+                "description": "Selskapet Kunst på Arbeidsplassen årbok",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "10",
+                "reference": "bd. 6, s. 786",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931-04-24",
+                "order": "14",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "12",
+                "reference": "bd. 2, s. 489 (ill.), 491–92, 626",
+                "to_date": "",
+                "description": "i Norsk Kunsthistorie",
+                "title": "Malerkunsten i det 19. og 20. Aarhundrede",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903-04-05",
+                "order": "4",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "6",
+                "reference": "bd. 2, s. 360–363",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "23",
+                "reference": "s. 191-192",
+                "to_date": "",
+                "description": "Norges Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "8",
+                "reference": "nr. 590",
+                "to_date": "",
+                "description": "Meister der Farbe",
+                "place": "Leipzig",
+                "authors": [
+                    "Pica, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "27",
+                "reference": "s. 173–174",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901-03-14",
+                "order": "2",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "21",
+                "reference": "bd 1, s. 417–18",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L.",
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-07-23",
+                "order": "19",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913",
+                "order": "9",
+                "reference": "s. XIX, 28, 44, 48",
+                "to_date": "",
+                "description": "Exhibition Norwegian Artists",
+                "place": "Brighton",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "11",
+                "reference": "bd. 10, s. 414",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-04-24",
+                "order": "17",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-12-22",
+                "order": "13",
+                "to_date": "",
+                "description": "i Øvre Smålenene",
+                "authors": [
+                    "Myhre, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "0",
+                "reference": "s. 253",
+                "to_date": "",
+                "description": "Tilskueren",
+                "title": "Norsk, svensk, dansk Figurmaleri. Indtryk og Overvejelser",
+                "place": "København",
+                "authors": [
+                    "Lange, J."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1976",
+                "order": "28",
+                "reference": "s. 177",
+                "to_date": "",
+                "title": "Zahrtmanns malerskole 1885–1908",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "August Eiebakke",
+    "url": "https://nkl.snl.no/August_Eiebakke",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\r\n<p>E. var først hovedsaklig interessert i skulptur og etter å ha kommet til Kristiania i 15-års-alderen, søkte han undervisning i denne uttrykksformen. Men etter hvert ble han mer opptatt av maleri, der han snart gjorde seg gjeldende med realistisk pregede folkelivs-skildringer fra østlands-området. Mest kjent er <em>Anretning</em> fra 1891 (Nasjonalgalleriet), med motiv fra barndomshjemmet og med faren og moren sittende ved vinduet og søsteren fremstilt i ferd med å dekke bordet.</p>\r\n<p>Uttrykksformen ble imidlertid snart preget av Zahrtmanns undervisning, og denne læreren kom til å bety mye for ham. Under Italia-oppholdene nærmet han seg for en tid en mer stilsøkende, ny-romantisk form som lå nær opp til den hans danske kolleger og medelever dyrket. <em>Portrettet av en dame</em> (1905, Statens Museum for Kunst, København) viser både i karakteristikk og i fargeholdning denne innflytelsen.</p>\r\n<p>E. tok dessuten opp religiøse motiver. Mest kjent blant disse var hans altertavle i Trefoldighetskirken i Arendal, <em>Kristus forlater disiplene</em> (1900–02), og det mindre <em>Jesus og Thomas</em> i Sørum kirke, Akershus.</p>\r\n<p>Etter hvert vendte E. igjen tilbake til en mindre stilisert uttrykksform og malte landskaper, portretter og interiører med figurer. En friskere og mer frigjort bruk av de koloristiske virkemidler preger hans motiver etter århundreskiftet, slik det ble vanlig for flere i hans generasjon.</p>\r\n<p>Hans senere produksjon var imidlertid ikke så omfattende, idet hans virke som lærer la beslag på mye tid. E. vant her anerkjennelse for grundig korrektur, selv om elevene etter hvert fant hans undervisning noe omstendelig.</p>\r\n<p>Sine beste arbeider utførte E. i yngre år. Etter hvert kom han til å stå noe på siden av hovedstrømningene i kunsten.</p>\r\n</div>",
+    "created_at": "2013-07-03T20:38:53.094+02:00",
+    "changed_at": "2024-06-18T23:26:04.390+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab892\",\"https://digitaltmuseum.no/69ed6ffa-f9c0-4201-83e6-14688abaa39e\",\"http://kulturnav.org/69ed6ffa-f9c0-4201-83e6-14688abaa39e\"]",
+        "lastname": "Eiebakke",
+        "firstname": "August",
+        "birth_date": "25.4.1867",
+        "birthplace": "Askim",
+        "death_date": "21.7.1938",
+        "external_id": "person_8736ab892",
+        "kulturnav_id": "69ed6ffa-f9c0-4201-83e6-14688abaa39e",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Gunnar Sørensen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15633/standard_NMK-B_NG.M.0039020130725-13675-105obla.jpg",
+            "full_size_url": "https://media.snl.no/media/15633/NMK-B_NG.M.0039020130725-13675-105obla.jpg",
+            "xhtml": "<div>\r\n<p><em>Anretning</em>, 1891. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "August Eiebakke",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15648/standard_NMK-B_NG.M.0063120130725-13675-scepfa.jpg",
+            "full_size_url": "https://media.snl.no/media/15648/NMK-B_NG.M.0063120130725-13675-scepfa.jpg",
+            "xhtml": "<div>\r\n<p><em>I solbakken</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "August Eiebakke",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15754/standard_NMK-B_NG.M.0352320130725-13675-1p0s8fe.jpg",
+            "full_size_url": "https://media.snl.no/media/15754/NMK-B_NG.M.0352320130725-13675-1p0s8fe.jpg",
+            "xhtml": "<div>\r\n<p><em>Søndag på landet</em>, 1889. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "August Eiebakke",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

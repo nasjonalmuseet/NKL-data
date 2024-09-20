@@ -1,0 +1,905 @@
+{
+    "id": 430117,
+    "headword": "Henrik d.y. Nissen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": {},
+        "relations": [
+            {
+                "from_date": "1915",
+                "type": "Gift med",
+                "external_id": "person_8736ab105910",
+                "birth_date": "1891",
+                "death_date": "",
+                "firstname": "Catharina Sophie (Mosse) Larpent",
+                "lastname": "Svendsen",
+                "place": "Kristiania"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab2914",
+                "birth_date": "21.04.1848",
+                "death_date": "04.06.1915",
+                "firstname": "Henrik D.e",
+                "lastname": "Nissen",
+                "professions": "arkitekt"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105913",
+                "birth_date": "1853",
+                "death_date": "1929",
+                "firstname": "Hedwig Marie Pauline",
+                "lastname": "Bauer"
+            }
+        ],
+        "residences": {},
+        "educations": [
+            {
+                "comment": "Examen artium 1907",
+                "order": "0"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 3 år",
+                "order": "1"
+            },
+            {
+                "comment": "den tekniske høyskole, Dresden 2 år",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Henrichsens legat 1919 og -32"
+            },
+            {
+                "order": "1",
+                "description": "Egers legat og Benneches legat 1932"
+            },
+            {
+                "order": "2",
+                "description": "Studiereise i Europa 1919"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Flittig benyttet som arkitekttillitsmann"
+            },
+            {
+                "order": "6",
+                "description": "helserådet 1927–36, bygningsrådet 1929–32 og skjønnhetsrådet"
+            },
+            {
+                "order": "4",
+                "description": "medlem Oslo bystyre 1925–33"
+            },
+            {
+                "order": "5",
+                "description": "reguleringsrådet 1926–28"
+            },
+            {
+                "order": "1",
+                "description": "formann Oslo Arkitektforening 1931–33"
+            },
+            {
+                "order": "3",
+                "description": "presis Norsk Arkeologisk Selskap 1949-"
+            },
+            {
+                "order": "2",
+                "description": "visepresident Norske Arkitekters Landsforbund 1934–38, president 1948–52"
+            }
+        ],
+        "awards": {},
+        "public_productions": {},
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Sofienberghjemmet alders- og sykehjem, Rathkes gt. 19"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "industribygg, Hedmarksgt. 13 (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Folkets Hus Grünerløkka, Schleppegrells gt. 33 (1932–33)"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "utvidelse Skogadalsbøen (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "Prosjekter: Konkurranseutkast Den norske Creditbank, Oslo (1924)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Kirkevn. 39 (1935) og 86–90"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Maridalsvn. 305–311 (1959)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Benneches gt. 1–3 (1928–29)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Kristinelundvn. 17"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Privathytter: På Haugastøl for grosserer Ferner-Jacobsen (1934)"
+            },
+            {
+                "from_date": "",
+                "order": "58",
+                "to_date": "",
+                "description": "pleie- og aldershjem Kragerø (1947)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "sportshytta Trovajock, Nordmarka (1925)"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Tomtebo rekonvalesenthjem for småbarn, Modum"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "feriehjem for Christiania Spigerverk, Lysern i Enebakk (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Sosiale institusjoner: Ombygning og utvidelse av Åkebergvn. 23 til barnehjem (1928)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Brinkensgt. 16 (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "Glitterheim (1937) sammen med Kristian Biong"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "konkurranseutkast Ekebergrestauranten, Oslo (1927)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Nygård terrasse (1952)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Grimstadgt. 23 (1929)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Kristinelundvn. 15 (1933–34)"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "Bjørnhollia (1941–48)"
+            },
+            {
+                "from_date": "",
+                "order": "57",
+                "to_date": "",
+                "description": "konkurranseutkast, Norges Banks seddeltrykkeri Rådhusgt. 19, Oslo (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "verksted og bensinstasjon, Schweigaards gt. 16 (1930)"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Turisthytter: Valldalseter (1925–27)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Grünerløkka Folkets Hus, Schleppegrells gt. 32 (1932–33)"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "Lesjaverk, Lesja (1964) sammen med C. L. Nissen og Gunnar Brynning"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Litlos (1931–33)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Dælenengakomplekset Chr. Michelsens gt./Dælenenggt./Carl Berners plass (1932) sammen med Kristofer Lange"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Munthes gt. 38 (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "Prosjekter sammen med Mosse N.: 3. premie kiosk for Narvesen (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Alders Hvile, Armauer Hansens gt. 14 (1935–36) etter 1. premie i konkurranse"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Akershus fylkes husmorskole, Eidsvoll"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Konows gt. 75–75b (1934) og 81 (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Fritzners gt. 14 (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "Hovinkoia"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Lønnhaugen allé 9 (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Forretningsgårder: Tollbugt. 27 (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Forsamlingshus: Oslo Lærerinnelag, Peder Claussøns gt. 4 (1928–30)"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "Kirker: Skrukkeli, Hurdal (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Nøstedalsseter (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Sandhaug (1929, nybygd 1984)"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "Firmaet N. & Brynning har dessuten oppført en rekke industri-, kontor- og boligbygg for Christiania Spigerverk, Kværner Brug og De-No-Fa."
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "industribygg, Trondheimsvn. 137 (1934)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Hertzbergs gt. 7 (1938) Nobels gt. 13 (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Christies gt. 7–13/Fagerheimsgt. 2–14 (1932–33)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Enebakkv. 77 (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Domkirkens alders- og sykehjem, Colletts gt. 52"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "Prosjekter sammen med Gunnar Brynning: Automobilhotell (1931)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Villaer: for Herm. Christiansen, Ris (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Himmelhaugen for advokat Leif Rode, Smestad (1931)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Leiegårder: Thereses gt. 35b (1923–24) for Kvindernes Boligselskab A/S"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Munkedamsvn. 3b (1948)"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "Rondestua, Musvollsæter for rådmann Bassøe (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "I Oslo når annet ikke er nevnt, vesentlig sammen med Gunnar Brynning. Om- og tilbygging Kristiania Sparebank, Øvre Slottsgt. 3 (1921–23)"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Gjendesheim (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Norden-huset, Akersgt. 35 (1962) sammen med C. L. Nissen, Gunnar Brynning, Rannei Jørgensen og Ivar Mauritz-Hansen jr."
+            }
+        ],
+        "illustrations": {},
+        "exhibitions": {},
+        "portraits": {},
+        "authorships": [
+            {
+                "from_date": "1929",
+                "order": "0",
+                "reference": "s. 14–33",
+                "to_date": "",
+                "description": "Leiegårdskultur, St. Hallvard",
+                "authors": [
+                    "Nissen, Henrik d.y."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "1",
+                "to_date": "",
+                "description": "Hyttebygg i fjellet",
+                "place": "Oslo",
+                "authors": [
+                    "Nissen, Henrik d.y."
+                ],
+                "comments": [
+                    "medforfatter",
+                    "utg. Den norske Turistfor."
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1967",
+                "order": "11",
+                "reference": "register s. 282 (ill.)",
+                "to_date": "",
+                "description": "i Akersgaten",
+                "place": "Oslo",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "28",
+                "reference": "s. 80 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "8",
+                "reference": "s. 400 (ill.)",
+                "to_date": "",
+                "description": "Norske hus",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "[u.å.], register s. 133 (ill.)",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo gårdkalender. Nybygg 1945–55",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "26",
+                "reference": "s. 36 (ill.), tillegg s. 18",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "24",
+                "reference": "tillegg s. 31",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "32",
+                "reference": "tillegg s. 14",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "13",
+                "reference": "register s. 232",
+                "to_date": "",
+                "description": "Oslo. En arkitekturguide",
+                "place": "Oslo",
+                "authors": [
+                    "Gunnarsjaa, A.",
+                    "Engh, P. H.",
+                    ""
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "3",
+                "to_date": "1950",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "15",
+                "reference": "bilag s. 20 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "34",
+                "reference": "s. 98",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "register bd."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "20",
+                "reference": "s. 164–65 (ill.), tillegg s. 35, 48",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-06-26",
+                "order": "5",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "17",
+                "reference": "s. 192",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "22",
+                "reference": "s. 32–33, 90, 128 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "30",
+                "reference": "s. 20 (ill.), tillegg s. 17",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "10",
+                "reference": "s. 49, 68, 102, 105, 138–39, 164, 171, 195, 257",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-11-17",
+                "order": "7",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "25",
+                "reference": "s. 218–19 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "27",
+                "reference": "s. 161–62, 177–80 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "23",
+                "reference": "s. 148–51, 192–93 (ill.), tillegg s. 39",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "12",
+                "reference": "register s. 265",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "33",
+                "reference": "s. 24–25 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "14",
+                "reference": "s. 61 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "2",
+                "reference": "s. 283–85",
+                "to_date": "",
+                "description": "Studentene fra 1907",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "19",
+                "reference": "s. 52–54, 93, 113 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "[u.å.], register s. 367 (ill.)",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo gårdkalender. Nybygg 1925–45",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-11-16",
+                "order": "6",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Dunker, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "18",
+                "reference": "s. 122–23 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "35",
+                "reference": "s. 356",
+                "to_date": "",
+                "description": "Forening til Norske Fortidsminners Bevarings Årbok register bd.",
+                "place": "Sarpsborg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "21",
+                "reference": "s. 136, 162–55 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "31",
+                "reference": "s. 22–23, 193",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "29",
+                "reference": "s. 54–55 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "16",
+                "reference": "s. 49–54, 60–61, 168–73 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Antikvarisk Arkiv, Riksantikvaren"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Henrik d.y. Nissen",
+    "url": "https://nkl.snl.no/Henrik_d.y._Nissen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter praksis som arkitektassistent etablerte N. eget kontor i Kristiania i 1915 sammen med sin hustru Mosse N., fra 1931 sammen med Gunnar Brynning i firmaet N. &amp; Brynning. N., og senere N. &amp; Brynning, har oppført en lang rekke betydelige bygg, vesentlig i Oslo. Om- og tilbyggingen av <em>Kristiania Sparebank</em>, Øvre Slottsgt. 3 (1921–23) er en meget vellykket tilpasning til farens, Henrik N. d.e.s huggensteinsbygning fra 1898–1901. Mot sør er den gamle romansk-inspirerte huggesteinsfasaden forlenget ved repetering av det eldre fasadesystemet og -materialet. Den nye vestfasaden mot Akersgata er en klassisistisk betongfasade med  forsenkede rundbuede felt som harmonerer med de kopierte huggensteinsfasadene. I 1920- og 30-årene oppførte firmaet en rekke villaer og leiegårder i Oslo som viser stadier i overgangen fra klassisisme til funksjonalisme. <em>Dælenengakomplekset</em> (1932) er et funksjonalistisk leiegårdsanlegg og et tidlig eksempel på brudd med det tradisjonelle lukkede kvartalsmønsteret. Leilighetenes planløsninger er også preget av de nye rasjonelle tanker i boligbyggingen. Som Den Norske Turistforenings arkitekt fra 1925 har N. oppført en rekke turisthytter.</p></div>",
+    "created_at": "2014-11-20T11:13:15.942+01:00",
+    "changed_at": "2024-06-18T23:27:49.760+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2913\",\"https://digitaltmuseum.no/a998116c-94c5-4651-912a-762db9a1582a\",\"http://kulturnav.org/a998116c-94c5-4651-912a-762db9a1582a\"]",
+        "lastname": "Nissen",
+        "firstname": "Henrik D.y",
+        "birth_date": "28.6.1888",
+        "birthplace": "Kristiania",
+        "death_date": "14.11.1953",
+        "external_id": "person_8736ab2913",
+        "kulturnav_id": "a998116c-94c5-4651-912a-762db9a1582a",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Trond Marinus Indahl"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20333/standard_NMK-A_NAMF.0308120151204-26003-x9pz8f.jpg",
+            "full_size_url": "https://media.snl.no/media/20333/NMK-A_NAMF.0308120151204-26003-x9pz8f.jpg",
+            "xhtml": "<div><p><i>Jessheim fylkesskole</i>. Ukjent. <a href=\"http://digitaltmuseum.no/011074053119\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Henrik d.y. Nissen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20334/standard_NMK-A_NAMT.hni001.00120151204-26003-1vdh3zd.jpg",
+            "full_size_url": "https://media.snl.no/media/20334/NMK-A_NAMT.hni001.00120151204-26003-1vdh3zd.jpg",
+            "xhtml": "<div><p><i>Utkast til bolig for kronprinsparet på Oscarshall</i>. Henrik d.y. Nissen. 1929. <a href=\"http://digitaltmuseum.no/011072537123\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Henrik d.y. Nissen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

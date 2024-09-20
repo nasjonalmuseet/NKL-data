@@ -1,0 +1,332 @@
+{
+    "id": 430344,
+    "headword": "Harald Rui",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106741",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Selma",
+                "lastname": "Eskeland",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106740",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie",
+                "lastname": "Håkonsdatter",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106739",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Amund",
+                "lastname": "Rui",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Kristiansand"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev av Dagfin Kjølsrud, Kristiansand",
+                "order": "2"
+            },
+            {
+                "comment": "Elev av Olaf Hasaas, Kristiansand",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Per Krohg og Jean Heiberg 1946–49",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens Kunstakademi, Oslos stipend 1947"
+            },
+            {
+                "order": "2",
+                "description": "Studiereiser til København og Roma 1983"
+            },
+            {
+                "order": "1",
+                "description": "Kristiansand kommunes stipend 1978"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Medlem Bildende Sørlandskunstnere"
+            },
+            {
+                "order": "1",
+                "description": "kursleder i tegning og maling Kristiansand folkeopplysningsråd"
+            },
+            {
+                "order": "0",
+                "description": "Formingslærer Oddemarka ungdomsskole 1964-75"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hjørnegalleri, Kristiansand",
+                "from_date": "1981",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Tvedestrand rådhus",
+                "from_date": "1981",
+                "order": "10",
+                "to_date": "",
+                "title": "Bildende Sørlandskunstnere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Arendal kunstforening",
+                "from_date": "",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Andersengården, Mandal",
+                "from_date": "",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Mandal kunstforening",
+                "from_date": "",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1965",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skrivergården Mandal",
+                "from_date": "",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "13",
+                "to_date": "1971",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1946",
+                "order": "0",
+                "to_date": "1947"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Bi-Z, Kristiansand",
+                "from_date": "1980",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1983",
+                "order": "16",
+                "to_date": "",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Bi-Z, Kristiansand",
+                "from_date": "1972",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1962",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "15",
+                "to_date": "1979",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1981",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "14",
+                "to_date": "1975",
+                "title": "Sørlandsutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1981-03-25",
+                "order": "6",
+                "to_date": "",
+                "description": "Tvedestrandspalte",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-15",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fædrelandsvennen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-03-20",
+                "order": "0",
+                "to_date": "",
+                "description": "Dagbladet Sørlandet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-10-21",
+                "order": "1",
+                "to_date": "",
+                "description": "Dagbladet Sørlandet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-01-27",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fædrelandsvennen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-01-14",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Fædrelandsvennen",
+                "authors": [
+                    "Opstad, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-18",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet Sørlandet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Harald Rui",
+    "url": "https://nkl.snl.no/Harald_Rui",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>R. maler landskaper, som oftest fra sørlandsmiljø, portretter og figurbilder. Formspråket er som regel klart impresjonistisk, men han maler også komposisjoner i vel avstemte fargeflater. Enkelte bilder er fargesterke og ekspressive. Kontrasten mellom lys og skygge understrekes gjerne. R. arbeider også med skulptur, mest med hoder og byster, og lager dessuten raderinger og tresnitt.</p></div>",
+    "created_at": "2014-11-20T13:07:32.387+01:00",
+    "changed_at": "2024-06-18T23:27:55.576+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3302\",\"https://digitaltmuseum.no/25c750d4-bb33-456c-9c92-0709c0694a08\",\"http://kulturnav.org/25c750d4-bb33-456c-9c92-0709c0694a08\"]",
+        "lastname": "Rui",
+        "firstname": "Harald",
+        "birth_date": "5.8.1909",
+        "birthplace": "Birkeland",
+        "external_id": "person_8736ab3302",
+        "kulturnav_id": "25c750d4-bb33-456c-9c92-0709c0694a08"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

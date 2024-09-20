@@ -1,0 +1,675 @@
+{
+    "id": 430981,
+    "headword": "Alf Trana",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107662",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gunnar",
+                "lastname": "Trana",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107663",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Torbjørg",
+                "lastname": "Pettersen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab107664",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Eva",
+                "lastname": "Mabro",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo, boklinjen, grafikklinjen under Chrix Dahl 1954-57",
+                "order": "0"
+            },
+            {
+                "comment": "Statens lærerskole i forming, Oslo",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "5",
+                "description": "Statens garantiinntekt fra 1979"
+            },
+            {
+                "order": "2",
+                "description": "Ib Schlytters legat 1965"
+            },
+            {
+                "order": "4",
+                "description": "Oppegård kommunes kulturstipend 1978"
+            },
+            {
+                "order": "0",
+                "description": "Statens kunstfond 1961 og 1-årige arbeidsstipend 1963"
+            },
+            {
+                "order": "6",
+                "description": "Studieopphold i Italia, Frankrike, Spania, Nederland og Hellas"
+            },
+            {
+                "order": "3",
+                "description": "Bærum kommunes stipend 1969"
+            },
+            {
+                "order": "1",
+                "description": "Lorch Schives legat 1964"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Tegnelærer Persbråten skole, Oslo 1962(?)-67"
+            },
+            {
+                "order": "1",
+                "description": "lærer i tegning, form og farge Elisenberg videregående skole 1967-81"
+            },
+            {
+                "order": "2",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "4",
+                "description": "Foreningen Norske Grafikere, flere tillitsverv"
+            },
+            {
+                "order": "5",
+                "description": "medarbeider Landslaget Kunst i Skolen 1960-81, medlem styre, jury og valgkomité"
+            },
+            {
+                "order": "6",
+                "description": "varamedlem Tilsynsrådet for Kunstnernes Hus, Oslo 1967-69, 1970-71, varamann Direksjonen 1971-76"
+            },
+            {
+                "order": "3",
+                "description": "Medlem Unge Kunstneres Samfunn"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Medalje 2. Triennale Internationale della Xilografia Contemporanea, Capri, Italia 1972"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "museum på Capri, Italia"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Universitetet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Oregon State University og Rhode Island College System, USA"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Sarpsborg, Rakkestad og Seljord kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Utsmykning biblioteket, Oppegård videregående skole (monumental lakklavering, 1976)."
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Vinterstemning, akvarell til UNICEF-kort 1978"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "20",
+                "to_date": "1963",
+                "title": "Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "24",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "22",
+                "to_date": "",
+                "title": "Ungdomsbiennalen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "14",
+                "to_date": "1965",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "16",
+                "to_date": "1976",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "26",
+                "to_date": "",
+                "title": "2. Triennale Internationale della Xilografia Contemporanea"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1981",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1953",
+                "order": "19",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1964",
+                "order": "23",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1960",
+                "order": "21",
+                "to_date": "",
+                "title": "Nordisk grafik"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "15",
+                "to_date": "1970",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1966",
+                "order": "25",
+                "to_date": "",
+                "title": "Grafika Norweska"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "17",
+                "to_date": "1979",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "27",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1958",
+                "order": "13",
+                "to_date": "1961",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1976-08-31",
+                "order": "18",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-05-11",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Østlandets Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-21",
+                "order": "31",
+                "to_date": "",
+                "description": "Demokraten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-10-03",
+                "order": "28",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-02",
+                "order": "26",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "3",
+                "reference": "s. 143",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-08-29",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-08-27",
+                "order": "14",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "7",
+                "reference": "s. 83 (ill.)",
+                "to_date": "",
+                "description": "Norske grafikere",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-09-29",
+                "order": "23",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "9",
+                "reference": "s. 21, 25 (ill.)",
+                "to_date": "",
+                "description": "Norske grafikere i dag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "1",
+                "reference": "s. 254",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-09-29",
+                "order": "21",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-08-30",
+                "order": "19",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-12-06",
+                "order": "13",
+                "to_date": "",
+                "description": "i Østlendingen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-11-07",
+                "order": "25",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-05",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "0001-10-01",
+                "authors": [],
+                "comments": [
+                    "i katalog Kunstnerforbundet og Oppegård Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "5",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-06-09",
+                "order": "29",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-02",
+                "order": "30",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "4",
+                "reference": "s. 124",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-25",
+                "order": "32",
+                "to_date": "",
+                "description": "i Østlandets Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "2",
+                "reference": "s. 52 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-10-15",
+                "order": "27",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-23",
+                "order": "17",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-08-31",
+                "order": "15",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "6",
+                "reference": "s. 56",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-29",
+                "order": "24",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "8",
+                "reference": "s. 257",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-21",
+                "order": "22",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-11-05",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Hamar Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-02-20",
+                "order": "20",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "0",
+                "reference": "hefte 62 s. 46",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "10",
+                "reference": "s. 713",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Alf Trana",
+    "url": "https://nkl.snl.no/Alf_Trana",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter debuten i 1958 arbeidet T. i ti år stort sett bare med akvatint-etsninger, foruten enkelte fargetresnitt og -litografier. Han laget også pennetegninger til kjærlighetsdikt bl.a. av Knut Hamsun, Arnulf Øverland, Tarjei Vesaas, Herman Wildenvey og Einar Skjæraasen. Fra slutten av 60-årene beskjeftiget han seg mest med fargetresnitt, samtidig som han også malte en rekke akvareller. T.s motiver var helst stille naturstemninger, som gamle gårdstun og intime naturutsnitt fra skog, myr og fjell, sett og opplevd særlig på Finnskogene, Hvaler og i Gudbrandsdalen. Han brukte også bymotiver, bl.a. en rekke reiseminner fra utlandet, gjengitt i en egenartet og poetisk-melankolsk stemning. T.s tidlige arbeider var holdt i en solid, ofte detaljrik naturalisme. Etter et par år ble det lyriske uttrykk mer fremtredende, samtidig som han i sine etsninger utnyttet raderplatens maleriske verdier og store valørspill. I de senere års fargetresnitt og akvareller arbeidet han, særlig i de norske naturmotiver, med en varsom forenkling av formen og mykt avstemte farger. Sterkere temperament, både i koloritt og strekføring, viste T. i en rekke litografier. Som eksempler på T.s produksjon kan nevnes pennetegningen <em>La Spezia</em> (1959), etsningene <em>Ponte Vecchio</em> (1958), <em>Blomstring i haven</em> (1961) og <em>Katedral</em> (1964), fargetresnittene <em>Fred</em> (1970) og <em>Seterkveld</em> (1974) og akvarellene <em>Ettermiddag ved myra</em> (1974) og <em> Myrull</em> (1978).</p></div>",
+    "created_at": "2014-12-19T16:45:18.588+01:00",
+    "changed_at": "2024-06-18T23:28:11.953+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3790\",\"https://digitaltmuseum.no/075ea48d-7f06-4124-a1ee-801ae4cd855e\",\"http://kulturnav.org/075ea48d-7f06-4124-a1ee-801ae4cd855e\"]",
+        "lastname": "Trana",
+        "firstname": "Alf",
+        "birth_date": "9.8.1933",
+        "birthplace": "Namsos",
+        "death_date": "21.6.1981",
+        "external_id": "person_8736ab3790",
+        "kulturnav_id": "075ea48d-7f06-4124-a1ee-801ae4cd855e",
+        "place_of_death": "Spania",
+        "alternative_names": "Trana, Alf Johan"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

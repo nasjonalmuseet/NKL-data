@@ -1,0 +1,951 @@
+{
+    "id": 429972,
+    "headword": "Kjeld Rasmussen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab3175",
+                "birth_date": "15.06.1879",
+                "death_date": "06.12.1965",
+                "firstname": "Wilhelm",
+                "lastname": "Rasmussen",
+                "professions": [
+                    "billedhugger"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106432",
+                "birth_date": "1892",
+                "death_date": "",
+                "firstname": "Dorothy Phyllis",
+                "lastname": "Coke",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "hospitant Kunstakademiet i København under Einar Utzon-Frank 1939-40",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Halfdan Strøm 1934-35, under Wilhelm Rasmussen 1941-42",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Håndverks og Kunstindustriskole, Oslo under Torbjørn Alvsåker våren 1944",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "14",
+                "description": "Tunis"
+            },
+            {
+                "order": "15",
+                "description": "Marokko"
+            },
+            {
+                "order": "6",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "9",
+                "description": "studiereiser til Roma 1947, -59"
+            },
+            {
+                "order": "1",
+                "description": "Blom stipend 1947"
+            },
+            {
+                "order": "2",
+                "description": "Houens legat 1952, -56"
+            },
+            {
+                "order": "7",
+                "description": "Statens stipend for eldre fortjente kunstnere fra 1984"
+            },
+            {
+                "order": "12",
+                "description": "Peru 1965"
+            },
+            {
+                "order": "13",
+                "description": "Athen flere ganger"
+            },
+            {
+                "order": "10",
+                "description": "Firenze 1947, -73"
+            },
+            {
+                "order": "0",
+                "description": "Mohrs legat 1945"
+            },
+            {
+                "order": "5",
+                "description": "Oslo bys stipend 1972"
+            },
+            {
+                "order": "4",
+                "description": "Statens 3-årige arbeidsstipend 1958, -65"
+            },
+            {
+                "order": "8",
+                "description": "Studieopphold i København 1939-40"
+            },
+            {
+                "order": "11",
+                "description": "Paris 1949"
+            },
+            {
+                "order": "3",
+                "description": "Statens reisestipend 1954"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem Norsk Billedhuggerforening til ca. 1983"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Utenriksdepartementet"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Ludvig Irgens Jensen, Oslo Konserthus"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Bosse 7 år, Sagene skole, Oslo (bronse 1954, reist 1961)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Ung kvinne, Apothekernes Laboratorium for Specialpræparater, Oslo (bronse 1958)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Kristiansand kommune"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Knut Tvedt, H. Aschehoug & Co A/S, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Einar Sissener, Blom restaurant, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Minnesmerke over falne 1940-45, Kristiansand kirkegård (reist 1951)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Sittende gutt II, Veitvet torg, Oslo (bronse 1958)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Moderna Museet, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "gallionsfigurer for Fred. Olsens rederi: M/S Bolt (1949?), M/S Blenheim (1969, sjøsatt 1970)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Ung mann, Lillestrøm videregående skole (bronse 1945)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Roma",
+                "from_date": "1955",
+                "order": "16",
+                "to_date": "",
+                "title": "Arte Nordica Contemporanea"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1956",
+                "order": "17",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling Sverige",
+                "from_date": "1958",
+                "order": "18",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Reykjavik",
+                "from_date": "1954",
+                "order": "15",
+                "to_date": "",
+                "title": "Hin opinbera norska listsýning"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "8",
+                "to_date": "1972",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1948",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. KB, Oslo",
+                "from_date": "1958",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1985",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aud Øygardens kunstsalong, Seljord",
+                "from_date": "1973",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Lucy Krohg, Paris",
+                "from_date": "1973",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1962",
+                "order": "19",
+                "to_date": "",
+                "title": "Vår skulptur idag"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1969",
+                "order": "21",
+                "to_date": "",
+                "title": "Statens Kunstakademi 60 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1972",
+                "order": "22",
+                "to_date": "",
+                "title": "portrettutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk Kunstforbunds utstillinger, Bergen",
+                "from_date": "1953",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Strasbourg",
+                "from_date": "1966",
+                "order": "20",
+                "to_date": "",
+                "title": "Exposition Art Nordique Contemporain"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk Kunstforbunds utstillinger, Oslo",
+                "from_date": "1953",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk Kunstforbunds utstillinger, Oslo",
+                "from_date": "1946",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "9",
+                "to_date": "1977",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1950",
+                "order": "14",
+                "to_date": "",
+                "title": "Skulpturutstilling 1950"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1954",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Eiker Kunstforening, Hokksund",
+                "from_date": "1982",
+                "order": "23",
+                "to_date": "",
+                "title": "Bilde og dikt"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1950",
+                "order": "6",
+                "to_date": "1951",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk Kunstforbunds utstillinger, Helsinki",
+                "from_date": "1963",
+                "order": "13",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1983",
+                "order": "15",
+                "reference": "bd. 7, s. 299–301 (ill.)",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "9",
+                "reference": "s. 24, 70, 113 (ill.)",
+                "to_date": "",
+                "description": "Statens Kunstakademi 60 år",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [
+                    "katalog Nasjonalgalleriet, Oslo"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "11",
+                "reference": "s. 50",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1985-01-14",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "13",
+                "reference": "s. 262, pl. 114",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1985-01-11",
+                "order": "41",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "39",
+                "reference": "[upag.] (ill.)",
+                "to_date": "",
+                "description": "Skulptur på A/S Selvaagbyggs boligfelter",
+                "place": "Oslo",
+                "authors": [
+                    "Røed, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-10-09",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-12-19",
+                "order": "21",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Gran, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-05-23",
+                "order": "31",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Ellingsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-09",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-10-28",
+                "order": "29",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Aas, A.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-10-12",
+                "order": "28",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Aas, A.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950-06-01",
+                "order": "25",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "16",
+                "reference": "s. 561",
+                "to_date": "",
+                "description": "Oslo. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-12",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-11-27",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Haukeland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-11-29",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Friheten",
+                "authors": [
+                    "Finne, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-07-19",
+                "order": "37",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "1",
+                "reference": "s. 40–41 (ill.)",
+                "to_date": "",
+                "description": "i Konstrevy",
+                "place": "Stockholm",
+                "authors": [
+                    "Blomberg, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "5",
+                "reference": "s. 85, 100",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-14",
+                "order": "35",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "3",
+                "reference": "s. 205, 221 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norsk skulptur",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "14",
+                "reference": "bd. 9, s. 670",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "10",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 14, pl. IV-8, bd. 16, spalte 109"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1985-01-11",
+                "order": "40",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1985-01-11",
+                "order": "42",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Kokkin, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "6",
+                "to_date": "1984",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-10-28",
+                "order": "30",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-12-06",
+                "order": "20",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950-10-05",
+                "order": "26",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "12",
+                "reference": "s. 51",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-11",
+                "order": "24",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-04",
+                "order": "22",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-09-10",
+                "order": "32",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "0",
+                "reference": "s. 103",
+                "to_date": "",
+                "description": "i Bonytt",
+                "authors": [
+                    "Strømberg, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-10-09",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "2",
+                "reference": "bd. 2, s. 433 (ill.), 435",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-07-27",
+                "order": "36",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-11-23",
+                "order": "17",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nielssen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-01",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "4",
+                "reference": "hefte 51 omslagsill., s. 4–25 (ill.)",
+                "to_date": "",
+                "description": "i Kunsten idag",
+                "authors": [
+                    "Moe, O. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "7",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Kjeld Rasmussen",
+    "url": "https://nkl.snl.no/Kjeld_Rasmussen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>R. er i sjelden grad fortrolig med den klassiske europeiske billedhuggertradisjon fra gresk og romersk skulptur over Donatello og andre italienske ungrenessansemestere fram til franske billedhuggere som Charles Despiau og Jean Osouf. Hans bevissthet om denne tradisjon ble styrket både i den perioden han var sin fars elev og assistent og i det klassisistiske billedhuggermiljøet i København rundt Einar Utzon-Frank. Mest tilegnet han seg kanskje ved selvstudium. R. vakte oppmerksomhet da han debuterte på Høstutstillingen i 1945 med en mannsakt og to portrettbyster. Kritikerne var særlig begeistret for portrettet av maleren <em>Gladys Nilssen Raknerud</em> (bronse 1945, Nasjonalgalleriet, Oslo). Hodet er stilt svakt på skrå, blikket vendt noe ned, preget av tankefull, nærmest innadvendt ro. Modelleringen er ytterst følsom i myke, avrundede former som understreker hennes unge alder og sensuelle utstråling. Formalt bæres spenningen av en lett forskyvning av øynene i forhold til hverandre og som kontrast til bevegelsen av øyenbrynene. Også det andre portrettet, maleren <em>Gunnvor Advocaat</em> (bronse 1945, Nationalmuseum, Stockholm), vakte oppsikt. Det er preget av myndig utadvendthet og sikkerhet i sin noe fastere reisning og i blikket som er vendt rett fram. Også her har R. utnyttet forskyvninger av ansiktets ørsmå detaljer for å gi komposisjonen spenning og liv, som f.eks. i munnvikene. Den stående mannsakten <em>Ung mann</em> (bronse 1945, Lillestrøm videregående skole) bærer som de to portrettene preg av både fysisk og psykisk ro. Tyngdepunktet er forskjøvet litt over på høyre ben, men føttene står bare svakt asymmetrisk i forhold til hverandre. Underarmene holder han tilsvarende vannrett, nesten symmetrisk rett fram, men med små innbyrdes forskyvninger av hendene slik at symmetrien brytes. Endelig merkes en svak dreining av overkroppen og hodet mot høyre i forhold til benstillingen. Forlegget for skulpturen er tydelig hentet fra kuros-skikkelsen i gresk arkaisk skulptur. Med disse tre debutantarbeidene hadde R. slått an en tone som også preger mange av hans senere arbeider. Bevegelse, monumentalitet og dramatikk på det ytre plan tones ned til fordel for váre antydninger av fysisk art som dermed får større psykologisk-karakteriserende betydning. Disse aspektene skiller hans arbeider klart fra farens. I sin søken etter nyanserte antydninger på det formale plan, fremhever R. i tillegg skjønnheten som et viktig element ved sine unge, nærmest idealiserte menneskeportretter. Tydeligst ses dette i de mange kvinnebystene, som <em>Halvfigur</em> (bronse 1952, privat eie), hvor det rolige, vakre ansiktet fremheves ved at det røft modellerte håret er samlet i en hestehale i nakken slik at den glatte, myke hudoverflaten står klarere fram og understreker de sterke sensuelle overtonene. Tilsvarende fremheves de bare skuldrene i kontrast til kledets folder og ruglete overflate, holdt på plass av hendene foran brystet og mellomgulvet.</p>\n<p>Interessen for det realistiske kom etter hvert sterkere fram hos R., bl.a. i antydninger til bevegelse i hans mange barnefigurer og -portretter. Et tidlig eksempel er <em>Bosse 7 år</em> (bronse 1954, Riksgalleriet), der to ulike musefletter bringer bevegelse til et ellers strengt oppbygd portrett. Et annet eksempel er <em>Sittende gutt II</em> (bronse 1958, Veitvet torg, Oslo, også i Nasjonalgalleriet). Den rufsete panneluggen, armene som holdes godt ut fra kroppen og de kryssende leggene røper ungguttens lekende rastløshet i hans sittende stilling ytterst på en blokkform. Barneportrettene preges likevel hovedsakelig av interessen for barnets runde, nærmest polerte ansiktsformer og hud, i kontrast særlig til hårets ru overflate. Kritikerne har således berømmet R. for hans evne til å formidle barnas ynde. En parallell til dette er de sensuelle, stundom erotisk ladede trekk ved hans figurer av ungdom og voksne mennesker. Av og til har dette imidlertid ført til at betoningen av det lyrisk elskverdige og drømmefylte uttrykk skjer på bekostning av sterk og klar form, som eksempelvis i <em> Halvfigur</em> (vist Galleri KB, Oslo 1958). R. har hele tiden hatt portrettet som sin viktigste uttrykksform. Han har laget byster av en rekke kjente personer i samtiden, som skuespillerne <em>Aase Bye</em> (bronse 1960), <em>Hennika Skjønberg</em> (bronse ca. 1968) og <em>Henki Kolstad</em> (bronse ca. 1970). Spesielt de senere portrettene er preget av kravet til ytre likhet med unntak av barnehodene som virker mer umiddelbare, f.eks. <em>Lars Michael</em> (malt terrakotta ca. 1973, Nasjonalgalleriet). Det monumentale har ikke interessert R., men enkelte skulpturer viser hans evner til å arbeide i et større format, bl.a. <em>4 gallionsfigurer</em> og <em>Ung kvinne</em> (bronse 1958, Apothekernes Laboratorium). Sistnevnte viser at interessen for bevegelse antydet av den forsiktig gående benstillingen og de ledige, frie armene, skiller denne og senere arbeider fra hans første forsøk i dette formatet, <em>Ung gutt</em>. Kvinnens løftede hode og blikkretning, samt hennes ranke holdning motveier imidlertid bevegelsesaspektet og gir figuren et lett idealisert, nærmest klassiserende preg. Dette edle, opphøyde både i figurenes idealiserte utseende, forsiktige bevegelser og ranke holdning, er karakteristisk for R.s skulptur. De váre antydninger til bevegelse og de ofte nesten umerkelige brudd på symmetrien ved små forskyvninger, lader arbeidene og gjør dem aktuelle utover sitt klassiserende utgangspunkt.</p>\n</div>",
+    "created_at": "2014-11-20T10:17:31.198+01:00",
+    "changed_at": "2024-06-18T23:27:46.027+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3173\",\"https://digitaltmuseum.no/0294ccc1-69ba-4743-a8e1-2b2aa79313fe\",\"http://kulturnav.org/0294ccc1-69ba-4743-a8e1-2b2aa79313fe\"]",
+        "lastname": "Rasmussen",
+        "firstname": "Kjeld",
+        "birth_date": "21.1.1917",
+        "birthplace": "Trondheim",
+        "death_date": "29.4.1999",
+        "external_id": "person_8736ab3173",
+        "kulturnav_id": "0294ccc1-69ba-4743-a8e1-2b2aa79313fe",
+        "place_of_death": "Oslo",
+        "alternative_names": "Rasmussen, Kjeld Arthur Midleton"
+    },
+    "authors": [
+        {
+            "full_name": "Svein Aamold"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "id": 431706,
+    "headword": "Johannes Østby",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100217",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie",
+                "lastname": "Johannessen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100216",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ole Christian Andreassen",
+                "lastname": "Østby",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Tjølling"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev og assistent hos billedhugger Hans Holmen, Sandefjord 1938-40",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Stinius Fredriksen og Per Palle Storm 4 mndr. 1946",
+                "order": "2"
+            },
+            {
+                "comment": "Elev av Bjørn Smith-Hald, Larvik 6 mndr. 1929-30",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Studieopphold i Paris 1950-årene"
+            },
+            {
+                "order": "2",
+                "description": "København høsten 1961"
+            },
+            {
+                "order": "0",
+                "description": "Stipend fra Fondet for dansk-norsk samarbeid 1961"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Vestfold Bildende Kunstnere (til 1978)"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "1. premie konkurranse norske frimerker prosjektert polar-utst. i Bergen 1940"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Kordrenger (1959, syenitt), Furuset skole, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "diplomer, faner for korps og skoler (1950- og 60-årene)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "2",
+                "to_date": "1962",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1946",
+                "order": "1",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1970",
+                "order": "0",
+                "to_date": "",
+                "title": "Permanenten"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1970-03-04",
+                "order": "6",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-03-12",
+                "order": "11",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-02-27",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "3",
+                "reference": "s. 48",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "4",
+                "reference": "s. 182 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "0",
+                "to_date": "",
+                "description": "Ice Cap News",
+                "place": "New Britain, Connecticut",
+                "authors": [],
+                "comments": [
+                    "nr. 3"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "2",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-03-07",
+                "order": "8",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-03-10",
+                "order": "9",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-03-07",
+                "order": "7",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-03-12",
+                "order": "10",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Woll, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [
+                    "desember (julen)"
+                ],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Johannes Østby",
+    "url": "https://nkl.snl.no/Johannes_%C3%98stby",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Ø. arbeider mest med syenitt i et grovt naturalistisk formspråk. Han hugger skulpturene selv og har følgelig en liten produksjon. I 1970 vakte han oppmerksomhet i Kunstnernes Hus med gruppen <em>Søstre</em>. Ved siden av virksomheten som billedhugger arbeider han som gårdbruker.</p></div>",
+    "created_at": "2015-01-13T10:13:38.620+01:00",
+    "changed_at": "2024-06-18T23:28:30.123+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab120\",\"https://digitaltmuseum.no/dfcf2207-f96f-4877-ba01-67d7bdd4c172\",\"http://kulturnav.org/dfcf2207-f96f-4877-ba01-67d7bdd4c172\"]",
+        "lastname": "Østby",
+        "firstname": "Johannes",
+        "birth_date": "13.12.1910",
+        "birthplace": "Tjølling",
+        "death_date": "12.1.1996",
+        "external_id": "person_8736ab120",
+        "kulturnav_id": "dfcf2207-f96f-4877-ba01-67d7bdd4c172",
+        "place_of_death": "Tjølling"
+    },
+    "authors": [
+        {
+            "full_name": "Einar Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

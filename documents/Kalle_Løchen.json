@@ -1,0 +1,1023 @@
+{
+    "id": 418124,
+    "headword": "Kalle Løchen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "skuespiller"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105206",
+                "birth_date": "1818",
+                "death_date": "1877",
+                "firstname": "Edvard",
+                "lastname": "Løchen",
+                "professions": [
+                    "overkontrollør"
+                ]
+            },
+            {
+                "from_date": "1885",
+                "to_date": "1892",
+                "type": "Gift med",
+                "external_id": "person_8736ab105208",
+                "birth_date": "1862",
+                "death_date": "",
+                "firstname": "Anna Cathinca Charlotte",
+                "lastname": "Brun",
+                "professions": [
+                    "skuespiller"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105207",
+                "birth_date": "1823",
+                "death_date": "1902",
+                "firstname": "Anne Elisabeth",
+                "lastname": "Grøtting",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Frits Thaulow, Modum høsten 1883 og våren 1884",
+                "order": "3"
+            },
+            {
+                "comment": "elev av Chr. Krohg 1883",
+                "order": "2"
+            },
+            {
+                "comment": "Middelskoleeksamen, Kristiania 1881, deretter Wilhelm von Hannos tegneskole",
+                "order": "0"
+            },
+            {
+                "comment": "Knud Bergsliens malerskole og Den kgl. Tegneskole, Kristiania under Julius Middelthun",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Léon Bonnat, Paris 1889",
+                "order": "4"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Opphold Paris oktober 1889 – mars 1890"
+            },
+            {
+                "order": "3",
+                "description": "med Levys turné Trondheim sommeren 1886, Kristiania mars 1887 og Jönköping april 1887"
+            },
+            {
+                "order": "2",
+                "description": "som skuespiller bosatt i Bergen 1886, 1887–89 og 1890–92"
+            },
+            {
+                "order": "4",
+                "description": "opphold Trondheim 1889"
+            },
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1889"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Stemmerett Bildende Kunstneres Styre 1884"
+            },
+            {
+                "order": "0",
+                "description": "Skuespiller ved Den Nationale Scene, Bergen 1886, 1887–89, 1890–92"
+            },
+            {
+                "order": "1",
+                "description": "skuespiller ved Carl Johantheatret, Kristiania høsten 1893"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Oslo Kinematografer"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Oslo Teatermuseum"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Den Nationale Scene, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1966",
+                "order": "8",
+                "to_date": "",
+                "title": "Christiania-motiver"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1915",
+                "order": "6",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1883",
+                "order": "1",
+                "to_date": "1885",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1892",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1888",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1928",
+                "order": "0",
+                "to_date": "",
+                "title": "Minneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1883",
+                "order": "4",
+                "to_date": "",
+                "title": "Industri- og Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Chr. Krohg: Et hjørne i mitt atelier (maleri, 1885, Lillehammer Bys malerisamling)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Selvportrett (1885, privat eie Trondheim)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Jacob Bratland: Kalle Løchen som Hamlet"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "karikatur utført av Jens Wang"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "O. Lærum: Kalle deklamerer Peer Gynt (tegning, 1887)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "maleri utført av Eilif Peterssen (1885, Nasjonalgalleriet, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Karl Gustav Jensen-Hjell: Atelierinteriør (1887, Nasjonalgalleriet, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Gudrun Løchen Drewsen: Kalle leser Dostojevski gjengitt i G. Løchen Drewsen: Man minnes så mangt, Oslo 1938, s. 132"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1891-08-18",
+                "order": "4",
+                "to_date": "",
+                "description": "Fra Tivoli til Bærum i Ballon, Christiania Intelligenssedler",
+                "authors": [
+                    "Løchen, Kalle"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890-02-11",
+                "order": "3",
+                "to_date": "",
+                "description": "En Oplevelse i Paris, Dagsposten",
+                "authors": [
+                    "Løchen, Kalle"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890-01-21",
+                "order": "2",
+                "to_date": "",
+                "description": "Fransk skuespildkunst 1-3, Dagsposten",
+                "authors": [
+                    "Løchen, Kalle"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889-11-29",
+                "order": "0",
+                "to_date": "",
+                "description": "Fransk skuespildkunst 1-3, Dagsposten",
+                "authors": [
+                    "Løchen, Kalle"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889-12-02",
+                "order": "1",
+                "to_date": "",
+                "description": "Fransk skuespildkunst 1-3, Dagsposten",
+                "authors": [
+                    "Løchen, Kalle"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1918-03-05",
+                "order": "20",
+                "to_date": "",
+                "description": "Erindringer om K. L., Verdens Gang",
+                "authors": [
+                    "Konow, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "30",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "44",
+                "reference": "(ill.) og oeuvre-liste",
+                "to_date": "",
+                "description": "Kalle Løchen",
+                "place": "Oslo",
+                "authors": [
+                    "Løchen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-03-07",
+                "order": "10",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "40",
+                "reference": "s. 71",
+                "to_date": "",
+                "description": "Den Munch jeg møtte",
+                "place": "Oslo",
+                "authors": [
+                    "Gløersen, I. Alver"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "50",
+                "reference": "s. 55–56",
+                "to_date": "",
+                "description": "På Grand i hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "14",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [
+                    "bd. 2, register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "54",
+                "reference": "s. 110, 122",
+                "to_date": "",
+                "description": "Biografisk skuespillerleksikon",
+                "place": "Oslo",
+                "authors": [
+                    "Jensson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-07-09",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Rasmussen, R."
+                ],
+                "comments": [
+                    "(Lørdagsavisen)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "38",
+                "reference": "s. 96–97",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "48",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "24",
+                "reference": "bd. 2, s. 489–90",
+                "to_date": "",
+                "description": "i Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-03-03",
+                "order": "8",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "29",
+                "reference": "s. 59, 78, 88, 92–94, 98, 101–02, 104, 109, 111, 114–18, 146 (ill.)",
+                "to_date": "",
+                "description": "Edvard Munch og hans samtid",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-03-06",
+                "order": "43",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Løchen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-03-05",
+                "order": "9",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "39",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "28",
+                "reference": "bd. 23, s. 314",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893-11-29",
+                "order": "13",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Krohn, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "49",
+                "reference": "s. 210",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-03-04",
+                "order": "19",
+                "to_date": "",
+                "description": "Erindringer om K. L., Verdens Gang",
+                "authors": [
+                    "Konow, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "53",
+                "reference": "bd. 7, s. 747",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-02-03",
+                "order": "27",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "33",
+                "reference": "s. 55–56, 104, 120–21, 131__-;32 (ill.)",
+                "to_date": "",
+                "description": "Man minnes så mangt",
+                "place": "Oslo",
+                "authors": [
+                    "Drewsen, G. Løchen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "37",
+                "reference": "s. 57, 67, 78, 83, 88",
+                "to_date": "",
+                "description": "Edvard Munchs brev. Familien",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "23",
+                "reference": "(opptrykk 1975), s. 198, 207–08, 210, 232, 234, 238, 250, 261–63, 273, 304, 315, 321, 324, 326",
+                "to_date": "",
+                "description": "Den Nationale Scene de første 25 år",
+                "place": "Bergen",
+                "authors": [
+                    "Wiers-Jenssen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-20",
+                "order": "47",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Borgen, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-03-01",
+                "order": "7",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "12",
+                "reference": "s. 477–80",
+                "to_date": "",
+                "description": "Samtiden",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "42",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "32",
+                "reference": "bd. 8, s. 573–75",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "56",
+                "reference": "nr. 5 (ill.)",
+                "to_date": "",
+                "description": "Forskningsnytt",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "16",
+                "reference": "s. 130–31",
+                "to_date": "",
+                "description": "Fra det gamle komediehus",
+                "place": "(Kristiania",
+                "authors": [
+                    "Sperati, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "52",
+                "reference": "s. 270",
+                "to_date": "",
+                "description": "Buskerud, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "26",
+                "reference": "s. 56 (ill.)",
+                "to_date": "",
+                "description": "Urd",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-02-24",
+                "order": "17",
+                "to_date": "",
+                "description": "Erindringer om K. L., Verdens Gang",
+                "authors": [
+                    "Konow, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-03-03",
+                "order": "18",
+                "to_date": "",
+                "description": "Erindringer om K. L., Verdens Gang",
+                "authors": [
+                    "Konow, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "36",
+                "reference": "s. 210",
+                "to_date": "",
+                "description": "i Kunst og Kultur",
+                "authors": [
+                    "Prestøe, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1885-11-20",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-05-07",
+                "order": "46",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hydle, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-23",
+                "order": "22",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889-08-31",
+                "order": "11",
+                "to_date": "",
+                "description": "Dagsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "55",
+                "reference": "bd. 5, s. 207–08 (ill.)",
+                "to_date": "",
+                "description": "i Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Berg, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "41",
+                "reference": "nr. 2, s. 18–25 (ill.)",
+                "to_date": "",
+                "description": "i Sal og Scene",
+                "place": "Oslo",
+                "authors": [
+                    "Magnussøn, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "31",
+                "to_date": "",
+                "description": "Nasjonalgalleriet gjennem hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "51",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "optional_reference": "s. 62 (ill.)",
+                "order": "15",
+                "to_date": "",
+                "description": "Norges kunst",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [
+                    "katalog Jubileumsutstillingen i"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "25",
+                "reference": "s. 65–76 (ill.)",
+                "to_date": "",
+                "description": "i Kunst og Kultur",
+                "authors": [
+                    "Dedichen, H. A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-01-25",
+                "order": "35",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-03-18",
+                "order": "21",
+                "to_date": "",
+                "description": "Erindringer om K. L., Verdens Gang",
+                "authors": [
+                    "Konow, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1884-11-04",
+                "order": "5",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "45",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Kalle Løchen",
+    "url": "https://nkl.snl.no/Kalle_L%C3%B8chen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>L. vokste opp i Kristiania, i et hjem med sterke interesser for litteratur. Her vanket bl.a. P. Chr. Asbjørnsen og Jørgen Moe. L.s søster Helene Lassen var forfatter, og i hennes hjem på prestegården i Sollia, Stor-Elvdal, oppholdt han seg gjerne. L.s kunstneriske interesser ytret seg meget tidlig, og han begynte allerede i 18-års alderen å male. Under inntrykk av Erik Werenskiolds artikkel Impressionisterne i Nyt Tidsskrift 1882 malte han skissen <em>Fra Kongshavn</em> (1882, Nasjonalgalleriet, Oslo) i helt lyse farger med oppløste penselstrøk. Elevforholdet til Chr. Krohg i 1883 fikk stor betydning for ham. I årene 1883–85 malte han en rekke bybilder, gjerne utsikten fra sitt ateliervindu i Sjøgaten over husklyngene i Vika, eller uryddige gårdsplasser, bilder som vakte oppsikt og irritasjon ved sine hverdagslige emner og uvante perspektiver og formater. Han malte også en grå vinterstemning fra Stortingsplass (1883). Under oppholdet på Modum høsten 1883 malte han flere betydelige bilder som <em>Malerskolens atelier</em> (Nasjonalgalleriet) og <em>Etter en søvnløs natt</em>. De er tydelig inspirert av Chr. Krohgs Skagen-bilder, og ble hans debut på Høstutstillingen 1883. <em>Den gamle Drammensvei</em> (1883) er, liksom atelierbildet, holdt i fint avstemte gråtoner. Til hans koloristisk beste ting hører også <em>Utsikt fra Ekeberg</em>  (1890). Andre by- og landskapsmotiver hentet han fra Stjørdalen, Trondheim (<em>Utsikt over Trondhjem</em>, 1886), Sollia og Bergen.</p>\n<p>Også som portrettmaler viste han et avgjort talent. Vi kan nevne portrettene av <em>Cecilie Thoresen Krog</em> (1885, Nasjonalgalleriet), <em>Sigurd Bødtker</em> (1886), <em>Henrik Jæger</em> (1888), <em>agent Christensen</em> (1888, Nasjonalgalleriet), <em>Gudrun Løchen Drewsen</em> (1890), brødrene <em>Arne Løchen</em> og <em>Sigurd Løchen</em> (begge 1892). Et selvportrett fra 1885 viser hans elegante apparisjon. L.s portretter er psykologisk inntrengende og utført med fin malerisk sans. Forholdsvis tallrike er hans interiører. I motsetning til den nøkterne realisme som preger hans første bilder viser hans <em>Interiør med datteren Esther</em> (1888) en rikt utstyrt borgerlig stue, malt med bred, saftig pensel. Ekte teaterluft er det i hans <em>I skuespillerinnenes garderobe</em> i Bergens teater (1892). Hans siste større bilde, <em>Etter et brudd</em> (Lillehammer Bys malerisamling), ble malt sommeren 1893 i Sollia prestegård. Motivet med den sammensunkne kvinneskikkelsen over spinettet gir bildet en tragisk tone som kan ha en personlig bakgrunn. L. var en sammensatt personlighet med et rikt fantasiliv, så rikt at han ofte hadde vanskeligheter med å skille mellom fantasi og virkelighet. Hans begavelse trakk ham i ulike retninger og skapte ofte problemer. Han skrev lett og underholdende, særlig om teater. Hans skuespillertalent var åpenbart for alle i samtiden. Han slo gjennom som Hamlet i Bergen i 1886, der han også var vår første norske Osvald i Gengangere (1890). Han utførte ellers både tragiske og komiske roller og deltok til og med i operaer. Det var som skuespiller han drømte om å skape seg et navn, maleriet kunne ikke livnære ham. Da han høsten 1889 drog til Paris, var det riktignok for å gå på malerskole hos Léon Bonnat, men han ble snart oppslukt av det franske teater. Særlig var han begeistret for den store Mounet Sully og hans Hamlet-tolkning, som det fremgår av hans teaterartikler til Dagsposten. Hans innsats som maler var likevel forholdsvis betydelig. Antall kjente bilder går opp i ca. 50, og dertil kommer tegninger og dekorative arbeider bl.a. i Sollia prestegård. Selv om hans maleriske livsverk ble en torso, står han som en av de eiendommeligste og mest talentfulle skikkelser i vår åttiårskunst. Han er levende skildret av K. Konow i Verdens Gang 1918 og av Jappe Nilssen i Dagbladet 1928.</p>\n<p>L.s siste år ble tragisk. Han ble i 1892 avskjediget fra teatret i Bergen da han ikke møtte opp til kveldens forestilling. Høsten 1893 ble han engasjert ved Carl Johantheatret i Kristiania hvor han spilte en rekke større og mindre roller. Men 20. november uteble han, samme dag som han skulle vies til en ung skuespiller ved teatret. Få dager senere ble han funnet i Ekebergåsen, han hadde skutt seg.</p>\n</div>",
+    "created_at": "2013-07-04T07:43:21.967+02:00",
+    "changed_at": "2024-06-18T23:26:27.449+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2503\",\"https://digitaltmuseum.no/7d4b6272-131a-4f25-8a97-dc5f65519ae8\",\"http://kulturnav.org/7d4b6272-131a-4f25-8a97-dc5f65519ae8\"]",
+        "lastname": "Løchen",
+        "firstname": "Kalle",
+        "birth_date": "9.5.1865",
+        "birthplace": "Fåberg, Gudbrandsdalen",
+        "death_date": "20.11.1893",
+        "external_id": "person_8736ab2503",
+        "kulturnav_id": "7d4b6272-131a-4f25-8a97-dc5f65519ae8",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Løchen, Karl"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15986/standard_NMK-B_NG.M.0150620130725-13675-11s23v.jpg",
+            "full_size_url": "https://media.snl.no/media/15986/NMK-B_NG.M.0150620130725-13675-11s23v.jpg",
+            "xhtml": "<div>\r\n<p><em>Tak med kvistvindu</em>, 1883. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Kalle Løchen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15988/standard_NMK-B_NG.M.0151120130725-13675-8xcnt1.jpg",
+            "full_size_url": "https://media.snl.no/media/15988/NMK-B_NG.M.0151120130725-13675-8xcnt1.jpg",
+            "xhtml": "<div>\r\n<p><em>Cecilie Thoresen Krog</em>, 1885. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Kalle Løchen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15989/standard_NMK-B_NG.M.0151220130725-13675-1kz3loj.jpg",
+            "full_size_url": "https://media.snl.no/media/15989/NMK-B_NG.M.0151220130725-13675-1kz3loj.jpg",
+            "xhtml": "<div>\r\n<p><em>Agent Christensen</em>, 1889. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Kalle Løchen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15990/standard_NMK-B_NG.M.0151320130725-13675-xzphuc.jpg",
+            "full_size_url": "https://media.snl.no/media/15990/NMK-B_NG.M.0151320130725-13675-xzphuc.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra Kongshavn bad</em>, 1882. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Kalle Løchen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16015/standard_NMK-B_NG.M.0208120130725-13675-bc0jx9.jpg",
+            "full_size_url": "https://media.snl.no/media/16015/NMK-B_NG.M.0208120130725-13675-bc0jx9.jpg",
+            "xhtml": "<div>\r\n<p><em>Malerskolens atelier, Modum</em>, 1883. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Kalle Løchen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "skuespiller"
+        }
+    ]
+}

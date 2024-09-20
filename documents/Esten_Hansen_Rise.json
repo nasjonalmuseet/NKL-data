@@ -1,0 +1,112 @@
+{
+    "id": 430189,
+    "headword": "Esten Hansen Rise",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "rosemålar"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106601",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marit Østensdatter",
+                "lastname": "Kjorstad",
+                "professions": []
+            },
+            {
+                "from_date": "1864",
+                "type": "Gift med",
+                "external_id": "person_8736ab106602",
+                "birth_date": "1842",
+                "death_date": "",
+                "firstname": "Marit Halvorsdatter (eller Hoel)",
+                "lastname": "Aune",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106600",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hans Jonsen",
+                "lastname": "Moe",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Lavollen i Strinda"
+            }
+        ],
+        "educations": [],
+        "travels": [],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Representert på Trøndelag folkemus"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Rennebu bygdetun"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Meldal bygdemus"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Esten Hansen Rise",
+    "url": "https://nkl.snl.no/Esten_Hansen_Rise",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>R. skal ha gått i lære hjå Bjerkaker på Oppdal, men var verksam i Rennebu og Strinda. Kistene dekorerte han på varm, gul botnfarge med fyldige roser i kraftige, men godt avstemte fargar og bruk av lys og skygge i modelleringa. Motiva er fantasiblomstrar i urner eller overflødighetshorn, abstraherte roser, spinkle strøblomstrar og sirlig strekdekor. I interiørmålinga brukte R. klassiserande detaljar, sjablonar og frie roser, ofte på treimitert eller marmorert botn, som i dei pilasterdekorerte roma på Ramlo, Rennebu (ca. 1860).</p></div>",
+    "created_at": "2014-11-20T11:49:51.654+01:00",
+    "changed_at": "2024-06-18T23:27:51.542+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3244\",\"https://digitaltmuseum.no/bf869560-c7c5-4d40-888a-6188dc271310\",\"http://kulturnav.org/bf869560-c7c5-4d40-888a-6188dc271310\"]",
+        "lastname": "Rise",
+        "firstname": "Esten Hansen",
+        "birth_date": "0.0.1832",
+        "birthplace": "Rennebu",
+        "death_date": "0.0.1913",
+        "external_id": "person_8736ab3244",
+        "kulturnav_id": "bf869560-c7c5-4d40-888a-6188dc271310",
+        "place_of_death": "Strinda"
+    },
+    "authors": [
+        {
+            "full_name": "Ola Grefstad"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "rosemålar"
+        }
+    ]
+}

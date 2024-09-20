@@ -1,0 +1,902 @@
+{
+    "id": 417803,
+    "headword": "Gerda Knudsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104418",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karen",
+                "lastname": "Knudsen",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104419",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bernhard Bertel",
+                "lastname": "Knudsen",
+                "professions": [
+                    "urmaker"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Kristiania 1918–19",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Pola Gauguin, Oslo 1920",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Pedro Araujo og André Lhote, Paris 1921–22 og Fernand Léger, Paris 1924",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Georg Jacobsen kort tid høsten 1936",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Studiereiser til Paris 1921–22, -24, -28"
+            },
+            {
+                "order": "0",
+                "description": "Knut Hamsuns stipend 1934"
+            },
+            {
+                "order": "1",
+                "description": "Conrad Mohrs legat 1937"
+            },
+            {
+                "order": "3",
+                "description": "Italia 1938"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Hilmar Rekstens samling, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Drammens Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "sommerutstilling, Kunstnernes Hus, Oslo",
+                "from_date": "1941",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "portrettutstilling, Kunstnernes Hus, Oslo",
+                "from_date": "1940",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1947",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Landsutstilling Trondheim",
+                "from_date": "1930",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1934",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandsutstilling",
+                "from_date": "1928",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandsutstilling",
+                "from_date": "1947",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1941",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norsk kunst og gruppe av vestlandsmalere, Bergens Kunstforening",
+                "from_date": "1935",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordiska konstnärinnor, Stockholm",
+                "from_date": "1948",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Peer Gynt-stemnet, Vinstra",
+                "from_date": "1978",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1934",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriets retrospektive utstilling over norsk kunst",
+                "from_date": "1940",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1941",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1926",
+                "order": "18",
+                "to_date": "",
+                "title": "Vestlandsk og trøndersk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Verdensutstillingen i Paris",
+                "from_date": "1937",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1930",
+                "order": "20",
+                "to_date": "",
+                "title": "Trønder- og vestlandsmalere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandsutstilling",
+                "from_date": "1932",
+                "order": "16",
+                "to_date": "1933"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1948",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "portrettutstilling, Bergens Kunstforening",
+                "from_date": "1942",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1923",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1970",
+                "order": "29",
+                "to_date": "",
+                "title": "Billedkunsten i Bergen. Status 70. Tilbakeblikk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1946",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1941",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Statens Kunstakademi 60 år, Nasjonalgalleriet, Oslo",
+                "from_date": "1969",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1931",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1935",
+                "order": "12",
+                "to_date": "1938",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1941-02-14",
+                "order": "31",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Wiloch, S.",
+                    "Hølaas, O."
+                ],
+                "comments": [
+                    "(aften)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "4",
+                "reference": "s. 162 (ill.)",
+                "to_date": "",
+                "description": "i Konstrevy",
+                "place": "Stockholm",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923-10-04",
+                "order": "25",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-08-18",
+                "order": "33",
+                "to_date": "",
+                "description": "i Arbeidet",
+                "authors": [
+                    "Larsen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-01-15",
+                "order": "41",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "23",
+                "reference": "s. 206, 209, pl. 99",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L.",
+                    ""
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "0",
+                "reference": "s. 182",
+                "to_date": "",
+                "description": "Samleren",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-02-02",
+                "order": "37",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [
+                    "(ill)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "19",
+                "reference": "s. 57, 60 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunst i malerisamlingen",
+                "place": "Lillehammer",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "17",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "8",
+                "reference": "s. 33, 39, 41 (ill.)",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "15",
+                "reference": "s. 127–28 (ill.)",
+                "to_date": "",
+                "description": "Gyldendals leksikon over moderne nordisk kunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-01-31",
+                "order": "35",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "21",
+                "reference": "register s. 564",
+                "to_date": "",
+                "description": "Hordaland og Bergen, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "6",
+                "reference": "s. 129 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-04-27",
+                "order": "28",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "10",
+                "reference": "s. 141 (ill.), 148",
+                "to_date": "",
+                "description": "Gudbrandsdalen og malerne",
+                "place": "Oslo",
+                "authors": [
+                    "Refsum, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-05-15",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Johannesen, O.Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "2",
+                "reference": "s. 67 (ill.), 78",
+                "to_date": "",
+                "description": "Bergen Billedgalleri",
+                "place": "Oslo",
+                "authors": [
+                    "Lexow, E.",
+                    "Kaland, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "14",
+                "reference": "bd. 2, s. 206, 207 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "12",
+                "reference": "s. 40 (ill.)",
+                "to_date": "",
+                "description": "Fra Kvarven til Ulriken",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, G."
+                ],
+                "comments": [
+                    "(red.)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1934-04-28",
+                "order": "29",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Aamodt, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-08-24",
+                "order": "34",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Wiloch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "5",
+                "reference": "s. 181–82 (ill.)",
+                "to_date": "",
+                "description": "Urd",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-02-15",
+                "order": "32",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nielssen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-01-14",
+                "order": "40",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-02-08",
+                "order": "38",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-01-28",
+                "order": "42",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Blytt, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "1",
+                "reference": "s. 157, 167 (ill.)",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-10-16",
+                "order": "24",
+                "reference": "bd. 7, s. 132",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "22",
+                "reference": "bd. 6, s. 258",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des E. Bénézit: DictiPeintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "18",
+                "reference": "s. 24, 45",
+                "to_date": "",
+                "description": "Statens Kunstakademi 60 år",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [
+                    "katalog Nasjonalgalleriet, Oslo"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "20",
+                "reference": "s. 97, 215",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "7",
+                "reference": "s. 69, 88, pl. 118",
+                "to_date": "",
+                "description": "Kvinneportretter i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Gran, H.",
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-04-24",
+                "order": "26",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "16",
+                "reference": "s. 45, 53–54 (ill.)",
+                "to_date": "",
+                "description": "For den bildende kunst, Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-02-01",
+                "order": "36",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "9",
+                "reference": "hefte 5, s. 56 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-04-24",
+                "order": "27",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Langaard, J.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "13",
+                "reference": "s. 134–35 (ill.)",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "3",
+                "reference": "s. 753",
+                "to_date": "",
+                "description": "Vem är vem i Norden",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-08-15",
+                "order": "44",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-12-12",
+                "order": "39",
+                "to_date": "",
+                "description": "i Gudbrandsdølen",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-04-09",
+                "order": "30",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "11",
+                "reference": "s. 21, 33–34, 35 (ill.), 69 (ill.), 257",
+                "to_date": "",
+                "description": "Ung norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L.N"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Gerda Knudsen",
+    "url": "https://nkl.snl.no/Gerda_Knudsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Da K. plutselig døde sommeren 1945, var hun midt oppe i en interessant kunstnerisk utvikling og ble regnet som en av våre mest begavede kvinnelige malere. Alt i skoledagene viste hun anlegg for tegning, men var vel så mye opptatt av dans og musikk. Svak helse fikk henne til å velge billedkunsten som arbeidsfelt. Sin grunnleggende utdannelse fikk hun i Oslo og i Paris, hvor hun traff den norske maler Torstein Torsteinson, som fikk stor betydning for hennes utvikling. K. var sterkt knyttet til Vestlandet og vestlandsnaturen. Til tross for at hun fra 1938 var bosatt i Oslo, reiste hun gjerne til Bergenstraktene, Nordfjord og Sunnmøre om sommeren for å samle inntrykk. Under krigen ble hun fratatt sitt atelier av tyskerne, og de siste årene av sitt liv bodde hun på Skåbu i Gudbrandsdalen.</p>\n<p>I hennes tidlige bilder, som er holdt i en mørk, mettet koloritt, merkes tradisjonen fra Nikolai Astrup og Bernt Tunold. Enkelte av disse bildene kan virke noe tunge og døde i fargen, men som regel formidler hun landskapets atmosfære, temperatur, lys og fuktighet med fin innlevelse og stillferdig styrke, i saftige grønne og rikt nyanserte grå toner, og med forsiktigere akkorder i rødt og blått. Stemningen var viktigere for henne enn detaljene. Hun malte også noen portretter i denne tiden, <em>Gabrielle</em> (1929) og <em>Moritz Kaland</em> (ca. 1937, Bergen Billedgalleri). De gir en summarisk, men likevel utrykksfull og treffende personkarakteristikk, med modellen i en etter hvert typisk diagonal oppstilling. I hennes senere portretter trer det individuelle noe mer i bakgrunnen, som en følge av hennes økende interesse for konstruktive problemer. I slutten av 30-årene merker man sterkere innflytelse fra André Lhotes strenge komposisjon og formforenkling. Et tidlig varsel om denne kursendring er <em>Fra Frognerparken</em> (1935, Bergen Billedgalleri), med dets stille kveldsstemning, men samtidig sterke forenkling og faste billedkonstruksjon. Hun mottok trolig inntrykk fra den tyske ekspresjonistutstilling i Oslo i 1932, og Edvard Munch. <em>Kålåkeren</em> (1940) er en variasjon over et kjent Munch-motiv, fast i linjene, men samtidig rikt og variert i fargebruken. Maleriet har en kantet, uttrykksfull linjeføring. Sammen med en større luftighet og bredde i fargene og strøket finner vi denne karakteristiske linjeføringen igjen i hennes senere, store figurkomposisjoner. Konturene forenkles til linjalrette eller buete linjer, og figurene blir langstrakte og kantede. Fargen er lagt på i store, detaljløse flater med enkelte lysende fargestenk, f.eks. <em>Ved vinduet</em> (1939, Bergen Billedgalleri), <em>Ungen skal bades</em> (1940) og <em>Kornskurd</em> (1940). I det siste bildet, med dets kvinneskikkelser i sterk rytmisk bevegelse, understrekes samspillet mellom kvinnene og kornet av en streng og konsekvent komposisjon. Fargene er rolige variasjoner i gult og grønt. Som mange av hennes landskapsbilder viser også figurbildene at hun var opptatt av det som gror og vokser, av samspillet mellom mennesker og natur. I landskapsbildene arbeidet hun seg ut av den mørke vestlandstonen, og koloritten ble klarere og rikere. I de siste årene malte hun bredt og direkte etter naturen. Hun utforsket sitt nye hjemsteds (Skåbu) koloristiske eiendommeligheter og malte en rekke friske og følsomme skisser. Fra hennes siste år stammer noen til dels uferdige figurkomposisjoner, som har et sterkt element av drøm og fantasi, f.eks. <em>Pike med blomster</em> og <em>Tre figurer og en kanarifugl</em> (1943).</p>\n</div>",
+    "created_at": "2013-07-04T00:36:33.804+02:00",
+    "changed_at": "2024-06-18T23:26:18.433+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2130\",\"https://digitaltmuseum.no/18bcd52c-4069-4668-81a9-dc5b98db9519\",\"http://kulturnav.org/18bcd52c-4069-4668-81a9-dc5b98db9519\"]",
+        "lastname": "Knudsen",
+        "firstname": "Gerda",
+        "birth_date": "13.2.1899",
+        "birthplace": "Bergen",
+        "death_date": "16.8.1945",
+        "external_id": "person_8736ab2130",
+        "kulturnav_id": "18bcd52c-4069-4668-81a9-dc5b98db9519",
+        "place_of_death": "Hamar"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Kathrine Midtskaug"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

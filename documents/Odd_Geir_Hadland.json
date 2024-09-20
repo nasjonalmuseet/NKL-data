@@ -1,0 +1,722 @@
+{
+    "id": 416286,
+    "headword": "Odd Geir Hadland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1968",
+                "type": "Gift med",
+                "external_id": "person_8736ab102773",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Wenche",
+                "lastname": "Lamo",
+                "professions": [],
+                "place": "Stavanger"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102772",
+                "birth_date": "1915",
+                "death_date": "",
+                "firstname": "Bergit",
+                "lastname": "Bråtveit",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102771",
+                "birth_date": "1910",
+                "death_date": "",
+                "firstname": "Leif",
+                "lastname": "Hadland",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Stavanger"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Lærerskole",
+                "order": "0"
+            },
+            {
+                "comment": "selvlært som kunstner",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Hellas 1979 og -80"
+            },
+            {
+                "order": "1",
+                "description": "Statens reisestip. 1979. Studiereiser England 1977, -78, -80"
+            },
+            {
+                "order": "0",
+                "description": "Stavanger kommunes kulturstip. 1977"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem Bildende Kunstneres Forening Rogaland, styremedlem 1975–78"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Tegneforbundet"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Oslo Kulturutvalg"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Göteborg Konstnämnd"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Nordmanns-Forbundets Julenummer 1975"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Johs. Gill: Eg veit meg ein fjord, Stavanger 1975"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "K.A. Lye (red.): Jærboka, Ås 1981, bd. 1 og 3 (eget forlag)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "P. Thomsen: Arne Garborg, Norges Jul"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1980",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1974",
+                "order": "6",
+                "to_date": "1980",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Pinxit, Göteborg",
+                "from_date": "1978",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "7",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1979",
+                "order": "15",
+                "to_date": "",
+                "title": "7 tegnere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1977",
+                "order": "11",
+                "to_date": "",
+                "title": "Tegnerforbundet Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1979",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk landskap i akvarell"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "9",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "San Francisco",
+                "from_date": "1979",
+                "order": "4",
+                "to_date": "",
+                "title": "Images of the North"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1978",
+                "order": "3",
+                "to_date": "",
+                "title": "Tegneveggen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Buttekvern, Brumunddal",
+                "from_date": "1977",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "10",
+                "to_date": "",
+                "title": "Bildende Kunstneres Forening Rogalands jubileumsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "8",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1976",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstgalleri",
+                "from_date": "1976",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kina",
+                "from_date": "1979",
+                "order": "13",
+                "to_date": "",
+                "title": "vandreutst. av tegninger"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1974-09-27",
+                "order": "0",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-15",
+                "order": "22",
+                "to_date": "",
+                "description": "Hamar Arbeiderbladet",
+                "authors": [
+                    "O. K. Solberg"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-20",
+                "order": "30",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-22",
+                "order": "24",
+                "to_date": "",
+                "description": "Jærbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-04",
+                "order": "32",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [
+                    "P. Grøtvedt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-10-14",
+                "order": "39",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [
+                    "P. Grøtvedt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-11",
+                "order": "20",
+                "to_date": "",
+                "description": "Hamar Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "34",
+                "reference": "hefte 5, s. 32 (ill.)",
+                "to_date": "",
+                "description": "Kunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-10-04",
+                "order": "37",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "16",
+                "reference": "s. 50 og 52",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-12-13",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [
+                    "P. Thomsen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-02-27",
+                "order": "5",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [
+                    "H. Riis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "25",
+                "reference": "s. 56 og 166",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-10-07",
+                "order": "10",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-03-23",
+                "order": "18",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-11-26",
+                "order": "7",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-01",
+                "order": "12",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-11-01",
+                "order": "1",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [
+                    "L. Chr. Sande"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-06",
+                "order": "14",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [
+                    "P. Grøtvedt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-10-18",
+                "order": "40",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Farmand",
+                "authors": [
+                    "R. Ovrum"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-18",
+                "order": "23",
+                "to_date": "",
+                "description": "Hamar Arbeiderbladet",
+                "authors": [
+                    "F. Aa. Andersen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-08",
+                "order": "27",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-13",
+                "order": "33",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "E. Egeland"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-29",
+                "order": "31",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-21",
+                "order": "35",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-12",
+                "order": "21",
+                "to_date": "",
+                "description": "Brumunddølen",
+                "authors": [
+                    "T. Gaathaug"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-11",
+                "order": "19",
+                "to_date": "",
+                "description": "Hamar Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-10-10",
+                "order": "38",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-06-23",
+                "order": "9",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "36",
+                "reference": "bd. 5, s. 410",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-11-26",
+                "order": "11",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-11",
+                "order": "15",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "H. Flor"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-03-27",
+                "order": "6",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [
+                    "H. Riis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-08",
+                "order": "26",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-12",
+                "order": "29",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-12-20",
+                "order": "4",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "S. Wiik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-11-19",
+                "order": "2",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-01-22",
+                "order": "17",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [
+                    "H. Smedvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-12-04",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "E. H. Johnsrud"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-03-19",
+                "order": "8",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Odd Geir Hadland",
+    "url": "https://nkl.snl.no/Odd_Geir_Hadland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. er utdannet lærer og har ved siden av sitt kunstneryrke undervist ved Vaulen barneskole i tiden 1965–1978. Fra 1978 har han arbeidet som kunstner på heltid. H. har illustrert flere bøker og tidsskrifter. Særlig kjent er hans vel 30 tusj-pensellandskaper til Johs. Gill: Eg veit meg ein fjord. H. arbeidet til å begynne med bare med pennetegninger. Siden gikk han over til pensel i sort/hvitt. Gjennom eksperimentering med fargetusj på et spesielt svensk trykkpapir fattet han også interesse for akvarell. H. er sparsom i bruk av farger. Koloritten går i duse jordfarger som helst hører våren og høsten til. Han arbeider i en blandingsteknikk der et voksunderlag er med å gi en del av akvarellene en krakeleringseffekt. De siste årene har H. gått over til vanlig akvarellteknikk. Karakteristisk for H.s arbeider er hans meget tynne og fine penselstrøk. Selv om H. ikke har gjennomgått noen formell kunstutdannelse, merker man tydelig i hans arbeider beundring og påvirkning fra engelske malere som Turner og Constable, den amerikanske maleren Andrew Wyeth og ikke minst fra Lars Hertervig. Formspråket har hele tiden vært naturalistisk. Likevel blandes realistiske studier av lys og luft med romantisk stemningsladede og idylliske skildringer av natur og miljø. Som titlene i hans tegninger og akvareller forteller, henter H. sine motiver og inspirasjon fra Jæren, Sunnhordland og Gudbrandsdalen. Landskapsbilder dominerer hans produksjon. Her setter han gamle, falleferdige små hus, låver og gårdsbruk. H. holder seg hovedsakelig til det lille format og arbeider nitid med detaljene. Hans intimlandskap uttrykker likevel vide utsyn og perspektiver.</p></div>",
+    "created_at": "2013-07-03T15:03:05.398+02:00",
+    "changed_at": "2024-06-18T23:25:37.429+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1367\",\"https://digitaltmuseum.no/79f5aba1-8be2-40a2-9dbe-e1d23489c7f3\",\"http://kulturnav.org/79f5aba1-8be2-40a2-9dbe-e1d23489c7f3\"]",
+        "lastname": "Hadland",
+        "firstname": "Odd Geir",
+        "birth_date": "26.3.1944",
+        "birthplace": "Valand i Lund, Rogaland",
+        "external_id": "person_8736ab1367",
+        "kulturnav_id": "79f5aba1-8be2-40a2-9dbe-e1d23489c7f3"
+    },
+    "authors": [
+        {
+            "full_name": "Berit Wathne"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

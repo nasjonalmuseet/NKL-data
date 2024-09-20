@@ -1,0 +1,602 @@
+{
+    "id": 417356,
+    "headword": "Georg Christen Eliassen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101897",
+                "birth_date": "1878",
+                "death_date": "1961",
+                "firstname": "Helfrid",
+                "lastname": "Strömberg",
+                "professions": [
+                    "brukskunstner"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101891",
+                "birth_date": "1849",
+                "death_date": "1926",
+                "firstname": "Augusta",
+                "lastname": "Gundersen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101890",
+                "birth_date": "1853",
+                "death_date": "1938",
+                "firstname": "Anton G.",
+                "lastname": "Eliassen",
+                "professions": [
+                    "lektor"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "assistent hos Ragnar Østberg 1906–14 (arbeidet bl.a. med Stadshuset i Stockholm)",
+                "order": "2"
+            },
+            {
+                "comment": "arkitektutdannet ved Kungliga Tekniska Högskolan i Stockholm under professor Clasons 1905",
+                "order": "1"
+            },
+            {
+                "comment": "Utdannet som bygningsingeniør ved Kristiania Tekniske Skole 1900–04",
+                "order": "0"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "medlem av antikvarisk bygningsnemnd og Arkeologisk selskaps styre"
+            },
+            {
+                "order": "2",
+                "description": "medlem av brente steders reguleringsråd fra 1945"
+            },
+            {
+                "order": "3",
+                "description": "korresponderende medlem av Royal Institute of British Architects fra 1949"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Forening til norske Fortidsmerkers Bevarings direksjon 1919–26, formann 1929–51"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "R1 St. Olavs Orden 1951"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "se Andreas H. Bjercke"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "interiørrestaurering av Rygge kirke (1922)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Lund prestegård (oppmålt 1915, restaurert 1920)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "kirkegårdsmuren til Romnes kirke (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Prosjekter: Utkast til et filialbibliotek (1912)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "se også Andreas H. Bjercke"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Orgelprospektet til Ogna kirke (1920)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "innredningen av Den norske Amerikalinjes skip Oslofjord I (1937–38, senket 1941)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Malt av Hans Ødegård (1942)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Fabrikkeier W. Mustads hus : Arnstein Arneberg.Byggekunst",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [
+                    "145–56"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "4",
+                "reference": "s. 1–16",
+                "to_date": "",
+                "description": "Problemet Tyskebryggen, Kunst og Kultur",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "10",
+                "reference": "s. 310",
+                "to_date": "",
+                "description": "Forening til norske Fortidsmerkers Bevaring-årbok",
+                "place": "Sarpsborg",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [
+                    "register bd."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "8",
+                "to_date": "",
+                "description": "Arnstein Arneberg 1882-6 juli 1952, Festskrift (red. m.fl.)",
+                "place": "Oslo",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "6",
+                "reference": "s. 135-39",
+                "to_date": "",
+                "description": "Gjenreisningsarbeidets tekniske problemer, Byggekunst",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "0",
+                "reference": "s. 105-09",
+                "to_date": "1921",
+                "description": "Statens Bygningsvesen som det har utviklet seg i Sverige,  Byggekunst",
+                "authors": [
+                    "Eliassen, Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "1",
+                "to_date": "",
+                "description": "Norske hus en billedbok",
+                "place": "Oslo",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [
+                    "(red.m. fl.)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "9",
+                "reference": "s. 114-23",
+                "to_date": "",
+                "description": "Arkitektene finner hjem, Byggekunst",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-09-24",
+                "order": "3",
+                "to_date": "",
+                "description": "Kan vi åpne byen mot sjøen, Aftenposten",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "7",
+                "reference": "s. 559-67",
+                "to_date": "",
+                "description": "Foreningen til norske fortidsminnesmerkers bevaring gjennem hundre år, Ord och Bild",
+                "place": "Stockholm",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "5",
+                "reference": "s. 109-88",
+                "to_date": "",
+                "description": "Skibet og sjøveien, Kunst og Kultur",
+                "authors": [
+                    "Eliassen, Georg Christen"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1941",
+                "order": "13",
+                "reference": "s. 663",
+                "to_date": "",
+                "description": "Vem är Vem i Norden",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "15",
+                "reference": "tillegg s. 39-40",
+                "to_date": "",
+                "description": "Georg Eliassen 70 år, Byggekunst",
+                "authors": [
+                    "Kielland, J. C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "17",
+                "reference": "bd. 2, s. 29",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "20",
+                "reference": "s. 185-88",
+                "to_date": "1921",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "25",
+                "reference": "tillegg s. 24",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "27",
+                "reference": "tillegg s. 53",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-07-01",
+                "order": "31",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "23",
+                "reference": "s. 120-21",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "11",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "29",
+                "reference": "s. 310",
+                "to_date": "",
+                "description": "Forening til norske Fortidsmerkers Bevaring-årbok",
+                "place": "Sarpsborg",
+                "authors": [],
+                "comments": [
+                    "register bd"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "28",
+                "reference": "s. 39",
+                "to_date": "",
+                "description": "St. Hallvard register bd.",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "14",
+                "to_date": "",
+                "description": "Kulturminner reddet av foreningen til norske fortidsminnesmerkers bevaring",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "festskrift til Georg Eliassen på 70 års dagen 1. juli 1950"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "12",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "16",
+                "reference": "tillegg s. 13- 14",
+                "to_date": "",
+                "description": "Georg Eliassen 80 år, Byggekunst",
+                "authors": [
+                    "Rolfsen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "19",
+                "reference": "bd. 5, s. 564",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "21",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [
+                    "s 66-67"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1930-07-01",
+                "order": "33",
+                "to_date": "",
+                "description": "i  Aftenposten",
+                "authors": [
+                    "Bugge, Anders"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "26",
+                "reference": "tillegg s. 14, 32",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "24",
+                "reference": "tillegg s. 9",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "18",
+                "reference": "s. 263",
+                "to_date": "",
+                "description": "Østberg, Ragnar",
+                "place": "Stockholm",
+                "authors": [
+                    "Cornell, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "22",
+                "reference": "s. 80",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-07-01",
+                "order": "32",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "30",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Georg Christen Eliassen",
+    "url": "https://nkl.snl.no/Georg_Christen_Eliassen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Arkitektpraksis i Kristiania sammen med studiekameraten og vennen Andreas Hesselberg Bjercke under navnet Bjercke &amp; Eliassen fra 1914. E.s sønn Trond E. og Birger Lambertz-Nilssen overtok firmaet i 1960 og viderefører det under navnet Eliassen &amp; Lambertz-Nilssen. Se Andreas H. Bjercke.</p></div>",
+    "created_at": "2013-07-03T20:58:28.930+02:00",
+    "changed_at": "2024-06-18T23:26:05.761+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab916\",\"https://digitaltmuseum.no/0606a292-6e90-468f-a3a0-ddb8addafaaa\",\"http://kulturnav.org/0606a292-6e90-468f-a3a0-ddb8addafaaa\"]",
+        "lastname": "Eliassen",
+        "firstname": "Georg Christen",
+        "birth_date": "1.7.1880",
+        "birthplace": "Kristiania",
+        "death_date": "27.12.1964",
+        "external_id": "person_8736ab916",
+        "kulturnav_id": "0606a292-6e90-468f-a3a0-ddb8addafaaa",
+        "alternative_names": "Eliassen, Georg"
+    },
+    "authors": [
+        {
+            "full_name": "Axel Chr. Mykleby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15565/standard_NMK-A_NAMF.00281.00120130725-13675-1gb5wni.jpg",
+            "full_size_url": "https://media.snl.no/media/15565/NMK-A_NAMF.00281.00120130725-13675-1gb5wni.jpg",
+            "xhtml": "<div>\r\n<p>Oslo Lysverker, fasade mot Solli plass, Oslo. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Georg Christen Eliassen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20174/standard_NMK-A_NAMT.b_26e199.00420150528-17392-l65a5o.jpg",
+            "full_size_url": "https://media.snl.no/media/20174/NMK-A_NAMT.b_26e199.00420150528-17392-l65a5o.jpg",
+            "xhtml": "<div><p><i>Villa Dobloug</i></p></div>",
+            "type": "image",
+            "heading": "Georg Christen Eliassen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20175/standard_NMK-A_NAMT.b_26e090.00120150528-17392-3lhkcx.jpg",
+            "full_size_url": "https://media.snl.no/media/20175/NMK-A_NAMT.b_26e090.00120150528-17392-3lhkcx.jpg",
+            "xhtml": "<div><p><i>Sauda III Kraftstasjon</i>. 1929</p></div>",
+            "type": "image",
+            "heading": "Georg Christen Eliassen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

@@ -1,0 +1,476 @@
+{
+    "id": 416536,
+    "headword": "Eva Harr",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab103049",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Randi",
+                "lastname": "Heitmann",
+                "professions": []
+            },
+            {
+                "type": "Søster av",
+                "external_id": "person_8736ab1499",
+                "birth_date": "08.05.1940",
+                "death_date": "",
+                "firstname": "Karl Erik",
+                "lastname": "Harr",
+                "professions": [
+                    "grafiker",
+                    "maler",
+                    "tegner"
+                ]
+            },
+            {
+                "type": "Søster av",
+                "external_id": "person_8736ab1498",
+                "birth_date": "18.05.1945",
+                "death_date": "",
+                "firstname": "Jan",
+                "lastname": "Harr",
+                "professions": [
+                    "maler",
+                    "grafiker"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab103044",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karl",
+                "lastname": "Harr",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo, bokklassen 1971–76, hospitant i raderklassen under Ottar Helge Johannessen",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Arne Malmedal og Guttorm Guttormsgaard 1977–82",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Studiereiser til Skottland 1979"
+            },
+            {
+                "order": "3",
+                "description": "Spania 1980"
+            },
+            {
+                "order": "0",
+                "description": "Statens reisestip. 1977"
+            },
+            {
+                "order": "1",
+                "description": "3%-fondets stip. 1978"
+            },
+            {
+                "order": "4",
+                "description": "Hellas bl.a. 1980"
+            },
+            {
+                "order": "5",
+                "description": "Tyskland 1981"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Foreningen Norske Grafikere"
+            },
+            {
+                "order": "3",
+                "description": "Oslo Bildende Kunstnere"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "5",
+                "description": "Medlem av Foreningen Norske Grafikeres utstillingsutvalg 1978"
+            },
+            {
+                "order": "4",
+                "description": "Nord-Norske Bildende Kunstnere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Värmlands läns Landstings kulturnämnd"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Årsmappe Norsk Forening for Grafisk Kunst 1981"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Era, Karlstad",
+                "from_date": "1978",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "10",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 71, Tromsø",
+                "from_date": "1980",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Galleriet ved fjorden, Drøbak",
+                "from_date": "1980",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "11",
+                "to_date": "1980",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1980",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1981",
+                "order": "8",
+                "to_date": "",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Festspillene i Nord-Norge, Harstad",
+                "from_date": "1976",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": "",
+                "title": "Nord-norske kunstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "DDR",
+                "from_date": "1980",
+                "order": "14",
+                "to_date": "",
+                "title": "Intergrafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "7",
+                "to_date": "1979",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Acanthus, Oslo",
+                "from_date": "1981",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1976",
+                "order": "6",
+                "to_date": "1978",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Festspillene i Nord-Norge, Harstad",
+                "from_date": "1978",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1980",
+                "order": "12",
+                "to_date": "",
+                "title": "Glimt fra norsk grafikk i 70-åra"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1981-09-18",
+                "order": "12",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Astrup, C.B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-08-20",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-24",
+                "order": "13",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-13",
+                "order": "5",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-12",
+                "order": "4",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-04",
+                "order": "3",
+                "to_date": "",
+                "description": "Harstad Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "0",
+                "reference": "s. 49",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-06-23",
+                "order": "1",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "2",
+                "reference": "s. 28, 80 (ill.)",
+                "to_date": "",
+                "description": "Norske grafikere i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Flor, H. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-19",
+                "order": "7",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Nordlys",
+                "authors": [
+                    "Berg, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-12-02",
+                "order": "8",
+                "to_date": "",
+                "description": "i Nordlys",
+                "authors": [
+                    "Pollestad, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "katalog Galleri Acanthus",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-08",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Havers, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-28",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Schmedling, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-14",
+                "order": "11",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Wego, N."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Eva Harr",
+    "url": "https://nkl.snl.no/Eva_Harr",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. vokste opp i en kunstnerisk begavet søskenflokk, og hun fikk også tidlig impulser fra ulike kunstnere som Theodor Kittelsen og Käthe Kollwitz, og fra William Turners akvareller. I 1971 kom hun til Oslo og ble elev av Oslo husflidskole. Her ble hun av sin lærer Alf Trana oppmuntret til å begynne med grafikk. Hun kom inn på Statens Håndverks- og Kunstindustriskole og utførte sine første grafiske blad i 1974. På Høstutstillingen i 1976 debuterte hun med akvatinten <em>Etter regn</em>. Hennes motiver er gjerne gamle hus med værslitte dører og vinduer, ensomme på nakne hauger med hemmelighetsfulle mørke skygger. Hun skildrer også steiner slipt av sjø og vær, f.eks. <em>Grense I</em>. Hun har også laget litografier, f.eks. <em>Drøm</em> (1979, Nasjonalgalleriet, Oslo). Etter studiereisene til Skottland, Spania og de greske øyer 1979–80 viste hun i 1981 en samling akvareller, Reiselandskap, holdt i en lysere lyrisk tone.</p></div>",
+    "created_at": "2013-07-03T16:08:00.237+02:00",
+    "changed_at": "2024-06-18T23:25:43.885+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1497\",\"https://digitaltmuseum.no/9ca3b88f-eaaa-485a-86d4-00f4a92de513\",\"http://kulturnav.org/9ca3b88f-eaaa-485a-86d4-00f4a92de513\"]",
+        "lastname": "Harr",
+        "firstname": "Eva",
+        "birth_date": "10.3.1951",
+        "birthplace": "Harstad",
+        "death_date": "10.2.2024",
+        "external_id": "person_8736ab1497",
+        "kulturnav_id": "9ca3b88f-eaaa-485a-86d4-00f4a92de513",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        }
+    ]
+}

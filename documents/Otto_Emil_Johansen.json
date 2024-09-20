@@ -1,0 +1,940 @@
+{
+    "id": 417458,
+    "headword": "Otto Emil Johansen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104032",
+                "birth_date": "1849",
+                "death_date": "1911",
+                "firstname": "Anne Marie",
+                "lastname": "Jacobsdatter",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104031",
+                "birth_date": "1831",
+                "death_date": "1903",
+                "firstname": "Johannes",
+                "lastname": "Anderson",
+                "professions": [
+                    "båtbygger"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Halfdan Strøms malerskole i Kristiania 1908",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Kristiania under Chr. Krohg og Halfdan Strøm 1909 - 10",
+                "order": "2"
+            },
+            {
+                "comment": "elev av Harriet Backer i Kristiania",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Lucien Simon, Paris 1911 og Othon Friesz, Paris 1911 og -13",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole 1912 - 13 og 1914 - 15",
+                "order": "4"
+            }
+        ],
+        "travels": [
+            {
+                "order": "6",
+                "description": "reise til London og Frankrike 1923"
+            },
+            {
+                "order": "7",
+                "description": "Sør-Amerika 1927"
+            },
+            {
+                "order": "2",
+                "description": "Statens reisestipend 1922"
+            },
+            {
+                "order": "4",
+                "description": "reiser til Nederland, Belgia og Paris 1913 - 14"
+            },
+            {
+                "order": "8",
+                "description": "India 1929"
+            },
+            {
+                "order": "0",
+                "description": "Johan Finnes legat"
+            },
+            {
+                "order": "3",
+                "description": "Opphold i Paris 1911"
+            },
+            {
+                "order": "5",
+                "description": "opphold i Frankrike 1919 - 22, med reise til Italia"
+            },
+            {
+                "order": "9",
+                "description": "Bosatt i Norge fra 1923"
+            },
+            {
+                "order": "1",
+                "description": "Hielmstierne Rosencrones legat 1911 - 12"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Christianssands Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1911",
+                "order": "14",
+                "to_date": "",
+                "title": "retrospektiv utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1958",
+                "order": "36",
+                "to_date": "1959",
+                "title": "Lillehammer Bys Malerisamling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1916",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1979",
+                "order": "39",
+                "to_date": "",
+                "title": "Radérklassen 80 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "16",
+                "to_date": "",
+                "title": "Kristiania Kunstforening vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1925",
+                "order": "10",
+                "to_date": "1926",
+                "title": "Høstutstillingen, Oslo"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1914",
+                "order": "18",
+                "to_date": "",
+                "title": "Sort og hvitt"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "20",
+                "to_date": "",
+                "title": "San Francisco-utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1907",
+                "order": "12",
+                "to_date": "",
+                "title": "De yngstes udst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1929",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Dioramalokalet, Kristiania",
+                "from_date": "1910",
+                "order": "13",
+                "to_date": "",
+                "title": "De unge"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1930",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1931",
+                "order": "31",
+                "to_date": "",
+                "title": "interskandinavisk grafikkutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1909",
+                "order": "8",
+                "to_date": "1916",
+                "title": "Høstutstillingen, Oslo"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1929",
+                "order": "29",
+                "to_date": "",
+                "title": "Barcelona-utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1922",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon d'Automne, Paris",
+                "from_date": "1919",
+                "order": "25",
+                "to_date": "1921"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1924",
+                "order": "27",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1945",
+                "order": "33",
+                "to_date": "",
+                "title": "Holmsbu-malerier"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1969",
+                "order": "37",
+                "to_date": "",
+                "title": "Statens Kunstakademi 60 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "17",
+                "to_date": "",
+                "title": "Kunstnerforbundet, Oslo sommerutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborgs Konstför.",
+                "from_date": "1915",
+                "order": "21",
+                "to_date": "",
+                "title": "Norsk Målarkonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1920",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1953",
+                "order": "35",
+                "to_date": "",
+                "title": "Norsk fargegrafikk fra Edvard Munch til idag"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1914",
+                "order": "19",
+                "to_date": "",
+                "title": "Den norske udst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1918",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen, Oslo"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen, Oslo"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1975",
+                "order": "38",
+                "to_date": "",
+                "title": "Stavanger sett med kunstnerøyne"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1927",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1913",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1918",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1935",
+                "order": "7",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "30",
+                "to_date": "",
+                "title": "landsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1931",
+                "order": "32",
+                "to_date": "",
+                "title": "Kunstnerforbundet gjennom 20 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1950",
+                "order": "34",
+                "to_date": "",
+                "title": "Utstillingsrevy 1930-50"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1923",
+                "order": "26",
+                "to_date": "",
+                "title": "nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1923",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "the Royal Society of British Artists Galleri, London",
+                "from_date": "1928",
+                "order": "28",
+                "to_date": "",
+                "title": "Exhibition of Norwegian Art"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1924",
+                "order": "5",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "blyanttegning utført av Rolf Lunde gjengitt i Aftenposten 17.10.1922"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Oljemaleri utført av Per Krohg (1911, Christianssands Faste Galleri)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "selvportrett (blyant), gjengitt i Aftenposten 4.5.1935"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "tegning utført av Rolf Lunde, gjengitt i Agderp. 8.12.1933"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "selvportrett (blyant) gjengitt i Verdens Gang 17.10.1922"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "oljemaleri utført av Ludvig Karsten (1925), detalj gjengitt i Kunst og Kultur 1934, s. 191"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1934",
+                "order": "20",
+                "reference": "s. 250",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "34",
+                "reference": "bd. 6, s. 514",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-01",
+                "order": "4",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-09-01",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "30",
+                "reference": "s. 212",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-03",
+                "order": "2",
+                "to_date": "",
+                "description": "i Dagbl.",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "32",
+                "reference": "register s. 279",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "27",
+                "reference": "hefte 81, s. 6",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "22",
+                "reference": "register s. 254",
+                "to_date": "",
+                "description": "Idékamp og stilskifte i norsk malerkunst 1900-1919",
+                "place": "Trondheim",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "13",
+                "reference": "s. 94-95",
+                "to_date": "",
+                "description": "Nordisk kunst idag",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-13",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Ukens Revy",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-08-16",
+                "order": "17",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-20",
+                "order": "12",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "15",
+                "reference": "bd. 2, register s. 676",
+                "to_date": "",
+                "description": "i Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "25",
+                "reference": "register s. 277",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-18",
+                "order": "10",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Langaard, J. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "29",
+                "reference": "bd. 10, s. 414",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "21",
+                "reference": "register s. 102",
+                "to_date": "",
+                "description": "Norsk grafikk i det tyvende århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Sinding-Larsen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-08-17",
+                "order": "19",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Langaard, J. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-03",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-19",
+                "order": "3",
+                "to_date": "",
+                "description": "i Dagbl.",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "33",
+                "reference": "s. 246",
+                "to_date": "",
+                "description": "Agder, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-09-04",
+                "order": "1",
+                "to_date": "",
+                "description": "i Dagbl.",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "14",
+                "reference": "bd. 19, s. 72",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "7",
+                "reference": "s. 88",
+                "to_date": "",
+                "description": "Tidskrift för Konstvetenskap",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "31",
+                "reference": "bd. 6, s. 82",
+                "to_date": "",
+                "description": "Bénézit",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "28",
+                "reference": "s.13, 43",
+                "to_date": "",
+                "description": "Statens Kunstakademi 60 år, katalog Nasjonalgalleriet, Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "23",
+                "reference": "bd. 2, s. 88-89",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "24",
+                "reference": "register s. 276",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-08-16",
+                "order": "16",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-08-16",
+                "order": "18",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-19",
+                "order": "11",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "26",
+                "reference": "register s. 286",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-17",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-12-07",
+                "order": "8",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Otto Emil Johansen",
+    "url": "https://nkl.snl.no/Otto_Emil_Johansen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>J. fikk sin utdannelse hos norske naturalister som Harriet Backer, Chr. Krohg og Halfdan Strøm og møtte deretter den sterke innflytelsen fra franske malere som Othon Friesz, Henri Matisse, Paul Cézanne og André Derain. J. var meget lett påvirkelig, men hadde samtidig evnen til å plukke det beste fra sine forbilder. <em>Havnen i Son</em> (1912, Nasjonalgalleriet, Oslo) er f.eks. sterkt influert av Othon Friesz i komposisjon og fargeholdning, men bildet er dristig og sikkert malt i en frisk koloritt av sterkt blått og grønt. I denne perioden hadde J. en spesiell forkjærlighet for grønt. Samme sommer malte han flere bilder fra Risør, bl.a. <em>Det gule hus i Risør</em> (1922, Nasjonalgalleriet). Bare tittelen røper at landskapet er norsk. Fargen er tung, men raffinert i gråbrunt, beige og sort, med litt dypblått i bakgrunnen. Den tidligere grønne fargen er helt forsvunnet, etter påvirkning fra bl.a. Derain. Etter tilbakekomsten til Norge i 1923 malte han også en del dypstemte bilder fra Telemark. Bildene kan minne litt om Henrik Sørensens. Senere lysnet J.s palett. Av og til brukte han sort i kontraster til rosa og blått (<em>Epletreet</em>, 1927, Nasjonalgalleriet), men mangelen på grønt skapte en avstand til naturmotivene. I enkelte kvinneportretter viste J. sitt talent som portrettmaler. Han malte også figurkomposisjoner, og fremfor alt landskaper fra Frankrike, Danmark, Sørlandet, skog og høyfjell på Østlandet og fra reiser til Sør-Amerika og India. Den konsekvente fargeholdningen innen de forskjellige perioder gav landskapene et enhetlig preg.</p>\n<p>J. var et koloristisk talent. Hans bilder var alltid velkomponerte, men formen kunne være litt skjødesløst karakterisert. J.s styrke lå i materialbehandlingen, i den silkeaktige virkning i strøkene og den utpregede følelse for billedflaten. En melkeaktig hvit tone er ofte sentral i bildene. Med sin evne til å absorbere det beste av påvirkning fra samtiden summerte J.s maleri opp noen av de inntrykk norske malere fikk fra fransk kunst gjennom et visst tidsrom.</p>\n</div>",
+    "created_at": "2013-07-03T21:36:18.007+02:00",
+    "changed_at": "2024-06-18T23:26:08.493+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1960\",\"https://digitaltmuseum.no/4b551c4f-f286-4ed9-bcbc-ae2ebb53d24f\",\"http://kulturnav.org/4b551c4f-f286-4ed9-bcbc-ae2ebb53d24f\"]",
+        "lastname": "Johansen",
+        "firstname": "Otto Emil",
+        "birth_date": "14.7.1886",
+        "birthplace": "Holmestrand",
+        "death_date": "15.8.1934",
+        "external_id": "person_8736ab1960",
+        "kulturnav_id": "4b551c4f-f286-4ed9-bcbc-ae2ebb53d24f",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        },
+        {
+            "full_name": "Bodil Sørensen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15978/standard_NMK-B_NG.M.0131220130725-13675-ltsdp9.jpg",
+            "full_size_url": "https://media.snl.no/media/15978/NMK-B_NG.M.0131220130725-13675-ltsdp9.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra Hurdalen</em>, 1923. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Otto Emil Johansen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16008/standard_NMK-B_NG.M.01891b20130725-13675-1r5hhmi.jpg",
+            "full_size_url": "https://media.snl.no/media/16008/NMK-B_NG.M.01891b20130725-13675-1r5hhmi.jpg",
+            "xhtml": "<div>\r\n<p><em>Det gule hus i Risør</em>, 1922. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Otto Emil Johansen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16043/standard_NMK-B_NG.M.0316220130725-13675-1v9k5te.jpg",
+            "full_size_url": "https://media.snl.no/media/16043/NMK-B_NG.M.0316220130725-13675-1v9k5te.jpg",
+            "xhtml": "<div>\r\n<p><em>Havnen i Son</em>, 1912. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Otto Emil Johansen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

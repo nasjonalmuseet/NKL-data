@@ -1,0 +1,609 @@
+{
+    "id": 416571,
+    "headword": "Erik Bodom",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100894",
+                "birth_date": "1792",
+                "death_date": "1870",
+                "firstname": "Janniche",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100893",
+                "birth_date": "1783",
+                "death_date": "1832",
+                "firstname": "Thomas",
+                "lastname": "Bodom",
+                "professions": [
+                    "sogneprest"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "B. var en tid elev på Katedralskolen i Christiania, men kort før han skulle ta artium, forlot han skolen for å utdanne seg som maler",
+                "order": "0"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under Johannes Flintoe 1847",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Hans Gude under dennes opphold i Norge fra 1848",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Bosatt i Düsseldorf fra 1850"
+            },
+            {
+                "order": "0",
+                "description": "Statens stipend 1852"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "æresmedlem av Det kgl. Akademi i Amsterdam i 1853"
+            },
+            {
+                "order": "1",
+                "description": "Mention Honorable på Den skandinaviske utstilling i Stockholm 1866"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Bridgewater Gallery, London"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Königsberg Stadtmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Gent"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Rasmus Meyers Samlinger, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Drammens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo med 5 malerier (hvorav 2 er kopier etter A. Cappelen)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Det Kgl. Slott (Kong Oscars kroning i Trondheim Domkirke 1872)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Khb.",
+                "from_date": "1851",
+                "order": "2",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1850",
+                "order": "1",
+                "to_date": "1866"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1848",
+                "order": "0",
+                "to_date": "1879"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Khb.",
+                "from_date": "1859",
+                "order": "3",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1852",
+                "order": "4",
+                "to_date": "",
+                "title": "Den skandinaviske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1868",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Berlin",
+                "from_date": "1852",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "11",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Køln",
+                "from_date": "1861",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1866",
+                "order": "7",
+                "to_date": "",
+                "title": "Den skandinaviske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1873",
+                "order": "9",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1907",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1930",
+                "order": "12",
+                "to_date": "",
+                "title": "Minneutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1896",
+                "order": "7",
+                "reference": "bd. 1, s. 175, bd. 2, s. 236, 238",
+                "to_date": "",
+                "description": "Svundne Tider",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "23",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "21",
+                "reference": "s. 13, 147",
+                "to_date": "",
+                "description": "For den bildende kunst, Bergens Kunstforening ved 125års jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "19",
+                "reference": "s. 178",
+                "to_date": "",
+                "description": "Bergens Kunstforening",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [
+                    "1838–1938"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "16",
+                "reference": "bd. 3, s. 525",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "11",
+                "reference": "bd. 1, s. 221",
+                "to_date": "",
+                "description": "Norske Malere og Billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "9",
+                "reference": "nr. 4",
+                "to_date": "",
+                "description": "Urd",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "18",
+                "reference": "s. 51, 71",
+                "to_date": "",
+                "description": "Nasjonalgalleriet gjennem hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1879-07-20",
+                "order": "2",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1848",
+                "order": "0",
+                "reference": "nr. 121",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907-09-22",
+                "order": "14",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "12",
+                "reference": "s. 16, 20",
+                "to_date": "",
+                "description": "Det nye Norges Malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "4",
+                "reference": "s. 72",
+                "to_date": "",
+                "description": "Bergens Kunstforening i femti aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "22",
+                "reference": "s. 84, 184",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890",
+                "order": "6",
+                "reference": "s. 39, 45, 57, 71, 103, 194",
+                "to_date": "",
+                "description": "Werner Holmberg; hans lefnad och verk",
+                "place": "Helsingfors",
+                "authors": [
+                    "Aspelin-Haapkylä, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1898",
+                "order": "8",
+                "reference": "s. 31, 36",
+                "to_date": "",
+                "description": "Af Hans Gudes Liv og Værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "20",
+                "reference": "bd. 1, s. 150",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H.",
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "10",
+                "reference": "s. 113",
+                "to_date": "",
+                "description": "Malerwerke des 19. Jahrhunderts, Dresden 1891–1901",
+                "place": "Dresden",
+                "authors": [
+                    "Boetticher, F. von"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "17",
+                "reference": "s. 210",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo, 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "15",
+                "reference": "bd. 4, s. 170",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1871-08-05",
+                "order": "1",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1878",
+                "order": "3",
+                "reference": "bd. 1, s. 183, bd. 2, s. 44, 188",
+                "to_date": "",
+                "description": "Adolph Tidemand",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889",
+                "order": "5",
+                "reference": "s. 65",
+                "to_date": "",
+                "description": "Aus der düsseldorfer Malerschule",
+                "place": "Leipzig",
+                "authors": [
+                    "Rosenberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "13",
+                "reference": "s. 29",
+                "to_date": "",
+                "description": "Cappelen og hans Samtid",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thommesen, E."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "24",
+                "reference": "nr. 49, 58, 89, og 183",
+                "to_date": "",
+                "description": "Universitetsbiblioteket, Oslos brevsamling",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Erik Bodom",
+    "url": "https://nkl.snl.no/Erik_Bodom",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Etter å ha vært Gudes elev i 2 år i Norge, fulgte B. ham til Düsseldorf i 1850. I løpet av kort tid gjorde B. så raske fremskritt at han 1852 ble tildelt offentlig stipendium til fortsettelse av sine studier. Sitt første store maleri <em>Motiv fra Bondhusdalen</em> malte han samme år. Det kom senere via en engelsk kunstnervenn til Bridgewater Gallery i London. I 1853 ble B. æresmedlem av Det kgl. Akademi i Amsterdam på grunnlag av <em>Landskap fra den norske kyst</em>. Nasjonalgalleriet kjøpte i 1857 det store landskapsbildet <em>Fra Nordmarken</em>. På den skandinaviske utstillingen i Stockholm 1866 fikk B. Mention Honorable for et av sine mest berømte malerier, <em>Bautastene ved Stranden</em>. Et annet av B.s hovedverk er <em>Øde og tomt efter Sortedøden</em> (1870). Mange av B.s verk ble solgt til utenlandske gallerier og privatsamlinger. Fra 1853 var B. den finske maleren Werner Holmbergs lærer. B. ble regnet som en av de betydeligste blant de unge i Düsseldorf. Hans malemåte og motivkrets er sterkt påvirket av August Cappelen, som han også kopierte. Som Cappelen var han utpreget natur-romantiker. Det var særlig dystre og ensomme landskap med skogbevokste åser og stille, blanke tjern som opptok ham. Gude karakteriserte ham som \"Fjeldtjernets melankolske Maler\". Koloritten er mørkstemt med effektfulle kontraster i lys- og skyggevirkninger.</p>\n<p>De kunstneriske forventninger man satte til B. ble ikke innfridd. Dette hadde kanskje sammenheng med at hans interesser etter hvert ble delt mellom malerkunst og mikroskopi, hvori han ifølge spesialister nedla et betydningsfullt arbeid.</p>\n</div>",
+    "created_at": "2013-07-03T16:21:17.247+02:00",
+    "changed_at": "2024-06-18T23:25:44.860+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab432\",\"https://digitaltmuseum.no/b4f72b90-06a3-4fad-94ad-1e8a35b54701\",\"http://kulturnav.org/b4f72b90-06a3-4fad-94ad-1e8a35b54701\"]",
+        "lastname": "Bodom",
+        "firstname": "Erik",
+        "birth_date": "28.9.1829",
+        "birthplace": "Vestby",
+        "death_date": "16.4.1879",
+        "external_id": "person_8736ab432",
+        "kulturnav_id": "b4f72b90-06a3-4fad-94ad-1e8a35b54701",
+        "place_of_death": "Düsseldorf",
+        "alternative_names": "Bodom, Erik Dorn"
+    },
+    "authors": [
+        {
+            "full_name": "Ingrid Reed Thomsen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15689/standard_NMK-B_NG.M.0159520130725-13675-lj01zk.jpg",
+            "full_size_url": "https://media.snl.no/media/15689/NMK-B_NG.M.0159520130725-13675-lj01zk.jpg",
+            "xhtml": "<div>\r\n<p><em>Kystparti med bauta og vrak</em>, 1878. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Erik Bodom",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15798/standard_NMK-B_NG.M.0444220130725-13675-146u93f.jpg",
+            "full_size_url": "https://media.snl.no/media/15798/NMK-B_NG.M.0444220130725-13675-146u93f.jpg",
+            "xhtml": "<div>\r\n<p><em>Havneparti</em>, 1865. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Erik Bodom",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

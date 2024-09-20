@@ -1,0 +1,836 @@
+{
+    "id": 417622,
+    "headword": "Nils Erik Flakstad",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1976",
+                "type": "Gift med",
+                "external_id": "person_8736ab102194",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bjørg",
+                "lastname": "Bache",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102191",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Nils Erik",
+                "lastname": "Flakstad",
+                "professions": [
+                    "banksjef"
+                ]
+            },
+            {
+                "from_date": "1934",
+                "type": "Gift med",
+                "external_id": "person_8736ab1071",
+                "birth_date": "08.09.1908",
+                "death_date": "26.08.1971",
+                "firstname": "Oda",
+                "lastname": "Flakstad",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102192",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Oddbjørg",
+                "lastname": "Kilde",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold og Robert Wilhelm Rasmussen 1930–32",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole under Thorbjørn Alvsåker 1928–29, aftenskolen 1930–32, 1933–34",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "6",
+                "description": "Frankrike 1929 og -50"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1935"
+            },
+            {
+                "order": "4",
+                "description": "Reise til sjøs til India, Kina, Japan og Australia 1924"
+            },
+            {
+                "order": "3",
+                "description": "Therese og Anton Klaveness' stipend 1962"
+            },
+            {
+                "order": "1",
+                "description": "Statens stipend 1947 og -48"
+            },
+            {
+                "order": "5",
+                "description": "studiereise til Italia 1929"
+            },
+            {
+                "order": "2",
+                "description": "3% fondets reisestipend 1950"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre, styremedlem 1946–49"
+            },
+            {
+                "order": "0",
+                "description": "Overlærer Statens Håndverks- og Kunstindustriskole 1955–76"
+            },
+            {
+                "order": "2",
+                "description": "medlem Unge Kunstneres Samfund, styremedlem 1946"
+            },
+            {
+                "order": "4",
+                "description": "Juryen for Offisielle Kunstutstillinger 1946–49, 1952–55"
+            },
+            {
+                "order": "5",
+                "description": "Riksgalleriets innkjøpskomité fra 1954"
+            },
+            {
+                "order": "3",
+                "description": "Norsk Billedhuggerforening, styremdlem 1946–49"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "1. premie i konkurransen om fonteneanlegg til Haugesund rådhus 1941"
+            },
+            {
+                "order": "0",
+                "description": "2. premie i konkurransen om utsmykning av Oslo Rådhus 1938"
+            },
+            {
+                "order": "3",
+                "description": "1. premie i konkurranse om utsmykning av Stortingets trappehall 1959"
+            },
+            {
+                "order": "2",
+                "description": "delt 1. premie i konkurranse om Norges representasjon i internasjonal konkurranse om den ukjente politiske fange 1952"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "relieff på Sjømennenes Hus, Oslo (1956)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "monument over Flyvåpnets falne, Akershus festning, Oslo (granitt, 1954)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Vang, Ålesund, Haugesund og Koppang kommuner"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "bronsegitter, Grand Hotell, Oslo (1948)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "minnesmerke over Anders Fosvold, Stor-Elvdal (1959)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "byste av Andrew Furuseth, Romedal (1961)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Hulda Garborg, Hamar (1966)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "minnesmerke over Oskar Bjørnstad, Evenstad kapell, Stor-Elvdal (1971)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "minnestein med relieff, Kaptein Otto Nyquist, Gratangen (1941)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Trondheim Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Dr. Olav Sopp, Hamar kirkegård"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Olaus Arvesen, Hamar"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "(de siste fra 1930-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "monument over krigens falne, Hamar (granitt, 1949)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "monument over krigens falne, Haugesund (1950)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "kobberrelieff til det astronomiske ur i i Oslo Rådhus (1950)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "statuett av Kong Haakon 7, Oslo Militære Samfund (bronse, 1955)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Hanna Winsnes, Vang kirkegård"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "keramikkrelieff, Norsk Bykredittforenings bygning, Drammensvn., Oslo (1947)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Berger Langmoen, Brumunddal (granitt, 1956)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Arkivmuseet, Lund"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "minnestein over omkomne fiskere, Malnes kirke, Bø i Nordland (1948)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Dr. Werner Christie, Vang (1966)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "monument med portrettmedaljong, Harald Korsgaard, Rena (1957)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Tollef Kilde, Rena (bronse 1936)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "minnestein, Bø kommune (1945)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "relieffet Norge, Stortinget (tre, 1966)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Brønnanlegget med Fiskeren, Oslo Rådhus (granitt 1941)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Pastor Ole Eger, Hamar"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "fonteneanlegget By og land, rådhuset i Haugesund (granitt 1949)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1935",
+                "order": "1",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1931",
+                "order": "0",
+                "to_date": "1932",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1960",
+                "order": "6",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1945",
+                "order": "3",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1947",
+                "order": "4",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1950",
+                "order": "5",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1937",
+                "order": "2",
+                "to_date": "1939",
+                "title": "Statens årlige Kunstutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1957-08-08",
+                "order": "13",
+                "to_date": "",
+                "description": "Rogaland",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-08-09",
+                "order": "15",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "6",
+                "reference": "hefte 26 s. 47 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-08-04",
+                "order": "25",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Storm, P.P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "27",
+                "to_date": "",
+                "description": "Juryens uttalelse til konkurransen om fontene på Rådhusplassen i Haugesund",
+                "place": "Haugesund",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-09-15",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-05",
+                "order": "4",
+                "to_date": "",
+                "description": "Hamar Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "10",
+                "reference": "hefte 66 s. 4–19 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-10-16",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-09-15",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-03-15",
+                "order": "0",
+                "to_date": "",
+                "description": "Hamar Stiftstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "34",
+                "reference": "s. 175–180",
+                "to_date": "",
+                "description": "Norsk skulptur i femti år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "36",
+                "reference": "s. 126",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "30",
+                "reference": "s. 69",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "8",
+                "reference": "hefte 48, s. 30 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "32",
+                "reference": "hefte 4 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "title": "Nils Flakstad",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-06-06",
+                "order": "22",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-03-05",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-12-06",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "5",
+                "reference": "hefte 13–14 s. 24, 25 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "7",
+                "reference": "hefte 26 s. 47 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "28",
+                "to_date": "",
+                "description": "48 ukens portretter fra Hamar og Hedemark",
+                "place": "Hamar",
+                "authors": [
+                    "Røst, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-08-09",
+                "order": "14",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "26",
+                "reference": "bd. 4, s. 390",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveurs",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-01",
+                "order": "3",
+                "to_date": "",
+                "description": "Hamar Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "9",
+                "reference": "hefte 62 s. 10",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-08-08",
+                "order": "18",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-08-08",
+                "order": "24",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-07-11",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-10-16",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "29",
+                "to_date": "1979",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "35",
+                "reference": "s. 81, 196",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-06-06",
+                "order": "21",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Arneberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "33",
+                "reference": "bd. 6, s. 543",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "37",
+                "reference": "s. 52",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "31",
+                "reference": "s. 234–35, pl. 116",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-06-04",
+                "order": "23",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-11-04",
+                "order": "19",
+                "to_date": "",
+                "description": "Østerdølen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Nils Erik Flakstad",
+    "url": "https://nkl.snl.no/Nils_Erik_Flakstad",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>F. ville opprinnelig bli maler. Som 17-åring avbrøt han plutselig skolegangen i Hamar og drog et halvt år til sjøs. Etter farens ønske tok han så artium og ett år på Krigsskolen før han i 1928 gikk inn på både frihåndstegning- og moddellerklassen på Statens Håndverks- og Kunstindustriskole. I 1929 foretok han studiereiser til Italia og Frankrike, og først da ble han klar over at det var billedhugger han skulle bli. To år på Statens Kunstakademi, Oslo 1930–32, det siste året under prof. Wilhelm Rasmussen, avsluttet læreårene.</p>\n<p>I 1931 debuterte han på Høstutstillingen med en byste av Otto Sinding, og videre i 30-årene laget han en rekke portrettbyster og relieffer for hjemfylket Hedmark: bysten av morfaren, \"Østerdalskongen\" Tollef Kilde på Rena, relieffet av dr. Olav Sopp på Hamar kirkegård, portrettet av folkehøyskolepioneren Olaus Arvesen på Sagatun Folkehøyskole ved Hamar, minnesteinen over Hanna Winsnes på Vang kirkegård og bysten av pastor Ole Eger på Hamar. Portrettene fra denne tiden bærer alle preg av en naturalistisk, litt skolemessig stil. I motsetning til flere av sine samtidige søkte han imidlertid ikke sin inspirasjon hos Charles Despiau, Aristide Maillol og Emile Antoine Bourdelle, men fant i de følgende år tilsynelatende uanstrengt fram til sin egen sagaknappe, stiliserte form.</p>\n<p>I konkurransen om Borregaard-monumentet i 1935 ble hans arbeid innkjøpt, og i 1938 ble han nr. 2 i konkurransen om hovedgruppen ved utsmykningen av Oslo Rådhus, med utkastet <em>Byen og havet</em>. F.s virkelige gjennombrudd kom i 1941 da en enstemmig jury samlet seg om hans utkast <em>By og land</em> i konkurransen om fonteneanlegget ved rådhuset i Haugesund. Fontenen var ferdig i 1949. Anlegget bygger seg opp i faste, avstemte flater, fra det store hovedbassenget til det åttekantete midtpartiet som krones av en frigjort skute under fulle seil, symbolet på drømmen og eventyret. Lyset og vannet gir skiftende spill over den rødlige granitten. Midtpartiets klare, enkle og lettfattelige relieffer og hovedbassengets få og stiliserte sjølivs-symboler underbygger og fremhever hele anleggets rolige rytme.</p>\n<p>I begynnelsen av 1940-årene arbeidet F. med utkastene til brønnen på østsiden av Oslo Rådhus, og Nasjonalgalleriets <em>Fiskeren</em> i bronse er et av disse. Brønnanleggets fisker står som frittstående skulptur i granitt med ryggen mot veggen, og over hodet kretser fire måker i relieff. Anlegget glir fint avstemt inn i den arkitektoniske helhet. Det er ingen heroisert fisker F. har laget. Mannen står godt plantet på sine ben i den svære oljebuksen, og de hengende armene med store never har et fast grep i fiskegarnet. Figuren har hatt betydning for Kåre Oruds Fisker (1959) og Trygve Dammens Skårungen (1965). Norges Bank brukte dessuten figuren og to av måkene på de norske tikronesedlene fra 1972.</p>\n<p>I 1947 ble F.s minnesmerke for de falne i siste verdenskrig avduket på Hamar. På den firkantete stenen synker en ung mann motvillig i kne med løftet hode. Monumentet over Flyvåpenets falne ble reist i granitt i 1954 på Akershus festning i Oslo. Den firkantete blokken har stilisert dekor-relieff.</p>\n<p>Andre arbeider av F. i Oslo er det muntre og fargerike keramikkrelieffet i vestibylen til Norsk Bykredittsforenings bygning på Drammensveien, laget sammen med Alf-Jørgen Aas og Jens von der Lippe i 1947. Det dekorative bronsegitter i foajeen i Grand Hotell er fra 1948. De stiliserte tegn fra dyrekretsen i fargelagt, drevet kobber til det astronomiske ur mot borggården i Oslo Rådhus er fra 1950. I 1952 ble gallionsfiguren til M/S Berwick laget for Fred. Olsen Line. Samme år vant han sammen med Ørnulf Bast og Joseph Grimeland en internasjonal konkurranse om monumentet over den ukjente politiske fange. F.s utkast bar mottoet <em>Granitt</em> og ble utstilt i London 1953. Den knelende unge mannen med lenke rundt hoftene er påvirket av Michelangelos Slave. Statuetten av kong Haakon fra 1952 og det enkle relieffet på Sjømennenes hus i 1956 hører også til rekken av Oslo-arbeider.</p>\n<p>Granitt-statuen av <em>Berger Langmoen</em> (Brumunddal 1956) i lang frakk på en høy sokkel, er glatthugd og kubisk i formen og virker samlet og monumental som en bautastein. Bysten av <em>Hulda Garborg</em> (1966), i Strandgt. på Hamar er til gjengjeld detaljrik og beskrivende. Et større arbeide fra de senere år er relieffet <em>Norge</em> på fondveggen i trappehallen i Stortinget (ferdig høsten 1966). Det viser enkle figurer i lyst tre mot den gule teglsteinsveggen.</p>\n<p>I 1974 viste Galleri Tanum ti av hans arbeider, alle hentet fra fiske- og sjøliv: fiskere i bronse, gips eller stein og relieffer med motiver fra havn og båter i bronse og stein. Den strenge og knappe formen i hans fiskere uttrykker også hvordan slitet har preget individene. Relieffene plasserer F. i den tidlige abstrakte retning i norsk skulptur.</p>\n<p>F. deltok sjelden i utstillingslivet, men gjennom sin mangeårige gjerning som overlærer i billedhuggerklassen ved Statens Håndverks- og Kunstindustriskole 1955–76 var kontaktflaten med den yngre generasjon av billedhuggere stor. Hans arbeider er alle preget av en utsøkt materialbehandling, og den særpregete, strenge form og bevisste stilisering gir inntrykk av ro og avklaring.</p>\n</div>",
+    "created_at": "2013-07-03T22:46:15.910+02:00",
+    "changed_at": "2024-06-18T23:26:12.639+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1070\",\"https://digitaltmuseum.no/6e10ca67-ed06-4bcf-8042-24ca5d2d7615\",\"http://kulturnav.org/6e10ca67-ed06-4bcf-8042-24ca5d2d7615\"]",
+        "lastname": "Flakstad",
+        "firstname": "Nils Erik",
+        "birth_date": "9.8.1907",
+        "birthplace": "Hamar",
+        "death_date": "31.7.1979",
+        "external_id": "person_8736ab1070",
+        "kulturnav_id": "6e10ca67-ed06-4bcf-8042-24ca5d2d7615",
+        "place_of_death": "Oslo",
+        "alternative_names": "Flakstad, Nils Erik"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

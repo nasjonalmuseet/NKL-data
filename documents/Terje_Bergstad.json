@@ -1,0 +1,596 @@
+{
+    "id": 416413,
+    "headword": "Terje Bergstad",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100689",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Adolf Olav",
+                "lastname": "Bergstad",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100690",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg",
+                "lastname": "Olsen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bærum"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Karl Høgberg, Bjarne Brunsvik og Chrix Dahl 1962–65",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Reidar Aulie og Halvdan Ljøsne 1965–68",
+                "order": "2"
+            },
+            {
+                "comment": "Blyglassverksted 4 år med svenneprøve",
+                "order": "0"
+            },
+            {
+                "comment": "Académie Grand Chaumière og Académie Goetz, Paris 1968–69",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "6",
+                "description": "Skiens Kunstforening stipend 1979"
+            },
+            {
+                "order": "1",
+                "description": "Houens legat 1964"
+            },
+            {
+                "order": "3",
+                "description": "Ths. Fearnleys stipend 1965"
+            },
+            {
+                "order": "2",
+                "description": "Røwdes legat 1965"
+            },
+            {
+                "order": "7",
+                "description": "Opphold i Frankrike 1968–69"
+            },
+            {
+                "order": "5",
+                "description": "Bildende Kunstneres Hjelpefonds materialstipend 1978"
+            },
+            {
+                "order": "4",
+                "description": "Statens 3-årige arbeidsstipend 1968, -69, -70"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1963, -65"
+            },
+            {
+                "order": "8",
+                "description": "studiereiser til Sovjetunionen, Finland, Nederland, Italia og USA"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "1",
+                "description": "Medlem av Unge Kunstneres Samfunn"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Moss Kunstforening",
+                "from_date": "1968",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandnes Kunstforening",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1978",
+                "order": "19",
+                "to_date": "",
+                "title": "Reidar Aulie og hans elever"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandnes Kunstforening",
+                "from_date": "1972",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liljevalchs Konsthall, Stockholm",
+                "from_date": "1978",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandvika kino",
+                "from_date": "1978",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "SAS' gallery, New York",
+                "from_date": "1967",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1967",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "atelier expo-arte, Oslo",
+                "from_date": "1979",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1978",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Musk, Bærum",
+                "from_date": "1978",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ibsenhuset, Skien",
+                "from_date": "1979",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1976",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "atelier expo-arte, Oslo",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1974",
+                "order": "14",
+                "to_date": "1979",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "15",
+                "to_date": "",
+                "title": "Østl.utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1973",
+                "order": "16",
+                "to_date": "",
+                "title": "49. Ungdomsbiennale"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Buttekvern, Brummunddal",
+                "from_date": "1977",
+                "order": "18",
+                "to_date": "",
+                "title": "Norsk tegning i dag"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Porsgrunn Kunstforening",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1974-09",
+                "order": "7",
+                "to_date": "",
+                "title": "Byens bilde"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1977",
+                "order": "17",
+                "to_date": "",
+                "title": "Ni med tegninger"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1979-12-18",
+                "order": "19",
+                "to_date": "",
+                "description": "i Varden",
+                "authors": [
+                    "Høisæther, O.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-14",
+                "order": "15",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-29",
+                "order": "16",
+                "to_date": "",
+                "description": "Telemark Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-29",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Varden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-12",
+                "order": "14",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-07",
+                "order": "18",
+                "to_date": "",
+                "description": "i Varden",
+                "authors": [
+                    "Selmer, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-04-01",
+                "order": "7",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "3",
+                "reference": "nr. 2, s. 32 (4 ill.)",
+                "to_date": "",
+                "description": "Kunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-21",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-01-09",
+                "order": "8",
+                "to_date": "",
+                "description": "i Asker og Bærums Budstikke",
+                "authors": [
+                    "Egebakken, E.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-03-16",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-05-31",
+                "order": "5",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-09-20",
+                "order": "4",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "0",
+                "reference": "s. 32, 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-02",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-26",
+                "order": "12",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-25",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "1",
+                "reference": "s. 66, 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-15",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Wiik, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "2",
+                "reference": "s. 63, 187",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Terje Bergstad",
+    "url": "https://nkl.snl.no/Terje_Bergstad",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. har sitt annet hjem i Telemark, og bildene herfra viser en kontrastrik landskapsforenkling i mørke farger. For øvrig har hans bilder et naivt-ekspresjonistisk og intenst uttrykk med impulser fra den tyske ekspresjonismen og Die Brücke-malerne.</p></div>",
+    "created_at": "2013-07-03T15:39:12.448+02:00",
+    "changed_at": "2024-06-18T23:25:40.547+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab336\",\"https://digitaltmuseum.no/02985f6c-2d6f-4ceb-bb80-72943a93e1b9\",\"http://kulturnav.org/02985f6c-2d6f-4ceb-bb80-72943a93e1b9\"]",
+        "lastname": "Bergstad",
+        "firstname": "Terje",
+        "birth_date": "14.10.1938",
+        "birthplace": "Oslo",
+        "death_date": "7.2.2014",
+        "external_id": "person_8736ab336",
+        "kulturnav_id": "02985f6c-2d6f-4ceb-bb80-72943a93e1b9",
+        "place_of_death": "Bærum"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20116/standard_NMK-B_MS-00500-198820150528-17392-skhkdq.jpg",
+            "full_size_url": "https://media.snl.no/media/20116/NMK-B_MS-00500-198820150528-17392-skhkdq.jpg",
+            "xhtml": "<div><p><i>Høstlandskap</i></p></div>",
+            "type": "image",
+            "heading": "Terje Bergstad",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20117/standard_NMK-B_MS-02240-199120150528-17392-1j80g00.jpg",
+            "full_size_url": "https://media.snl.no/media/20117/NMK-B_MS-02240-199120150528-17392-1j80g00.jpg",
+            "xhtml": "<div><p><i>Vandring, Natt</i></p></div>",
+            "type": "image",
+            "heading": "Terje Bergstad",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20118/standard_NMK-B_MS-02003-198920150528-17392-1sl8eum.jpg",
+            "full_size_url": "https://media.snl.no/media/20118/NMK-B_MS-02003-198920150528-17392-1sl8eum.jpg",
+            "xhtml": "<div><p><i>Faun</i></p></div>",
+            "type": "image",
+            "heading": "Terje Bergstad",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20119/standard_NMK-B_MS-02521-198820150528-17392-1eg5kz1.jpg",
+            "full_size_url": "https://media.snl.no/media/20119/NMK-B_MS-02521-198820150528-17392-1eg5kz1.jpg",
+            "xhtml": "<div><p><i>Landskap fra Italia</i></p></div>",
+            "type": "image",
+            "heading": "Terje Bergstad",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

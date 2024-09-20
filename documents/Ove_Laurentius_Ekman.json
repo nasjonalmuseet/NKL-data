@@ -1,0 +1,784 @@
+{
+    "id": 417350,
+    "headword": "Ove Laurentius Ekman",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101888",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg Birgitte",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101887",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lorentz Peter",
+                "lastname": "Ekman",
+                "professions": [
+                    "hattemaker"
+                ]
+            },
+            {
+                "from_date": "1875",
+                "type": "Gift med",
+                "external_id": "person_8736ab101889",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Augusta Margareta",
+                "lastname": "Ludt",
+                "professions": [],
+                "place": "Bergen"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Höxter Bauschule, Westfalen, 1866",
+                "order": "1"
+            },
+            {
+                "comment": "Den kgl. Tegneskole, Christiania, 1862-66",
+                "order": "0"
+            },
+            {
+                "comment": "og kunstakademiet München, 1867–68",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereiser i Italia og Frankrike 1870–71"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "5",
+                "description": "dessuten jurymedlem ved en rekke viktige arkitektkonkurranser i 1890-årene og begynnelsen av 1900-tallet (f.eks. regjeringsbygn. 1891, justisbygningen 1895 og Norges Bank 1900, alle Kristiania)"
+            },
+            {
+                "order": "2",
+                "description": "statens representant i styret for Kristiania Tekniske Skole fra 1900"
+            },
+            {
+                "order": "0",
+                "description": "E. var flittig benyttet som tillitsmann i offentlige komiteer og i Den Norske Ingeniør og Arkitektforening"
+            },
+            {
+                "order": "1",
+                "description": "Han var medlem av Kristiania formannskap 1892–1904"
+            },
+            {
+                "order": "3",
+                "description": "formann i byggekomiteen for Universitetsbiblioteket, Oslo og Universitetsbygningen på Tøyen, Kristiania"
+            },
+            {
+                "order": "4",
+                "description": "medlem av komiteen for ordning av statens bygningsvesen fra 1901"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "R1 St. Olavs Orden 1899"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Nedre Slottsgt. 13 (1899) og 15, (1898–99)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Stenersgt. 1, 7 og 9"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Nedre Slottsgt. 10 B (1891)"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "Vangs Sparebank, Torggt. 12, Hamar (1914)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Sammen med E. Smith: Kongens gt. 33, Kristiania (1890, forretningsgård)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Et utvalg: Aker sparebank"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "Kristiania Sparebank (1899)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Kristiania slaktehus, Grønlands torg (revet)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Villaer og leievillaer i Oslo: Colbjørnsens gt. 5 (1872)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Larvik Bad"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Forretningsgårder i Oslo: Brugt. 12 (1882, m/auksjonslokale)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Vestheim (1893)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Skoler: Lillehammer folkeskole (1886)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Akersgt. 16 (1895)"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Nedre Slottsgt. 8, Kristiania (1899–1901, forretningsgård)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Tollbugt. 11 (1898)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Prinsens gt. 14 (1900–02)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Karl Johans gt. 6 (1883)"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Langberggt. 3, ålesund (1916, ombygning)"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "Prosjekter: Teater og forretningsbyg på Tivolitomten, Klingenberg, Kristiania (1886)"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Oscars gt. 12"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Drammensv. 70 (1895)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Gjertsens, nå Frogner (1898–99)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "restaurant Dronningen, Frognerkilen, Kristiania (1901–02, brent)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Gausdal Sanatorium"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Kampen (1886)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Kirkegt. 34 (1895)"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "Skovvn. 12, Kristiania, (leiegård)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "reguleringen av Huk avenue, Bygdøy, med en rekke villaer"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Cort Adelers gt. 6 (1887)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Stortorvet 9 (1898)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Stortorvet 4, Kristiania (1898, forretaningsgård)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Bjølsen (1886)"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "Grønlands menighetshus, Grønlandsleiret 41, Kristiania (1913)"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "Murmester O. Michelsens villa, Nordstrand i Aker"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "og Cirkus, Kristiania"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Drammensvn. 37 og 45–53 (1895)"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "Sammen med E. Smith og C. Michalsen: Strandhotell og bad på Hukodden , Bygdøy"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Opstad tvangsarbeidsanstalt"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Frk. Bonnevies pigeskole, Oscars gt. 42 (1894)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Skippergt. 40 (1894–96)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Østre Aker Landsfengsel"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Tollbugt. 35 (1897–1900)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Leiegårder i Oslo: Uranienborg terrasse 19 (1886)"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Citypassasjen mellom Akersgt. og Prof. Aschehougs pl., Kristiania (1897–98)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Kristianiaskoler: Uranienborg (1886)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "Sammen med E. Smith og C. Michalsen: Kirkegt. 10 B, Kristiania (1913, om- og påbygning av forretningsgård)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Øvre Slottsgt. 14 og 16 (begge 1890)"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "direktør Skabo Bruns villa, Slemdal i Aker"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "villa, Fredriksborgvn. 4, Bygdøy"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Tivoli resturant (1890)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Eilert Sundts gt. 33 (1884)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Bragernes og Strømsø folkeskoler, Drammen (1893)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Lillehammer sparebank og festivitetslokale (1892–96)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1917",
+                "order": "5",
+                "reference": "s. 119, 125 og 221",
+                "to_date": "",
+                "description": "Lillehammer i nitti aar 1827–1917",
+                "place": "Lillehammer",
+                "authors": [
+                    "Gunnersen, G. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "13",
+                "reference": "bd. 3, register s. 965",
+                "to_date": "",
+                "description": "Drammen. En norsk østlandsbys utviklingshistorie",
+                "place": "Drammen",
+                "authors": [
+                    "Thorson, O. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "0",
+                "reference": "s. 308",
+                "to_date": "",
+                "description": "Norske ingeniører og arkitekter",
+                "place": "(Kristiania",
+                "authors": [
+                    "Fougner, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "23",
+                "reference": "s. 18-19",
+                "to_date": "",
+                "description": "i Byggekunst",
+                "authors": [
+                    "Nordan, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "15",
+                "to_date": "1906",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [
+                    "(spalten anmeldte større byggearbeider i Kristiania)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "21",
+                "reference": "s. 105–06",
+                "to_date": "",
+                "description": "Arkitektur og dekorativ kunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "3",
+                "reference": "bd. 5, s. 818",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [
+                    "2. utg."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "25",
+                "reference": "s. 66",
+                "to_date": "",
+                "description": "i Byggekunst",
+                "authors": [
+                    "Nordan, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "11",
+                "reference": "s. 68–69, 73, 85, 93–94, 157, 163, 166, 201, 202, 215, 216, 234, 263, 265, 296, 298, 309, 327 og 345",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "7",
+                "reference": "bd. 5, s. 455",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "9",
+                "reference": "s. 591-92",
+                "to_date": "",
+                "description": "Hamars historie",
+                "place": "Hamar",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "17",
+                "reference": "s. 392",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "4",
+                "reference": "bd. 3, s. 501–02",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-06-21",
+                "order": "22",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [
+                    "(nekrolog)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "1",
+                "reference": "s. 64",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "12",
+                "reference": "register s. 278",
+                "to_date": "",
+                "description": "Akersgaten",
+                "place": "Oslo",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "14",
+                "reference": "s. 3, 10, 11, 15, 16, 19, 24, 26, 29 og 31",
+                "to_date": "",
+                "description": "Bevaringsplan for Kristiania Forening til norske Fortidsmerkers Bevaring",
+                "place": "(Oslo)",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "20",
+                "reference": "s. 138–39 og 165",
+                "to_date": "",
+                "description": "Norsk Teknisk Tidsskrift",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "reference": "s. 39",
+                "to_date": "",
+                "description": "St. Hallvard register",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "24",
+                "reference": "s. 121",
+                "to_date": "",
+                "description": "i Byggekunst",
+                "authors": [
+                    "Nordan, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "8",
+                "reference": "s. 308",
+                "to_date": "",
+                "description": "Den kongelige norske Sankt Olavs Orden",
+                "place": "Oslo",
+                "authors": [
+                    "Amundsen, Delphin O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "6",
+                "reference": "s. [141] og [152]",
+                "to_date": "",
+                "description": "Norges Kunst 1814__mdash;1914 Jubilæumsutstillingen",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "18",
+                "reference": "s. 417",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "16",
+                "reference": "s. 83",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "2",
+                "reference": "s. 223",
+                "to_date": "",
+                "description": "Illustreret biografisk leksikon",
+                "place": "(Kristiania",
+                "authors": [
+                    "With, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "19",
+                "reference": "s. 314 (nekrolog)",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Register over Art Nouveau arkitektur",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Antikvarisk Arkiv, Riksantikvaren"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ove Laurentius Ekman",
+    "url": "https://nkl.snl.no/Ove_Laurentius_Ekman",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Etter endt utdannelse var E. fra 1872 en kort tid assistent hos arkitekt J.W. Nordan i Christiania, men etablerte snart egen praksis her. Fra ca. 1890 hadde han kontor sammen med sin halvbror Einar Smith i firmaet Ekman &amp; Smith; fra ca. 1910 også sammen med Carl Michalsen i firmaet Ekman, Smith &amp; Michalsen. En rekke bygninger fra 1890-årene og senere ser imidlertid ut til å være oppført med E. som enearkitekt. E. var bygningsinspektør i Kristiania 1876-88.</p>\n<p>E. var antagelig Norges mest produktive arkitekt på 1800-tallet. Han har tegnet hundrevis av bygninger av alle typer, spesielt i høykonjunkturperioden i Kristiania ved århundreskiftet. I 1880- og 1890-årene tegnet han en lang rekke skoler både i pusset og upusset tegl. Fasadedetaljene er for det meste hentet fra renessansearkitektur. Skolene har store vinduer som gir lys til store, luftige klasseværelser, og bygningene var for sin tid et moderne og rasjonelt svar på skolevesenets behov. <em>Lillehammer sparebank og festivitetslokale</em> (1892–96) er som mange av E.s bygninger inspirert av italiensk renessansearkitektur. Bygningen har upussede teglfasader med pussede bånd, pilastre og gesimser. Over hovedfløyen med den store festsal i 2. etasje troner en stor, kvadratisk kuppel. I 1890-årene oppførte E. en lang rekke forretningsgårder i Kristiania, bygninger som markerer et høydepunkt i norsk arkitektur og håndverk. De fleste gårdene er på fem etasjer, har fasade til to eller flere gater, med butikklokaler i de to nedre etasjer og kontorer, leiligheter eller hotell over. Fasadene er gjerne meget rikt utstyrt: de to nedre etasjer i granitt gjennombrutt av store speilglassvinduer; de øvre etasjer i tegl med puss- eller huggesteinsdetaljer. Hele huggesteinsfasader forekommer også. Utstrakt bruk av jernbjelker og -søyler muliggjør de store vindusflatene og åpne planløsninger. De arkitektoniske detaljer er for det meste inspirert av renessanse- og barokkarkitektur. Interiørene i disse forretningsgårdeneer også gjerne usedvanlig påkostet, og den tekniske standard var for sin tid meget høy med elektrisk lys, heisanlegg ogsentralvarme.<em>Citypassasjen</em> mellom Akersgt. og Prof. Aschehougs pl. Oslo (1897–98), er eksempel på en spesiell variant av forretningsgårdstypen. Bygningstypen er sjelden i Norge, og et unikt produkt av 1800-tallet. Anlegget er beskjedent i forhold til forbildene; de store passasjeanleggene i en rekke storbyer i Europa. E. &amp; Smith har her bygd en forretningsgård der fasadene er vendt inn mot en smal gågate gjennom kvartalet. Løsningen tilbyr dermed mye større fasade- og utstillingsflater enn tomten ved normal utnyttelse ville gitt. Som de fleste andre norske arkitekter gikk E. etter århundreskiftet fra sin internasjonale historistiske orientering over til å la seg inspirere av vår hjemlige renessanse- og barokkarkitektur. E. var meget interessert i reguleringsspørsmål. Han lanserte allerede i 1870-årene ideen om å legge Kristianias rådhus i Pipervika, og foreslo i 1909 å legge Drammensbanen i tunnel under Frogner for å frigjøre Frognerstranden til strandpromenade.</p>\n</div>",
+    "created_at": "2013-07-03T20:57:13.438+02:00",
+    "changed_at": "2024-06-18T23:26:05.610+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab913\",\"https://digitaltmuseum.no/2a184ffd-bd4c-4222-8150-ace1df239ffc\",\"http://kulturnav.org/2a184ffd-bd4c-4222-8150-ace1df239ffc\"]",
+        "lastname": "Ekman",
+        "firstname": "Ove Laurentius",
+        "birth_date": "10.9.1847",
+        "birthplace": "Christiania",
+        "death_date": "19.6.1921",
+        "external_id": "person_8736ab913",
+        "kulturnav_id": "2a184ffd-bd4c-4222-8150-ace1df239ffc",
+        "place_of_death": "Bygdøy"
+    },
+    "authors": [
+        {
+            "full_name": "Trond Marinus Indahl"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

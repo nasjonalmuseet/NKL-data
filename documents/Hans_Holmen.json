@@ -1,0 +1,912 @@
+{
+    "id": 417029,
+    "headword": "Hans Holmen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103523",
+                "birth_date": "1835",
+                "death_date": "1916",
+                "firstname": "Anne Marie",
+                "lastname": "Svartsrød",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103522",
+                "birth_date": "1839",
+                "death_date": "1915",
+                "firstname": "Iver",
+                "lastname": "Holmen",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "from_date": "1921",
+                "type": "Gift med",
+                "external_id": "person_8736ab103524",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Magna",
+                "lastname": "Fjære",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Académie Colarossi, Paris 1911",
+                "order": "3"
+            },
+            {
+                "comment": "Elev av Knud Bergslien 1900",
+                "order": "0"
+            },
+            {
+                "comment": "Harriet Backers malerskole 1901",
+                "order": "1"
+            },
+            {
+                "comment": "Kristian Zahrtmann, København november-mars 1902 og februar-april 1903",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Reiser til København 1901–03"
+            },
+            {
+                "order": "2",
+                "description": "Roma, Firenze 1921"
+            },
+            {
+                "order": "1",
+                "description": "Paris, London 1911"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "Sandefjord Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "To statuer, for A.C. Olsen, Sandefjord gamle kirkegård"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "F.P. Schulze, Gamle Aker, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "O. Mossin, Vestre Gravlund, urnelunden, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Myllarguten, Nordagutu stasjon (1940)"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Inga og Jacob Næss, A. og K.J. Stensby, Ekeberg gravlund, Sandefjord"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "Valum Dahl, Haug gravlund i Eiker"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Lorens Berg, Gallisvannet i Kodal (1954)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Chr. Gallis, Andebu"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Livets spill, for Th. Klaveness"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Halvorson Vindal, Frantzen, Bolt, Sandar"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Haugen, Hvarnes"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Frigjørelse, for familien Bjønnes"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "H. Bjelke, Vestre Aker, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Høegh, Vestre Gravlund, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Gravplater med portrettrelieffer: A. Bjørndal, H. Heia, Familien Bjørndalen, Kodal"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Monument over falne i Hedrum, Bommestad ved Larvik (1950)"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "Hans Holmens Kunstsamling, Hedrum kommunehus, Larvik"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "A. Lange, familien Andersen, Ranby, L. Christensen, Sandar"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "C.A. Larsen, sogneprest Gimsø, B. Hasle, L. Jacobsen, Th. Mathisen, Sandefjord gamle kirkegård"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Minnesmerke over sjømenn, Ekeberg gravlund, Sandefjord (smijern)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "I. og A.M. Holmen (1916), I. Hogsnes, Th. Larsen, Hedrum"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Et barn fant en perle, for A.F. Klaveness"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Hansteen Arnestad, Porsgrunn"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Vær tru, for Fredrik Enge, Sandar kirkegård"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Kvinne i bønn, Horten"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Piker knytter lenke, for Solveig Tenden, Ekeberg gravlund, Sandefjord"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Veggdekorasjoner Kaffistova, Sandefjord (ca. 1915, nå i privat eie). Der annet ikke er anført er arbeidene usignerte og udaterte, og materialet norsk hardstein: Landstadmonumentet, Sandefjord (1928)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Statuer på kirkegårder: Dødens slør, for frk. Brårud, Vestre Gravlund, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Pastor Steen, Sauherad"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "Sandefjord bymuseum (2 malerier)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bjørnunge, Sandefjord lekepark"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Hagtvedt, Trondenes"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Thurmann-Nielsen, Borre"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Brun, Sem"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Hyrden, for Gustav B. Bull"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Tillit, for Henrik Covenius Melsom, Nøtterøy"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Mor og datter, for familien A.F. Klaveness"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Ulabrand-monument, Ula (1931)"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Vestfold fylkesmuseum Tønsberg (2 malerier)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Dr. Wåler, Hamar"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Monument over falne i Stokke, Stokke kirke"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Strand, Sigdal"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Harald Sohlberg, Røros (signert 1924)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "S. Hanche Olsen, Horten (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Familien Solum, Stokke"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "I ditt lys, for Lars Christensen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "L. Berg: Tjølling, Kristiania 1915"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "L. Berg: Hedrum, Kristiania 1913"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "A. Allum: Hedrum, Larvik 1956"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "H. Klaveness: Etterladte digte. Oslo [1927]"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "L. Berg: Sandherred, Kristiania 1918"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1904",
+                "order": "7",
+                "to_date": "1907",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stokke kommunelokale",
+                "from_date": "1949",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1449",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vestfold fylkesmuseum, Tønsberg",
+                "from_date": "1962",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1943",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1902",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1958",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1979",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tønsberg",
+                "from_date": "1925",
+                "order": "8",
+                "to_date": "",
+                "title": "Vestfold fylkesutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1954-06-16",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vestfold Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-08",
+                "order": "11",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Lind, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-08-22",
+                "order": "21",
+                "to_date": "",
+                "description": "i Sandefjords Blad",
+                "authors": [
+                    "Lind, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "2",
+                "reference": "s. 128",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-04-24",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-06-30",
+                "order": "25",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "28",
+                "reference": "s. 96, 260 (ill.), 336",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-06-28",
+                "order": "23",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-08",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "29",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Hans Holmen 1878–1958. Litt om hans kunst og miljø",
+                "place": "(Larvik)",
+                "authors": [
+                    "Asbjørnrød, L.",
+                    "Krohn-Holm, J. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-04-28",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vestfold Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-05-18",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vestfold Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-11-17",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Østlandsp.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-01",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vestfold Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-09-18",
+                "order": "4",
+                "to_date": "",
+                "description": "i Sandefjords Presse",
+                "authors": [
+                    "Lind, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-20",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-22",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Vestfold Arbeiderbladet",
+                "authors": [
+                    "Krohn-Holm, J. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "34",
+                "reference": "s. 228",
+                "to_date": "",
+                "description": "Zahrtmanns skole",
+                "place": "København",
+                "authors": [
+                    "Lichtenberg, H. H. de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-08-31",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nybrott",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-01-08",
+                "order": "17",
+                "to_date": "",
+                "description": "Østlandsbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-01-08",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Østlandsp.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-08-18",
+                "order": "20",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "14",
+                "reference": "s. 38",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "0001-06-22",
+                "order": "22",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-10",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926-08-01",
+                "order": "1",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "10",
+                "reference": "s. 75",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850–1950",
+                "place": "Oslo",
+                "authors": [
+                    "Melhus, A. C.",
+                    "Sundseth, A. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-06-30",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Larvik Morgenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "30",
+                "reference": "s. 6-8 (ill.)",
+                "to_date": "",
+                "description": "Hans Holmen som kunstner, Heidarheim",
+                "place": "Larvik",
+                "authors": [
+                    "Krohn-Holm, J. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-05-28",
+                "order": "7",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "35",
+                "to_date": "",
+                "description": "Vestfold, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "(register)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i katalog Sandefjord Kunstforening",
+                "authors": [
+                    "Sandberg, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "0001-09-13",
+                "order": "3",
+                "to_date": "",
+                "description": "i Sandefjords Presse",
+                "authors": [
+                    "Lind, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-01-07",
+                "order": "16",
+                "to_date": "",
+                "description": "Teledølen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "33",
+                "reference": "bd. 5, s. 747 (ill.)",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-03-30",
+                "order": "5",
+                "to_date": "",
+                "description": "Vestfold Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1976",
+                "order": "36",
+                "publisher": "Universitetet i Oslo",
+                "reference": "s. 59-61, 179",
+                "to_date": "",
+                "description": "Zahrtmanns malerskole 1885–1908",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [
+                    "Manuskripter av H., Hans Holmens Kunstsamlingmagistergradsavhandling"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Hans Holmen",
+    "url": "https://nkl.snl.no/Hans_Holmen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>H. viste tidlig interesse for tegning og maling, men denne interessen vant liten forståelse i bygdemiljøet. I Hans Holmens Kunstsamling, Hedrum, er det bevart et stort materiale av aktmalerier. Disse bærer preg av at H. har bestrebet seg på å tilegne seg det syn på maleriet han møtte ved de forskjellige skolene, uten å forsøke og bidra med noe eget og originalt. I <em>Tømmerfløtere</em> (1907, Hans Holmens Kunstsamling) har H. arbeidet sammen figurene i en dramatisk komposisjon og forenklet natur og figurelementene. Koloritten er dominert av brunt og grønt. I dette og flere landskaper fra hjemtraktene merker man at vennen Nikolai Astrup har hatt betydning for H.s fargesyn og forenkling av formene. Ved siden av Nikolai Astrup var det Henrik Lund, Simon Thorbjørnsen og Harald Sohlberg som stod H. nær i de årene han arbeidet i Kristiania og København. Etter Paris-oppholdet i 1911 ble H.s koloritt lysere og formen mer impresjonistisk. Under sitt opphold i London fikk H. flere portrettoppdrag og malte altertavlen til den norske sjømannskirken i North Shields. Etter hjemkomsten fra London bosatte H. seg på farsgården i Hedrum. Han studerte folkelivet i hjembygda og laget illustrasjoner til tre bygdebøker av Lorens Berg. Arbeidene fra Italia-oppholdet i 1921 viser en spontan malerglede. Samme år flyttet han til Sandefjord. Han malte vesentlig hageinteriører, utsiktsbilder over Sandefjord og badebilder. I badebildene brukte han sterke kontraster mellom blått hav og solgule kropper og gav kroppene en skulptural utforming. Formatene var ofte store. H. nyttet i stor grad palettkniv og påførte malingen i tykke skikt.</p>\n<p>H.s interesse for skulptur ble vakt i København ved møtet med Kai Nilsens granittskulpturer, og fra 1920-årene inntok arbeidet med skulptur stor plass i hans produksjon. Under oppholdet i London ble H. fengslet av assyrisk og egyptisk skulptur. Hans første skulptur, et portrettrelieff av foreldrene fra 1916, er utført i norsk hardstein. Han arbeidet direkte i steinen med selvlagde redskaper. Hensikten var å skape en røff overflate og kantet form. I monumentet over los Anders J. Jacobsen, kalt <em>Ulabrand</em> (1931, Ula), har H. funnet en særpreget løsning på problemet med å integrere sokkel og figur. Med en pyramideform som utgangspunkt er monumentet bygd opp av grovhugde kvaderstein. Linjene i sokkelen er ført over i figuren som er skilt fra sokkelen av en abstrakt båtform. Ulabrands hode er gjengitt i en forenklet realisme. I statuen av <em>Myllarguten</em> (1940, Nordagutu) sitter spillemannen over skrevs på en kampestein, plassert på en sokkel satt sammen av store grovhugde relieffer. På relieffene skildres sagnet om Margit Jukse som krones til bergkongens brud. Blant H.s portrettfremstillinger må fremheves bysten av <em>Harald Sohlberg</em> (1924, Røros) og en statue av <em>Lorens Berg</em> (1954, Gallisvannet i Kodal).</p>\n</div>",
+    "created_at": "2013-07-03T19:05:16.813+02:00",
+    "changed_at": "2024-06-18T23:25:56.441+02:00",
+    "license_name": "fri",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1711\",\"https://digitaltmuseum.no/b57ed500-1ee9-46d8-bf54-daf9c890a995\",\"http://kulturnav.org/b57ed500-1ee9-46d8-bf54-daf9c890a995\"]",
+        "lastname": "Holmen",
+        "firstname": "Hans",
+        "birth_date": "8.1.1878",
+        "birthplace": "Hedrum",
+        "death_date": "16.8.1958",
+        "external_id": "person_8736ab1711",
+        "kulturnav_id": "b57ed500-1ee9-46d8-bf54-daf9c890a995",
+        "place_of_death": "Sandefjord"
+    },
+    "authors": [
+        {
+            "full_name": "Øivind Storm Bjerke"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

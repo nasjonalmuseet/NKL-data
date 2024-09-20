@@ -1,0 +1,284 @@
+{
+    "id": 416033,
+    "headword": "Annette Anker",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100153",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Birgitte Dorothea",
+                "lastname": "Fürst",
+                "professions": []
+            },
+            {
+                "type": "Søster av",
+                "external_id": "person_8736ab100154",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hermann",
+                "lastname": "Anker",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100160",
+                "birth_date": "1811",
+                "death_date": "1885",
+                "firstname": "Christian",
+                "lastname": "Anker",
+                "professions": [
+                    "kirkeverge"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Knud Bergsliens malerskole i Kristiania ca. 1875",
+                "order": "0"
+            },
+            {
+                "comment": "antakelig også av Otto Sinding",
+                "order": "2"
+            },
+            {
+                "comment": "elev av Erik Werenskiold 1883–85",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Opphold i Finland sommeren 1882"
+            },
+            {
+                "order": "0",
+                "description": "Studieopphold i Paris ca. 1880"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1882",
+                "order": "0",
+                "to_date": "1885",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1883",
+                "order": "1",
+                "to_date": "",
+                "title": "Kunst- og industriutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "4",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstforeningen i Kristiania",
+                "from_date": "",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1884-10-29",
+                "order": "7",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1884-11-13",
+                "order": "8",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1882-11-21",
+                "order": "5",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Rasch"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "0",
+                "reference": "s. 357",
+                "to_date": "1907",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-12-22",
+                "order": "6",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Heiberg, Gunnar"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "1",
+                "reference": "s. 49",
+                "to_date": "",
+                "description": "K. og K.",
+                "title": "Glemte kunstnere",
+                "authors": [
+                    "Thorbjørnsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1880-11-06",
+                "order": "4",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "3",
+                "reference": "s. 47",
+                "to_date": "",
+                "description": "Kunst. Kamp. Kultur",
+                "place": "(Kristiania",
+                "authors": [
+                    "Werenskiold, Erik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-01-03",
+                "order": "10",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1885-11-08",
+                "order": "9",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "2",
+                "reference": "bd. 1, s. 529",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme–Becker"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Annette Anker",
+    "url": "https://nkl.snl.no/Annette_Anker",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>A. malte landskaper fra flere steder i Norge: Ringebu, Eidanger, Ådalen, Nevlunghavn, Kragerø, Jæren; dessuten enkelte interiører med figurer. </p>\n<p>Hun debuterte på den første Høstutst. 1882 (den ene av tre kvinner) med bl.a. et motiv fra Finland. Sommeren 1883 tilbrakte hun på Ogne på Jæren, to av bildene derfra var, sammen med et skuronnmotiv, med på Høstutst. samme år, og det ene ble innkjøpt til utlodning. I 1884 ble et maleri innkjøpt til utlodning i Kristiania Kunstforening. A. var naturalist. Bildene hennes er i lite format, motivet er oftest et lite utsnitt av naturen med figurstaffasje. Lys og farge er friskt og naturlig oppfattet, detaljene direkte og skissemessig malt. Især har hun lykkes godt i Jærbildene. I motiver og formspråk slekter hun på Marie Tannæs. Høstmotiver interesserte henne spesielt, og hun malte bl.a. flere skuronnbilder. Hennes siste bilde, et bylandskap fra Hegdehaugen, med høstløvet mot den første sneen, ble stilt ut i Oslo Kunstforening etter hennes død.</p>\n</div>",
+    "created_at": "2013-07-03T13:46:48.857+02:00",
+    "changed_at": "2024-06-18T23:25:30.413+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab96\",\"https://digitaltmuseum.no/94030b5b-7fdd-4369-91e5-148822f38ff7\",\"http://kulturnav.org/94030b5b-7fdd-4369-91e5-148822f38ff7\"]",
+        "lastname": "Anker",
+        "firstname": "Annette",
+        "birth_date": "26.9.1851",
+        "birthplace": "Nittedal",
+        "death_date": "12.12.1885",
+        "external_id": "person_8736ab96",
+        "kulturnav_id": "94030b5b-7fdd-4369-91e5-148822f38ff7",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Anker, Annette Birgitte"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Wichstrøm"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15774/standard_NMK-B_NG.M.0421020130725-13675-4zp4w.jpg",
+            "full_size_url": "https://media.snl.no/media/15774/NMK-B_NG.M.0421020130725-13675-4zp4w.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra</em> <em>Nevlunghavn</em>, 1880. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Annette Anker",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

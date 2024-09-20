@@ -1,0 +1,516 @@
+{
+    "id": 417913,
+    "headword": "William Kullgreen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1937",
+                "type": "Gift med",
+                "external_id": "person_8736ab104676",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Martha",
+                "lastname": "Karlsen",
+                "professions": [],
+                "place": "Halden"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104674",
+                "birth_date": "1865",
+                "death_date": "1934",
+                "firstname": "Johan",
+                "lastname": "Kullgren",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104675",
+                "birth_date": "1866",
+                "death_date": "1936",
+                "firstname": "Inga",
+                "lastname": "Nyquist",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Kristiania og Ola Abrahamssons malerskole, Kristiania 1920–23",
+                "order": "0"
+            },
+            {
+                "comment": "komposisjonsstudier hos Pedro Araujo, Paris 1925",
+                "order": "2"
+            },
+            {
+                "comment": "Académie Montparnasse, Paris under André Lhote og Académie Moderne, samme sted under Othon Friesz 1924",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Opphold i København 1922, -30 og 1937–40"
+            },
+            {
+                "order": "1",
+                "description": "Paris 1924–25 og 1931–32"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "fresker, Haraldssøn, Baardsen & Co, Halden"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Halden Sparebank"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Jesus stiller stormen, Sjømannskirken, Göteborg (1962)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Borgarsyssel museum, Sarpsborg"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Halden og Ringerike kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Halden kommune"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Det norske konsulat, Göteborg",
+                "from_date": "1962",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1924",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1960",
+                "order": "13",
+                "to_date": "",
+                "title": "Efteraarsudst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1936",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sarpsborg og Fredrikstad Kunstforening",
+                "from_date": "1937",
+                "order": "0",
+                "to_date": "",
+                "title": "Kultur og Minne"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Halden Kunstforening",
+                "from_date": "1962",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "11",
+                "to_date": "1934",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Halden Kunstforening",
+                "from_date": "1959",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sarpsborg",
+                "from_date": "1963",
+                "order": "7",
+                "to_date": "",
+                "title": "Kultur og Minne"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Tyskland (Hamburg)",
+                "from_date": "1962",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ringerike Kunstforening, Hønefoss",
+                "from_date": "1962",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Halden Kunstforening",
+                "from_date": "1947",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Marie, Halden",
+                "from_date": "1967",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Svenska Mässan, Göteborg",
+                "from_date": "1961",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1969",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1971",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1977",
+                "order": "9",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Selvportrett 1919, 1923 og 1959"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1956",
+                "order": "2",
+                "reference": "s. 144, 150 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-03-21",
+                "order": "13",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "14",
+                "reference": "s. 159 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-11-22",
+                "order": "11",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "19",
+                "reference": "bd. 7, s. 352",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i katalog nr. 422–23, Kunstnernes Hus",
+                "place": "Oslo",
+                "authors": [
+                    "Sparre, V."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "William Kullgreen, 60 år",
+                "authors": [],
+                "comments": [
+                    "katalog utstilling Halden Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1959-11-24",
+                "order": "5",
+                "to_date": "",
+                "description": "Halden Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-11-21",
+                "order": "3",
+                "to_date": "",
+                "description": "Halden Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "1",
+                "reference": "s. 140 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "15",
+                "reference": "register s. 472",
+                "to_date": "",
+                "description": "Østfold, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "0",
+                "reference": "s. 83",
+                "to_date": "",
+                "description": "Norsk grafikk i det tyvende århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Sinding-Larsen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "16",
+                "reference": "s. 14–15",
+                "to_date": "",
+                "description": "Elefantposten",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "jub.nr. 1978, Under Fredrikstens murer, (utg.) Haraldssøn A/S"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-06",
+                "order": "17",
+                "to_date": "",
+                "description": "i Halden Arbeiderblad",
+                "authors": [
+                    "Jacobsen, F. K."
+                ],
+                "comments": [
+                    "jub.avis nr. 2"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1960-10-03",
+                "order": "7",
+                "to_date": "",
+                "description": "i Smaalenenes Amtstidende",
+                "authors": [
+                    "Diesen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-03-06",
+                "order": "8",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-11-24",
+                "order": "6",
+                "to_date": "",
+                "description": "i Smaalenenes Amtstidende",
+                "authors": [
+                    "Diesen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-04",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tistap.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-11-22",
+                "order": "10",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Juve, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-23",
+                "order": "9",
+                "to_date": "",
+                "description": "Sarpen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "William Kullgreen",
+    "url": "https://nkl.snl.no/William_Kullgreen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>K. arbeidet på Halden underfogdkontor, senere på kemnerkontoret og lærte tegning på Den tekniske aftenskole. Etter endt utdannelse og reiseår bosatte han seg i Oslo i 1940 hvor han bodde i kunstnerkolonien på Bøler. K. hadde alt som 20-åring et sikkert grep på maleriet. Dette er tydelig i to selvportretter (1919, 1923) og i det varsomt stiliserte <em>Atelieret</em> (1923). Paristiden kom til å prege mye av hans førkrigsmaleri. Typisk er hans segmentering av motivets former i halvkubistisk stil, inspirert av A. Lhote. K. arbeidet i en dempet koloritt, gjerne med blått som gjennomgangstone. Hjemby og omegn var et kjært motiv. Gater, hus og det daglige arbeidsliv ble karakteristisk gjengitt i serier av linoleumssnitt, i tegninger og malerier. Hans større dekorative arbeider viser inntrykk fra Axel Revold, Per Krohg og Alf Rolfsen, f.eks. hans fresker <em>Fra boktrykkerhunstens historie</em> (1936–38) i oppgangen hos Haldenfirmaet Baarden et Co, og de store malerier i spisesalen hos firmaet Haraldssøn A/S. <em>Fredriksten festning</em> (1938) er et annet monumentalt og kraftig maleri, bygd opp i rustrødt mot himmelblått, grått og oker. Sorte konturer binder billeddelene sammen som blyet i et glassmaleri. Den samme fargeholdning går igjen i kvinnestudier og landskap fra senere år. K. gav seg også i etterkrigstiden i kast med de store formater. Hans <em>Komposisjon</em> (utstilt 1947) må sies å være et originalt verk. Saugbrugsforeningens fabrikkmasser er gjengitt i nattstemning, veggplanene tårner seg opp i blått, grønt og lilla med felt i iltert gult lysskjær, mens menneskene i forgrunnen blir spinkle og skyggeaktige. <em>Mythos</em> (1955-61) kalte K. sitt kunstneriske testamente og la mye arbeid i det. Dette kjempemaleriet er lagt opp i sterke fargekontraster, men både oppbygning og tema virker noe anstrengt i sin målsetning. Utover i 1950 og -60-årene strebet K. etter en stadig sterkere rendyrkning av farge og lys. Han var fascinert og inspirert av den danske maler Niels Larsen Stevns lysmaleri. Tematisk holdt han seg gjerne til forholdet mann-kvinne, kvinneakt og natur i sine komposisjoner, f.eks. <em>Morgentoalett</em> (1961). I sin higen etter å male koloristisk og lysfylt skjæres motivet ofte opp i skarpe former og harde farger. Som en kontrast til denne tendens står <em>Hester ved havet</em> (1959), der K. lar motivet få beholde sin dekorative og rolige flatevirkning. Han binder sammen de store fargespenn fra turkis-grønt til orange-rødt og gir assosiasjoner til billedvev. K. var utvilsomt en allsidig maler med et sterkt ønske om stadig å fornye seg. I etterkrigstiden stilte han i lange perioder ikke ut. Men hans mesén, haldenseren H. Haraldssøn, kjøpte opp arbeidene hans også i disse år, og gav store K.-donasjoner til hjembyen og til Sarpsborg. Først i 1959 ble en stor utstilling av K.s produksjon holdt i Halden. Hans tidlige verk ble vist på Efteraarsutstillingen i København og i Tyskland i 1960, og høstet god kritikk. I Norge ble en stor retrospektiv utstilling holdt i 1977. Den fikk en blandet mottagelse.</p></div>",
+    "created_at": "2013-07-04T03:06:09.690+02:00",
+    "changed_at": "2024-06-18T23:26:21.405+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2249\",\"https://digitaltmuseum.no/3a57274c-3e39-4dec-8896-c756d3d33f1c\",\"http://kulturnav.org/3a57274c-3e39-4dec-8896-c756d3d33f1c\"]",
+        "lastname": "Kullgreen",
+        "firstname": "William",
+        "birth_date": "24.11.1899",
+        "birthplace": "Fredrikshald",
+        "death_date": "18.9.1973",
+        "external_id": "person_8736ab2249",
+        "kulturnav_id": "3a57274c-3e39-4dec-8896-c756d3d33f1c",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Unni Nøding"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

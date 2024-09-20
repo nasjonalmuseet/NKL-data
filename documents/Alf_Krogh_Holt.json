@@ -1,0 +1,863 @@
+{
+    "id": 417040,
+    "headword": "Alf Krogh Holt",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103535",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Edvard Ingvald",
+                "lastname": "Holt",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab103537",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Arlette",
+                "lastname": "Clouzet",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103536",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Olga",
+                "lastname": "Næslund",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Paris"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold og Jean Heiberg 1941–43 og 1945–46",
+                "order": "1"
+            },
+            {
+                "comment": "elev av André Lhote i Paris 1951–52",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Carl von Hanno, Per Krohg, Chrix Dahl og Thorbjørn Lie-Jørgensen på begynnelsen av 1940-tallet",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Studiereiser til Sverige og Danmark 1946"
+            },
+            {
+                "order": "5",
+                "description": "Italia, Frankrike og Belgia 1949"
+            },
+            {
+                "order": "8",
+                "description": "Hellas 1961 og -64"
+            },
+            {
+                "order": "7",
+                "description": "Belgia, Nederland, Tyskland, England og Italia 1952"
+            },
+            {
+                "order": "4",
+                "description": "Frankrike og Belgia 1947"
+            },
+            {
+                "order": "9",
+                "description": "Studieopphold i Paris 1951–62, bosatt sst. fra 1962"
+            },
+            {
+                "order": "0",
+                "description": "Fransk statsstip. 1951–53"
+            },
+            {
+                "order": "1",
+                "description": "Statens 3-årige arbeidsstip. 1976–78"
+            },
+            {
+                "order": "6",
+                "description": "Frankrike 1949–50"
+            },
+            {
+                "order": "2",
+                "description": "Statens garantiinntekt fra 1977"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem av Landsforeningen Norske Malere"
+            },
+            {
+                "order": "2",
+                "description": "Société du Salon d'Automne, Paris"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "den norske avdeling, Lycée Corneille, Rouen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1951",
+                "order": "11",
+                "to_date": "",
+                "title": "Vårutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon de Mai, Musée d'Art, Moderne de la Ville de Paris",
+                "from_date": "1954",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1956",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon de Mai, Musée d'Art, Moderne de la Ville de Paris",
+                "from_date": "1956",
+                "order": "13",
+                "to_date": "1958"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1946",
+                "order": "10",
+                "to_date": "1951",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1981",
+                "order": "20",
+                "to_date": "",
+                "title": "100 års jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Cercle d'Art, Gentilly",
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "title": "Hommage á Georges Dayez"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Petit Palais, Paris",
+                "from_date": "1956",
+                "order": "16",
+                "to_date": "1958",
+                "title": "Artistes Étrangers en France"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1962",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Petit Palais, Paris",
+                "from_date": "1961",
+                "order": "17",
+                "to_date": "1962",
+                "title": "Artistes Étrangers en France"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1958",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Camille Renault, Paris",
+                "from_date": "1974",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Petit Palais, Paris",
+                "from_date": "1954",
+                "order": "15",
+                "to_date": "",
+                "title": "Artistes Étrangers en France"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon de Mai, Musée d'Art, Moderne de la Ville de Paris",
+                "from_date": "1961",
+                "order": "14",
+                "to_date": "1962"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1958",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1968",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1973",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Camille Renault, Paris",
+                "from_date": "1971",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Abbaye Saint-Gilbert, Vichy",
+                "from_date": "1974",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon d'Automne, Paris",
+                "from_date": "1969",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1965",
+                "order": "3",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Selvportrett (olje, 1951) gjengitt i R. Revold: Norges billedkunst i det 19. og 20. århundre, Oslo 1953, bd. 2, s. 311"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1956-05-16",
+                "order": "6",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-11-11",
+                "order": "16",
+                "to_date": "",
+                "description": "Fædrelandsvennen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-05-18",
+                "order": "21",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-03-17",
+                "order": "12",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-03-22",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "45",
+                "reference": "s. 91, 208",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-03-27",
+                "order": "1",
+                "to_date": "",
+                "description": "Fædrelandsvennen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-04",
+                "order": "35",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-22",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-05-21",
+                "order": "41",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-03-14",
+                "order": "11",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-15",
+                "order": "5",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Aas, A.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "22",
+                "reference": "hefte 60, s. 50 - 51 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-03-25",
+                "order": "32",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-04-12",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Christianssands Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "46",
+                "reference": "s. 183",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-09-19",
+                "order": "36",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Steen-Johnsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "0",
+                "reference": "bd. 2, s. 308, 311 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-24",
+                "order": "26",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-05-22",
+                "order": "42",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hofseth, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-03-29",
+                "order": "14",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Moen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-05-18",
+                "order": "19",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-05-11",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-05-16",
+                "order": "39",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-15",
+                "order": "4",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Kvalvaag, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-16",
+                "order": "8",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Gunnarsson, C. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-03-28",
+                "order": "33",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "47",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "43",
+                "reference": "bd. 5, s. 597",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-04-28",
+                "order": "37",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Løberg, L. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-29",
+                "order": "29",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-25",
+                "order": "27",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-17",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "10",
+                "reference": "s. 102, 122 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-03-21",
+                "order": "13",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-05-18",
+                "order": "20",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-03-19",
+                "order": "30",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-05-11",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-16",
+                "order": "7",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-09",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-05-16",
+                "order": "40",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-03-29",
+                "order": "34",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "48",
+                "reference": "s. 57",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "44",
+                "reference": "s. 259",
+                "to_date": "",
+                "description": "Agder. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "49",
+                "reference": "bd. 5, s. 757",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-26",
+                "order": "28",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Moe, O. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-03-27",
+                "order": "2",
+                "to_date": "",
+                "description": "Tvedestrandsp.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-05-19",
+                "order": "38",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Løberg, L. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-18",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-19",
+                "order": "9",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Alf Krogh Holt",
+    "url": "https://nkl.snl.no/Alf_Krogh_Holt",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>I 1951 fikk H. fransk statsstipend og drog til Paris, hvor han ble elev av André Lhote. Hans arbeider fra de første årene i Frankrike viser innflytelse fra læremesterens moderate kubisme og etter hvert også fra Jacques Villons stramt komponerte landskapskunst. Utover på 1960-tallet ble påvirkningen fra Cézanne stadig tydeligere. H. har, foruten en rekke stilleben, fortrinnsvis malt landskaper, hvor motivet geometriseres og omformes til et nesten abstrakt spill av former og farger, men uten at kontakten med den sansbare virkelighet brytes. Hele hans produksjon bærer for øvrig preg av pariserskolens vekt på håndverksmessig kvalitet.</p></div>",
+    "created_at": "2013-07-03T19:11:10.923+02:00",
+    "changed_at": "2024-06-18T23:25:56.909+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1718\",\"https://digitaltmuseum.no/aad6105a-f62c-42ca-9ead-7b007dfbb3db\",\"http://kulturnav.org/aad6105a-f62c-42ca-9ead-7b007dfbb3db\"]",
+        "lastname": "Holt",
+        "firstname": "Alf Krogh",
+        "birth_date": "19.9.1919",
+        "birthplace": "Tvedestrand",
+        "death_date": "1.6.1997",
+        "external_id": "person_8736ab1718",
+        "kulturnav_id": "aad6105a-f62c-42ca-9ead-7b007dfbb3db",
+        "place_of_death": "Paris"
+    },
+    "authors": [
+        {
+            "full_name": "Bodil Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

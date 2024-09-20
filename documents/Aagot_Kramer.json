@@ -1,0 +1,921 @@
+{
+    "id": 414596,
+    "headword": "Aagot Kramer",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104535",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Klaus Benjaminsen",
+                "lastname": "Hansen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab104537",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Peder Severin (per)",
+                "lastname": "Kramer",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104536",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie",
+                "lastname": "Jakobsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "korrektur av Nikolai Astrup sommeren 1921",
+                "order": "1"
+            },
+            {
+                "comment": "Selvlært",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Bergen bys stipend 1951"
+            },
+            {
+                "order": "1",
+                "description": "Studiereiser til København og Stockholm flere ganger i årene 1935–47"
+            },
+            {
+                "order": "2",
+                "description": "Paris og Stockholm 1951"
+            },
+            {
+                "order": "3",
+                "description": "Italia 1960"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Bildende Kunstnere Bergen, styremedlem i en årrekke"
+            },
+            {
+                "order": "2",
+                "description": "jurymedlem for Vestlandsutstilling"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Kongens fortjenstmedalje i gull, 1974"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Hilmar Rekstens samling, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Bergen kommune (Grieghallen)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1951",
+                "order": "19",
+                "to_date": "1956",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "16",
+                "to_date": "1934",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnere fra Bergen, Åbo",
+                "from_date": "1969",
+                "order": "35",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1974",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1957",
+                "order": "33",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Jub.utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1954",
+                "order": "31",
+                "to_date": "",
+                "title": "Bergen i billedkunsten"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1978",
+                "order": "40",
+                "to_date": "",
+                "title": "Vestland i bilder, ord og toner"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1975",
+                "order": "39",
+                "to_date": "",
+                "title": "Bergen Billedgalleri besøker Oslo Kunstforening"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1926",
+                "order": "14",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1930",
+                "order": "23",
+                "to_date": "",
+                "title": "Trønder- og vestlandsmalere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "18",
+                "to_date": "1948",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "21",
+                "to_date": "1976",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1935",
+                "order": "25",
+                "to_date": "",
+                "title": "Norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1950",
+                "order": "10",
+                "to_date": "1951",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "41",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "12",
+                "to_date": "1974",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1971",
+                "order": "37",
+                "to_date": "",
+                "title": "ByggekunstF i Bergen 1931–71"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1947",
+                "order": "27",
+                "to_date": "",
+                "title": "23 Bergenskunstnere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1976",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1956",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1927",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen Billedgalleri",
+                "from_date": "1958",
+                "order": "34",
+                "to_date": "",
+                "title": "Norsk landskapskunst gjennom 150 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1958",
+                "order": "20",
+                "to_date": "1973",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1970",
+                "order": "36",
+                "to_date": "",
+                "title": "Billedkunsten i Bergen. Status 70. Tilbakeblikk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1955",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen Billedgalleri",
+                "from_date": "1956",
+                "order": "32",
+                "to_date": "",
+                "title": "Portretter og figurbilder"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1955",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1922",
+                "order": "13",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1928",
+                "order": "22",
+                "to_date": "",
+                "title": "Bergen i billedkunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1928",
+                "order": "15",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1932",
+                "order": "24",
+                "to_date": "",
+                "title": "Bergensmalernes utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1953",
+                "order": "30",
+                "to_date": "",
+                "title": "Et utsnitt av bildende kunst i Bergen og fylkene fra 1900–53"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "17",
+                "to_date": "1939",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1951",
+                "order": "29",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "11",
+                "to_date": "1970",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1938",
+                "order": "26",
+                "to_date": "",
+                "title": "Norsk kunst idag. Jub.utstilling 1838–1938"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "38",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "9",
+                "to_date": "1948",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1950",
+                "order": "28",
+                "to_date": "1951",
+                "title": "Ung Norsk Konst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1957",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1924",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1958",
+                "order": "5",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "tegning utført av Ragnvald Jørgensen gjengitt i O. Rønning Johannesen: For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963, Bergen 1963, s. 34"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "tegning utført av Erik Egeland gjengitt i Morgenbladet 20.4.1955"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Selvportrett (1956, Haugesund Billedgalleri)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1976-04-12",
+                "order": "32",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-12-17",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-09-04",
+                "order": "22",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-09",
+                "order": "24",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-03-26",
+                "order": "30",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "1",
+                "reference": "bd. 2, s. 234",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-09-01",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-04-28",
+                "order": "34",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-01-09",
+                "order": "36",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "7",
+                "reference": "bd. 7, s. 274",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-01-23",
+                "order": "17",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "5",
+                "reference": "s. 176 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "3",
+                "reference": "register s. 160 (ill.)",
+                "to_date": "",
+                "description": "For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-21",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H.n"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-04-01",
+                "order": "29",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Breivik, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-10-03",
+                "order": "10",
+                "to_date": "",
+                "description": "i Stavangeren",
+                "authors": [
+                    "Søiland, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-01-18",
+                "order": "12",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Ryggen, H.."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-07",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Aadnøy, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-04-23",
+                "order": "33",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-01-24",
+                "order": "18",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B.Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-09-23",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aviser: Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-04-09",
+                "order": "31",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-14",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-01-27",
+                "order": "14",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Willumsen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "6",
+                "reference": "register s. 565",
+                "to_date": "",
+                "description": "Hordaland og Bergen, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "0",
+                "reference": "s. 135–36",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-07-03",
+                "order": "35",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Henrichsen, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-09-02",
+                "order": "21",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-01-23",
+                "order": "16",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-01-24",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "2",
+                "reference": "s. 140, 147 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "4",
+                "reference": "s. 216",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-01-10",
+                "order": "37",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-09-30",
+                "order": "9",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Berg, G. Backer Berg"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-02-15",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Mossefinn, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-01-20",
+                "order": "13",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-20",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-01-14",
+                "order": "11",
+                "to_date": "",
+                "description": "Nidaros",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Aagot Kramer",
+    "url": "https://nkl.snl.no/Aagot_Kramer",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>K. begynte sin kunstneriske løpebane i en alder av henimot 40 år. Hennes mann drev med hobbymaling, men det var husvennen Nikolai Astrup som overtalte henne til å gjøre et forsøk. Sommeren 1921 ble tilbrakt i Jølster med Astrup som nærmeste nabo, og i disse sommermånedene fikk hun sin første og eneste undervisning, idet Nikolai Astrup korrigerte hennes arbeider. Etter oppmuntring fra Axel Revold og Einar Lexow debuterte K. i Bergens Kunstforening i 1922 på en utstilling av vestlandsk malerkunst, den senere Vestlandsutstillingen. K. var bl.a. representert med <em>Gaardstun i Jølster</em>. Også hennes mann, Per K., deltok med to malerier. To år senere ble hun antatt på Høstutstillingen med maleriet <em>Fra Hardanger</em>. Men det var først etter mannens død i 1946 at K. viet sitt liv til malerkunsten. Hennes billedspråk er forenklet, men utstråler en nesten naiv ekthet. K. ble begeistret over noe hun så eller opplevde, og det var gjennom fargene, som hun for øvrig brukte rent intuitivt, at hun i første rekke fant sin uttrykksform. K. var en typisk sommermaler, som i første rekke hentet sine motiv fra Vestlandet, nærmere bestemt Jølster hvor familien hadde sitt sommersted. Hennes naturfølelse var sterkt utviklet, og det var som landskapsmaler hun hadde sin styrke. Koloritten var stemt i grønt, og med stor dyktighet gjengav hun den regnvåte og frodige Vestlandsnaturen. Følsomt og malerisk oppløste hun formene og detaljene i store flater med et rikt nyansert fargespill. K. bygde opp sine bilder direkte på lerretet eller platen uten forhåndsskisser. Hun uttalte ved flere anledninger at \"tegning er ikke min sak, fargene derimot!\" Som et eksempel på K.s landskapsmaleri bør nevnes <em>Håjen</em> (1957, Nasjonalgalleriet, Oslo). Et av høydepunktene i K.s produksjon er det friske og fargeglade <em>17. mai i Bergen 1954</em> (Bergen Billedgalleri). Bildet viser barnetoget med Holbergstatuen i grønn bronse i forgrunnen. Sterkt røde, hvite og gule flekker er dristig satt inn for å markere barnetoget. K. malte også en del portretter, stilleben og figurkomposisjoner. Her bør nevnes det maleri som K. selv satte høyest, <em>Skampelen</em> (1959, Bergen Billedgalleri), inspirert av Johan Falkbergets beretning om An-Magritts mor som stod i gapestokken på kirkebakken. K. bodde hele sitt liv i Bergen. Her spilte hun en viktig rolle i byens kunstliv. For denne innsatsen ble hun hedret på sin 90-års dag med Kongens fortjenstmedalje i gull.</p></div>",
+    "created_at": "2013-06-09T17:08:32.450+02:00",
+    "changed_at": "2024-06-18T23:25:21.572+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2186\",\"https://digitaltmuseum.no/612dce56-8d87-4b5c-9e9a-b2f9d3b489f8\",\"http://kulturnav.org/612dce56-8d87-4b5c-9e9a-b2f9d3b489f8\"]",
+        "lastname": "Kramer",
+        "firstname": "Aagot",
+        "birth_date": "23.3.1884",
+        "birthplace": "Bergen",
+        "death_date": "1.1.1980",
+        "external_id": "person_8736ab2186",
+        "kulturnav_id": "612dce56-8d87-4b5c-9e9a-b2f9d3b489f8",
+        "place_of_death": "samme sted"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Aaserud"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

@@ -1,0 +1,555 @@
+{
+    "id": 414589,
+    "headword": "Hans Hansen Kaas",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104744",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hans Larsen",
+                "lastname": "Kaas",
+                "professions": [
+                    "undertollbetjent",
+                    "kvartermester"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104745",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karen Agnes",
+                "lastname": "Madsdatter",
+                "professions": []
+            },
+            {
+                "from_date": "1856",
+                "type": "Gift med",
+                "external_id": "person_8736ab104746",
+                "birth_date": "1834",
+                "death_date": "1917",
+                "firstname": "Engel Marie",
+                "lastname": "Antonisen",
+                "professions": [],
+                "place": "Bergen"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "hospitant Den kgl. Tegneskole 1837 - 45",
+                "order": "1"
+            },
+            {
+                "comment": "Murerlære hos murmester Erich Pettersen, Christiania 1835 - 40",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1849"
+            },
+            {
+                "order": "1",
+                "description": "Studiereise til København, England og Frankrike"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Universitetsgt. 22 (1863)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "trolig også Kristian Augusts gt. 10, Stortingsgt. 10 og ombygging av Malteby, Akersgt. 65 i 1860 - 70-årene"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Universitetsgt. 16 (1870)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "I Bergen: Bergens Industrimagazin, Domkirkegt. 4 (1852 - 55)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "utbyggings- og forandringsarbeider ved Det gamle sykehus på Engen (1851, 1852 og 1854)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Hetland (Frue) kirke, Stavanger (1852 - 55)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Bergens Sparebank, Sparebankgt. 1 (ca. 1855, revet ca. 1900)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Universitetsgt. 18 (1869)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "arbeiderboliger på Stølen, Henrik Wergelands gt. 35 a, b, c (1853 - 54)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "I Christiania: Universitetsgt. 24 (1862)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Prosjekter:Tilbygg til Bergens Museum, Muségt. (1853)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Pleiestiftelsen for spedalske nr. 1, Kalfarvn. 31 (1855 - 57)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975",
+                "order": "21",
+                "reference": "s. 282–83",
+                "to_date": "",
+                "description": "Til Medborgernes sande Vel. Det nyttige selskab 1774–1974",
+                "place": "(Bergen)",
+                "authors": [
+                    "Espelid, K. L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1862",
+                "order": "7",
+                "reference": "s. 358 ff og 376",
+                "to_date": "",
+                "description": "Skilling-Magazin",
+                "place": "Chr.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1847-12-16",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergens Stiftstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1852",
+                "order": "4",
+                "reference": "s. 138",
+                "to_date": "",
+                "description": "Bergens Kommunalforhandlinger 1851",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "15",
+                "reference": "s. 131–33",
+                "to_date": "",
+                "description": "Bergens Murmesterlaugs gamle protokoller 1703–1864",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1885",
+                "order": "9",
+                "reference": "s. 268",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1847-08-26",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergens Stiftstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "11",
+                "reference": "register s. 39",
+                "to_date": "",
+                "description": "Bergen 1814–1914",
+                "place": "Bergen",
+                "authors": [
+                    "Schetelig, H. (red.)",
+                    "Geelmuyden, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens forretningsstrøk før og nu",
+                "place": "[Stavanger]",
+                "authors": [
+                    "Kielland, A. M.",
+                    "Arnesen, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "18",
+                "reference": "register s. 268",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "19",
+                "reference": "s. 84",
+                "to_date": "",
+                "description": "Bidrag til Stavangers arkitekturhistorie mellom 1850 og 1930, Stavanger Museum årbok",
+                "place": "Stavanger",
+                "authors": [
+                    "Sørby, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "16",
+                "reference": "s. 326",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "20",
+                "reference": "s. 27, 32–33 (ill.)",
+                "to_date": "",
+                "description": "Kong Oscars gate. Historien gjennom tidene",
+                "place": "Bergen",
+                "authors": [
+                    "Bjerknes, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1847-12-30",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergens Stiftstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1865",
+                "order": "8",
+                "reference": "s. 119",
+                "to_date": "",
+                "description": "Polyteknisk Tidsskrift",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "22",
+                "reference": "s. 12, 14",
+                "to_date": "",
+                "description": "Stavanger domkirkes restaurering i 1800-årene, Stavanger Museum årbok",
+                "place": "Stavanger",
+                "authors": [
+                    "Lexow, J. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1855",
+                "order": "5",
+                "reference": "s. 196",
+                "to_date": "",
+                "description": "Bergens Kommunalforhandlinger 1854",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "14",
+                "to_date": "",
+                "description": "Selskapet til arbeiderboligers oppførelse i Bergen A/S 1853–1953",
+                "place": "Bergen",
+                "authors": [
+                    "Olsen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1847-12-12",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergens Stiftstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "12",
+                "reference": "s. 385, 403",
+                "to_date": "1923",
+                "description": "Bergens borgerbok 1752–1865",
+                "place": "Bergen",
+                "authors": [
+                    "Wiesener, A. M."
+                ],
+                "comments": [
+                    "utg. av Bergens historiske forening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "10",
+                "reference": "s. 140",
+                "to_date": "",
+                "description": "Bergens Museums historie 1825–1900",
+                "place": "Bergen",
+                "authors": [
+                    "Brunchorst, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "17",
+                "reference": "s. 35–37",
+                "to_date": "",
+                "description": "Karl Johan kvartalet",
+                "place": "Oslo",
+                "authors": [
+                    "Tschudi-Madsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1856",
+                "order": "6",
+                "reference": "s. 270–72",
+                "to_date": "",
+                "description": "Norsk Retstidende nr. 17",
+                "place": "Christiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1851-12-17",
+                "order": "25",
+                "to_date": "",
+                "description": "Bygningskommitionen og reguleringskommitionens protokoller",
+                "authors": [],
+                "comments": [
+                    "fol. 204 Bygningssjefen i Bergen"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "30",
+                "publisher": "Universitetet i Oslo",
+                "reference": "register bd. 2, s. 129",
+                "to_date": "",
+                "description": "Kirkebygninger på landet 1814–1880 og Linstows typetegninger",
+                "authors": [
+                    "Eldal, J. C."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1854-03-15",
+                "order": "27",
+                "to_date": "",
+                "description": "Bygningskommitionen og reguleringskommitionens protokoller",
+                "authors": [],
+                "comments": [
+                    "fol. 267, Bygningssjefen i Bergen"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1848",
+                "order": "23",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Opplysninger fra kunstneren"
+                ],
+                "archives": [
+                    "Antikvarisk arkiv, Riksantikvaren"
+                ]
+            },
+            {
+                "from_date": "1852-06-21",
+                "order": "26",
+                "to_date": "",
+                "description": "Bygningskommitionen og reguleringskommitionens protokoller",
+                "authors": [],
+                "comments": [
+                    "fol. 217 Bygningssjefen i Bergen"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "29",
+                "publisher": "Universitetet i Bergen",
+                "reference": "s. 47–48, 63",
+                "to_date": "",
+                "description": "Bygningsforhold og bolighus i Bergen 1800–1850",
+                "authors": [
+                    "Torvanger, Å. M."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1850",
+                "order": "24",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Opplysninger fra kunstneren"
+                ],
+                "archives": [
+                    "Antikvarisk arkiv, Riksantikvaren"
+                ]
+            },
+            {
+                "from_date": "1936",
+                "order": "28",
+                "to_date": "",
+                "description": "Slekten Kaas fra Fredriksvern - innflyttet fra Danmark i 1789",
+                "authors": [
+                    "Kaas, C."
+                ],
+                "comments": [
+                    "manuskript"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Hans Hansen Kaas",
+    "url": "https://nkl.snl.no/Hans_Hansen_Kaas",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>K. var ansatt som assistent ved arkitekt Johan Henrik Nebelongs kontor i Christiania fra 1842 - 45. På Nebelongs anbefaling reiste K. i 1845 til Bergen for å lede oppførelsen av Lungegårds hospitalet etter hans tegninger. Byggearbeidet varte i fire år. Fra 1848 - 49 var han konstituert stadskonduktør i Bergen. Fra 1851 var han også lærer i konstruksjonstegning, senere førstelærer ved den nyopprettede offentlige tegneskole i Bergen. I 1853 fikk han borgerbrev som byggmester. Fire år senere sa han opp dette borgerskap og flyttet til Christiania hvor han i 1858 fikk nytt borgerbrev som byggmester. Samme år ble han ansatt som bygningsinspektør for østre distrikt i Christiania og i 1865 også for vestre distrikt.</p>\n<p>I Bergen fikk K. flere store byggeoppgaver i begynnelsen av 1850-årene, men etter hvert ble arbeidsforholdene meget vanskelige. I 1854 anla murmesterlauget sak mot ham for å ha gjort inngrep i deres rettigheter. K. hadde latt egne folk utføre ildstedene i arbeiderboliger på Stølen. Lauget hevdet at han som byggmester bare skulle levere utkast og tegninger, gi omkostningsoverslag og føre tilsyn med byggearbeidet, mens laugsarbeid skulle utføres av laugets medlemmer. Saken gikk like til Høyesterett, men K. ble frifunnet. Selv om laugsvesenet ikke klarte å få has på ham gjennom rettsapparatet, lyktes det likevel. Bygningene han hadde oppført ble offentlig kritisert. Det samme ble han som lærer. Etter tre år gav K. opp kampen om å hevde sine rettigheter og forlot Bergen. Det mest betydningsfulle arbeidet hans i Bergen er <em>Pleiestiftelsen for spedalske</em>, Kalfarvn. 31. Det er et H-formet anlegg med to frittliggende bolighus mellom fløyene mot Kalfarveien, og på motstående side en bygning med to små paviljonger mot haven. Over hovedbygningens midtpunkt er et kvadratisk tårn vridd 45 grader på møneretningen. Anlegget har hvitmalt bordkledning med stående panel i gavlfeltene, mens veggene, bortsett fra enkelte felt under vinduene, har supanel. Bygningenes dekorative utsmykning er hovedsakelig begrenset til gavlfeltene mellom vindskiene på de utkragede takene. Disse feltene er rikt dekorerte med løvsagarbeider. Anlegget sett som helhet, er klassisistisk mens detaljeringen er i sveitserstil. <em>Tanks skole</em>, Kong Oscars gt. og <em>Bergens Sparebank</em>, Sparebankgt. er begge påvirket av tysk romantisk klassisisme, men i skolebygget kan også spores innflytelse fra middelalderarkitektur. <em>Hetland kirke</em> i Stavanger skiller seg fra de samtidige kirker i Rogaland ved en utstrakt bruk av snekkerdetaljer i sveitserstil og nygotikk og dessuten ved at de konstruktive ledd er fremhevet i interiøret. Bygningene han oppførte i Christiania i 1860 - 70-årene er senklassisistiske med trekk fra nyrenessanse, f.eks. <em>Universitetsgt. 16 - 24</em>.</p>\n</div>",
+    "created_at": "2013-06-09T17:06:00.000+02:00",
+    "changed_at": "2024-06-18T23:25:21.411+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2281\",\"https://digitaltmuseum.no/bb79da2d-8521-46f0-88af-19c80ce67b7e\",\"http://kulturnav.org/bb79da2d-8521-46f0-88af-19c80ce67b7e\"]",
+        "lastname": "Kaas",
+        "firstname": "Hans Hansen",
+        "birth_date": "10.1.1822",
+        "birthplace": "Fredriksvern",
+        "death_date": "13.11.1885",
+        "external_id": "person_8736ab2281",
+        "kulturnav_id": "bb79da2d-8521-46f0-88af-19c80ce67b7e",
+        "place_of_death": "Kristiania"
+    },
+    "authors": [
+        {
+            "full_name": "Åse Moe Torvanger"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

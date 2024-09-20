@@ -1,0 +1,701 @@
+{
+    "id": 416830,
+    "headword": "Roar Matheson Bye",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101240",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna",
+                "lastname": "Moe",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101239",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Erik",
+                "lastname": "Bye",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101241",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Thora Francisca Josephine Clara",
+                "lastname": "Kriegel",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Trondheim"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Don Pedro Araujo, Paris 1920-23",
+                "order": "4"
+            },
+            {
+                "comment": "Académie Colarossi i Paris 1919",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Chr. Krohg og Halfdan Strøm 1915–17",
+                "order": "1"
+            },
+            {
+                "comment": "studier hos Raoul Dufy, André Lhote og Georges Bissière",
+                "order": "5"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1914–15",
+                "order": "0"
+            },
+            {
+                "comment": "Académie Moderne under Othon Friez 1920",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Paris 1919–26"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold i København 1918"
+            },
+            {
+                "order": "5",
+                "description": "Reiser til Danmark"
+            },
+            {
+                "order": "6",
+                "description": "Tyskland"
+            },
+            {
+                "order": "10",
+                "description": "Frankrike"
+            },
+            {
+                "order": "9",
+                "description": "Ungarn"
+            },
+            {
+                "order": "1",
+                "description": "Statens stipend 1942"
+            },
+            {
+                "order": "8",
+                "description": "Belgia"
+            },
+            {
+                "order": "0",
+                "description": "Benneches legat 1928–31"
+            },
+            {
+                "order": "7",
+                "description": "Nederland"
+            },
+            {
+                "order": "4",
+                "description": "Berlin 1927–28"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "sekretær i Trondheim Kunstforening 1930 og intendant samme sted 1935"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "2",
+                "description": "sekretær for Sommerutstilling Trondheim Kunstforening 1950"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Diplome d'honneur, Maison Alfort, Paris 1926"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "altertavle i Elvran kapell, Lånke 1945"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "prekestol, døpefont m.m. i Hitterdal kapell ved Røros 1960-årene"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "altertavle i Røyrvik kirke (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "utsmykning av barneavd. Trondheim bibliotek (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Bodø Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Katedralskolen (bl.a. 15 portretter)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "rådhuset i Trondheim (portretter)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Ålesund Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Drammen Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Skien Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "altertavle i Ila kirke, Trondheim (sammen med Ola Teigen 1933–36)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Altertavle i Soknedal kirke (1933–34)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "23",
+                "to_date": "",
+                "title": "Landsutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1914",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammen Kunstforening",
+                "from_date": "1928",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1935",
+                "order": "25",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1923",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1949",
+                "order": "27",
+                "to_date": "",
+                "title": "25 kunstnere i Trøndelag"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1931",
+                "order": "14",
+                "to_date": "1940",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1937",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1925",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1921",
+                "order": "16",
+                "to_date": "",
+                "title": "Salon d'Automne"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1926",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1920",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fortuna Kunsthandel, Stockholm",
+                "from_date": "1925",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1918",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1917",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riga",
+                "from_date": "1934",
+                "order": "24",
+                "to_date": "",
+                "title": "Den norske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maison Alfort, Paris",
+                "from_date": "1926",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammen Kunstforening",
+                "from_date": "1925",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "26",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Søndregate 13, Trondheim",
+                "from_date": "1913",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1923",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1950",
+                "order": "28",
+                "to_date": "",
+                "title": "Sommerutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssand Kunstforening",
+                "from_date": "1970",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1955",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1928",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1917",
+                "order": "15",
+                "to_date": "",
+                "title": "De unges utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1922",
+                "order": "11",
+                "to_date": "1924",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1922",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fortuna Kunsthandel, Stockholm",
+                "from_date": "1938",
+                "order": "6",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1918-11-16",
+                "order": "0",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Blehr, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "10",
+                "reference": "s. register s. 274 (ill.)",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J.J.",
+                    "Flønes, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-04-23",
+                "order": "11",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-10-22",
+                "order": "14",
+                "to_date": "",
+                "description": "Arbeideravisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "16",
+                "reference": "s. 33",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-10-22",
+                "order": "13",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Willumsen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-03-01",
+                "order": "3",
+                "to_date": "",
+                "description": "i Socialdemokraten",
+                "authors": [
+                    "Abrahamsson, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-25",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Sørlandet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-12-22",
+                "order": "19",
+                "to_date": "",
+                "description": "i I dag",
+                "authors": [
+                    "Olsen, S. Lian"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-10-15",
+                "order": "12",
+                "reference": "(7 ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-03-07",
+                "order": "2",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-10-24",
+                "order": "15",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-09-02",
+                "order": "1",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-04-25",
+                "order": "9",
+                "to_date": "",
+                "description": "Arbeidets rett",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-03-11",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "7",
+                "reference": "bd. 1, s. 429 (ill.)",
+                "to_date": "",
+                "description": "Rørosboka",
+                "place": "Trondheim",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-03-07",
+                "order": "4",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "18",
+                "reference": "s. 184",
+                "to_date": "",
+                "description": "Kunst og Kultur, register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-03-08",
+                "order": "5",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945-04-19",
+                "order": "8",
+                "to_date": "",
+                "description": "Nord-Trøndelag og Innherrad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Roar Matheson Bye",
+    "url": "https://nkl.snl.no/Roar_Matheson_Bye",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. debuterte allerede i 1913. I en større mønstring i 1918 viste han landskaper, portretter, stilleben og en del pasteller samt tresnitt. Koloritten var klar, men neddempet nesten til pastelltoner. Under det lange opphold i Paris sluttet B. seg til tidens nyklassisister med vekt på form og komposisjon, og hans fargeskala ble mørkstemt og dunkel. Han malte Paris-miljøet og stilleben, men først og fremst portretter, bl.a. <em>Korsikanerinne</em> og <em>Piken fra dansesalongen</em> (1919) og <em>Dame med blå øyne</em> (1920). Fra 1923 gikk B. inn i sin \"grå periode\", som i <em>Halvakt</em> (1923), og <em>Min hustru</em> (1928), med gråblå toner og en jevn fordeling av lyset. Fra 1950-årene benyttet han hele fargepaletten i rene farger og klare, enkle former, som i <em>Pike i gul jakke</em> (1950) og en halvkubistisk formgivning i <em>Søstrene fra Røros</em>, (1954). En rekke gouacher fra sommeren 1955 er umiddelbare farge-opplevelser fra Danmark, Rondane, Røros og Jomfruland. I Trondheim ble B. en meget benyttet portrettmaler. Katedralskolen har bl.a. 15 lektorportretter fra hans hånd. Han har dessuten malt altertavler, triptykon, til Soknedal kirke, Røyrvik kirke, Elvran kapell, Ila kirke i Trondheim og prekestol, døpefont og dekorasjoner til Hitterdal kapell ved Røros. Fra 1965 har B. undervist ved AOFs malerskole og samtidig drevet sin egen malerskole.</p></div>",
+    "created_at": "2013-07-03T17:44:21.418+02:00",
+    "changed_at": "2024-06-18T23:25:51.358+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab599\",\"https://digitaltmuseum.no/2cb9fe09-efad-46e3-956d-0704378d0749\",\"http://kulturnav.org/2cb9fe09-efad-46e3-956d-0704378d0749\"]",
+        "lastname": "Bye",
+        "firstname": "Roar Matheson",
+        "birth_date": "26.4.1895",
+        "birthplace": "Trondheim",
+        "death_date": "24.3.1987",
+        "external_id": "person_8736ab599",
+        "kulturnav_id": "2cb9fe09-efad-46e3-956d-0704378d0749",
+        "place_of_death": "Trondheim"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

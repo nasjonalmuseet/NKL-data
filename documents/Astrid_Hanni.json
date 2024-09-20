@@ -1,0 +1,896 @@
+{
+    "id": 416395,
+    "headword": "Astrid Hanni",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102882",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Rikard Hagerup",
+                "lastname": "Skomsvoll",
+                "professions": []
+            },
+            {
+                "from_date": "1966",
+                "to_date": "1976",
+                "type": "Gift med",
+                "external_id": "person_8736ab102884",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Pasquale",
+                "lastname": "Marchese",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102883",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anne Marie",
+                "lastname": "Erdal",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "studier hos Stanley William Hayter og André Lhote, Paris 1955–57",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1951–52",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Arisholmstip. 1975"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1979"
+            },
+            {
+                "order": "2",
+                "description": "Statens reisestip. 1966"
+            },
+            {
+                "order": "1",
+                "description": "3%-fondets stip. 1962"
+            },
+            {
+                "order": "5",
+                "description": "Studieopphold i Paris 1955–57"
+            },
+            {
+                "order": "0",
+                "description": "Statens arbeidsstip. 1959, -60"
+            },
+            {
+                "order": "6",
+                "description": "studiereiser til Sverige, Danmark, Tyskland og Italia"
+            },
+            {
+                "order": "7",
+                "description": "bosatt på Sicilia 1962–74 med årlige opphold i Norge"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "3",
+                "description": "Oslo Bildende Kunstnere"
+            },
+            {
+                "order": "2",
+                "description": "Landsforeningen Norske Malere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Namsos Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Danske Kunstcirkler"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Børsums antikvariat, Oslo",
+                "from_date": "1969",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1971",
+                "order": "29",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Jub.utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hammerlunds Kunsthandel, Oslo",
+                "from_date": "1966",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "26",
+                "to_date": "",
+                "title": "Kragerø-utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1952",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Holst Halvorsens Kunsthandel, Oslo, Oslo",
+                "from_date": "1963",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1981",
+                "order": "38",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Jub.utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1980-05",
+                "order": "19",
+                "to_date": "",
+                "title": "Månedens bilde"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "21",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1980",
+                "order": "35",
+                "to_date": "",
+                "title": "Oslo Bildende Kunstneres medlemsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1957",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1981",
+                "order": "25",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1976",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1979",
+                "order": "33",
+                "to_date": "",
+                "title": "S. W. Hayter og hans norske elever"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skien kunstforening",
+                "from_date": "1960",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandvika Kino",
+                "from_date": "1977",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tønsberg kunstforening",
+                "from_date": "1960",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund kunstforening",
+                "from_date": "1960",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "23",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 12 B, Fredrikstad",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1964",
+                "order": "27",
+                "to_date": "1965",
+                "title": "Unge Kunstneres Samfunn Juleutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1969",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "30",
+                "to_date": "",
+                "title": "Sommerutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ulsrud videregående skole, Oslo",
+                "from_date": "1981",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hammerlunds Kunsthandel, Oslo",
+                "from_date": "1964",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "22",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "from_date": "1960",
+                "order": "4",
+                "to_date": "",
+                "title": "Kristiansand kunstforening"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "20",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Feltrinelli, Roma",
+                "from_date": "1965",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lions Club, Bøler, Oslo",
+                "from_date": "1980",
+                "order": "36",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ibsenhuset, Skien",
+                "from_date": "1979",
+                "order": "34",
+                "to_date": "",
+                "title": "S. W. Hayter og hans norske elever"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. KB, Oslo",
+                "from_date": "1959",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "32",
+                "to_date": "",
+                "title": "Erotikk, Unge Kunstneres Samfunn"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1977",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger kunstforening",
+                "from_date": "1960",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Bragerøen, Drammen",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Modum Kunstforening",
+                "from_date": "1976",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "24",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Molde kunstforening",
+                "from_date": "1960",
+                "order": "8",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Selvportrett: Pike med rød bluse, gouache, gjengitt i Dagbladet 22.10.1959"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1963-09-27",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-23",
+                "order": "9",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-24",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "38",
+                "reference": "s. 59, s. 123",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-26",
+                "order": "13",
+                "to_date": "",
+                "description": "Nordtrønderen og Namdalen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-05-07",
+                "order": "40",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-01-05",
+                "order": "21",
+                "to_date": "",
+                "description": "i Haugesunds Avis",
+                "authors": [
+                    "Kristiansen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-31",
+                "order": "18",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-05-03",
+                "order": "23",
+                "to_date": "",
+                "description": "i Telemark Arbeiderbladet",
+                "authors": [
+                    "Bodvin, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-08",
+                "order": "2",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-13",
+                "order": "4",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-01-06",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-28",
+                "order": "16",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-01-14",
+                "order": "35",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-15",
+                "order": "6",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-11-11",
+                "order": "30",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Anker, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-03",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-10-31",
+                "order": "28",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-10-05",
+                "order": "26",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-09-26",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-23",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-01-16",
+                "order": "37",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-24",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-12-05",
+                "order": "39",
+                "to_date": "",
+                "description": "i Fredriksstad Blad",
+                "authors": [
+                    "Gundersen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-01-09",
+                "order": "22",
+                "to_date": "",
+                "description": "Haugesund Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-30",
+                "order": "17",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-27",
+                "order": "14",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-01-02",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Haugesunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-28",
+                "order": "15",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-11-05",
+                "order": "29",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-23",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-14",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-10",
+                "order": "3",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-08",
+                "order": "1",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-01-10",
+                "order": "34",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-10-23",
+                "order": "7",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-02-05",
+                "order": "32",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-11-17",
+                "order": "31",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-10-07",
+                "order": "27",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-01-16",
+                "order": "36",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Dæhlin, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-11-04",
+                "order": "19",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Astrid Hanni",
+    "url": "https://nkl.snl.no/Astrid_Hanni",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. debuterte i 1952 med bilder hvor limfarge ble påsmurt papiret med fingrene. I 1959 viste hun arbeider i et naivt ekspressivt formspråk med grove, forenklede billedflater i rene, samstemte farger. På denne tid hadde hun forlatt fingermalingen til fordel for mer tradisjonelle teknikker som gouache, akvarell, pastell, tempera og monotypi. Motivene var landskaper, blomster, stilleben og hoder. Fra 1963 har hun malt abstrakt med vekt på farger og flater, men fremdeles med utgangspunkt i naturinntrykk.</p></div>",
+    "created_at": "2013-07-03T15:29:22.099+02:00",
+    "changed_at": "2024-06-18T23:25:40.071+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1423\",\"https://digitaltmuseum.no/97043d88-59e7-412b-9f4f-e44357d06b2c\",\"http://kulturnav.org/97043d88-59e7-412b-9f4f-e44357d06b2c\"]",
+        "lastname": "Hanni",
+        "firstname": "Astrid",
+        "birth_date": "5.10.1930",
+        "birthplace": "Namsos",
+        "external_id": "person_8736ab1423",
+        "kulturnav_id": "97043d88-59e7-412b-9f4f-e44357d06b2c"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        },
+        {
+            "full_name": "Bodil Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

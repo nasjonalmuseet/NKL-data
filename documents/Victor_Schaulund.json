@@ -1,0 +1,500 @@
+{
+    "id": 430424,
+    "headword": "Victor Schaulund",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108818",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hanna Karine",
+                "lastname": "Paulsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108817",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Nils",
+                "lastname": "Janson",
+                "professions": []
+            },
+            {
+                "from_date": "1928",
+                "type": "Gift med",
+                "external_id": "person_8736ab106868",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Mary",
+                "lastname": "Silbodal",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Kristiania frihåndsklassene og bygningsavdelingen",
+                "order": "0"
+            },
+            {
+                "comment": "assistent hos arkitektene Henry Coll, Kristian Biong og Berner & Berner, Kristiania",
+                "order": "1"
+            },
+            {
+                "comment": "Kunstakademiet i København 1921–23",
+                "order": "2"
+            },
+            {
+                "comment": "Det norske arkitektakademi, Oslo 1924-26",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1926"
+            },
+            {
+                "order": "1",
+                "description": "Schirmers legat 1928"
+            },
+            {
+                "order": "2",
+                "description": "Benneches legat 1928 og 1929"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Styremedlem Oslo Arkitektforening 1936"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "div. anlegg, bl.a. kornsiloer for Felleskjøpet. Leiegårder i Oslo: Ekebergløkka, Westye Egebergs gt. 1–4 (1930–39)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Sandefjordgt. 2–5 (1939–40)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Konkurranseprosjekter: 2. premie Hønefoss skole (1920-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Karlsrud og Hovin skoler, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "egen villa, Hønsvn. 85, Asker (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Maridalsvn. 205b, 211 (1949)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Asker Meieri (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "1. premie møbler, Oslo Håndverks- og Industriforening (1931)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Frydenbergvn. 5 og Ringeriksgt. 11 (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Strømsvn. 60 (1949)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Helgensens gt. 76 (1940)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Grimstadgt. 30 (1933)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "en av tre 2. premier Herredshus, Asker (1939) sammen med Jacob Hansen og Harald Tørum"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Bogstadvn. 32 (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "skoler, banker og kommunehus på Østlandet, hovedsakelig i Østfold og Akershus"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "fødehjem, sportsstue og villaer, Asker"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Holmen skole, Asker (1932) etter konkurranse 1929"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Asker Sparebank (1934)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "2. premie regulering Vestre Vika, Oslo 1937) sammen med arkitektene Torp & Torp og ingeniør Torp"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Akersvn. 22–26 (1934)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Asker realskole og gymnas (1956)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Monrads gt. 13, 17, 21 (1939–40)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Sofienberggt. 54, 57 (1939), 55 (1947)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "3. premie A/S Fjellhammer Brugs konkurranse om nye tekningsmetoder ved bruk av Icopal takpapp (1930)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Kongsvingergt. 3, 5, 7, 9 (1932–35)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "en av fire like premier bebyggelsesplan, Gjøvik (1948) sammen med Jacob Hansen"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1933",
+                "order": "0",
+                "reference": "s. 12–23 (ill.)",
+                "to_date": "",
+                "description": "Småleilighetene og deres planløsning, Stor-Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "Selskabet for Oslo Byes Vel, utg."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1925",
+                "order": "10",
+                "reference": "s. 102–03",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "(u.å.), register s. 135 (ill.)",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo gårdkalender. Nybygg 1945–1955",
+                "place": "Oslo",
+                "authors": [
+                    "J. Nyquist"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "1",
+                "reference": "s. 353 (ill.)",
+                "to_date": "",
+                "description": "Deutsche Bauzeitung, Stuttgart",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "3",
+                "reference": "s. 300–01 (ill.)",
+                "to_date": "",
+                "description": "Byborgerens hus i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "2",
+                "reference": "2. utg., s. 442–43 (ill.)",
+                "to_date": "",
+                "description": "Asker",
+                "place": "Oslo",
+                "authors": [
+                    "H. Torgersen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "19",
+                "reference": "s. 154 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "6",
+                "reference": "s. 27 (ill.)",
+                "to_date": "",
+                "description": "AN",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "7",
+                "reference": "s. 115, 159 (ill.)",
+                "to_date": "",
+                "description": "Oslo. En arkitekturguide",
+                "place": "Oslo",
+                "authors": [
+                    "P. H. Engh og A. Gunnarsjaa"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "(u.å.), register s. 375 (ill.)",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo gårdkalender. Nybygg 1925–45",
+                "place": "Oslo",
+                "authors": [
+                    "P. D. Hofflund og J. Nyquist"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "4",
+                "reference": "s. 367–68",
+                "to_date": "",
+                "description": "FNFBs Årbok",
+                "place": "Sarpsborg",
+                "authors": [],
+                "comments": [
+                    "register bd."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "13",
+                "reference": "s. 26",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "16",
+                "reference": "tillegg s. 10, 31",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "14",
+                "reference": "s. 28–30, 53 (ill.), tillegg s. 23",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "15",
+                "reference": "s. 30 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "17",
+                "reference": "s. 99 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "12",
+                "reference": "s. 57 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "18",
+                "reference": "s. 139 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "11",
+                "reference": "s. 76",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Victor Schaulund",
+    "url": "https://nkl.snl.no/Victor_Schaulund",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>S. hadde egen arkitektpraksis i noen år fra 1923 og var ansatt hos arkitektene Carl Berner, Arnstein Arneberg og i arkitektfirmaet Blakstad og Munthe-Kaas før han startet egen praksis igjen i Oslo i slutten av 1920-årene.</p>\n<p>S. har utført et stort antall arbeider i Asker hvor han var bosatt det meste av sitt liv, f.eks. <em>Holmen skole</em> (1929–32) som består av rektangulære blokker i 2–3 etasjer med saltak og er preget av både klassisistisk hovedform og funksjonalistisk forenkling. I 1930–40 årene var han arkitekt for mange større leiegårdskomplekser i klassisistisk og funksjonalistisk utforming. Noen av dem er blitt sjeldent monumentale i sin bruk av eldre planformer kombinert med funksjonalistisk utforming av bygningene. Et markant eksempel er OBOS-blokkene i Kongsvingergt. 3, 5, 7 og 9, Oslo (1932–35), hvor lange blokker med forhager er kjedet sammen på begge sider av et lite gateløp, og gaterommet øverst er lukket av en tverrstilt fløy med gjennomkjøringsportal i tre etasjers høyde mot Bjølsenparken. Et annet eksempel er <em>__laquo;Ekebergløkka__raquo;</em> (1930–39) hvor fire åtte-etasjers blokker til sammen danner en åttekantet plan og er dominerende plassert ytterst på høyden over Bergfjerdingen. Detaljutformingen er her sterkt preget av den internasjonale funksjonalismen, noe også leie- og forretningsgården <em>Bogstadvn. 32</em> (1932) er et godt eksempel på.</p>\n</div>",
+    "created_at": "2014-11-20T14:53:23.252+01:00",
+    "changed_at": "2024-06-18T23:27:57.581+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3384\",\"https://digitaltmuseum.no/d3ff2327-4552-4b0f-88e6-fa04f580889b\",\"http://kulturnav.org/d3ff2327-4552-4b0f-88e6-fa04f580889b\"]",
+        "lastname": "Schaulund",
+        "firstname": "Victor",
+        "birth_date": "23.5.1896",
+        "birthplace": "Lier",
+        "death_date": "23.11.1979",
+        "external_id": "person_8736ab3384",
+        "kulturnav_id": "d3ff2327-4552-4b0f-88e6-fa04f580889b",
+        "place_of_death": "Asker"
+    },
+    "authors": [
+        {
+            "full_name": "Jens Christian Eldal"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

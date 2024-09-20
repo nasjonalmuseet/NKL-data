@@ -1,0 +1,463 @@
+{
+    "id": 430481,
+    "headword": "Carl Schøyen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106941",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Torkild",
+                "lastname": "Schøyen",
+                "professions": [
+                    "prokurator"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106942",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie Sofie Ulrikka",
+                "lastname": "Heiss",
+                "professions": []
+            },
+            {
+                "from_date": "1874",
+                "type": "Gift med",
+                "external_id": "person_8736ab106943",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hanna Andrea Otilia",
+                "lastname": "Hald",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Hans Gude, Karlsruhe 1871-74",
+                "order": "2"
+            },
+            {
+                "comment": "Johan Fredrik Eckersbergs malerskole 1865-70",
+                "order": "1"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under David Arnesen 1865-67",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Romsdal 1870"
+            },
+            {
+                "order": "3",
+                "description": "Karlsruhe 1871-74"
+            },
+            {
+                "order": "0",
+                "description": "Opphold ved Christianiafjorden og Sørlandskysten (Tromøya) somrene 1868, -69"
+            },
+            {
+                "order": "1",
+                "description": "Gudbrandsdalen 1868"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1868",
+                "order": "0",
+                "to_date": "1873",
+                "title": "Christiania Kunstforening i perioden 1867-75"
+            },
+            {
+                "comment": "(5 bilder)",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Jubileumsutstillingen i 1914, Kristiania",
+                "from_date": "",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1872",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1872",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1870",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk Industri- og Kunstudst., København",
+                "from_date": "1872",
+                "order": "4",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1927",
+                "order": "7",
+                "reference": "bd. 2, s. 507",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "8",
+                "reference": "s. 184",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "6",
+                "reference": "s. 13, 17",
+                "to_date": "",
+                "description": "Slegten Fuglesang fra Moss",
+                "place": "(Kristiania",
+                "authors": [
+                    "Busch, A. C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "12",
+                "reference": "bd. 1, s. 188",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H.",
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "4",
+                "reference": "s. 11",
+                "to_date": "",
+                "description": "Hvem jeg saa og hvem jeg mødte",
+                "place": "(Kristiania",
+                "authors": [
+                    "Peters, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norges kunst, katalog Jub.utst",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "11",
+                "reference": "s. 179",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838-1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "13",
+                "to_date": "",
+                "description": "Trondhjem Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J. J.",
+                    "Flønes, O."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "16",
+                "reference": "nr. 3, s. 17, 19 (ill.)",
+                "to_date": "",
+                "description": "i Byminner",
+                "place": "Oslo",
+                "authors": [
+                    "Juhasz, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "19",
+                "reference": "bd. 9, s. 435",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "15",
+                "reference": "s. 150",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "14",
+                "reference": "bd. 13, s. 106–08",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "20",
+                "reference": "bd. 10, s. 324",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "18",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 16, spalte 1003"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "1",
+                "reference": "s. 40",
+                "to_date": "",
+                "description": "Det nye Norges malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "10",
+                "reference": "s. 120, 210",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836-1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "0",
+                "reference": "s. XLIX, 82",
+                "to_date": "",
+                "description": "Af Hans Gudes Liv og Værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "17",
+                "reference": "s. 184",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "2",
+                "reference": "s. 130",
+                "to_date": "",
+                "description": "Folkebl.",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "9",
+                "reference": "bd. 30, s. 240",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "3",
+                "reference": "bd. 1, s. 181, 267",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Carl Schøyen",
+    "url": "https://nkl.snl.no/Carl_Sch%C3%B8yen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. kom fra en kunstinteressert familie og var allerede i barneårene regnet for en god tegner. Han hadde tidlig ønske om å bli maler og fikk støtte for dette fra familien. Han ble underholdt hjemmefra og var en av de få elever på J. F. Eckersbergs malerskole som ikke hadde økonomiske bekymringer. På malerskolen kom han 18 år gammel rett inn i frihåndsklassen og ble etter hvert betegnet som en av skolens beste elever. I S.' bilder fra denne tiden merkes påvirkning fra Eckersberg, men han malte mer intime naturskildringer, med snevrere landskapsutsnitt, enn sin lærer. Han brukte lang tid på sine studier, de er omsorgfullt utført, men likevel friskere og mer umiddelbare enn de endelige, mer akademiske ferdige resultater. Enkelte av hans tidligste bilder har ennå en romantisk grunntone som f.eks. <em>Fra Vågå</em> (1868, Trøndelag Kunstgalleri). Her malte S. med lav horisont et lite fossestryk med nedblåste trær og uryddig skog. Bildet er malt uten de store dramatiske effekter. Om somrene reiste S. rundt i landet og malte landskapsskisser, men han hentet som regel sine motiver fra hjembygdene. I 1871 reiste S. til Karlsruhe og ble elev av Hans Gude, men om somrene tok han med seg malerkamerater hjem til Skøyen gård i Sør-Odal. S.' skogsbilder fra denne tiden er en blanding av tysk romantisk maleri og en gryende norsk naturalisme. Dette kommer til uttrykk i <em>Skogparti med rev</em> (1874, Nasjonalgalleriet, Oslo) som er en intim liten naturstudie. Bildet er malt med rikt nyanserte grønntoner og den halvt skjulte reven blir blikkfang i det grønne landskapet. Etter at S. ble elev av Gude arbeidet han mest med kyst- og sjøbilder. Disse er friske i koloritten og selv om påvirkningen fra Gude er tilstede, utviklet S. etter hvert en selvstendig uttrykksform. <em>Strandparti ved Christianiafjorden</em> (1875, Nasjonalgalleriet), en forstudie til et større maleri, skildrer en liten båt for fulle seil innover fjorden. Bildet utmerker seg ved en personlig oppfatning både når det gjelder komposisjon og fargeholdning. S. døde i en alder av 27 år. Han ble av sin samtid betegnet som en begavelse som gikk bort midt i sin kunstneriske utvikling. Det er naturlig å sammenligne S.' halvrealistiske bilder med arbeider av Carl Nielsen og Nils Hansteen. Mange av S.' arbeider er i dag i privat eie i England og Sverige.</p></div>",
+    "created_at": "2014-11-20T16:21:03.505+01:00",
+    "changed_at": "2024-06-18T23:27:59.200+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3443\",\"https://digitaltmuseum.no/71fe247e-6c35-4138-bff0-75f0823e2e88\",\"http://kulturnav.org/71fe247e-6c35-4138-bff0-75f0823e2e88\"]",
+        "lastname": "Schøyen",
+        "firstname": "Carl",
+        "birth_date": "8.11.1848",
+        "birthplace": "Schøyen i Sør-Odal",
+        "death_date": "31.12.1875",
+        "external_id": "person_8736ab3443",
+        "kulturnav_id": "71fe247e-6c35-4138-bff0-75f0823e2e88",
+        "place_of_death": "Christiania"
+    },
+    "authors": [
+        {
+            "full_name": "Svein Olav Hoff"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20523/standard_NMK-B_NG.M.0028720151204-26003-1xgib2p.jpg",
+            "full_size_url": "https://media.snl.no/media/20523/NMK-B_NG.M.0028720151204-26003-1xgib2p.jpg",
+            "xhtml": "<div><p><i>Strandparti ved Christianiafjorden</i>. Carl Schøyen. 1875. <a href=\"http://digitaltmuseum.no/011041107160\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Carl Schøyen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20524/standard_NMK-B_NG.M.0351920151204-26003-m0ptuz.jpg",
+            "full_size_url": "https://media.snl.no/media/20524/NMK-B_NG.M.0351920151204-26003-m0ptuz.jpg",
+            "xhtml": "<div><p><i>Skogparti med rev</i>. Carl Schøyen. 1874. <a href=\"http://digitaltmuseum.no/011041108897\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Carl Schøyen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

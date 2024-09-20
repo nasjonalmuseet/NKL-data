@@ -1,0 +1,738 @@
+{
+    "id": 430073,
+    "headword": "Abraham Pihl",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            },
+            {
+                "description": "prest"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106294",
+                "birth_date": "1732",
+                "death_date": "1769",
+                "firstname": "Marte Christine",
+                "lastname": "Flinthoug",
+                "professions": null
+            },
+            {
+                "from_date": "1784",
+                "type": "Gift med",
+                "external_id": "person_8736ab106295",
+                "birth_date": "1764",
+                "death_date": "1850",
+                "firstname": "Anna Cathrine",
+                "lastname": "Neumann",
+                "professions": null,
+                "place": "Gausdal"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106293",
+                "birth_date": "1726",
+                "death_date": "1781",
+                "firstname": "Andreas",
+                "lastname": "Pihl",
+                "professions": null
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Student 1778",
+                "order": "0"
+            },
+            {
+                "comment": "teologisk kandidat, Universitetet i København 1783",
+                "order": "1"
+            },
+            {
+                "comment": "studerte også matematikk, astronomi og fysikk",
+                "order": "2"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem Danske Videnskabsselskab, København"
+            },
+            {
+                "order": "1",
+                "description": "Det Konglige Norske Videnskabers Selskab, Trondheim"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Ridder av Dannebrog 1809"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Vang kirke, Vang, Hedmark (1804–10, ombygd 1877 og 1954)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "hovedbygning Kjonerud, Stange, for amtmann Claus Bendeke (1808, brent 1909)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "steinfjøs Torshov, Vang på Hedmark (1808)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "hovedbygning Arnkvern, Furnes (1815)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Maleri (olje ca. 1800, privat eie)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "maleri utført av Johannes Flintoe (olje 1816, Vang kirke)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "maleri utført av Johannes Flintoe (olje, privat eie)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "kobberstikk signert A. Flint"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1795",
+                "order": "0",
+                "reference": "s. 288–301",
+                "to_date": "",
+                "description": "Om Brændeviinsbrænden paa Landet i Norge. Iris",
+                "place": "København",
+                "authors": [
+                    "PIHL, Abraham"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1803",
+                "order": "1",
+                "reference": "3. Række III s.277–95",
+                "to_date": "1804",
+                "description": "Maaden at tillave den hemmeligholdte engelske Guldfernis og hvorledes Messinge-Instrumenter dermed bør overdrages, i Danske Videnskabsselskabs Skrifter",
+                "place": "København",
+                "authors": [
+                    "PIHL, Abraham"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1805",
+                "order": "2",
+                "reference": "3. Række IV Hefte 2, s. 1–40",
+                "to_date": "1906",
+                "description": "Om Chronometrets Anvendelse til at finde den geographiske Længde paa det faste Land, Danske Videnskabsselskabs Skrifter",
+                "place": "København",
+                "authors": [
+                    "PIHL, Abraham"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "P. skrev også en større avhandling om urmakerkunsten, som ikke ble trykt, antagelig tapt",
+                "authors": [
+                    "PIHL, Abraham"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "order": "3",
+                "description": "Veiledning til at hugge File og Raspe i Oeconomisk-technologiske Samlinger I",
+                "from_date": "",
+                "to_date": "",
+                "reference": "s. 163-80",
+                "title": "",
+                "place": "København",
+                "authors": [
+                    "PIHL, Abraham"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "order": "4",
+                "description": "Breve ang. Maskiner til Presning af Valmue-Olje, Budstikken",
+                "from_date": "1811",
+                "to_date": "1812",
+                "reference": "Rekke III, sp. 304 og VI sp. 408-82",
+                "title": "",
+                "place": "Christiania",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1808",
+                "order": "6",
+                "reference": "s. 39",
+                "to_date": "",
+                "description": "S.s Rejseiagttagelser",
+                "place": "København",
+                "authors": [
+                    "Bloch, N. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1810",
+                "order": "7",
+                "reference": "s. 159–61(oversatt i Odin Wolffs Journal, April 1812, s. 14–16)",
+                "to_date": "",
+                "description": "Reise durch Norwegen u. Lappland I",
+                "place": "Berlin",
+                "authors": [
+                    "v. Buch, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1879",
+                "order": "8",
+                "reference": "s. 68–77",
+                "to_date": "",
+                "description": "Dagboksanteckningar under en resa från Sødra Sverige til Nordlanden i Norge 1816",
+                "place": "Lund",
+                "authors": [
+                    "Nilsson, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1821-05-29",
+                "order": "9",
+                "to_date": "",
+                "description": "Christiania Intelligenssedler",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1821-05-29",
+                "order": "10",
+                "to_date": "",
+                "description": "Den norske Rigstidende",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1866",
+                "order": "11",
+                "reference": "s. 58",
+                "to_date": "",
+                "description": "Autobiographi",
+                "place": "(Kristiania",
+                "authors": [
+                    "Pavels, C."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1896",
+                "order": "12",
+                "reference": "bd. 4, s. 455, 459",
+                "to_date": "",
+                "description": "Norsk forf.lexikon",
+                "place": "(Kristiania",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1899",
+                "order": "13",
+                "reference": "s. 109",
+                "to_date": "",
+                "description": "Dansk Biographisk Lexikon",
+                "place": "København",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1899",
+                "order": "14",
+                "to_date": "",
+                "description": "Hamar bys historie",
+                "place": "Hamar",
+                "authors": [
+                    "Ramseth, C."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1903",
+                "order": "15",
+                "reference": "s. 19–20",
+                "to_date": "",
+                "description": "Familien Neumann",
+                "place": "(Kristiania",
+                "authors": [
+                    "Neumann, H. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1909-01-23",
+                "order": "16",
+                "to_date": "",
+                "description": "i Hamar Stiftstidende",
+                "authors": [
+                    "Svendsen, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1911",
+                "order": "17",
+                "reference": "s. 185–86",
+                "to_date": "",
+                "description": "Slegten fra 1814",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1912",
+                "order": "18",
+                "reference": "s. 145",
+                "to_date": "",
+                "description": "Foreningen til Norske Fortidsminners Bevarings Aarsberetning",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1914",
+                "order": "19",
+                "reference": "s. 132",
+                "to_date": "",
+                "description": "i Foreningen til Norske Fortidsminners Bevarings Aarsberetning",
+                "authors": [
+                    "Kolsrud, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1914",
+                "order": "20",
+                "reference": "s. 380",
+                "to_date": "",
+                "description": "Hedemarkens Amt 1814–1914",
+                "place": "(Kristiania",
+                "authors": [
+                    "Skappel, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1915",
+                "order": "21",
+                "reference": "s. 173–74",
+                "to_date": "",
+                "description": "Foreningen til Norske Fortidsminners Bevarings Aarsberetning",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1920",
+                "order": "22",
+                "reference": "s. 95",
+                "to_date": "",
+                "description": "Et par norske kirker fra det 18. aarhundrede og deres arkitekter, Foreningen til Norske Fortidsminners Bevarings Aarsberetning",
+                "authors": [
+                    "Fett, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1925",
+                "order": "23",
+                "reference": "bd. 19, s. 148",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927",
+                "order": "24",
+                "reference": "s. 37",
+                "to_date": "",
+                "description": "Norsk bygningskunst fra Urnes til Universitetet",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927",
+                "order": "25",
+                "reference": "bd. 2, s. 9–10, 230",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1929",
+                "order": "26",
+                "reference": "bd. 8, register s. 449 (ill.)",
+                "to_date": "",
+                "description": "Det norske folks liv og historie",
+                "place": "Oslo",
+                "authors": [
+                    "Keilhau, W."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1930",
+                "order": "27",
+                "reference": "bd. 3, s. 102 (ill.)",
+                "to_date": "",
+                "description": "Vardal bygdebok",
+                "place": "Gjøvik",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1932",
+                "order": "28",
+                "reference": "bd. 1, s. 254 (ill.)",
+                "to_date": "",
+                "description": "i Hadeland bygdebok",
+                "place": "Oslo",
+                "authors": [
+                    "Bugge, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1937-05",
+                "order": "29",
+                "to_date": "0001-07-01",
+                "description": "Hedemarkske forhold omkring 1800. Brever fra Abraham Pihl, I-VI, Hamar Stiftstidende",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938",
+                "order": "30",
+                "to_date": "",
+                "description": "Allers",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "nr. 6"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1939",
+                "order": "31",
+                "reference": "s. 6 og 33–45",
+                "to_date": "",
+                "description": "Familien Pihl",
+                "place": "Oslo",
+                "authors": [
+                    "Pihl, W. R.",
+                    "Pihl, C. F. B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1940",
+                "order": "32",
+                "reference": "bd. 4, s. 14 og 346",
+                "to_date": "",
+                "description": "Norsk kulturhistorie",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1941",
+                "order": "33",
+                "reference": "bd. 1, s. 640–42",
+                "to_date": "",
+                "description": "Furnes bygdebok",
+                "place": "Hamar",
+                "authors": [
+                    "Bleken-Nilssen, T."
+                ],
+                "comments": [
+                    "(m.fl.)"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "34",
+                "reference": "bd. 2 s. 176, 182",
+                "to_date": "",
+                "description": "Furnes bygdebok",
+                "place": "Hamar",
+                "authors": [
+                    "Bleken-Nilssen, T."
+                ],
+                "comments": [
+                    "(m.fl.)"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1946",
+                "order": "35",
+                "reference": "s. 57–60 (ill.)",
+                "to_date": "",
+                "description": "i Hamar og Hedmark Turistforening, årbok 1946",
+                "place": "Hamar",
+                "authors": [
+                    "Midthaug, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "36",
+                "reference": "bd. 11, s. 97",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "37",
+                "reference": "s. 44",
+                "to_date": "",
+                "description": "Stange bygdebok",
+                "place": "Stange",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1957",
+                "order": "38",
+                "reference": "bd. 1, register s. 668",
+                "to_date": "",
+                "description": "i Hedmarks historie",
+                "place": "Hamar",
+                "authors": [
+                    "Bugge, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965",
+                "order": "39",
+                "reference": "register s. 395",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "40",
+                "reference": "register s. 281",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "41",
+                "reference": "register s. 445",
+                "to_date": "",
+                "description": "Urmakerkunst i Norge",
+                "place": "Oslo",
+                "authors": [
+                    "Ingstad, I."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "42",
+                "reference": "s. 213–14",
+                "to_date": "",
+                "description": "Teglindustriens historie",
+                "place": "Oslo",
+                "authors": [
+                    "Zakariassen, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "43",
+                "reference": "bd. 4, s. 59",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982",
+                "order": "44",
+                "reference": "register s. 501",
+                "to_date": "",
+                "description": "Vest-Oppland og Valdres, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983",
+                "order": "45",
+                "reference": "register s. 619",
+                "to_date": "",
+                "description": "Vangsboka",
+                "place": "Hamar",
+                "authors": [
+                    "Stensrud, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1984",
+                "order": "46",
+                "reference": "s. 17–19",
+                "to_date": "",
+                "description": "Jevnaker kirke 150 år 1834–1984",
+                "place": "Roa",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Abraham Pihl",
+    "url": "https://nkl.snl.no/Abraham_Pihl",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>P. ble i 1783 utnevnt til sogneprest i Lund og Flekkefjord. Med hans rasjonalistiske innstilling gikk P.s interesser videre enn til den vanlige prestegjerning. I studietiden i København ble hans interesse for astronomi vakt, og i 1785 ble P. utnevnt til astronomisk observatør i Norge, et verv han beholdt til Universitetet i Christiania ble opprettet i 1811. I 1789 ble P. forflyttet til Vang på Hedmark, hvor han i 1803 også ble prost. Her drev P. en mangfoldig virksomhet innen håndverk og industri. Han drev teglverk og pottemakeri, laget urverk, musikkinstrumenter, landbruksmaskiner og redskaper av forskjellig slag. Han utførte selv en stor del av sitt astronomiske utstyr, bl.a. slipte han linser til kikkerter. Han konstruerte tårnur, bl.a. til Hovinsholm og sin egen prestegård i Vang (Hedmarksmuseet), og av stueur fra hans hånd er omkring ett dusin kjent. Mange urmakere og andre håndverkere gikk i lære hos P.</p>\n<p>Etter at Vang kirke i 1804 ble ødelagt av brann, leverte P. tegninger til ny kirke. Denne ble oppført delvis under P.s egen ledelse, delvis under ledelse av Sven Halvorssøn Aspaas i P.s fravær. Kirken er oppført av stein. Til det eldre tårnet er bygd en langstrakt åttekantet bygning og sakristiutbygg mot øst. Kirken fikk mansardtak mens tårnet fikk lavt pyramidetak. Kirken hadde inntil ombyggingen i 1877 gallerier i to etasjer og prekestolalter kronet av en stor baldakin båret av fire søyler. Vang kirke ble forbilde for flere kirker på vestsiden av Mjøsa: Hunn kirke (1821, revet 1882), Åmot kirke i Torpa (1823) og Jevnaker kirke (1834). P. har neppe personlig hatt noen befatning med oppførelsen av disse kirkene, de er også til dels oppført etter hans død. Etter tradisjonen skal en tremodell være hentet over fra Vang, og etter denne modellen skal så den ene kirken etter den andre være oppført. Alle tre har den samme baldakinoppbygningen over prekestolalteret. Imidlertid har bare Jevnaker kirke vesttårn, mens de to andre har sentraltårn. P. ledet også byggearbeidene ved den andre kirken i sitt prestegjeld, Furnes kirke, da denne fikk nytt sentraltårn (1811–12, revet 1876). P. har visstnok også laget tegninger for sin svigersønn, amtmann Claus Bendeke, til gården Kjonerud i Stange (1808, brent 1909). Dette var en toetasjes trebygning med lavt mansardtak. Steinfjøset på Torshov i Vang, nabogården til Vang prestegård, er også tilskrevet P. Det har valmtak kronet av en takrytter med urverk og løkkuppel. På sin egen gård Arnkvern i Furnes bygde P. en treetasjes hovedbygning av tre med grunnmurt kjeller.</p>\n</div>",
+    "created_at": "2014-11-20T10:59:06.620+01:00",
+    "changed_at": "2024-06-18T23:27:48.622+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3112\",\"https://digitaltmuseum.no/0faca6d9-2f00-4902-a9c3-33ff95f7fef5\",\"http://kulturnav.org/0faca6d9-2f00-4902-a9c3-33ff95f7fef5\"]",
+        "lastname": "Pihl",
+        "firstname": "Abraham",
+        "birth_date": "3.10.1756",
+        "birthplace": "Gausdal",
+        "death_date": "20.5.1821",
+        "external_id": "person_8736ab3112",
+        "kulturnav_id": "0faca6d9-2f00-4902-a9c3-33ff95f7fef5",
+        "place_of_death": "Vang på Hedmark"
+    },
+    "authors": [
+        {
+            "full_name": "Kåre Hosar"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        },
+        {
+            "description": "prest"
+        }
+    ]
+}

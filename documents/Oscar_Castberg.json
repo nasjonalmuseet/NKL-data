@@ -1,0 +1,296 @@
+{
+    "id": 416908,
+    "headword": "Oscar Castberg",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101348",
+                "birth_date": "1818",
+                "death_date": "1847",
+                "firstname": "Tycho Fredrik Edvard",
+                "lastname": "Castberg",
+                "professions": [
+                    "distriktslege"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101349",
+                "birth_date": "1820",
+                "death_date": "",
+                "firstname": "Petronelle Sophie",
+                "lastname": "Hofgaard",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "lære hos gallionsskjærer Ingebretsen i Bergen 1870",
+                "order": "1"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under Julius Middelthun 1871",
+                "order": "2"
+            },
+            {
+                "comment": "Jens Adolf Jerichaus atelier, København 1874",
+                "order": "3"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 1869",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Reise til København 1874"
+            },
+            {
+                "order": "5",
+                "description": "København 1884"
+            },
+            {
+                "order": "0",
+                "description": "Schäffers legat 1871"
+            },
+            {
+                "order": "4",
+                "description": "Paris 1883"
+            },
+            {
+                "order": "2",
+                "description": "Statens stipend 1883 og 1884"
+            },
+            {
+                "order": "1",
+                "description": "Statens reisestipend 1875"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Stortingsbygningen: byste Johan Sverdrup (marmor, 1883)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Fyrstikkalleen nr. 9, Oslo: byste F.H. Frølich (bronse, 1873)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1885",
+                "order": "0",
+                "to_date": "1886",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1904",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1902",
+                "order": "1",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1883",
+                "order": "4",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Universitetet i Kristiania",
+                "from_date": "1879",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "5",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1873-05-20",
+                "order": "1",
+                "to_date": "",
+                "description": "Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1872-12-21",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1875-07-23",
+                "order": "2",
+                "to_date": "",
+                "description": "Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1875-12-07",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "7",
+                "reference": "bd. 6, s. 137",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-06-05",
+                "order": "6",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1879-07-12",
+                "order": "4",
+                "to_date": "",
+                "description": "Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1881",
+                "order": "5",
+                "reference": "nr. 46, s. 421",
+                "to_date": "",
+                "description": "Ny illustreret Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Oscar Castberg",
+    "url": "https://nkl.snl.no/Oscar_Castberg",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>C. var som ung noen år til sjøs, og læretiden hos gallionsskjærer Ingebretsen i Bergen tyder på at han tenkte på å ta opp dette yrket. Studiet under Middelthun i 1871 åpnet veien for den frie skulptur, med utgangspunkt i senklassisismens formverden. Han modellerte 1873 en portrettmedaljong av <em>J.C. Dahl</em> efter Thorvaldsens byste. Bortsett fra statuetter av <em>Harald Hårfagre</em> og <em>Olav Trygvason</em>, den siste utloddet i brent leire i Christiania Kunstforening 1875, viet C. seg helt for portrettet. Han vendte seg mot det brede marked med miniatyrbyster i biskuit, og utførte byster av <em>Ibsen</em> og <em>Bjørnson</em> i 1/2 størrelse i kalipasta, en blanding av brent alabast og stearin. Men han fikk også bestillinger på byster i full størrelse som de av banksjef <em>F.H. Frølich</em> (bronse, 1873) og kvestor <em>J. Aars</em> (1876). I slutten av 1870-årene modellerte han bystene av <em>Middelthun</em> og skolebestyrer <em>H.A. Heltberg</em> (bronse, 1879), den siste bygget opp i streng hermeform, men uten et gjennomført klassisistisk formspråk. C. tok skrittet helt ut til naturalismen i bysten av <em>Johan Sverdrup</em> (marmor, 1883), hvor det dessuten er brukt bor for å skape kontrast mellom lys og skygge. Hans interesse for portrett og skulptur ble imidlertid snart svekket. Han tok i stedet opp landskapsmaleriet på naturalistisk basis med motiver fra Kristiania, omegnen og Østlandet.</p></div>",
+    "created_at": "2013-07-03T18:10:32.628+02:00",
+    "changed_at": "2024-06-18T23:25:53.236+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab666\",\"https://digitaltmuseum.no/9899bd3a-0529-4f35-9440-c84c301eceab\",\"http://kulturnav.org/9899bd3a-0529-4f35-9440-c84c301eceab\"]",
+        "lastname": "Castberg",
+        "firstname": "Oscar",
+        "birth_date": "30.9.1846",
+        "birthplace": "Bygland, Setesdal",
+        "death_date": "18.6.1917",
+        "external_id": "person_8736ab666",
+        "kulturnav_id": "9899bd3a-0529-4f35-9440-c84c301eceab",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Castberg, Oscar Ambrosius"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

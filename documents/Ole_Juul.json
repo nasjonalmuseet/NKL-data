@@ -1,0 +1,531 @@
+{
+    "id": 417543,
+    "headword": "Ole Juul",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104123",
+                "birth_date": "1814",
+                "death_date": "1868",
+                "firstname": "Ernst Lorenz",
+                "lastname": "Juul",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104124",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gjertrud Bolette",
+                "lastname": "Dreier",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev av Anders Askevold i Bergen 1873-74",
+                "order": "0"
+            },
+            {
+                "comment": "kunstak. i Düsseldorf under Andreas Müller, Heinrich Lauenstein og Eugen Ducker 1876-82",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "opphold i København og Amerika"
+            },
+            {
+                "order": "3",
+                "description": "reiser til Nederland og England"
+            },
+            {
+                "order": "1",
+                "description": "studietur med Eugen Ducker til den tyske kyst"
+            },
+            {
+                "order": "2",
+                "description": "kortere opphold i Berlin og andre tyske byer etter 1882"
+            },
+            {
+                "order": "0",
+                "description": "Studieturer i Norge med landskapsmaleren Adelsten Normann, senere flere reiser og opphold i Norge"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1980",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Atelier Lofoten",
+                "from_date": "1976",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Elverum Galleri",
+                "from_date": "1978",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1922",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1926",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen Kunstforening",
+                "from_date": "1924",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1924",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1949",
+                "order": "7",
+                "to_date": "",
+                "title": "25 kunstnere i Trøndelag"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1891",
+                "order": "6",
+                "to_date": "",
+                "title": "International Kunst-Ausstellung"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1978-08-15",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Østlendingen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "16",
+                "reference": "register s. 276",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "18",
+                "reference": "s. 148",
+                "to_date": "",
+                "description": "For den bildende Kunst, Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-29",
+                "order": "26",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-13",
+                "order": "11",
+                "to_date": "",
+                "description": "Dagbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-20",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-09",
+                "order": "8",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "1",
+                "reference": "bd. 19, s. 357",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-03-19",
+                "order": "21",
+                "to_date": "",
+                "description": "Dagbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "19",
+                "reference": "s. 110, 178",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-01",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "14",
+                "reference": "s. 16-17",
+                "to_date": "",
+                "description": "Kunst i Trøndelag",
+                "place": "Trondheim",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-02",
+                "order": "5",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "23",
+                "reference": "s. 13-22 (ill.)",
+                "to_date": "",
+                "description": "Ole Juul, Kunst og Kultur",
+                "authors": [
+                    "Bakke, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            },
+            {
+                "from_date": "1979",
+                "order": "25",
+                "reference": "bd. 6, s. 586",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923-11-30",
+                "order": "12",
+                "to_date": "",
+                "description": "Dagbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "17",
+                "reference": "bd. 2, s. 387 (ill.)",
+                "to_date": "",
+                "description": "Molde bys historie",
+                "place": "Molde",
+                "authors": [
+                    "N. de Seve"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03-15",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-04",
+                "order": "7",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-05",
+                "order": "10",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-12-15",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "22",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Nordland, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "2",
+                "to_date": "",
+                "description": "Jahrbuch der Bilder- und Kunstblätterpreisse",
+                "place": "Wien",
+                "authors": [],
+                "comments": [
+                    "bd. 1"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "20",
+                "reference": "bd. 3, s. 782",
+                "to_date": "",
+                "description": "Tromsø bys historie",
+                "place": "Trondheim",
+                "authors": [
+                    "Ytreberg, N. A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "0",
+                "reference": "s. 204",
+                "to_date": "",
+                "description": "Katalog Internationale Kunst-Ausstellung",
+                "place": "Berlin",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-04-30",
+                "order": "4",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "13",
+                "reference": "s. 73-84 (ill.)",
+                "to_date": "",
+                "description": "Nyopdagede malere",
+                "place": "(Kristiania",
+                "authors": [
+                    "A. Harbitz"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "15",
+                "reference": "s. 142",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ole Juul",
+    "url": "https://nkl.snl.no/Ole_Juul",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>J. vokste opp på en ensomt beliggende gård i Lofoten. Etter konfirmasjonen kom han i malerlære i Bergen. Han lærte også fotografering, som i senere år skulle bli hans levebrød. Samtidig var han elev hos Anders Askevold. Oppmuntret av sin fetter Adelsten Normann, drog J. for oppsparte midler til Düsseldorf i 1876. Professor Eugen Ducker var den lærer som fikk størst betydning for ham. J. solgte lite disse årene, men før hjemreisen fikk han, sammen med 5 andre elever, et utsmykkingsoppdrag i Berlin for den tyske stat. J.s virksomhet som kunstner forløp etter hjemkomsten til Norge aldeles upåaktet. Han fotograferte om sommeren og malte og reiste om vinteren. Han var bosatt flere år på Elverum, hvor han ble en aktet og avholdt mann. Han bodde også i perioder i Nord-Norge, Trondheim og Kristiania. I 60-års alderen bygde han seg et lite hus i Beiarn på Ørlandet. Her levde han resten av sitt liv med de kystmotivene rundt seg som alltid hadde inspirert ham mest, døgnet og årets skiftende lys over horisonten og stranden med naust og fiskevær. J.s natur og begavelse var aldri i samsvar med den düsseldorfske malerskole. Hans form var den impresjonistisk oppfattede skissen. Han så motivene naturalistisk. Skissene og de uferdige bildene fra hans ungdom viser en spontan friskhet uttrykt i lette, sikre og flytende strøk. Han klarte ikke å føre dette over på større atelierbilder. Ved et rent tilfelle kom J. i fokus som 70-åring. Ved avreisen fra Düsseldorf hadde J. etterlatt seg en hel del uferdige arbeider og skisser. Adelsten Normann leverte dem til innramming. Forgylleren gikk konkurs, og fetteren døde. 40 år senere, i 1922, fikk en nordmann se noen av skissene i en forretning og kjøpte alle sammen. De ble utstilt hos Blomqvists Kunsthandel, Oslo, og utstillingen vakte oppsikt i pressen. Man antok at kunstneren var død. Journalister oppsporte imidlertid J., som tok det hele med ro. Ved sin død etterlot han seg ca. 3000 lerreter. Bildene ble solgt i Oslo i bunter på 3-4 lerreter.</p></div>",
+    "created_at": "2013-07-03T22:11:57.370+02:00",
+    "changed_at": "2024-06-18T23:26:10.787+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2004\",\"https://digitaltmuseum.no/6ef26c36-e812-4f2c-bbdd-b1ed2ff791b2\",\"http://kulturnav.org/6ef26c36-e812-4f2c-bbdd-b1ed2ff791b2\"]",
+        "lastname": "Juul",
+        "firstname": "Ole",
+        "birth_date": "5.8.1852",
+        "birthplace": "Vaagen, Lofoten",
+        "death_date": "30.9.1927",
+        "external_id": "person_8736ab2004",
+        "kulturnav_id": "6ef26c36-e812-4f2c-bbdd-b1ed2ff791b2",
+        "place_of_death": "Trondheim"
+    },
+    "authors": [
+        {
+            "full_name": "Helen Holager"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16054/standard_NMK-B_NG.M.0340220130725-13675-1mqbkyu.jpg",
+            "full_size_url": "https://media.snl.no/media/16054/NMK-B_NG.M.0340220130725-13675-1mqbkyu.jpg",
+            "xhtml": "<div>\r\n<p><em>Strandparti</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ole Juul",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16066/standard_NMK-B_NG.M.0367220130725-13675-hqxuig.jpg",
+            "full_size_url": "https://media.snl.no/media/16066/NMK-B_NG.M.0367220130725-13675-hqxuig.jpg",
+            "xhtml": "<div>\r\n<p><em>Landsbygate</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ole Juul",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16113/standard_NMK-B_NG.M.0435820130725-13675-1kjyiwe.jpg",
+            "full_size_url": "https://media.snl.no/media/16113/NMK-B_NG.M.0435820130725-13675-1kjyiwe.jpg",
+            "xhtml": "<div>\r\n<p><em>Nordlandsbåt</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ole Juul",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

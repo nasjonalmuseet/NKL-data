@@ -1,0 +1,485 @@
+{
+    "id": 430261,
+    "headword": "Christian Olsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "fotograf"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "portrettegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106055",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ole",
+                "lastname": "Christensen",
+                "professions": [
+                    "gårdeier"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106056",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johanne",
+                "lastname": "Larsdatter",
+                "professions": []
+            },
+            {
+                "from_date": "1843",
+                "to_date": "1875",
+                "type": "Gift med",
+                "external_id": "person_8736ab106057",
+                "birth_date": "1819",
+                "death_date": "1875",
+                "firstname": "Ingeborg Marie",
+                "lastname": "Madsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kunstakademiet i København opptatt i første frihåndsklasse 1834, avanserte i gipsskolen i desember 1837, møtte ikke til undervisning etter 1839",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Reiser i Norge fra 1839 i forbindelse med oppdrag som portrettmaler"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Rikshospitalet"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Universitetet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Aust-Agder museum, Arendal"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Berg-Kragerø museum"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Portretter i Eidsvollminne, Eidsvollbygningen"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Kristiansund domkirke"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "De Heibergske Samlinger, Amble i Sogn"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Universitetsbiblioteket, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Fylkesmuseet for Telemark og Grenland, Skien"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "P. Botten Hansen: Eidsvold-Galleri, Christiania 1856–60, portretter litografert etter O.s sortkrittegninger og utført av Emil Bærentzen & Co., København"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1854",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1879",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1856",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1872",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Tegning utført av Chr. Krohg gjengitt i Chr. Krohg: Kampen for tilværelsen, Kristiania 1920, bd. 1, s. 92"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1927",
+                "order": "7",
+                "reference": "bd. 2, s. 197",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "18",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "17",
+                "reference": "s. 358",
+                "to_date": "",
+                "description": "Foreningen til Norske Fortidsminners Bevarings Årbok",
+                "place": "Sarpsborg",
+                "authors": [],
+                "comments": [
+                    "registerbind"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "6",
+                "reference": "bd. 1. s. 89–92 (ill.)",
+                "to_date": "",
+                "description": "Kampen for tilværelsen",
+                "place": "(Kristiania",
+                "authors": [
+                    "Krohg, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "8",
+                "to_date": "1930",
+                "description": "Danske og norske portretter i kobberstikk",
+                "place": "København",
+                "authors": [
+                    "Westergaard, P. B. C."
+                ],
+                "comments": [
+                    "registerbind 1933"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1879",
+                "order": "4",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [
+                    "nr. 51"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "5",
+                "to_date": "",
+                "description": "Katalog over Eidsvoldsbygningens historiske samlinger",
+                "place": "Eidsvold",
+                "authors": [
+                    "Lange, A. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1872-03-30",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1856-06-11",
+                "order": "1",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1854",
+                "order": "0",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [
+                    "nr. 162"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1860",
+                "order": "2",
+                "to_date": "",
+                "description": "Aftenbladet",
+                "authors": [],
+                "comments": [
+                    "nr. 30"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "12",
+                "reference": "nr. 29 s. 19 (ill.)",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "11",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 19"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "9",
+                "reference": "s. 67, 70 (ill.)",
+                "to_date": "",
+                "description": "Norske portretter",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "10",
+                "to_date": "",
+                "description": "Samlede skrifter",
+                "place": "Oslo",
+                "authors": [
+                    "Wergeland, H."
+                ],
+                "comments": [
+                    "se registerbind"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "13",
+                "reference": "bd. 2, s. 502",
+                "to_date": "1952",
+                "description": "Weilbach Kunstnerlesikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "14",
+                "to_date": "",
+                "description": "Brev til H. Wergeland",
+                "place": "Oslo",
+                "authors": [
+                    "Amundsen, L."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "16",
+                "reference": "s. 194–97 (ill.)",
+                "to_date": "1958",
+                "description": "Et portrett av C. J. Schive, Nordisk numismatisk årsskrift",
+                "authors": [
+                    "Svarstad, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "15",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "s. 117, 232 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1983",
+                "order": "20",
+                "publisher": "Universitetet i Oslo",
+                "reference": "bd. 1, s. 166, 171, bd. 2 s. 96, 125",
+                "to_date": "",
+                "description": "Matthias Stoltenberg",
+                "authors": [
+                    "Bjerke, Ø. Storm"
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "papirer vedrørende Galleriselskapet på Eidsvoll"
+                ],
+                "archives": [
+                    "Kirkedepartement, kontor A, Riksarkivet",
+                    "Eidsvollarkivet"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Christian Olsen",
+    "url": "https://nkl.snl.no/Christian_Olsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>O. hadde svennebrev som håndverksmaler. Han kom til Norge 1839 og reiste de følgende to år omkring og tegnet portretter i sortkritt. I 1841 slo O. seg ned i Christiania og samme år stiftet han bekjentskap med Henrik Wergeland, som lot seg tegne av O. (1841 og på dødsleiet 1844, begge privat eie) Wergeland omtaler O. i et brev fra 1844 som en i Christiania \"alt i flere Aar bosat særdeles talentfuld dansk Portrættegner.\" Fram til 1854 arbeidet O. vesentlig som tegner. Fra 1854 fikk han en rekke oppdrag på portretter for Eidsvollminne, Eidsvoll-bygningen, av Johan Sebastian Welhaven. Welhaven foretrakk O. fremfor andre samtidige portrettmalere på grunn av hans billige priser og hurtige leveranser. O.s forbilde ser ut til å ha vært den danske portrettmaleren Emil Bærentzen, og i likhet med ham tilstrebet O. en fotografisk likhet med modellen. O. har bl.a. malt <em>Peter Andreas Munch</em> (1854, Frimurerlosjen i Oslo); <em>Jørgen Moe</em> (1850-årene, Kristiansunds domkirke); <em>Wilhelm Boeck</em> (Rikshospitalet, Oslo) og <em>Christen Heiberg</em> (1860, De Heibergske Samlinger, Amble i Sogn).</p>\n<p>I 1856 etablerte O. et fotografisk atelier i Christiania i samarbeid med C. C. Wischmann. Fra 1860 samarbeidet O. med fotograf Marie Thomsen og fra 1866 hadde han eget fotografisk atelier. O. malte et utall portretter på grunnlag av egne og andres fotografier, f.eks. Bjørnstjerne Bjørnson og Peter Christen Asbjørnsen. Han foretrakk å overføre det fotografiske bilde nøyaktig til lerret eller plate, men har også overmalt fotografier. Formatene varierer fra miniatyrer til naturlig størrelse. O. var selv en dyktig fotograf og har bl.a. fotografert Johan Sverdrup. Mange av O.s sortkrittegninger ble overført til litografi, fortrinnsvis av det danske firmaet Emil Bærentzen.</p>\n</div>",
+    "created_at": "2014-11-20T12:19:01.286+01:00",
+    "changed_at": "2024-06-18T23:27:53.452+02:00",
+    "license_name": "fri",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2990\",\"https://digitaltmuseum.no/6441f7a3-8423-4a79-b6fa-520b8b8a7585\",\"http://kulturnav.org/6441f7a3-8423-4a79-b6fa-520b8b8a7585\"]",
+        "lastname": "Olsen",
+        "firstname": "Christian",
+        "birth_date": "18.5.1813",
+        "birthplace": "Bruenshuse, Dreslette på Fyn, Danmark",
+        "death_date": "25.3.1898",
+        "external_id": "person_8736ab2990",
+        "kulturnav_id": "6441f7a3-8423-4a79-b6fa-520b8b8a7585",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Olsen, Christen"
+    },
+    "authors": [
+        {
+            "full_name": "Øivind Storm Bjerke"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "fotograf"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "portrettegner"
+        }
+    ]
+}

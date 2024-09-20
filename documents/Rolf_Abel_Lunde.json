@@ -1,0 +1,1407 @@
+{
+    "id": 418098,
+    "headword": "Rolf Abel Lunde",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "billedhugger"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105127",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Halvdan Abel",
+                "lastname": "Lunde",
+                "professions": [
+                    "fabrikkeier"
+                ]
+            },
+            {
+                "from_date": "1916",
+                "type": "Gift med",
+                "external_id": "person_8736ab105128",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ebba",
+                "lastname": "Dietrichson",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Othon Friesz, Paris fra 1920",
+                "order": "1"
+            },
+            {
+                "comment": "Den kgl. Tegneskole, Kristiania under Johan Nordhagen og Wilhelm Peters 1906–08",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Kristiania under Wilhelm Rasmussen 1922–23",
+                "order": "3"
+            },
+            {
+                "comment": "elev av Antoine Bourdelle, Paris 1921–22",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Conrad Mohrs stipend 1925"
+            },
+            {
+                "order": "1",
+                "description": "Studieopphold Paris 1919, -20, 1921–22 og 1925–26"
+            },
+            {
+                "order": "2",
+                "description": "England og Berlin 1925"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm (?)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Rolf Stenersens samling, Oslo (tegning)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Statuene Tårnpeter (bronse, 1927) og Ludvig Wiese (bronse, 1927, Lilletorvet, Oslo) samt brønnskulpturen Slaven (bronse, 1927), alle Lillehammer"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri (grafikk)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling (skulptur, maleri og tegninger)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri (skulptur)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo (skulptur og tegninger)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Skiens Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1959",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1925",
+                "order": "19",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1923",
+                "order": "17",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1919",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1928",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1969",
+                "order": "26",
+                "to_date": "",
+                "title": "Statens Kunstakademi 60 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1927",
+                "order": "21",
+                "to_date": "",
+                "title": "Byjubileums utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1914",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "24",
+                "to_date": "",
+                "title": "Landsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1928",
+                "order": "23",
+                "to_date": "",
+                "title": "Unionalen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1971",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1976",
+                "order": "27",
+                "to_date": "",
+                "title": "Norsk tegnekunst i 60 år"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1928",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1927",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1924",
+                "order": "18",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1941",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1920",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salonen, Paris",
+                "from_date": "1927",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1925",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1917",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1922-09",
+                "order": "16",
+                "to_date": "",
+                "title": "Norske grafikeres utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1934",
+                "order": "25",
+                "to_date": "",
+                "title": "Ni Lillehammer-kunstnere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1921-05",
+                "order": "15",
+                "to_date": "",
+                "title": "De unge"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "13",
+                "to_date": "1913",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1923",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1928",
+                "order": "7",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "tegnet selvportrett (kull, 1917, Lillehammer Bys malerisamling)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Selvportrett (olje, Lillehammer Bys malerisamling)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1941-08-23",
+                "order": "71",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rolf Lunde, Morgenbladet",
+                "authors": [
+                    "Durban, A.-Hansen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "37",
+                "to_date": "",
+                "description": "Gudbrandsdalen, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-13",
+                "order": "75",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-09-04",
+                "order": "47",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-05-06",
+                "order": "53",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "43",
+                "reference": "bd. 7, s. 707",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-12",
+                "order": "85",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "17",
+                "reference": "register s. 144, 145 (ill.)",
+                "to_date": "",
+                "description": "Streiftog og glimt fra Kunstnerforbundets første 50 år",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "2",
+                "reference": "s. 173",
+                "to_date": "",
+                "description": "Catalogue Le Salon, Societé des Artistes",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-09-17",
+                "order": "57",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-21",
+                "order": "81",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Moen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "12",
+                "reference": "hefte 12 s. 29",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "28",
+                "reference": "s. 15, 19, 20, 40 (ill.), 43, 48, 49, 53, 58",
+                "to_date": "",
+                "description": "Lillehammer Bys Malerisamling, Årbok 1963–68",
+                "place": "Lillehammer",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-17",
+                "order": "78",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-01-27",
+                "order": "62",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Korsvold, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Historien om Tårnpeter. En legende i bronse",
+                "place": "Lillehammer",
+                "authors": [
+                    "Halvorsen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-01-06",
+                "order": "52",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Korsvold, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "29",
+                "reference": "s. 65–69",
+                "to_date": "",
+                "description": "Norsk kunst i Malerisamlingen",
+                "place": "Lillehammer",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "19",
+                "reference": "s. 23–24, 25, 32, 34, 189, 192–93",
+                "to_date": "",
+                "description": "Dyre Vaa",
+                "place": "Oslo",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "33",
+                "reference": "s. 126",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-11-07",
+                "order": "68",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Sørensen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "38",
+                "to_date": "",
+                "description": "i Norsk tegnekunst i 60 år",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [
+                    "katalog nr. 409, Kunstnernes Hus"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "6",
+                "reference": "bd. 23, s. 469",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-12-16",
+                "order": "72",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-14",
+                "order": "76",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-09-22",
+                "order": "54",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-09-06",
+                "order": "48",
+                "to_date": "",
+                "description": "i Norske Intelligenssedler",
+                "authors": [
+                    "Soot, P. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "3",
+                "reference": "s. 91–92, 97",
+                "to_date": "",
+                "description": "Lillehammer 1827–1927",
+                "place": "Lillehammer",
+                "authors": [],
+                "comments": [
+                    "Festskrift"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "16",
+                "reference": "bd. 3, s. 271",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            },
+            {
+                "from_date": "1948",
+                "order": "11",
+                "to_date": "",
+                "description": "Rolf Lunde",
+                "place": "Oslo",
+                "authors": [
+                    "Vaa, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-09-23",
+                "order": "58",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Aamodt, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-17",
+                "order": "86",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-07-05",
+                "order": "82",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Ellingsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "30",
+                "reference": "s. 72",
+                "to_date": "",
+                "description": "Det gamle Lillehammer",
+                "place": "Lillehammer",
+                "authors": [
+                    "Halvorsen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-16",
+                "order": "77",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "15",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J. J.",
+                    "Flønes, O."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "24",
+                "reference": "s. 170–71",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-01-26",
+                "order": "61",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "7",
+                "reference": "s. 179",
+                "to_date": "",
+                "description": "Nasjonalgalleriet gjennem hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "20",
+                "reference": "s. 356–64 (ill.)",
+                "to_date": "",
+                "description": "Vår skulptur idag, Syn og Segn",
+                "place": "Oslo",
+                "authors": [
+                    "Vaa, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "34",
+                "reference": "s. 134, 136__-;46",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-09-13",
+                "order": "51",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-11-08",
+                "order": "67",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "40",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-09-17",
+                "order": "55",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-05-30",
+                "order": "69",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-02-21",
+                "order": "45",
+                "to_date": "",
+                "description": "Bergens Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "25",
+                "reference": "register s. 321 (ill.)",
+                "to_date": "",
+                "description": "Norsk skulptur i femti år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-07-08",
+                "order": "83",
+                "to_date": "",
+                "description": "Gudbrandsdølen/Lillehammer Tilskuer",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "10",
+                "reference": "s. 80–83 (ill.), 117",
+                "to_date": "",
+                "description": "Norsk skulptur gjennom hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "0",
+                "reference": "s.[62],[200], Den moderne maleriavd. nr. 267, grafisk kunst, nr. 166–67",
+                "to_date": "",
+                "description": "Norges kunst",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [
+                    "katalog Jubileumsutstillingen i"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "41",
+                "reference": "s. 136–46 (ill.)",
+                "to_date": "",
+                "description": "Rolf Lunde, Kunst og Kultur",
+                "authors": [
+                    "Werenskiold, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-07",
+                "order": "73",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "31",
+                "reference": "s. 265–66",
+                "to_date": "",
+                "description": "Tegneskolen gjennom 150 år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "14",
+                "reference": "bd. 2, s. 406, 420__-;21 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-20",
+                "order": "79",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "21",
+                "reference": "s. XXXI-XXXII, pl. 89, biografiske oppl. VI",
+                "to_date": "",
+                "description": "Norsk tegnekunst i Nasjonalgalleriet",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "8",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "4",
+                "reference": "s. 97",
+                "to_date": "",
+                "description": "Om grafisk kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Willums, O.",
+                    "Ingebretsen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-12",
+                "order": "60",
+                "to_date": "",
+                "description": "1ste Mai",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-09-10",
+                "order": "50",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-11-03",
+                "order": "64",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-11-05",
+                "order": "66",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "35",
+                "reference": "del 4: Från sekelskiftet till 40-tal, s. 108 (ill.)",
+                "to_date": "",
+                "description": "Bildkonsten i Norden",
+                "place": "Stockholm",
+                "authors": [
+                    "Lindwall, Bo",
+                    "Åström, L. E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-08-30",
+                "order": "46",
+                "to_date": "",
+                "description": "Norske Intelligenssedler",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-07",
+                "order": "74",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "39",
+                "reference": "s. 180",
+                "to_date": "",
+                "description": "Lillehammermalerne, Lillehammer. By og bygd, gate og grend",
+                "place": "Lillehammer",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-09-17",
+                "order": "56",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Thiis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "18",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1941-05",
+                "order": "70",
+                "to_date": "0001-06-01",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Durban, A.-Hansen"
+                ],
+                "comments": [
+                    "(nr. 115)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1979-01-24",
+                "order": "84",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "26",
+                "reference": "s. 18, 68, 110 (ill.)",
+                "to_date": "",
+                "description": "Statens Kunstakademi 60 år",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [
+                    "katalog Nasjonalgalleriet, Oslo"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "42",
+                "reference": "s. 472",
+                "to_date": "",
+                "description": "Østfold, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "9",
+                "reference": "s. 103",
+                "to_date": "",
+                "description": "Norsk grafikk i det tyvende århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Sinding-Larsen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "1",
+                "reference": "s. 173",
+                "to_date": "",
+                "description": "Tidskrift för Konstvetenskap",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "32",
+                "reference": "s. 105, 222",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "13",
+                "reference": "bd. 3, s. 586 (ill.)",
+                "to_date": "",
+                "description": "Tidens Konsthistoria",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "22",
+                "reference": "s. 240__-;42 (ill.)",
+                "to_date": "",
+                "description": "Profiler og paletter i Rogalands kunst",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. Schanche"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-20",
+                "order": "80",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagningen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "27",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 12, spalte 757"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1927-12",
+                "order": "59",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "5",
+                "reference": "s. 88 (ill.)",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-09-09",
+                "order": "49",
+                "to_date": "",
+                "description": "Social-Demokraten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-11-03",
+                "order": "63",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-11-05",
+                "order": "65",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Aamodt, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "36",
+                "reference": "s. 92 (ill.)",
+                "to_date": "",
+                "description": "Rolf E. Stenersens gave til Oslo by-Akerssamlingen",
+                "place": "Oslo",
+                "authors": [
+                    "Eggum, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Rolf Abel Lunde",
+    "url": "https://nkl.snl.no/Rolf_Abel_Lunde",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>L. utdannet seg først som grafiker under Johan Nordhagen på Tegneskolen. Han debuterte på Høstutstillingen i 1911, og hadde sin første separatutstilling som maler i Kristiania 1914, samtidig som han deltok på Jubileumsutstillingen med et litografi og et tresnitt. L.s debut som maler var ingen ubetinget suksess. Blant kritikerne var Jappe Nilssen lite nådig, og viste de følgende år liten entusiasme for L.s arbeider. I 1917 holdt L. utstilling i Bergens Kunstforening, der en del arbeider ble solgt. Etter titlene å dømme har L. vært sterkt opptatt av å karakterisere sine modeller. Titler som <em>Socialist</em>, <em>Arbeider</em> og <em>Tigger</em> røper tydelig det sosiale aspekt som snart skulle bli vanlig i norsk maleri. På grunn av sviktende helbred flyttet L. i 1916 til Lillehammer. Han hadde nå helt forlatt grafikken, og det var maler han hadde tenkt å bli. Et Paris-opphold i 1919 sammen med Einar Sandberg var ikke særlig vellykket. I 1920 reiste han på ny til Paris, og ble der elev av Othon Friesz. Her traff han Dagfin Werenskiold, som hadde oppdaget Antoine Bourdelle og overtalte L. til å bli dennes elev. Hos Bourdelle fant L. seg selv som kunstner og det i den grad at han bokstavelig talt ble billedhugger i løpet av en dag. \"Med leiren i hånden ble han et helt annet menneske\", sa Werenskiold. Hos Bourdelle lærte han å bruke kniv i stedet for tommelfingeren som ellers var billedhuggerens fornemste verktøy. Med kniven bygget han opp figuren i små klare forskyvninger i planene. Overflaten ble uflidd på denne måten, men det spilte mindre rolle. Hovedsaken var at figuren fikk et indre liv som bestemte formen. I 1922 ble L. elev av Rasmussen på Kunstakademiet og læreren så med en gang L.s begavelse. Han var ikke bare dyktig, han hadde også dannet seg klare begreper om skulptur og vikarierte av og til for professoren. Mens Rasmussen brukte kunsthistorien som undervisningsmateriale og eksempel, henviste L. elevene til studiet av livet selv. Vinteren 1923 var han hjemme på Lillehammer, og modellerte her hodet av <em>Tårnpeter</em>, en gammel bygdeoriginal som han likte å tegne, og som han flittig benyttet som modell. Portrettbysten ble et foreløpig resultat.</p>\n<p>I 1925 fikk L. Conrad Mohrs stipendium - uten noen gang å ha vist sine ferdigheter som billedhugger, og reiste til utlandet. I Paris studerte han Auguste Rodin, og det sies at han valfartet til Meudon for om mulig å finne rester av mesterens kunst i skraphaugen utenfor atelieret. Etter hjemkomsten modellerte han igjen <em>Tårnpeter</em>, denne gangen i full størrelse. Den er sterkt Rodin-påvirket, men like fullt selvstendig i sin oppfatning, og løsningen av det formale problem er L.s egen. Det ligger både humor og tragedie i denne skikkelsen, barbent og inntilbens med armene bedende foran brystet. I Paris møtte L. en russisk flyktning som han modellerte, og dette ble nok hans mest fullkomne portrettbyste (<em>Russerinnen</em>, 1926, Nasjonalgalleriet, Oslo). Det edle ansiktet, preget av sykdom og elendighet har fått sitt gripende uttrykk gjennom en ytterst streng og fast form, hvor bare ganske små forskyvninger i planene og små skjevheter gir hodet liv. Her er også den ellers noe uflidde overflate mer finpusset enn vanlig. Det største arbeide fra Paris-tiden er <em>Slaven</em>, en legemsstor mannsakt sittende tett sammenkrøpet. Også denne er tydelig Rodin-påvirket, og i sin patetiske stilling virker den kan hende en smule utstudert, men med kraft og skulpturalt liv. Modellen var en arbeidsløs sirkusartist med kraftig og muskuløs kropp, og det var denne L. ville gjenskape i sin egen dramatiske form. Etter hjemkomsten fra Paris gikk L. løs på det som skulle bli hans hovedverk, statuen av <em>kjøpmann Ludvig Wiese</em>, Lillehammers store mann i forrige århundre, byens grunnlegger. Monumentet var et bestillingsverk, det eneste han noen gang fikk, av Lillehammer kommune, og statuen skulle stå ferdig til byens hundreårsjubileum, sommeren 1927. L. var på det tidspunkt så syk at han måtte ha praktisk hjelp til alt tungt arbeide, og likevel slet han seg fram gjennom alle vanskeligheter og skapte et av hovedmonumentene i norsk skulptur. Her har han skildret kraft og viljestyrke. <em>Wiese-monumentet</em> er et praktfullt eksempel på kontroll over massenes eksplosive kraft. L. arbeidet her faktisk om kapp med døden, og monumentet ble avduket til avtalt tid. Wiese-statuen i gips var også hovedverket på den utstilling som L. fikk arrangert i Kunstnerforbundet høsten 1927, en utstilling som ble en stor seier for L. Nasjonalgalleriet kjøpte både <em>Russerinnen</em> og det fornøyelige portretthodet av <em>Einar Fagstad</em>. Både Dyre Vaa og Dagfin Werenskiold oppfordret Nasjonalgalleriet til å kjøpe en avstøpning av Wiese-monumentet, men forslaget falt mot Rasmussens og Thiis' stemmer. Først i 1960 ble <em>Tårnpeter</em> innkjøpt av Nasjonalgalleriet. Foruten skulpturer har L. etterlatt seg en mengde tegninger i blyant, kull og rødkritt, særlig akttegninger av unge kvinner, ballettdanserinner og sirkusartister. Hans tegninger, som er av meget høy kvalitet, forteller om et sikkert blikk og suverent håndlag i karakterskildring og plastisk utforming.</p>\n</div>",
+    "created_at": "2013-07-04T07:06:05.593+02:00",
+    "changed_at": "2024-06-18T23:26:26.680+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2469\",\"https://digitaltmuseum.no/45fa1e10-e90d-4511-b290-2de58441adb9\",\"http://kulturnav.org/45fa1e10-e90d-4511-b290-2de58441adb9\"]",
+        "lastname": "Lunde",
+        "firstname": "Rolf Abel",
+        "birth_date": "27.5.1891",
+        "birthplace": "Moss",
+        "death_date": "3.11.1928",
+        "external_id": "person_8736ab2469",
+        "kulturnav_id": "45fa1e10-e90d-4511-b290-2de58441adb9",
+        "place_of_death": "Lillehammer"
+    },
+    "authors": [
+        {
+            "full_name": "Ole Rønning Johannesen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "billedhugger"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

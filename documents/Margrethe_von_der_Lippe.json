@@ -1,0 +1,351 @@
+{
+    "id": 418049,
+    "headword": "Margrethe von der Lippe",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105018",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Fredrikke",
+                "lastname": "Brun",
+                "professions": []
+            },
+            {
+                "from_date": "1938",
+                "type": "Gift med",
+                "external_id": "person_8736ab2418",
+                "birth_date": "13.10.1911",
+                "death_date": "17.06.1990",
+                "firstname": "Jens von Der",
+                "lastname": "Lippe",
+                "professions": [
+                    "keramiker"
+                ],
+                "place": "Trondheim"
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105017",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Knut Henrik Holtermann",
+                "lastname": "Lund",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "verkstedspraksis hos Jens von der L. fra 1936",
+                "order": "2"
+            },
+            {
+                "comment": "Staatliche Kunstgewerbeschule, Wien 1932-33",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Paul Ansteinsson 1935–36",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Statens stipend for eldre fortjente kunstnere fra 1980"
+            },
+            {
+                "order": "2",
+                "description": "Statens garantiinntekt fra 1979"
+            },
+            {
+                "order": "1",
+                "description": "stipend fra Fondet for dansk-norsk samarbeid 1950"
+            },
+            {
+                "order": "5",
+                "description": "dessuten Færøyene 1965"
+            },
+            {
+                "order": "4",
+                "description": "Studiereiser i de fleste europeiske land"
+            },
+            {
+                "order": "0",
+                "description": "Statens 3-årige arbeidsstipend 1963–65"
+            },
+            {
+                "order": "7",
+                "description": "Japan 1978"
+            },
+            {
+                "order": "6",
+                "description": "Peru 1968"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Landsforbundet Norsk Brukskunst 1980–81"
+            },
+            {
+                "order": "0",
+                "description": "Medlem Norske kunsthåndverkere"
+            },
+            {
+                "order": "2",
+                "description": "Jurymedlem Norske kunsthåndverkere 1977"
+            },
+            {
+                "order": "1",
+                "description": "Den nye Foreningen Brukskunst"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Se Jens von der L."
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Museo internazionale delle ceramiche, Faenza"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Mosvold rederi, Kristiansand"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Sara hotell, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "altervegg, Vardø kirke (1959)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Bærum sykehus"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Kaffistova og Grillstova, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Kunstindustrimuseum Kyoto, Japan"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Sammen med Jens von der L.: Vegg av fliser, Restaurant Georges, Oslo (1948, revet)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Grimebakken hjem for psykisk utviklingshemmede, svømmehallen, Hov i Land"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "5",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1972",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "from_date": "",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Vikerødegården, Furnes",
+                "from_date": "1978",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1949",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1976",
+                "order": "1",
+                "to_date": "",
+                "title": "Tendenser 76"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "7",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1946",
+                "order": "0",
+                "reference": "s. 170–72",
+                "to_date": "",
+                "description": "Barn og spisestell, Bonytt",
+                "authors": [
+                    "Lippe, Margrethe von der"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Se Jens von der L"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1972-11-24",
+                "order": "2",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-11-22",
+                "order": "1",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Nilsen, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Margrethe von der Lippe",
+    "url": "https://nkl.snl.no/Margrethe_von_der_Lippe",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div></div>",
+    "created_at": "2013-07-04T05:53:49.538+02:00",
+    "changed_at": "2024-06-18T23:26:25.354+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2419\",\"https://digitaltmuseum.no/1272178c-96cf-46a0-a83f-62b1f9835e81\",\"http://kulturnav.org/1272178c-96cf-46a0-a83f-62b1f9835e81\"]",
+        "lastname": "Lippe",
+        "firstname": "Margrethe von der",
+        "birth_date": "9.7.1913",
+        "birthplace": "Trondheim",
+        "death_date": "10.3.1999",
+        "external_id": "person_8736ab2419",
+        "kulturnav_id": "1272178c-96cf-46a0-a83f-62b1f9835e81",
+        "alternative_names": "Lund, Margrethe; Lund, Margrethe von der Lippe"
+    },
+    "authors": [
+        {
+            "full_name": " Norsk kunstnerleksikon"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        }
+    ]
+}

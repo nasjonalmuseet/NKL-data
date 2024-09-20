@@ -1,0 +1,792 @@
+{
+    "id": 431191,
+    "headword": "Johannes Vinjum",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107965",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragnvald",
+                "lastname": "Vinjum",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107966",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kari",
+                "lastname": "Ohnstad",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Accademia di Belle Arti, Firenze under Primo Conti 1961-62 (stipendiat)",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1949-52 under Carl von Hanno, Olav Mosebekk og Chrix Dahl",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein, Jean Heiberg og Per Krohg 1952-56",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Statens reisestipend 1956"
+            },
+            {
+                "order": "3",
+                "description": "Th. Fearnleys Minnestipend 1958"
+            },
+            {
+                "order": "0",
+                "description": "Hans Ødegaards legat 1952"
+            },
+            {
+                "order": "5",
+                "description": "Studiereise til Paris 1956"
+            },
+            {
+                "order": "4",
+                "description": "italiensk statsstipend 1961-62"
+            },
+            {
+                "order": "2",
+                "description": "Ib Schlytters legat 1956"
+            },
+            {
+                "order": "6",
+                "description": "Spania 1958"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "0",
+                "description": "Leder av Studieatelieret, Bergen 1967-68"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo skolestyre"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "De Heibergske samlinger, Kaupanger i Sogn"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Barneavdelingen, Fylkessykehuset, Førde"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1964",
+                "order": "24",
+                "to_date": "",
+                "title": "Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "12",
+                "to_date": "1963",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1960",
+                "order": "22",
+                "to_date": "",
+                "title": "Nordisk grafik"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1983",
+                "order": "34",
+                "to_date": "",
+                "title": "Profil 83"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "30",
+                "to_date": "",
+                "title": "Norwegische Künstler im Büsum, Schleswig-Holstein"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "16",
+                "to_date": "1977",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "14",
+                "to_date": "1970",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "18",
+                "to_date": "1960",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "28",
+                "to_date": "",
+                "title": "Nordisk Kunstforbunds utstillinger vandreutstilling"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1984",
+                "order": "4",
+                "to_date": "",
+                "title": "Festspillutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1957",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "20",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "26",
+                "to_date": "",
+                "title": "Ungdomsbiennalen, Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "32",
+                "to_date": "",
+                "title": "To kritikere ser tilbake"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "21",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1954",
+                "order": "8",
+                "to_date": "1955",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "23",
+                "to_date": "",
+                "title": "Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "15",
+                "to_date": "1973",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "29",
+                "to_date": "",
+                "title": "Ekely utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "33",
+                "to_date": "",
+                "title": "Østersjøbiennalen, Rostock"
+            },
+            {
+                "category": "Gruppe",
+                "from_date": "1983",
+                "order": "7",
+                "to_date": "",
+                "title": "Jubileumsutst. 1963-1983"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1965",
+                "order": "13",
+                "to_date": "1966",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "17",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "31",
+                "to_date": "",
+                "title": "Ni med tegninger"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "19",
+                "to_date": "",
+                "title": "Vestlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "25",
+                "to_date": "",
+                "title": "Vårutst."
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Selvportrett (blyant) gjengitt i Dagbladet 13.5.1978"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1984",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i katalog Festspillutst., Bergens Kunstforening",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-11-16",
+                "order": "15",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-06-01",
+                "order": "41",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Haugesunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-06-09",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Farmand",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-14",
+                "order": "35",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-18",
+                "order": "25",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-21",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-24",
+                "order": "29",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Johannes Vinjum",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-11-21",
+                "order": "17",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-03",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-13",
+                "order": "33",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-18",
+                "order": "36",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-05-22",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "7",
+                "reference": "s. 63, 185, 188",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-13",
+                "order": "22",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "10",
+                "reference": "bd. 7, s. 190, 194",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "5",
+                "reference": "bd. 12, s. 470",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "1",
+                "reference": "mellom s. 180 og 181 (ill.)",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02",
+                "order": "20",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-05-23",
+                "order": "39",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "3",
+                "reference": "nr. 2, s. 27 (ill.)",
+                "to_date": "",
+                "description": "Kunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "12",
+                "reference": "nr. 4, s. 22, 25",
+                "to_date": "",
+                "description": "i Kunst og antikviteter",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-05-23",
+                "order": "40",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-11",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-23",
+                "order": "28",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-06-02",
+                "order": "42",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-11-13",
+                "order": "14",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-21",
+                "order": "26",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-14",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-15",
+                "order": "24",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-03-24",
+                "order": "18",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-13",
+                "order": "30",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-11-18",
+                "order": "16",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-14",
+                "order": "23",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "6",
+                "reference": "s. 168",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "9",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-11-26",
+                "order": "37",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-03",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "4",
+                "to_date": "",
+                "description": "Sogn og Fjordane. Bygd og by i Norge",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "11",
+                "reference": "hefte 25, s. 1–11, omslag (ill.)",
+                "to_date": "",
+                "description": "i Kunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-09",
+                "order": "21",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "0",
+                "reference": "s. 58",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "2",
+                "reference": "s. 91",
+                "to_date": "",
+                "description": "Norske grafikere",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Johannes Vinjum",
+    "url": "https://nkl.snl.no/Johannes_Vinjum",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>V.s kunstneriske karriere ble stimulert av en onkel som hadde tegnet hos Carl von Hanno, og av en eldre engelsk akvarell-amatør. Med deres støtte søkte han og kom inn på Statens Håndverks- og Kunstindustriskole, Oslo, og fikk selv sin grunnleggende undervisning fra onkelens lærer. På akademiet var det særlig Aage Storstein som fikk betydning, selv om V. ikke delte professorens kunstneriske idealer. Ludvig Karsten ble derimot en viktig inspirator, og hans holdning til maleriets egenverdi som kunstnerisk medium ble nok delvis formet av forgjengerens djerve og kontroversielle eksempel.</p>\n<p>V. debuterte på Høstutstillingen i 1954. Maleriet <em>Piazza Basilica di Santa Maria Novella</em> ble trukket fram av flere kritikere. Allerede der nyttet V. ellipsen som grunnstruktur i komposisjonen, mens malemåten var ledig og etablerte forbindelsen mellom et eselspann og renessansekirken på en uanstrengt måte. Det sakrale motivet kan i ettertid sees som en opptakt til de katedralvisjoner som V. senere har blitt kjent for. <em>Duene og domen</em> (1963) har også sitt utgangspunkt i Firenze. Det visuelle spillet mellom fuglene i forgrunnen, refleksene på den regnvåte plassen og Brunelleschis byggverk er bygd opp med pastose strøk over et utpreget vertikalskjema der motsetningene går spenningsfylt sammen. Likevel er det først og fremst katedralen i Chartres som igjen og igjen har opptatt V., og de mange variasjonene over dette gotikkens mesterverk spenner over en periode på tretti år. Claude Monets Rouen-serie har ofte blitt trukket fram i forbindelse med disse maleriene. Men der den franske impresjonisten fremstilte lysvekslingenes avmaterialisering av arkitekturen, går V. inn for å poengtere monumentaliteten. Myriaden av innsatte komplementærklanger kan i enkelte bilder gi assosiasjoner til det fargespill man kjenner fra glassmaleriene i katedralens indre. En stor analyserende fremstilling av kirkebygget fra 1956, viser med hvilken grundighet han satte seg inn i arkitekturen. Den danner også grunnlaget for de senere fargediktene.</p>\n<p>V. har selv pekt på en mulig forbindelse mellom den mektige franske katedralen og de hjemlige Aurlandsfjellene, idet både de menneske- og naturskapte formene forenes gjennom sin monumentale karakter. I alle fall fins det noe av den tilsvarende monumentaliteten i enkelte landskapsmotiver fra Sogn, særlig der fjellformasjonene stiger bratt opp fra fjorden. Der hører også sporene av menneskenes virksomhet med, og hus og naust kan ligge som om de var grodd ut av landskapet, bygd opp av naturens egne materialer og formet av de samme ugjestmilde kreftene. V. har også blikk for det sollysklare utsynet, slik som i <em>Vinterdag - Aurland</em> (1975).</p>\n<p>En særstilling inntar billedserien <em>Fra Apokalypsen</em> som ble malt mot slutten av 60-tallet. I disse katastrofevisjonene der fargene er forvandlet til dramatiske, eruptive utbrudd, er det som selve malingsstoffet suggererer fram lavastrømmer og andre geologiske nedbrytningsprosesser. Undergangssynene representerte for V. også et ytterpunkt i abstraksjon, men ble et intermesso i hans kunst. </p>\n<p>Den rake motpol til det apokalyptiske billeddramaet er hans mange skildringer av barn, badende, dansende, lekende, samstemte. De veksler, som i andre malerier, fra å være bearbeidet gjennom år til å være nedfelt gjennom én malerakt. Det flyktig-váre og rytmisk-bevegelige i disse bildene, danner også en kontrast til den faste monumentaliteten i katedralene. I hans senere badebilder er lyskraft og sanselighet drevet opp med djerve virkemidler, slående koloristiske samklanger og nesten spontanistisk foredrag. Det samme gjelder scenene med våryre hester i full galopp mot beitemarkene, der den maleriske håndteringen også vitner om hvilken eminent tegner V. er. V. beveger seg tilsynelatende uanstrengt over et teknisk register som rommer myk blyantstrek, flytende pensellinjer, distinkte riss i tusj og kjappe konturer i kulepenn (!). I det lille formatet kan han også foreta tekniske koblinger mellom gouache, collage, kull og akvarell, og ikke minst i hans små akt-fremstillinger er slike virkemidler utnyttet til sjeldent sensuelle virkninger.</p>\n<p>V. er ikke bare en kjapp registrator, men har evnen til årvåken innlevelse og røper til tider en seismografisk følsomhet. Dette har i full bredde blitt demonstrert etter at han for få år siden trådte ut av en nesten anonym tilværelse, og stod fram med viktige separatutstillinger som kulminerte med Festspillmønstringen i 1984.</p>\n</div>",
+    "created_at": "2014-12-21T14:50:03.275+01:00",
+    "changed_at": "2024-06-18T23:28:18.275+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3924\",\"https://digitaltmuseum.no/d5782022-f6b6-4308-a0d6-2a7c80595880\",\"http://kulturnav.org/d5782022-f6b6-4308-a0d6-2a7c80595880\"]",
+        "lastname": "Vinjum",
+        "firstname": "Johannes",
+        "birth_date": "2.8.1930",
+        "birthplace": "Aurland",
+        "death_date": "23.11.1991",
+        "external_id": "person_8736ab3924",
+        "kulturnav_id": "d5782022-f6b6-4308-a0d6-2a7c80595880",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Harald Flor"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

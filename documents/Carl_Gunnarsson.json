@@ -1,0 +1,332 @@
+{
+    "id": 416220,
+    "headword": "Carl Gunnarsson",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "kunsthistoriker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102718",
+                "birth_date": "1897",
+                "death_date": "1964",
+                "firstname": "Carl Bjørge",
+                "lastname": "Gunnarsson",
+                "professions": [
+                    "disponent"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102719",
+                "birth_date": "1887",
+                "death_date": "1960",
+                "firstname": "Valborg",
+                "lastname": "Bengtsson",
+                "professions": []
+            },
+            {
+                "from_date": "1968",
+                "type": "Gift med",
+                "external_id": "person_8736ab102720",
+                "birth_date": "1927",
+                "death_date": "",
+                "firstname": "Anne-Lise",
+                "lastname": "Venger",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Teknologiske Institutt, Oslo 1962",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole 1943-45 og 1952",
+                "order": "0"
+            },
+            {
+                "comment": "Académie Ranson, Paris 1954-55",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Frankrike og Spania 1954-55"
+            },
+            {
+                "order": "4",
+                "description": "England 1962"
+            },
+            {
+                "order": "0",
+                "description": "Fransk statsstipend 1954-55"
+            },
+            {
+                "order": "1",
+                "description": "Frankrike, Italia og England 1948"
+            },
+            {
+                "order": "3",
+                "description": "Tyskland, Sveits og Østerrike 1958"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "formann i Eidsvoll Kunstforening 1960-70"
+            },
+            {
+                "order": "0",
+                "description": "Konservator og intendant Eidsvollsminnet 1954-1971"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Dekorasjoner i jern på skipene Sagafjord (1965) og Vistafjord"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Eidsvoll kino"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Eidsvoll aldersheim"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Gjerdrum aldersheim"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Holst Halvorsens Kunsthandel, Oslo",
+                "from_date": "1964",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1965",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Eidsvoll",
+                "from_date": "1965",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Eidsvoll",
+                "from_date": "1972",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1952",
+                "order": "0",
+                "to_date": "",
+                "title": "Studier i norsk tegnekunst fra klassisisme til naturalisme",
+                "authors": [
+                    "Gunnarsson, Carl Bengt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "1",
+                "reference": "s. 237-248",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Nyere norsk grafikk",
+                "authors": [
+                    "Gunnarsson, Carl Bengt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "3",
+                "reference": "nr. 2 s. 9-12",
+                "to_date": "",
+                "description": "Museumsnytt",
+                "title": "Prinsippene for ominnredningen av Eidsvollsbygningen",
+                "authors": [
+                    "Gunnarsson, Carl Bengt"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "2",
+                "reference": "s. 53-67",
+                "to_date": "",
+                "description": "Årbok for Den Norske Turistforening",
+                "title": "Fra Flintoe til Skredsvig",
+                "place": "Oslo",
+                "authors": [
+                    "Gunnarsson, Carl Bengt"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1964-10-20",
+                "order": "6",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-10-23",
+                "order": "7",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "10",
+                "reference": "s. 269",
+                "to_date": "",
+                "description": "Norsk skulptur gjennom femti år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-03-31",
+                "order": "5",
+                "to_date": "",
+                "description": "Eidsvold Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-10-09",
+                "order": "4",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-10-26",
+                "order": "8",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Hougen, P."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Carl Gunnarsson",
+    "url": "https://nkl.snl.no/Carl_Gunnarsson",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>G. tok 1952 magistergraden i kunsthistorie ved Universitetet i Oslo med avhandlingen Studier i norsk tegnekunst fra klassisisme til naturalisme og var fra 1954 konservator ved Eidsvollminnet. Som billedkunstner rettet interessen hans seg først mot maleri og grafikk, men fra 1959 samlet han seg om jernskulptur. Han fikk vesentlige impulser fra helleristningenes skip og figurer, som han skapte om til store dekorative komposisjoner, hvor det flate jern avtegner seg silhuettaktig mot veggen. Maritime dekorasjoner av dette slag ble 1965 innkjøpt til NALs <em>Sagafjord</em>, senere til <em>Vistafjord</em>. G. utførte også figurale jernrelieffer som var uavhengige av forbildene fra helleristninger, foruten nonfigurative, frittstående jernskulpturer, tildels med en utpreget romlig virkning som i <em>Arkitektur</em> (Høstutstillingen, Oslo 1965).</p></div>",
+    "created_at": "2013-07-03T14:40:18.084+02:00",
+    "changed_at": "2024-06-18T23:25:35.773+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1346\",\"https://digitaltmuseum.no/c9a8bc60-7c37-41be-b917-f38dfedc22b1\",\"http://kulturnav.org/c9a8bc60-7c37-41be-b917-f38dfedc22b1\"]",
+        "lastname": "Gunnarsson",
+        "firstname": "Carl",
+        "birth_date": "29.1.1924",
+        "birthplace": "Oslo",
+        "death_date": "21.12.1971",
+        "external_id": "person_8736ab1346",
+        "kulturnav_id": "c9a8bc60-7c37-41be-b917-f38dfedc22b1",
+        "place_of_death": "Eidsvoll",
+        "alternative_names": "Gunnarsson, Carl Bengt"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "kunsthistoriker"
+        }
+    ]
+}

@@ -1,0 +1,945 @@
+{
+    "id": 416130,
+    "headword": "Ellef Gryte",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108334",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johnsen",
+                "lastname": "Elida",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108333",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gryte",
+                "lastname": "Conrad",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "Engøy"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "fulgte samtidig Chrix Dahls undervisning i raderklassen på Statens Håndverks- og Kunstindustriskole",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole (keramikklinjen) 1945–49",
+                "order": "0"
+            },
+            {
+                "comment": "Den Kgl. Porcelainsfabrik, København 1952",
+                "order": "4"
+            },
+            {
+                "comment": "malte i samme periode med C. von Hanno på kveldstid",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Per Krohg og Jean Heiberg, siste år i frescoklassen, 1950–54",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Ødegaards legat 1952"
+            },
+            {
+                "order": "0",
+                "description": "Hamsuns legat 1950"
+            },
+            {
+                "order": "4",
+                "description": "Stavanger bys kulturstipend 1955"
+            },
+            {
+                "order": "6",
+                "description": "Stipend fra Fondet for dansk-norsk samarbeid (to ganger)"
+            },
+            {
+                "order": "5",
+                "description": "Hielmstierne-Rosencrones legat 1956"
+            },
+            {
+                "order": "1",
+                "description": "Thv. Erichsens legat 1951"
+            },
+            {
+                "order": "7",
+                "description": "Studiereiser til de skandinaviske land, Frankrike, Italia og Spania"
+            },
+            {
+                "order": "3",
+                "description": "3% fondets stipend 1953"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Bildende Kunstneres Forening Stavanger, formann 1966–76"
+            },
+            {
+                "order": "3",
+                "description": "Formann i Stavanger Kunstgalleri 1966–74"
+            },
+            {
+                "order": "2",
+                "description": "medlem Foreningen Norske Grafikere"
+            },
+            {
+                "order": "4",
+                "description": "medlem av Norsk kulturråds innkjøpskomite 1975–77"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "1. premie i konkurransen om utsmykningen av Stavanger Bibliotek 1962"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Museum of Modern Art, New York"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Sonjatun, Sørreisa (grafikk, 1979)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Hundråg nye skole (steingods, 1978–79)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Nationalgalleri Rostock"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Rogaland Distriktskole (keramiske fliser, 1978)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Stavanger Bibliotek (glass og aluminium, 1963)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Madlamark skole (steingods, 1979)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Drammens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Stavanger Aftenblad (smijern og sandblåste felter)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "TF Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Stavanger Litografiske Anstalt (intarsia)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Forretningsbanken i Haugesund (intarsia)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Ålesund Museum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1966",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1968",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Krakow",
+                "from_date": "1966",
+                "order": "27",
+                "to_date": "",
+                "title": "Grafika Norweska"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1960",
+                "order": "25",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1963",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1954",
+                "order": "23",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1953",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1976",
+                "order": "19",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Intimgall. Bergen",
+                "from_date": "1977",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1963",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1960",
+                "order": "21",
+                "to_date": "1968",
+                "title": "Vestl.utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1957",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1970",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1956",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Urdi, Bergen",
+                "from_date": "1969",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1974",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1962",
+                "order": "26",
+                "to_date": "",
+                "title": "Norwegische Graphik der Gegenwart"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. International, New York",
+                "from_date": "1974",
+                "order": "28",
+                "to_date": "",
+                "title": "Scandinavian Contemporary Art"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sverige",
+                "from_date": "1958",
+                "order": "24",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. M.A., Stavanger",
+                "from_date": "1962",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Porsgrunn Kunstforening",
+                "from_date": "1964",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1963",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1951",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1951",
+                "order": "22",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1958",
+                "order": "16",
+                "to_date": "1962",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1978",
+                "order": "20",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1957",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1971",
+                "order": "18",
+                "to_date": "1973",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1956",
+                "order": "0",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1952",
+                "order": "0",
+                "reference": "s. 198, 199",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "26",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-22",
+                "order": "29",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Jutrem, A.J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "18",
+                "reference": "s. 39",
+                "to_date": "",
+                "description": "106 norske grafikere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-11-01",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-05-29",
+                "order": "2",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-08",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "6",
+                "reference": "s. 32",
+                "to_date": "",
+                "description": "Norske grafikere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-04-04",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Telemark Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-10-27",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-21",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-01",
+                "order": "14",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-03-05",
+                "order": "23",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Lauhn, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-04-25",
+                "order": "21",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-04-24",
+                "order": "7",
+                "to_date": "",
+                "description": "i Haugesund Avis",
+                "authors": [
+                    "A. Kristiansen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-03-26",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "33",
+                "reference": "s. 258",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "25",
+                "reference": "s. 202",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-1967",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-13",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-09",
+                "order": "37",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "39",
+                "reference": "register s. 188",
+                "to_date": "",
+                "description": "Norske grafikere i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-09",
+                "order": "35",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "31",
+                "reference": "s. 51",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "27",
+                "reference": "s. 38 (ill.)",
+                "to_date": "",
+                "description": "Norske grafikere",
+                "place": "Oslo",
+                "authors": [
+                    "Rude, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "1",
+                "reference": "bd. 2 s. 320",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "R. Revold"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-09-15",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-01-12",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-11-01",
+                "order": "5",
+                "to_date": "",
+                "description": "i Stavangeren",
+                "authors": [
+                    "L. Søiland"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-01-16",
+                "order": "9",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-23",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-04-04",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Varden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-04-27",
+                "order": "8",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-23",
+                "order": "13",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-04-15",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Bovary, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "22",
+                "reference": "s. 56",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-03-08",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-01-15",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-09",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-09",
+                "order": "36",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergen Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-22",
+                "order": "30",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Harr, K.E."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ellef Gryte",
+    "url": "https://nkl.snl.no/Ellef_Gryte",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Som elev på Statens Håndverks- og Kunstindustriskole var G. opptatt av maleri, grafikk og keramikk som kunstnerisk uttrykksform. Senere kom han til å konsentrere interessen hovedsakelig om tregrafikk og keramikk. I 1952 hospiterte han ved Den Kgl. Porcelainsfabrik i København. To år senere ble han knyttet til Porsgrunds Porselænsfabrik som konsulent i en 10-års periode. Dette gav ham rikelig adgang til eksperimentering med form og design noen måneder hvert år ved fabrikken. Fra 1962 fikk G. sitt eget keramiske verksted. Karakteristisk for denne siden av G.s produksjon er den tilnærmet abstrakte og skulpturale form han gir sine arbeider. Impulser henter han fra arkaisk, gresk kunst og moderne billedhuggere som Moore, Brancusi og Arp. G. er likevel mest kjent for sine fargetresnitt. I dem søker han å gjengi virkeligheten på en stilisert naturalistisk måte. Disse dekorative, ofte underfundige trykkene er preget av en forenklet, naivistisk stil. Det er Vestlandsnaturen med sine saftig grønne teiger og sitt rike sjø- og dyreliv som fengsler ham mest. <em>Saueflokk</em>, 1953 (Nasjonalgalleriet, Oslo) representerer en motivkrets G. varierer i det uendelige og aldri blir trett av å vende tilbake til. G. har hatt mange store dekorasjonsoppgaver. I disse eksperimenterer han med forskjelligartete materialer som f.eks. intarsia, aluminium og glass.</p></div>",
+    "created_at": "2013-07-03T14:11:14.597+02:00",
+    "changed_at": "2024-06-18T23:25:32.634+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1290\",\"https://digitaltmuseum.no/ea58a100-fb40-4258-b09f-190f96e7f89d\",\"http://kulturnav.org/ea58a100-fb40-4258-b09f-190f96e7f89d\"]",
+        "lastname": "Gryte",
+        "firstname": "Ellef",
+        "birth_date": "8.8.1923",
+        "birthplace": "Engøy ved Stavanger",
+        "death_date": "0.0.1991",
+        "external_id": "person_8736ab1290",
+        "kulturnav_id": "ea58a100-fb40-4258-b09f-190f96e7f89d"
+    },
+    "authors": [
+        {
+            "full_name": "Ingeborg Astrup"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

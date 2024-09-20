@@ -1,0 +1,442 @@
+{
+    "id": 415881,
+    "headword": "Per Adde",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": {},
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100016",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karin",
+                "lastname": "Medén",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100015",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Simon",
+                "lastname": "Adde",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "comment": "",
+                "description": "Graddis Russåga"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Académie Libre, Stockholm 1953",
+                "order": "1"
+            },
+            {
+                "comment": "Hovedskous Målarskola, Göteborg 1947–50",
+                "order": "0"
+            },
+            {
+                "comment": "Kungl. Konsthøgskolan, Stockholm 1956–60",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Ax:son Johnsons stipend"
+            },
+            {
+                "order": "3",
+                "description": "Bodø Kunstforening jubileumsstipend 1976"
+            },
+            {
+                "order": "2",
+                "description": "Stockholms Stads Arb.stipend 1969"
+            },
+            {
+                "order": "1",
+                "description": "Kungafonden 1960"
+            },
+            {
+                "order": "6",
+                "description": "til Frankrike og Spania 1962–63"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiintekt fra 1977"
+            },
+            {
+                "order": "5",
+                "description": "Studiereiser til Nederland, Belgia, Frankrike og Italia i 1961"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem av Nord-Norske Bildende Kunstneres Forening, styremedlem 1975-77 og formann 1977-79"
+            },
+            {
+                "order": "2",
+                "description": "styremedlem i Billedkunstfaglig Sentralorganisasjon"
+            }
+        ],
+        "awards": {},
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Saltdal Ungdomsskole, Rognan (gouache og smijern, i årene 1963–65)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Värmland Landstings samlinger"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Rana Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Statens Konstråd Sverige"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Arjeplog Kulturnämnd"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Solna Stads samlinger"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bodø Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Skånska Ättiksfabriken (1957)"
+            }
+        ],
+        "performed_productions": {},
+        "illustrations": {},
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Galeri 54, Göteborg",
+                "from_date": "1978",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1973",
+                "order": "20",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sorsele",
+                "from_date": "1955",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1977",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Åsele",
+                "from_date": "1957",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Arjeplog-Arvidsjaure",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Värmlands Konstför. i Karlstad",
+                "from_date": "",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skellefteå",
+                "from_date": "1960",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Saltdal Kunstforening",
+                "from_date": "1979",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1962",
+                "order": "19",
+                "to_date": "",
+                "title": "N-n. utst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Piteå",
+                "from_date": "1958",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Södertälje Konstför.",
+                "from_date": "1973",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fauske",
+                "from_date": "1974",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liljevalchs Konsthall, Stockholm",
+                "from_date": "",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1972",
+                "order": "11",
+                "to_date": "",
+                "title": "Galleri Färg och form"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Festspillene i Nord-Norge, Harstad",
+                "from_date": "1971",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bodø Kunstforening",
+                "from_date": "1975",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Narvik",
+                "from_date": "1970",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bodø Kunstforening",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Mo i Rana",
+                "from_date": "1969",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1977",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bodø Kunstforening",
+                "from_date": "1968",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1977",
+                "order": "21",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bodø Kunstforening",
+                "from_date": "1963",
+                "order": "4",
+                "to_date": ""
+            }
+        ],
+        "portraits": {},
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1977-10-12",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "3",
+                "reference": "s. 56",
+                "to_date": "",
+                "description": "K. og K.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-06",
+                "order": "4",
+                "to_date": "",
+                "description": "Altaposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-10-14",
+                "order": "1",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [
+                    "Gaup, Ailo"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-07",
+                "order": "6",
+                "to_date": "",
+                "description": "Nordlands Framtid",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-08",
+                "order": "7",
+                "to_date": "",
+                "description": "Nordlandsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-15",
+                "order": "5",
+                "to_date": "",
+                "description": "Finnmarken",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-10-19",
+                "order": "2",
+                "to_date": "",
+                "description": "Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Per Adde",
+    "url": "https://nkl.snl.no/Per_Adde",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>A. lager koloristisk rike, halvabstrakte malerier, hvor naturforbildet anes i et kompleks av forskjellige fargeplan. Det musikalske element i koloritten er tydelig.</p></div>",
+    "created_at": "2013-07-03T13:22:20.294+02:00",
+    "changed_at": "2024-06-18T23:25:26.703+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab12\",\"https://digitaltmuseum.no/f261a353-7bdf-407e-8e39-b02d8049f53a\",\"http://kulturnav.org/f261a353-7bdf-407e-8e39-b02d8049f53a\"]",
+        "lastname": "Adde",
+        "firstname": "Per",
+        "birth_date": "17.4.1926",
+        "birthplace": "Filipstad, Sverige",
+        "death_date": "13.8.2020",
+        "external_id": "person_8736ab12",
+        "kulturnav_id": "f261a353-7bdf-407e-8e39-b02d8049f53a",
+        "alternative_names": "Adde, Per Erik"
+    },
+    "authors": [
+        {
+            "full_name": "Kåre Bergløff"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

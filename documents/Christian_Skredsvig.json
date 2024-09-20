@@ -1,0 +1,667 @@
+{
+    "id": 430571,
+    "headword": "Christian Skredsvig",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1898",
+                "type": "Gift med",
+                "external_id": "person_8736ab108549",
+                "birth_date": "1877",
+                "death_date": "1969",
+                "firstname": "Beret Knudsdatter",
+                "lastname": "Holt",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108546",
+                "birth_date": "1815",
+                "death_date": "",
+                "firstname": "Erik Hansen Ihleneie",
+                "lastname": "Glosimot",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108547",
+                "birth_date": "1820",
+                "death_date": "",
+                "firstname": "Berthe Karine",
+                "lastname": "Nilsdatter",
+                "professions": []
+            },
+            {
+                "from_date": "1882",
+                "to_date": "1898",
+                "type": "Gift med",
+                "external_id": "person_8736ab108548",
+                "birth_date": "1863",
+                "death_date": "1955",
+                "firstname": "Margrethe (maggie) Annie",
+                "lastname": "Plathe",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "kunstakademiet i København under J. F. Vermehren, Th. Wegener, Adolph Kittendorff, Julius Exner, Jørgen Roed og J. A. Jerichau 1871 - 74 (friplass)",
+                "order": "5"
+            },
+            {
+                "comment": "elev av Emil van Marcke de Lummen, Paris omkring 1880",
+                "order": "8"
+            },
+            {
+                "comment": "J. F. Eckersbergs malerskole 1869 - 70 (friplass)",
+                "order": "1"
+            },
+            {
+                "comment": "noe korrektur av Heinrich J. Zügel , München 1875 - 79",
+                "order": "7"
+            },
+            {
+                "comment": "Léon Bonnats kveldsakademi, Paris noen mndr. 1874 - 75",
+                "order": "6"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under Julius Middelthun 1869",
+                "order": "2"
+            },
+            {
+                "comment": "Det tekniske Institutt, København, elementærkurs i perspektivtegning 1870 - 71",
+                "order": "4"
+            },
+            {
+                "comment": "elev av Léon Bonnat, Paris omkring 1880",
+                "order": "9"
+            },
+            {
+                "comment": "elev av Vilhelm Kyhn, København 1870 - 71, deltok leilighetsvis i Harald Foss' Huleakademi i Kyhns hage",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "20",
+                "description": "Paris mai 1893"
+            },
+            {
+                "order": "12",
+                "description": "opphold i Grez høsten 1881, i Sevilla sammen med Ernst Josephson, videre til Cadiz, Malaga og Granada høsten 1881 - mars 1882, Grez april - mai 1882, Modum og Bærum sommeren 1882, Italia 1882 - 83 (Venezia oktober, deretter Roma ca 5 mndr., Napoli mars) Grez høsten 1883, Norge mai - oktober 1884 (Bærum, Nordmarka)"
+            },
+            {
+                "order": "21",
+                "description": "Sigdal juni 1893"
+            },
+            {
+                "order": "28",
+                "description": "Stockholm januar 1910"
+            },
+            {
+                "order": "19",
+                "description": "Paris våren 1891, samme år til Bergen i oktober, videre via København til Nizza og St. Jean i november - april 1892 (sammen med Edvard Munch)"
+            },
+            {
+                "order": "33",
+                "description": "Lillehammer februar 1917"
+            },
+            {
+                "order": "10",
+                "description": "Eggedal sommeren 1879"
+            },
+            {
+                "order": "25",
+                "description": "Åmot, Drammen, Tønsberg desember 1900"
+            },
+            {
+                "order": "24",
+                "description": "München høsten 1899 og mars - juni 1900"
+            },
+            {
+                "order": "34",
+                "description": "Bergen i februar, København i november 1919"
+            },
+            {
+                "order": "3",
+                "description": "Studiereise sammen med Eilif Petersen til Krøderen sommeren 1870"
+            },
+            {
+                "order": "11",
+                "description": "opphold i Paris november 1879 - våren 1885, Kristiania våren 1880, studieturer til Normandie høsten 1880 og senere"
+            },
+            {
+                "order": "18",
+                "description": "Telemark juli 1890"
+            },
+            {
+                "order": "32",
+                "description": "via England til Paris, Rivieraen våren 1916"
+            },
+            {
+                "order": "1",
+                "description": "Schäffers legat 1872"
+            },
+            {
+                "order": "23",
+                "description": "München, Kochel oktober 1897 - februar 1898 (hjem via København)"
+            },
+            {
+                "order": "2",
+                "description": "Statens reisestipend 1876, -77, -80"
+            },
+            {
+                "order": "31",
+                "description": "Paris og Rivieraen våren 1913"
+            },
+            {
+                "order": "29",
+                "description": "Terråk, Helgeland sommeren 1911"
+            },
+            {
+                "order": "14",
+                "description": "Telemark sammen med Anders Kongsrud sommeren 1887"
+            },
+            {
+                "order": "27",
+                "description": "København våren 1904"
+            },
+            {
+                "order": "15",
+                "description": "via Paris til Korsika november 1887 - april 1888 (hjem via Salo, Gardasjøen)"
+            },
+            {
+                "order": "7",
+                "description": "opphold i Paris oktober 1874 - mai 1875"
+            },
+            {
+                "order": "30",
+                "description": "Hamar desember 1912"
+            },
+            {
+                "order": "22",
+                "description": "Eggedal 1894 - 96 avbrutt av opphold i Kristiania"
+            },
+            {
+                "order": "35",
+                "description": "Strømstad kuranstalt 1903, -09, -10 og -22"
+            },
+            {
+                "order": "17",
+                "description": "Paris sommeren 1889"
+            },
+            {
+                "order": "16",
+                "description": "Eggedal sammen med Gerhard Munthe, Harriet Backer og Juliane Langberg sommeren 1888"
+            },
+            {
+                "order": "9",
+                "description": "til Ask gård på Ringerike desember 1878 - januar 1879"
+            },
+            {
+                "order": "5",
+                "description": "Skagen, Modum, Eggedal sammen med Karl Madsen mai - oktober 1873"
+            },
+            {
+                "order": "6",
+                "description": "Ringebu, Gudbrandsdalen, Romsdal, Molde, Bergen, Hardanger, Stavanger sommeren 1874"
+            },
+            {
+                "order": "4",
+                "description": "opphold i København november 1870 - våren 1874, studiereise til Jylland sammen med Vilhelm Kyhn juli - september 1871, Skagen, Kristiania, Modum juli - oktober 1872"
+            },
+            {
+                "order": "26",
+                "description": "Paris august 1902 - mars 1903 (med besøk i Nederland sammen med Gunnar Heiberg i januar)"
+            },
+            {
+                "order": "13",
+                "description": "via København til Paris november 1886 sammen med Ernst Josephson og Allan Österlind i Lepaud i Sør-Frankrike desember 1886 - mars 1887 (hjem via Paris)"
+            },
+            {
+                "order": "8",
+                "description": "opphold i München oktober 1875 - oktober 1878 med besøk i Paris, studieturer til Schleissheim, Kochel, Dresden, Modum sommerhalvåret 1877"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "æresmedlem Kunstnerforeningen 1915"
+            },
+            {
+                "order": "2",
+                "description": "Jurymedlem for Verdensutstillingen i Paris 1889"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre."
+            }
+        ],
+        "awards": [
+            {
+                "order": "3",
+                "description": "Ridder av første klasse St. Olavs Orden 1908"
+            },
+            {
+                "order": "1",
+                "description": "Gullmedalje Salonen, Paris 1881"
+            },
+            {
+                "order": "2",
+                "description": "Hors concours 1889"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "58",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "62",
+                "to_date": "",
+                "description": "Stavanger Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "Norske Selskap, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "65",
+                "to_date": "",
+                "description": "Horsens Kunstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "63",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "59",
+                "to_date": "",
+                "description": "Nordmøre museum Kristiansund"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "60",
+                "to_date": "",
+                "description": "Sandefjord Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "64",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "Rasmus Meyers Samlinger, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "66",
+                "to_date": "",
+                "description": "Le Musée du Luxembourg (nå Louvre), Paris"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Utsmykning i taket i foajeen Nationaltheatret (1899) etter konkurranse april 1898"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "Drammens Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "61",
+                "to_date": "",
+                "description": "Skien Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "Troldhaugen, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "67",
+                "to_date": "",
+                "description": "Musée du Reims"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "Det Kongelige Slott, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "malerier Central Hotel, Drammen."
+            },
+            {
+                "from_date": "",
+                "order": "57",
+                "to_date": "",
+                "description": "Elverum Kunstgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "72",
+                "to_date": "",
+                "description": "Valdrisvisa, 14 akvareller med tekst etter en norsk folkevise 1894, utgitt i kunstnerisk utstyrt hefte 1909, minneskrift 1924"
+            },
+            {
+                "from_date": "",
+                "order": "68",
+                "to_date": "",
+                "description": "Norsk Fødselsdags-Album, Kristiania 1890"
+            },
+            {
+                "from_date": "",
+                "order": "69",
+                "to_date": "",
+                "description": "Norsk Lyrik efter 1814, Kristiania 1891"
+            },
+            {
+                "from_date": "",
+                "order": "70",
+                "to_date": "",
+                "description": "Norge i det nittende aarhundrede, Kristiania 1900 - 02, bind 1 - 2"
+            },
+            {
+                "from_date": "",
+                "order": "71",
+                "to_date": "",
+                "description": "Norsk Kalender for Aaret 1900, Kristiania 1899"
+            }
+        ],
+        "exhibitions": [],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "91",
+                "to_date": "",
+                "description": "tegning utført av Olav Engebrigtsen, utstilling i Kunstnerforbundet, Oslo, oktober 1954"
+            },
+            {
+                "from_date": "",
+                "order": "77",
+                "to_date": "",
+                "description": "selvportrett (akvarell 1885, privat eie) gjengitt i katalog Modum Blaafarveværk 1978, s.77"
+            },
+            {
+                "from_date": "",
+                "order": "81",
+                "to_date": "",
+                "description": "Selvportrett (olje, Hagan)"
+            },
+            {
+                "from_date": "",
+                "order": "87",
+                "to_date": "",
+                "description": "maleri utført av Chr. Krohg (olje) gjengitt i Chr. Krohg: Kunstnere 1. serie, Kristiania 1891, s. 138"
+            },
+            {
+                "from_date": "",
+                "order": "90",
+                "to_date": "",
+                "description": "radering utført av Johan Nordhagen (1913, S. nederst i høyre hjørne på raderingen av Ballade 1884)"
+            },
+            {
+                "from_date": "",
+                "order": "85",
+                "to_date": "",
+                "description": "maleri utført av Chr. Krohg (olje, antagelig 1876) gjengitt i O. Thue: Christian Krohgs portretter, Oslo 1971, pl.4"
+            },
+            {
+                "from_date": "",
+                "order": "73",
+                "to_date": "",
+                "description": "Portrett, karikatur, Kristianus Skredsvigius (penn) gjengitt i Morgenbladet 11.6.1954"
+            },
+            {
+                "from_date": "",
+                "order": "80",
+                "to_date": "",
+                "description": "Selvportrett ved vinduet i Hagan (olje, privat eie)"
+            },
+            {
+                "from_date": "",
+                "order": "84",
+                "to_date": "",
+                "description": "blyanttegning utført av E. Werenskiold (1878) gjengitt samme sted s.79"
+            },
+            {
+                "from_date": "",
+                "order": "86",
+                "to_date": "",
+                "description": "maleri utført av Hans Heyerdahl (olje 1876, Nasjonalgalleriet, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "76",
+                "to_date": "",
+                "description": "Skagens Malere og Skagens Museum, København 1929, s.20"
+            },
+            {
+                "from_date": "",
+                "order": "94",
+                "to_date": "",
+                "description": "relieff på minnestein, Eggedal kirke, utført av Carl Skolstad (bronse, avduket 1926)"
+            },
+            {
+                "from_date": "",
+                "order": "93",
+                "to_date": "",
+                "description": "tegning utført av Arne Wold gjengitt i Nationen 13.10.1923"
+            },
+            {
+                "from_date": "",
+                "order": "79",
+                "to_date": "",
+                "description": "Selvportrett med bredbremmet hatt (olje 1886, Oslo Bymuseum)"
+            },
+            {
+                "from_date": "",
+                "order": "74",
+                "to_date": "",
+                "description": "selvportrett, Kjøbenhavn Pintsedag (1872, blyant og akvarell, privat eie) gjengitt i katalog Modum Blaafarveværk 1978, forside"
+            },
+            {
+                "from_date": "",
+                "order": "89",
+                "to_date": "",
+                "description": "tegning utført av Oscar Lærum (1892) gjengitt i O.Lærum: Norske Kunstner-Karikaturer, Kristiania 1896, bd.2"
+            },
+            {
+                "from_date": "",
+                "order": "83",
+                "to_date": "",
+                "description": "pennetegning utført av Erik Werenskiold (1876) gjengitt samme sted, forside"
+            },
+            {
+                "from_date": "",
+                "order": "75",
+                "to_date": "",
+                "description": "selvportrett, karikatur (penn 1873, privat eie) gjengitt i Karl Madsen"
+            },
+            {
+                "from_date": "",
+                "order": "92",
+                "to_date": "",
+                "description": "tegning utført av Kristofer Sinding-Larsen (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "78",
+                "to_date": "",
+                "description": "selvportrett (blyant 14.4.1886, Oslo Bymuseum)"
+            },
+            {
+                "from_date": "",
+                "order": "88",
+                "to_date": "",
+                "description": "maleri utført av Thorvald Hauge (olje, Hagan)"
+            },
+            {
+                "from_date": "",
+                "order": "82",
+                "to_date": "",
+                "description": "blyanttegning utført av Eilif Peterssen (1871) gjengitt i Dager og netter blandt kunstnere, Oslo 1943, s.52"
+            }
+        ],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Christian Skredsvig",
+    "url": "https://nkl.snl.no/Christian_Skredsvig",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>S. vokste opp på Modum i en barnerik familie i trange kår. Han viste tidlig anlegg for tegning, og i 1869 begynte han sin utdannelse i Christiania med økonomisk støtte av doktor Arnold Thaulow på Modum bad og andre velyndere. På J. F. Eckerbergs malerskole traff han blant annet Erik Werenskiold, Eilif Peterssen og Knud Bergslien, som ble hans venner livet igjennom. På denne tid tok han navnet S. Da Eckersberg døde sommeren 1870, skaffet mesenen kjøpmann Finn Simonsen S. losji hos Vilhelm Kyhn i København, formidlet gjennom professor Vilhelm Marstrand ved Kunstakademiet i København. Kyhn ble også S.' lærer, og med hans anbefaling oppnådde S. friplass de tre årene han var elev ved kunstakademiet. Her ble det utelukkende undervist i tegning, mest på grunnlag av gipsfigurer. Av Kyhn fikk han noe rettledning i bruk av oljemaling, men mest eksperimenterte han på egen hånd. Av de danske malerne S. for øvrig kom i kontakt med, var Joakim Skovgaard den som fikk størst betydning, både som venn og kunstnerkollega. Et lite antall tegninger og studier i olje er bevart fra denne tiden. Et naivt <em>Selvportrett</em> (1872) i akvarell gir et godt inntrykk av den umodne bondegutten. For øvrig var det mest landskap og enkelte figurmotiver som opptok ham. Studiene fra Jyllandsreisen 1871 viser påvirkning fra Kyhns gjennomarbeidede og nøkterne form, mens tegningen av dyssestenene <em>Fra Christiansminde</em> har en friere og mer personlig karakter. Oljemaleriet <em>Sommerlandskap</em> (ca. 1871) viser sikker sans for komposisjon og atmosfærisk virkning. En annen liten studie, <em>Skagen</em> (1872), avbilder stranden med sand og marehalm, i bakgrunnen strekker havet seg ut med hvittoppede bølger. På studieturen i Norge 1874 fant S. flere av de motivene som senere skulle bli hans spesielle område. Et lite landskapsbilde, <em>Fra Hardanger</em> (1874), detaljert beskrevet i Dage og Nætter (1908), viser fjorden omgitt av høye fjell. I en tegning er motivet en ung jente som driver kyrne over elven. Et lignende motiv tegnet han senere samme år i Paris og tok det opp igjen i et oljemaleri i München i 1876. I brev undertegnet S. seg nå dyremaler.</p>\n<p>Etter Kyhns og Simonsens råd reiste S. til Paris i 1874. Her deltok han på kveldskurs ledet av Léon Bonnat, men sluttet etter et par måneder, fordi han aldri fikk kontakt med læreren. For øvrig kopierte han i museene og malte etter Morten Müller og August Cappelen. Sistnevntes innflytelse er merkbar i  <em>Landskap med furutrær</em>, et stemningsbilde med et ensomt tjern, drivende skyer og rødgyldne solstreif (1877). Camille Corots og J. F. Millets malerier gjorde et visst inntrykk, men sammenlignet med de danske forbildene, blant annet P. C. Skovgaard og J. Th. Lundbye, fant S. de franske uforståelige og urovekkende. Malere etter hans smak var derimot J. G. Gérome og dyremaleren Rosa Bonheur. Av de nordiske kunstnervennene satte han størst pris på Th. Philipsen, som hjalp ham gjennom en vanskelig tid med sykdom og pengesorger.</p>\n<p>Etter et halvt år i Norge kom S. med hovedstrømmen av norske malere til München i 1875. S. ble aldri elev på akademiet og hadde ingen fast lærer, men fikk noe veiledning av Heinrich Zügel, som var spesialist på motiver med sauer og kveg. Ellers var han en stor beundrer av Arnold Böcklins symbolladede kunst. Andre kunstnere som fikk betydning for ham, var Piloty-eleven G. C. Max, kjent for sine religiøse komposisjoner, østerrikeren Hans Makart med historiebilder i kolossalformat, og den frodige folkelivsmaleren, düsseldorferen Ludwig Knaus. S.' produksjon de følgende årene var ujevn, og lenge brukte han studietegninger fra Norge som utgangspunkt for sine malerier. <em>Hjemfart fra seteren</em> (1876) er  basert på tegninger fra studieturen i Hardanger 1874. Motivet er nasjonalromantisk med fjord og fjell delvis skjult av drivende tåke og en båt fullastet med kyr. Men figurene er malt etter tyske modeller. Bildet er et utpreget atelierarbeide med sterke lysvirkninger og bruk av lokalfarger og malt i en glatt, oljet teknikk. Det samme atelierpreg har  <em>Aften på fjellet</em> (1878), et norsk landskap med kuflokk og gjeterjente, som S. stilte ut på Verdensutstillingen i Paris 1878. Maleriet er kjent i fire utgaver, det siste datert 1889 (Bergen Billedgalleri). To landskapsbilder fra samme periode, <em>Landskap med får</em> (1876, Stavanger Kunstforenings Faste Galleri) og <em>Sommernatt på fjellet</em>, viser med sin jevnere lysføring og forsiktige fargebruk en mer nøktern instilling til motivet. S.' produksjon i München-tiden er mer omfattende enn tidligere antatt. I sine beste arbeider viser han betydelig talent. Dette fremgår også av tegningene fra omegn av München, utført som raske skisser av folk og dyr. Gjennom tyske kunstnere og besøk på Salonen i Paris var S. til en viss grad klar over moderne franske tendenser i malerkunsten. I likhet med de fleste norske kunstnere bestemte han seg til å fortsette studiene i Frankrike, men dårlig helse og hjemlengsel drev ham foreløpig hjem til Norge høsten 1878. I 1879 malte han blant annet to store landskapsbilder fra Eggedal,  <em>Drottningnuten</em> og <em>Jupsjøen</em> (begge skadet, Sandefjord rådhus, opprinnelig malt for Sandefjord Bad), de første av en rekke bilder med motiv herfra. Motivene er romantiske med fjell og stille vann, foss og bunadkledt jente.</p>\n<p>I perioden 1879 - 85 var S. bosatt i Frankrike, avbrutt av sommeropphold i Norge og studiereiser til Spania og Italia. Nå var han kunstnerisk i stand til å verdsette kunstnere som Camille Corot, J. F.  Millet og andre moderne, franske malere. Forbausende raskt tilegnet han seg det nye kunstsyn og teknikken, som ingen av de andre nordiske kunstnerne. Omkring 1880 var han angivelig elev av Emil van Marcke de Lummen, som hadde lært av landskaps- og dyremaleren Constant Troyon, hvis bilder S. kjente godt. Marckes innflytelse kan spores i en rekke fredfulle landskapsmalerier med beitende kyr som S. malte i disse årene. Omtrent samtidig fikk S. korreksjon av Léon Bonnat i hans atelier sammen med en rekke andre nordiske kunstnere. Etter et halvt år debuterte S. på Salonen med <em>Snekjøring på Seinen</em> (1880). Motivet viser den strenge vinteren i Paris, med svære arbeidshester som kjører vogner fullastet med snø ut på den islagte Seinen. Bygninger og spir i bakgrunnen tegner seg mot blygrå, snetung luft. Helhetstonen er grålig og spiller over hle registeret fra svart til hvitt. Malingen er pastost pålagt med bred pensel. I sin hverdagsrealisme og nøkterne fargeholdning er maleriet tydelig påvirket av Jules Bastien-Lepage.<em>Ferme à Venoix</em> (1881, Den franske stat, deponert Drammen sykehus 1979) betegnet S.' kunstneriske gjennombrudd og skaffet ham gullmedalje på Salonen. Motivet er fra Normandie, der han oppholdt seg flere somre. S. skildrer en hverdagslig scene med kyr som melkes på tunet i ettermiddagssolen. Komposisjonen og anatomiske detaljer er gjennomarbeidet. Fargene i skyggepartiene viser at S. har tilegnet seg noe av den impresjonistiske fargelæren. Som helhet utstråler bildet ro og harmoni. Tross realismens krav kunne S. aldri fornekte sin romantiske legning. Stadig vendte han tilbake til motiver med følelsesladet innhold, som i <em>Ballade</em> (1881), et av hovedverkene fra de tidlige Frankrike-år. Motivet er basert på en dansk kjempevise S. hadde lært i København ti år tidligere. Den handler om hestene som vender hjem etter slaget med tomme sadler, men birgens porter er boltet og stengt. Maleriet forener på en vellykket måte realistisk teknikk med dramatisk, stemningsmessig innhold. Tre år senere gjentok S. motivet i lengdeformat og en noe endret form (1884, Lillehammer Bys malerisamling). Vinteren 1881 - 82 tilbrakte S. i Spania sammen med Ernst Josephson. Til tross for sykdom og depresjon malte han en rekke småbilder med enkle, hverdagslige motiver som både malerisk og teknisk hører til det beste i hans produksjon. Tilbake i Frankrike fullførte S. <em>Oktobermorgen ved Grez</em> (1881 - 82, Nasjonalgalleriet), som viser et møte ute på markene mellom en gutt til hest og en gjeterjente med saueflokken. Motivet er inspirert både av Millet og Bastien-Lepage, men den lyse helhetstonen er påvirket av det nye friluftsmaleriet. Gresset i forgrunnen er malt på mer konvensjonell fransk manér med en spesiell relieffaktig teknikk som S. ofte benyttet i disse årene. Andre norske malere anvendte tidvis lignende malemåte. I 1881 traff S. Maggie Plathe, angivelig hos familien Gauguin, et hjem som ofte ble besøkt av nordiske kunstnere. Året etter giftet de seg i Bærum. Samme høst reiste de til Italia, der S. under oppholdet i Roma blant annet malte <em>Monte Avention</em> (1882, dansk privat eie, replikk Det Kongelige Slott). Det vinterlige motivet er malt i motlys fra en av broene over Tiberen med Aventinerhøyden i bakgrunnen. Refleksene i vannet er dyktig malt, og helhetsinntrykket er preget av fine grå- og bruntoner, karakteristisk for mange av S.' arbeider i denne tiden. <em>Appelsingutten</em> (1883) med de elegante sortkledte damene til hest i mellomgrunnen, har en for S. uvanlig forenklet og stilisert formbehandling. S. fortsatte å skifte mellom realistiske skildringer i fullt dagslys og kveldsstemninger. Til de siste hører den lille pastellen <em>Sommeraften</em> (1883, Nasjonalgalleriet). Et blågrått månelys hviler over et flatt landskap, der kvinnen med barnet haster hjemover i skumringen. I Norge året etter tok s. opp igjen et lignende stemningsmotiv, denne gang i stort format. I <em>Sommernatt. Måneskinn i Nordmarken</em> (1884) står månen lysende rund over den bratte åsen som speiler seg i vannet. De mørke fargene står i virkningsfull kontrast til friskgrønne trær og blomstrende eng i forgrunnen. Maleriet ble utpekt som publikumsfavoritt på Høstutstillingen samme år. Her viste S. også <em>I september. Motiv fra Stabekk</em> (1884) på hele 1,5 X 3 meter, utstillingens største maleri. Motivet er en hverdagslig scene med en slåttekar som bryner ljåen sin nede ved vannet. Landskapet rundt ham er friskt og frodig, på himmelen seiler letter sommerskyer. Den lyse friluftsatmosfæren er gjennomført i alle detaljer og binder det hele sammen på en overbevisende måte.</p>\n<p>S.' malermåte kom gradvis til å forandre seg etter at han slo seg ned for godt i Norge i 1885. Den lyse fargeskalaen opptrer sjeldnere, fargene blir dypere og fyldigere og formbehandlingen mindre følsom. Det hender at hans malerier får et konvensjonelt preg. I <em>Sankthansaften</em> (1886, Statens Museum for Kunst, København) med ungdommer i båten på Dælivannet, er sommeraftenen malt uten de moderne nyvinningene som lar figurer og natur gå opp i en helhetlig atmosfære. Men i det vesentlige er S.' arbeider fra annen halvdel av 1880-årene ennå preget av innflytelsen fra fransk moderne maleri. Motivene er for en stor del fra Bærum, der han bosatte seg på gården Fleskum. Herfra stammer blant annet <em>Gutten på fisketur</em> (1885), friskt og spontant malt med pastos pensel i sommerlig lys. Et vinterlig motiv er <em>Isskjæring på Dælivannet</em> (1889) med isblokkenes kubiske former stablet på isen i kontrast til isskjærerens skråstilte figur. En kald, blålig tone binder detaljene sammen. <em>Lokomobil</em> (1889), den store treskemaskinen som fyller gårdstunet med røk og damp, er usedvanlig friskt og impresjonistisk malt. Et av hovedverkene fra perioden er <em>Gutten med seljefløyten</em> (1889). Fra forgrunnen og skrått innover mot høyre skjærer bekkefaret seg ned mot Dælivannet. Gutten står ved bredden, og bak ham følger skigarden bekkens linjer. Et perfekt samspill mellom diagonale og horisontale elementer skaper sammen med den dempede blågrå atmosfæren ro og harmoni i bildet. Maleriets opprinnelige tittel var \"Tonen\", som sammen med første vers av Bjørnstjerne Bjørnsons dikt stod skrevet på rammen. De første tegningene til <em>Gutten med seljefløyten</em> går tilbake til 1886, da S. inviterte en gruppe kunstnervenner til å bo på Fleskum om sommeren, Harriet Backer, Kitty Kielland, Gerhard Munthe, Eilif Peterssen og Erik Werenskiold. Flere hovedverk i norsk kunst ble til denne Fleskumsommeren, som vanligvis blir betegnet som innledning til nyromantikken. For S. lå stemningsmotivene hele tiden som undertoner i hans kunst. Interesse for lyrikk og musikk var en naturlig følge av hans romantiske legning. En studietur til Telemark sammen med Anders Kongsrud i 1887 resulterte i to betydningsfulle arbeider,  <em>Vinjes barndomshjem, Plassen i Telemark</em> (Nasjonalgalleriet) og <em>Vinje som gjetergutt</em> (begge 1887). Bildene er utpreget \"norske\" i oppfattelsen av det dempede lyset og de mettede fargene. Et opphold på Korsika den følgende vinter viste hvor reseptiv S. var for sydens sollys. <em>Villa Bacciochi</em> (1888, Louvre) og andre malerier herfra er fylt av intens lyskraft og malt med frie, pastose penselstrøk.</p>\n<p>Da nyromantikken slo igjennom for alvor i 1890-årene, kunne S. gi friere utløp for sitt romantiske temperament. Vinteren 1891 - 92 oppholdt han seg i Sør-Frankrike sammen med Edvard Munch. Herfra stammer noen sarte aftenstemninger med blålig lys og delvis utviskede konturer, som for eksempel <em>Aften i St. Jean</em> (1892). I romantikkens kjølvann fulgte interessen for religiøse motiver. S.' viktigste bidrag var <em>Menneskens Søn</em> (1891, Nasjonalgalleriet), malt i Bærum. Bildet viser en mann som kommer vandrende inn på tunet til en norsk bondegård der unge og gamle, noen av dem syke, har møtt fram for å ta imot ham. Bildets tittel angir at den ankomne, som er kledd i samtidens drakt, forestiller Kristus. S. skriver: \"Jeg har brudt med traditionen og taget ham som en almindelig Haandværker fra igaar\". Denne fremstillingen av et religiøst motiv forårsaket heftig avisdebatt mellom legfolk og teologer. Som bakgrunn for denne type motivfremstilling er det vanlig å peke på innflytelse fra Fritz von Uhde, skjønt denne gav aldri slipp på den tradisjonelle Kristus-typen i sine samtidsskildringer med bibelske motiv. Maleriet, som ble utført i kolossalformat (3,24 X 4,52 meter), er fast komponert med hovedpersonen i sentrum. Det følgende år planla S. flere religiøse arbeider, men de kom aldri lenger enn til skissestadiet. S.' interesse for religiøse og symbolske motiver omkring århundreskiftet må sees på bakgrunn av tidens kunstretning og hans egen livsskjebne. S. var preget av tapet av sitt første barn og den etterfølgende skilsmisse. Den ensomme ridderen <em>Ola Velland</em> (1896 Holmenkollen Turisthotell, 1898, 1914 Oslo bispegård og 1917), <em>Tørstige ridder</em> (1898, flere utgaver) og <em>Munken Vendt, Hamsuns diktning</em> (1905, Nasjonalforeningen for folkehelsen, Oslo) er nærliggende å tolke som bilder på egen livssituasjon. Det siste bildet, \"Munken Vendt\", er sentrert om det kompliserte forholdet mellom mann og kvinne. Med konkret utgangspunkt i egne erfaringer malte S. to bilder i kolossalformat. I <em>Et dikt om døden</em> (1900) mottas et lite barn av Kristus i paradis, mens foreldrene fortvilet har kastet seg ned ved graven, i maleriets mørke høyre halvdel. Etter lang avisdebatt fikk bildet sin endelige plass i Frogner kirke i Kristiania 1907. <em>Et dikt om livet</em> (1908, første skisse 1903) viser kunstneren i en konfliktsituasjon mellom de to kvinnene i hans liv. Bildet ble senere skåret i stykker og overmalt (i dag restaurert). Kunstnerisk holder de to siste maleriene ikke mål, fordi S. ikke har maktet å underlegge det selvbiografiske innholdet et malerisk helhetssyn. Til symbolismens motivkrets hører blant annet <em>Nymfe speiler seg</em> (1904) og <em>Fiskeren</em> (1905). I flere av disse arbeidene tar symbolikken overhånd på bekostning av den kunstneriske kvalitet. Kolossalbildet <em>Middelalder</em> (1903, 4 X 6 meter) hører til ridderromantikken. Undertittelen: \"Der rødmed af Dag over Borgen Da Ridderne droge til Slag\", er etter eget sigende laget for anledningen, og griper følgelig ikke tilbake til eldre visediktning som <em>Ballade</em> fra 1881. I det ytre er det likhetspunkter mellom de to komposisjonene, men S. har ikke greid å overføre stemningen fra <em>Ballade</em> til det store lerretet. Direkte knyttet til folkevisetradisjonen er <em>Valdrisvisa</em> (1895, replikk 1896 Nasjonalgalleriet). De fjorten motivene, malt i akvarell, er en blanding av virkelighet og eventyr, fremstilt med en humor og fabulerende evne som er enestående i S.' kunst. En annen av romantikkens inspirasjonskilder var eventyrene. S.' bidrag er til dels influert av hans venn Theodor Kittelsen. Et av dem har tittelen <em>Langt om lenge kom han frem til en gild gard</em>. Interesse for folkemusikk og dans gav ham ideen til <em>En Numedals spillemann</em>, som for øvrig er sterkt påvirket av Halfdan Egedius.</p>\n<p>Fra 1894 bodde S. i Eggedal i lange perioder. Da han giftet seg for annen gang i 1898, ble han fastboende og flyttet inn i det lille bruket Hagan, som ble hans hjem resten av livet. I 1898 vant han konkurransen om utsmykningen av taket i foajeen i Nationaltheatret. Bildene har allegoriske motiver, malt i pastellfarget rokokkostil (1899). Allerede i 1897 hadde Th. Laureng og Torstein Torsteinson fått korreksjon av S. På Hagan drev han privat malerskole i 1899, der blant annet elever av Harriet Backer deltok. Hun begrunnet sin anbefaling om et sommeropphold i Hagan med at \"ingen forstår naturen som Skredsvig\". Det skal ha deltatt cirka 20 unge malere, blant dem Arne Lærum, Søren Onsager og Rudolph Thygesen.</p>\n<p>I 1908 debuterte S. som forfatter med \"Dage og Nætter blandt Kunstnere\". Boken, som er av betydelig litterær verdi, er i det alt vesentlige selvbiografisk, og er basert på barndomserindringer han begynte å skrive ned allerede i Lepaud i 1887. Senere skrev han flere romaner og skuespillere og skuespill, også de delvis biografiske i sitt innhold.</p>\n<p>S. fortsatte hele tiden å male. Men til tross for noen reiser til utlandet og kortere og lengre opphold i Kristiania (1904 - 05, 1911 - 14), førte livet i Eggedal til kunstnerisk isolasjon. Rutine kom til å prege mange av Eggedals-motivene med vann og fjell i solnedgang eller måneskinn, med eller uten figurstaffasje. Enkelte har likevel en troverdig stemning og kunstneriske kvaliteter.</p>\n</div>",
+    "created_at": "2014-11-20T17:59:23.462+01:00",
+    "changed_at": "2024-06-18T23:28:01.448+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab108545\",\"https://digitaltmuseum.no/536be20f-fb82-4463-b0c0-107d153ad344\",\"http://kulturnav.org/536be20f-fb82-4463-b0c0-107d153ad344\"]",
+        "lastname": "Skredsvig",
+        "firstname": "Christian",
+        "birth_date": "12.3.1854",
+        "birthplace": "Modum",
+        "death_date": "19.1.1924",
+        "external_id": "person_8736ab108545",
+        "kulturnav_id": "536be20f-fb82-4463-b0c0-107d153ad344",
+        "place_of_death": "Eggedal"
+    },
+    "authors": [
+        {
+            "full_name": "Ingrid Reed Thomsen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20553/standard_NMK-B_NG.M.0099220151204-26003-1ecozp4.jpg",
+            "full_size_url": "https://media.snl.no/media/20553/NMK-B_NG.M.0099220151204-26003-1ecozp4.jpg",
+            "xhtml": "<div><p><i>Fra Sevilla, Spania</i>. Christian Skredsvig. 1882. <a href=\"http://digitaltmuseum.no/011041107781\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Christian Skredsvig",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20554/standard_NMK-B_NG.M.0030320151204-26003-162vypp.jpg",
+            "full_size_url": "https://media.snl.no/media/20554/NMK-B_NG.M.0030320151204-26003-162vypp.jpg",
+            "xhtml": "<div><p><i>Oktobermorgen ved Grez</i>. Christian Skredsvig. <a href=\"http://digitaltmuseum.no/011041107259\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Christian Skredsvig",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20555/standard_NMK-B_NG.M.0033520151204-26003-6jpw82.jpg",
+            "full_size_url": "https://media.snl.no/media/20555/NMK-B_NG.M.0033520151204-26003-6jpw82.jpg",
+            "xhtml": "<div><p><i>Vinjes barndomshjem Plassen i Telemark</i>. Christian Skredsvig. 1887. <a href=\"http://digitaltmuseum.no/011042408366\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Christian Skredsvig",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20556/standard_NMK-B_NG.M.0047220151204-26003-d66d38.jpg",
+            "full_size_url": "https://media.snl.no/media/20556/NMK-B_NG.M.0047220151204-26003-d66d38.jpg",
+            "xhtml": "<div><p><i>Ungdomsfest i Eggedal</i>. Christian Skredsvig. 1895. <a href=\"http://digitaltmuseum.no/011041107427\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Christian Skredsvig",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20557/standard_NMK-B_NG.M.0064120151204-26003-p36kxb.jpg",
+            "full_size_url": "https://media.snl.no/media/20557/NMK-B_NG.M.0064120151204-26003-p36kxb.jpg",
+            "xhtml": "<div>\r\n<p>Biletet viser ein mann som kjem vandrande inn på tunet til ein norsk bondegard der unge og gamle, nokre av dei sjuke, har møtt fram for å ta imot han. Tittelen til biletet angir at den komne, som er kledd i drakta til samtida, førestiller Kristus. Denne framstillinga av eit religiøst motiv forårsaka heftig avisdebatt mellom lekfolk og teologar.</p>\r\n</div>",
+            "type": "image",
+            "heading": "Christian Skredsvig",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20558/standard_NMK-B_NG.M.0364220151204-26003-1hs06z3.jpg",
+            "full_size_url": "https://media.snl.no/media/20558/NMK-B_NG.M.0364220151204-26003-1hs06z3.jpg",
+            "xhtml": "<div><p><i>Vinje som gjetergutt</i>. Christian Skredsvig. 1887. <a href=\"http://digitaltmuseum.no/011042394284\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Christian Skredsvig",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

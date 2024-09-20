@@ -1,0 +1,552 @@
+{
+    "id": 431328,
+    "headword": "Jacob Kielland Sømme",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107415",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jacob Jørgen Castrup",
+                "lastname": "Sømme",
+                "professions": [
+                    "skipsreder",
+                    "konsul"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108894",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johanne Margrethe Bull",
+                "lastname": "Kielland",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab3416",
+                "birth_date": "12.02.1869",
+                "death_date": "05.09.1934",
+                "firstname": "Lilli",
+                "lastname": "Schlytter",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab108896",
+                "birth_date": "1876",
+                "death_date": "1949",
+                "firstname": "Signe",
+                "lastname": "Reinert",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Académie Français, Roma 1894–95",
+                "order": "3"
+            },
+            {
+                "comment": "Cand. philos. 1882",
+                "order": "0"
+            },
+            {
+                "comment": "kunstak. i München under Wilhelm von Lindenschmit 1882–85",
+                "order": "1"
+            },
+            {
+                "comment": "Académie Colarossi, Paris under Pascal Adolphe Jean Dagnan-Bouveret 1885–87",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Paris 1885–87 med sommeropphold i Belgia 1886"
+            },
+            {
+                "order": "2",
+                "description": "Skagen sommeren 1887 og 1889"
+            },
+            {
+                "order": "7",
+                "description": "Tyskland 1922"
+            },
+            {
+                "order": "6",
+                "description": "Jæren 1902–03"
+            },
+            {
+                "order": "5",
+                "description": "Berlin 1902"
+            },
+            {
+                "order": "8",
+                "description": "Brugge 1929"
+            },
+            {
+                "order": "0",
+                "description": "Opphold i München 1882–85"
+            },
+            {
+                "order": "4",
+                "description": "Italia våren 1894 til sommeren 1895"
+            },
+            {
+                "order": "3",
+                "description": "Kbh. 1890–92"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett BKS"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "LBM"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Tolv vilde svaner, Barneavdelingen, Stvg. sykehus (ødelagt?)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Skiens FG"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Stvg. FG"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Stiftelsen Breidablik, Stvg."
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "NG"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Elverum Kunstgall."
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Moss Kunstgall."
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Ledaal, Stvg."
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Skagens Museum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "P. Jessen: Dengang i Femti og Sexti-Aarene, Kra. 1912"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "B. Herre: En Jægers Erindringer, Kra. 1905"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "B. Lie: Svend Bidevind, Kra. 1906"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "P. Jessen: Bergens Hverdagsliv i Femti- og Sexti-Aarene, Kra. 1910"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "S. Gjems: Gamle ræggler og rim, Kra. 1904"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Esters bog. Tekst av Lili Sømme. Kra. 1894–95, bd. 1–2"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "B. Lie: Peter Napoleon, Kra. 1905 og 1920"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "A. Harbitz: Mandskapet fra bark Alexandra. Oplevelser paa Galapagosøerne, Kra. 1915"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "J. Hilditch: En nat i dukkebutiken, Kra. (1910)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "B. Widt (C. Sandberg): Sjøkadetter og andre Fortællinger, Kra. 1906"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "N. Rolfsen: Læsebog for folkeskolen, Kra. 1892–95"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "L. Bergh: Gjennem byen, Kra. 1898"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "T. Bogsrud: Paa jagt efter sexti tusen. En norsk amatørdetektivs eventyr, Kra. 1900"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1904",
+                "order": "32",
+                "to_date": "",
+                "title": "Norska Konstnärers Arbeten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1896",
+                "order": "16",
+                "to_date": "1900",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "46",
+                "to_date": "",
+                "title": "Stvg. sett med kunstnerøyne"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1926",
+                "order": "21",
+                "to_date": "1938",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1910",
+                "order": "18",
+                "to_date": "1912",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "19",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1886",
+                "order": "14",
+                "to_date": "1892",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1888",
+                "order": "27",
+                "to_date": "",
+                "title": "Salonen, Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "29",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1908",
+                "order": "34",
+                "to_date": "",
+                "title": "Norsk malerkunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "39",
+                "to_date": "",
+                "title": "Norsk Målarkonst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "31",
+                "to_date": "",
+                "title": "Sort og hvidt"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1925",
+                "order": "43",
+                "to_date": "",
+                "title": "Jub.utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "36",
+                "to_date": "",
+                "title": "Sort og hvidt"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1903",
+                "order": "17",
+                "to_date": "1908",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1919",
+                "order": "20",
+                "to_date": "1924",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1904",
+                "order": "33",
+                "to_date": "",
+                "title": "Den frie kunstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1934",
+                "order": "45",
+                "to_date": "",
+                "title": "Norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "44",
+                "to_date": "",
+                "title": "Høstutst. gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1887",
+                "order": "26",
+                "to_date": "",
+                "title": "Salonen, Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "30",
+                "to_date": "",
+                "title": "Verdensutst. i Chicago"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "38",
+                "to_date": "",
+                "title": "Jub.utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "37",
+                "to_date": "",
+                "title": "Sort og hvidt"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Maleri utført av Chr. Krohg (olje 1889/90) gjengitt i H. Alsvik og L. Østby: Norges billedkunst, Oslo 1951, bd. 1, s. 357"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Maleri utført av Michael Ancher (olje 1887/89), Skagens Museum"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Malt selvportrett gjengitt i T.Tegn 5.4.1921"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Maleri utført av Lili Sømme, utstilt i Studentersamfundet, Kra. 1893"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Malt selvportrett (olje 1923) gjengitt i K. og K. 1951 s. 147"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Tegning utført av Øyvind Sørensen (1933) gjengitt i Aftenp. 8.3. 1933"
+            }
+        ],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jacob Kielland Sømme",
+    "url": "https://nkl.snl.no/Jacob_Kielland_S%C3%B8mme",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. vokste opp i en velstående, kulturelt interessert familie. I slekten var flere kunstnere, som maleren Kitty Kielland, forfatteren Alexander Kielland og billedhuggeren Valentin Kielland. Helt fra barndommen av var S. opptatt av å tegne og male, og 20 år gammel drog han til akademiet i München. Her arbeidet han innenfor en tidstypisk naturalistisk stil og malte både landskap, figurbilder, portretter og stilleben. Etter oppholdet i Paris ble fargene lysere og malemåten friere. Under sine sommeropphold på Skagen 1887 og 1889 malte S. en del større bilder av fiskerbefolkningen i en stil beslektet med Chr. Krohg og Michael Ancher, som <em>Fra Skagen</em> (1890). Til hans beste portretter fra denne tiden hører <em>Alexander Kielland leser korrektur</em> (1888). Under et opphold i Kbh. 1890–92 ble han influert av symbolistiske og nyromantiske strømninger, og han gikk over til en dypstemt, ofte blålig fargeholdning og en noe ornamental stilisering av motivene (<em>Signe Reinert</em>, 1900). Etter århundreskiftet gikk han tilbake til naturalismen og en mer robust, saftig malemåte, som i <em>Kvindeforeningen</em> (1903). I midten av 1890-årene oppholdt S. seg et års tid i Roma der han modellerte ved Académie Français. Senere utførte han noen portrettbyster, men hans virksomhet som skulptør er liten. En tid, antagelig ved århundreskiftet, lagde han modeller og dekorerte gjenstander for Egersund Fayancefabrik. Fra 1905 var S. bosatt på Jeløy, der han også hadde oppholdt seg tidligere. Hans motivkrets spente fortsatt over et bredt register, men han konsentrerte seg fra nå av særlig om portrettmaleri, ikke minst barneportretter. Koloritten var lys og penselstrøkene frie. <em>Stavanger sett fra Sølyst</em> (1930, Stvg. FG) er karakteristisk for den seneste fasen i hans produksjon. Gjennom en årrekke var S. karikaturtegner i Tyrihans. Han illustrerte også flere barnebøker.</p></div>",
+    "created_at": "2014-12-21T16:07:41.597+01:00",
+    "changed_at": "2024-06-18T23:28:21.783+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3654\",\"https://digitaltmuseum.no/699fa8af-dcf7-459c-ac27-5ae665c9e4df\",\"http://kulturnav.org/699fa8af-dcf7-459c-ac27-5ae665c9e4df\"]",
+        "lastname": "Sømme",
+        "firstname": "Jacob Kielland",
+        "birth_date": "2.5.1862",
+        "birthplace": "Stavanger",
+        "death_date": "19.7.1940",
+        "external_id": "person_8736ab3654",
+        "kulturnav_id": "699fa8af-dcf7-459c-ac27-5ae665c9e4df",
+        "place_of_death": "Jeløy"
+    },
+    "authors": [
+        {
+            "full_name": "Oscar Thue"
+        },
+        {
+            "full_name": "Hild Sørby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20640/standard_NMK-B_NG.M.0126420151204-26003-16ojj18.jpg",
+            "full_size_url": "https://media.snl.no/media/20640/NMK-B_NG.M.0126420151204-26003-16ojj18.jpg",
+            "xhtml": "<div><p><i>Johanne Kielland Sømme, kunstnerens mor</i>. Jacob Kielland Sømme. 1890. <a href=\"http://digitaltmuseum.no/011041107949\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Jacob Kielland Sømme",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20641/standard_NMK-B_NG.M.0169720151204-26003-1qb5qba.jpg",
+            "full_size_url": "https://media.snl.no/media/20641/NMK-B_NG.M.0169720151204-26003-1qb5qba.jpg",
+            "xhtml": "<div><p><i>I lampelys</i>. Jacob Kielland Sømme. 1890. <a href=\"http://digitaltmuseum.no/011041108181\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Jacob Kielland Sømme",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20642/standard_NMK-B_NG.M.0300320151204-26003-11bift8.jpg",
+            "full_size_url": "https://media.snl.no/media/20642/NMK-B_NG.M.0300320151204-26003-11bift8.jpg",
+            "xhtml": "<div><p><i>Fra Bas-Meudon</i>. Jacob Kielland Sømme. 1889. <a href=\"http://digitaltmuseum.no/011041108711\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Jacob Kielland Sømme",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

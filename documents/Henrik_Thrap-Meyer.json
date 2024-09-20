@@ -1,0 +1,1191 @@
+{
+    "id": 430931,
+    "headword": "Henrik Thrap-Meyer",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107813",
+                "birth_date": "1812",
+                "death_date": "1883",
+                "firstname": "Henriette Christiane",
+                "lastname": "Thrap",
+                "professions": []
+            },
+            {
+                "from_date": "1863",
+                "type": "Gift med",
+                "external_id": "person_8736ab107814",
+                "birth_date": "1835",
+                "death_date": "1922",
+                "firstname": "Nielsine Cecilie von",
+                "lastname": "Tangen",
+                "professions": [],
+                "place": "Bergen"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107812",
+                "birth_date": "1801",
+                "death_date": "1880",
+                "firstname": "Johan Jakob Busch",
+                "lastname": "Meyer",
+                "professions": [
+                    "skipsmegler"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Andersonske Handelsinstitutt, Bergen",
+                "order": "0"
+            },
+            {
+                "comment": "Polytechnikum, Zürich under Gottfried Semper ett år 1859-60",
+                "order": "2"
+            },
+            {
+                "comment": "Polytechnikum, Hannover, arkitektur og ingeniørfag under C. W. Hase 1855-59",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereise i England 1870-71"
+            },
+            {
+                "order": "1",
+                "description": "Italia 1873"
+            },
+            {
+                "order": "2",
+                "description": "Frankrike 1878"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "4",
+                "description": "styremedlem Den Kvindelige Industriskole"
+            },
+            {
+                "order": "6",
+                "description": "medlem bedømmelseskommisjon for Peter Blix' planer til restaurering av Akershus slott (1897)"
+            },
+            {
+                "order": "5",
+                "description": "medlem bedømmelseskommisjoner for planer for Nidaros domkirke (1882, 1895)"
+            },
+            {
+                "order": "3",
+                "description": "direksjonsmedlem Forening til norske Fortidsminnesmerkers Bevaring (1874-99)"
+            },
+            {
+                "order": "1",
+                "description": "styremedlem Kunstindustrimuseet i Oslo"
+            },
+            {
+                "order": "0",
+                "description": "Medstifter Den Norske Haandværks- og Industriforening (1871)"
+            },
+            {
+                "order": "2",
+                "description": "medstifter Den norske Ingeniør og Arkitektforening (1874)"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Ridder av den franske æreslegion"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Ruseløkkbasarene, Ruseløkkvn. 1, Oslo (planlagt fra 1874, oppført 1881-83, revet 1960-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Oscars gt. 32 (1885), 35 (1875-76), 37 (1875-80) og 39 (1875-85)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "ombygging, Glemmen i Fredrikstad (1870, utført 1887)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Skoler: Aars og Voss, St. Olavs gt. 33, Oslo (1865, revet)"
+            },
+            {
+                "from_date": "",
+                "order": "68",
+                "to_date": "",
+                "description": "teknisk skole, Oslo (1887)"
+            },
+            {
+                "from_date": "",
+                "order": "64",
+                "to_date": "",
+                "description": "distriktsfengsel, Nes"
+            },
+            {
+                "from_date": "",
+                "order": "61",
+                "to_date": "",
+                "description": "for Sverige og Norge, Verdensutst. i Paris (1878)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Ruseløkken skole, Oslo (1869-71)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Den Kvindelige Industriskole, Cort Adelers gt. 33, Kristiania (1883)"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "for grosserer Anker, Halden"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Grimstad (1877-81)"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "lokale for Adventistene (Kurbadet), Akersgt. 74 (1885)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Seiersten folkeskole, Fredrikstad (1872-75)"
+            },
+            {
+                "from_date": "",
+                "order": "62",
+                "to_date": "",
+                "description": "Fengsler: Distriktsfengsel, Hønefoss (1862)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Kragerø kommunale middelskole (1874-78)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Victoria Terrasse (Victoria terrasse 1–13, Kronprinsens gt. 2–4 og 12, planlagt fra 1874, oppført 1884-90)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Vaterland skole, Oslo (1871-73, revet)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Diakonissehuset (Moderhuset), Lovisenberg, Oslo (1886-87)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Kongsberg høiere almenskole (1870)"
+            },
+            {
+                "from_date": "",
+                "order": "69",
+                "to_date": "",
+                "description": "høyesterettsbygning, Oslo (1887)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Lillesand (1889)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Leiegårder i Oslo: Akersgt. 1 (1862, revet 1975)"
+            },
+            {
+                "from_date": "",
+                "order": "63",
+                "to_date": "",
+                "description": "distriktsfengsel, Kongsberg"
+            },
+            {
+                "from_date": "",
+                "order": "60",
+                "to_date": "",
+                "description": "for Norge, Verdensutst. i Philadelphia (1875)"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Fredrikshald latinskole"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "for verkseier Dahl, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Lillehammer (1878-82)"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "ferdighus, England (eksportert fra Kristiania)"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Munkedamsvn. 86 (1866)"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Hamar katedralskole (1875-80)"
+            },
+            {
+                "from_date": "",
+                "order": "65",
+                "to_date": "",
+                "description": "Kunstindustri: skrivestell i sølv og emalje, bryllupsgave til kronprins Gustav og kronprinsesse Victoria (1882)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "St. Croix skole, Fredrikstad (1872-75)"
+            },
+            {
+                "from_date": "",
+                "order": "70",
+                "to_date": "",
+                "description": "restaurering, Tanum kirke, Bærum (1899)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Kristiansand domkirke (1880-85)"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "Hoteller o.l.: Hankø Bad og Kystsanatorium (1877-83) med tilknyttede villaer og badehus i variert utforming (1880-90-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "aldershjem, Lovisenberg, Oslo (1894)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "ombygging, Storøen i Hole (1899)"
+            },
+            {
+                "from_date": "",
+                "order": "58",
+                "to_date": "",
+                "description": "Haukelisæter hotell"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Fredrikstad høiere almenskole (Cicignon videregående skole) (1865-68)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Den Nordenfjeldske Kreditbank, Trondheim (1874-76, revet)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "ombygging, Elverum (1878-79, rerestaurert 1937)"
+            },
+            {
+                "from_date": "",
+                "order": "67",
+                "to_date": "",
+                "description": "Prosjekter: Konkurranseprosjekt, Grønland kirke, Oslo (1865)"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "Forsamlingslokaler o.l., Oslo: Misjonshus, Akersgt. 72 (revet)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Oslo (Gamlebyen) (1880, rerestaurert 1934-39)"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "egen villa, Wergelandsvn., Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Porsgrund middelskole"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "for fullmektig Heuch, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Kristiansand katedralskole (1877)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Kristiansund høiere almenskole (1870, brent 1940)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Skoger (1885)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Onsøy (1877)"
+            },
+            {
+                "from_date": "",
+                "order": "59",
+                "to_date": "",
+                "description": "Utstillingsbygninger: for Norge, Verdensutst. i Wien (1873)"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Bispegården, Oslo (1881-84)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Kristiansand almueskole (1868-71)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Joh. H. Andresens tobakksfabrikk, Møllergt. 17, Oslo (1875, revet)"
+            },
+            {
+                "from_date": "",
+                "order": "57",
+                "to_date": "",
+                "description": "Grand Hotell, Molde (1884-86)"
+            },
+            {
+                "from_date": "",
+                "order": "66",
+                "to_date": "",
+                "description": "diverse tegninger til sølvarbeider for Tostrup, Oslo (1870-82)"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "for rittmester Melhuus, Drammen"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "Metodistkirke og leiegård, St. Olavs gt. 23 (1898)"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "Villaer o.l.: for fru Kiær, Kalfarbakken, Bergen (1868)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Kirker: Kirkelandet, Kristiansund (1875-78, brent 1940)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Skien latinskole (1878-83)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1878",
+                "order": "0",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1901",
+                "order": "0",
+                "reference": "bd. 5, s. 758",
+                "to_date": "",
+                "description": "Se Halvorsens forfatterlexikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1981",
+                "order": "58",
+                "reference": "bd. 11, s. 620",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1898",
+                "order": "12",
+                "reference": "s. 175, 185",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "46",
+                "reference": "bd. 5, s. 605, 630 (ill.)",
+                "to_date": "",
+                "description": "Kristiansunds historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "42",
+                "reference": "s. 133",
+                "to_date": "",
+                "description": "St. Hallvard, registerbd.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1869",
+                "order": "3",
+                "reference": "s. 3",
+                "to_date": "",
+                "description": "PT",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "32",
+                "reference": "register s. 777 (ill.)",
+                "to_date": "",
+                "description": "Grimstad bys historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "37",
+                "reference": "bd. 33, s. 104",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "53",
+                "to_date": "",
+                "description": "Domkirken i Trondheim",
+                "authors": [],
+                "comments": [
+                    "bd. 2, register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "27",
+                "reference": "s. 189, 208-09",
+                "to_date": "",
+                "description": "Lillehammer i nitti aar 1827-1917",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1882",
+                "order": "17",
+                "reference": "s. 30",
+                "to_date": "",
+                "description": "Beretning for 1882 for Den Kvindelige Industriskole",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "22",
+                "reference": "bd. 5, s. 757-58",
+                "to_date": "",
+                "description": "Halvorsens forf.-lex.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "49",
+                "reference": "bd. 16, s. 324-29",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "47",
+                "reference": "s. 381",
+                "to_date": "",
+                "description": "Forening til norske Fortidsminnesmerkers Bevarings Årbok, registerbd.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "57",
+                "reference": "bd. 3, register (ill.)",
+                "to_date": "",
+                "description": "Fredrikstad bys historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886",
+                "order": "7",
+                "reference": "s. 31",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1897",
+                "order": "11",
+                "reference": "s. 237-38",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "45",
+                "reference": "s. 303-04 (ill.)",
+                "to_date": "",
+                "description": "Glemmen bygdebok",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1867",
+                "order": "2",
+                "reference": "s. 2, 161",
+                "to_date": "",
+                "description": "PT",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "41",
+                "reference": "s. 311 (ill.)",
+                "to_date": "",
+                "description": "Hamars historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "36",
+                "reference": "s. 17-23 (ill.)",
+                "to_date": "",
+                "description": "Festskrift ved Grimstad kirkes 50-års jubileum 7. april 1931",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "31",
+                "reference": "s. 105",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "35",
+                "reference": "bd. 23, s. 407",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "26",
+                "reference": "s. 192",
+                "to_date": "",
+                "description": "Kragerø by's historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "50",
+                "reference": "s. 8-9 (ill.)",
+                "to_date": "",
+                "description": "Kirkelandets kirke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "21",
+                "reference": "s. 294",
+                "to_date": "",
+                "description": "Hamar bys historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "54",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Diakonissehusets første hundre år 1868-1968",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "16",
+                "reference": "s. 595",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1884",
+                "order": "6",
+                "reference": "s. 184",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "30",
+                "reference": "s. 178",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "44",
+                "reference": "bd. 3, register (ill.)",
+                "to_date": "",
+                "description": "Skiens historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "24",
+                "reference": "s. 1 (nekrolog)",
+                "to_date": "",
+                "description": "Arkitektur og dekorativ kunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "34",
+                "reference": "s. 72 (ill.)",
+                "to_date": "",
+                "description": "Lillehammer 1827-1927",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "40",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Kristiansands historie i fredens århundre 1814-1914",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1863",
+                "order": "1",
+                "reference": "s. 32",
+                "to_date": "",
+                "description": "PT",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "25",
+                "reference": "s. 307-08 (ill.)",
+                "to_date": "",
+                "description": "Hønefoss. Byens historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1895",
+                "order": "20",
+                "reference": "s. 176-77",
+                "to_date": "",
+                "description": "Norsk Teknisk Tidsskrift",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "51",
+                "reference": "s. 183, 196, 197, 216, 246, 286, 288",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1877",
+                "order": "5",
+                "reference": "pl. 21, s. 230",
+                "to_date": "",
+                "description": "Teknisk Tidskrift",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "15",
+                "reference": "arkitektavd. s. 8, 27-28",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "55",
+                "reference": "s. 49-51 (ill.)",
+                "to_date": "",
+                "description": "Ruseløkka skole 100 år",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896",
+                "order": "10",
+                "reference": "s. 274-75 (ill.)",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "29",
+                "reference": "bd. 2, s. 743, 751 (ill.)",
+                "to_date": "",
+                "description": "Kongsberg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "43",
+                "reference": "s. 20-22",
+                "to_date": "",
+                "description": "Oslos kirker i gammel og ny tid",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "13",
+                "reference": "s. 26-27, 272-73, 292-95, 686",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "59",
+                "reference": "bd. 5, s. 16-17, 37-38 (ill.), 48",
+                "to_date": "",
+                "description": "i Norges Kunsthistorie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "48",
+                "reference": "bd. 2, s. 187 (ill.)",
+                "to_date": "",
+                "description": "Molde bys historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "En norsk banksaga. Den Nordenfjeldske Kreditbanks Jubileumsskrift 1868-1943",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "23",
+                "reference": "s. 149 (ill.)",
+                "to_date": "",
+                "description": "Porsgrund 1807-1907",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "39",
+                "reference": "bd. 1, s. 417",
+                "to_date": "",
+                "description": "Grueboka",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "33",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "authors": [],
+                "comments": [
+                    "bd. 2, register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "8",
+                "reference": "s. 31",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1873",
+                "order": "4",
+                "reference": "s. 74",
+                "to_date": "",
+                "description": "PT",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "19",
+                "to_date": "",
+                "description": "Die Holzbaukunst Norwegens in Vergangenheit und Gegenwart",
+                "authors": [],
+                "comments": [
+                    "Zweite AbteilungTafel XV"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "52",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "i Akersgaten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883",
+                "order": "18",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Personalhistoriske Efterretninger om Familien von der Lippe",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "14",
+                "reference": "s. 83-84",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "56",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "9",
+                "reference": "s. 375, 381",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "28",
+                "reference": "s. 164-66, 181",
+                "to_date": "",
+                "description": "Nøtterø",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1980",
+                "order": "62",
+                "to_date": "",
+                "description": "Victoria Terrasse. Et borgerlig leiegårdsanlegg i Kristiania",
+                "authors": [],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "63",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "61",
+                "reference": "s. 66, 290",
+                "to_date": "",
+                "description": "Akershus slotts restaurering 1895-1922",
+                "authors": [],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "64",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "60",
+                "reference": "s. 216",
+                "to_date": "",
+                "description": "Romantikkens arkitektur",
+                "authors": [],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Henrik Thrap-Meyer",
+    "url": "https://nkl.snl.no/Henrik_Thrap-Meyer",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>T.-M. var kontorist i Bergen i seks år før arkitektutdannelsen i Hannover og Zürich. Vinteren 1860/61 var han lærer ved Bergens Tegneskole, og deretter 1861-64 assistent hos Stadskonduktøren i Christiania Fra 1864 hadde han egen arkitektpraksis samme sted I perioden 1863-66 var T.- M. lærer i bygningsklassen og i håndverksklassen ved Den kgl. Tegneskole. Fra 1861 hadde han dessuten tallrike oppdrag med oppmålinger av gamle bygninger for Forening til norske Fortidsminnesmerkers Bevaring.</p>\n<p>T.-M. fikk en grundig utdannelse med to av Europas mest kjente arkitekturteoretikere som lærere, og han ble en av Norges fremste arkitekter i 2. halvdel av 1800-tallet. Hans bygninger er for det meste preget av Hannoverskolen som kjennetegnes av dekomponering av bygningskroppen, karakterisering av de enkelte bygningsdelene og forkjærlighet for middelalderinspirerte detaljer. Som Kirkedepartementets konsulent gjennom mange år fikk han i oppdrag å tegne mange skoler, kirker og andre offentlige bygninger. Skolene er for det meste oppført i pusset tegl, og er karakteristiske med fasader oppdelt av lisener med forsenkede veggfelt mellom. Profilering og detaljer er gjerne inspirert av middelalderarkitektur. Flere av T.-M.s kirker er blant de viktigste i norsk arkitektur på slutten av 1800-tallet. De preges av god proporsjonering og rikdom i detaljene. De store teglkirkene, som <em>Kristiansand domkirke</em> (1880-85), er inspirert av gotisk arkitektur, spesielt tysk, mens trekirkene, som <em>Grimstad</em> (1877-81) og <em>Lillesand</em> (1889), er blant tidens beste eksempler på kombinasjon av sveitserstil og nygotikk. <em>Kirkelandet</em>, Kristiansund (1875-78, brent 1940) var bygd i tre, og hadde en spesielt interessant komposisjon av bygningsdeler med sine karakteristiske trappehus på sidene av koret.</p>\n<p>I trehusproduksjonen var T.-M. en foregangsmann, og den første norske arkitekt som sendte prefabrikerte trehus til England og Frankrike. <em>Bispegården</em> i Oslo er oppført 1881-84 på restene av det middelalderske Olavsklosteret i Gamlebyen. Huset er bygd i pusset tegl i U-form, har et karakteristisk gotikk-inspirert tårn over inngangen og ellers detaljer i samme stil. Bygningen er et interessant eksempel på historismens syn på supplering av et middelaldersk anlegg, men har samtidig klare likhetstrekk med tidens tyskpåvirkede, romantiske arkitektur, inspirert av middelalderske borger. Blant hans senere arbeider er <em>Metodistkirke og leiegård</em>, St. Olavs gt. 23, Oslo (1898), et interessant anlegg. På en stor, spiss hjørnetomt i et ordinært, tettbygd kvartal gir fasadene tydelig uttrykk for funksjonene til de enkelte delene av anlegget, dominert av en spiss tårnhjelm på hjørnet. Fasadene er i upusset, delvis glassert tegl i gult og brunt.</p>\n<p>T.-M.s største arbeid er leiegårdsanlegget <em>Victoria Terrasse</em> med <em>Ruseløkkbasarene</em>, Oslo (planlagt fra 1874, oppført 1881-90). <em>Ruseløkkbasarene</em> var nedre del av et terrassert anlegg, oppført i delvis én, delvis to etasjer med gate over. Fasadene var i upusset tegl med store buer foran åpne korridorer med inngang til salgsboder. Over basarene ble det enorme leiegårdsanlegget Victoria Terrasse oppført, i pusset tegl med leiligheter i fire til fem etasjers leiegårder fordelt på tre kvartaler. Total boligflate var ca. 25t000 m2. For å skape linjer i og samle den 180 m lange frontfasaden er det lagt på et overordnet fasadesystem med kolossalpilastre spent mellom kraftige gesimser. Fasadene krones av et velkomponert system av store kupler og tårnhjelmer. Den store midtkuppelen på midtkvartalet flankeres av tårnhjelmer. På sidehjørnerisalitter nærmest midtkvartalet gjentas kuppelmotivet. Hovedfasaden avsluttes i nord med en rikt detaljert tårnhjelm kronet av en østen-inspirert pagode; i sørenden er en egen, rikt detaljert og symmetrisk komposisjon kronet av en kuppel flankert av høye, tynne tårnhjelmer. Anlegget er blant hovedverkene i norsk monumentalarkitektur, og utvilsomt det mest storslagne og påkostede boliganlegg. I dag huser komplekset departementskontorer.</p>\n<p>T.-M. har skrevet et stort antall artikler i aviser og tidsskrifter om arkitektur, fortidsminnevern og en rekke andre emner. Han var blant de ledende i organiseringen av arkitektene på 1800-tallet. Hans mangeårige arbeid med oppmåling av gamle bygninger gav ham grundige kunnskaper om vår bygningsarv. Som direksjonsmedlem i Forening til norske Fortidsminnesmerkers Bevaring gjennom mange år og medlem av de viktige restaureringskommisjonene var han også blant de ledende personene i norsk fortidsminnevern på 1800-tallet.</p>\n</div>",
+    "created_at": "2014-12-19T15:57:37.949+01:00",
+    "changed_at": "2024-06-18T23:28:10.467+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3853\",\"https://digitaltmuseum.no/5729ebcb-4dd2-4aba-abfa-46c79fe1acb0\",\"http://kulturnav.org/5729ebcb-4dd2-4aba-abfa-46c79fe1acb0\"]",
+        "lastname": "Thrap-Meyer",
+        "firstname": "Henrik",
+        "birth_date": "31.7.1833",
+        "birthplace": "Bergen",
+        "death_date": "29.12.1910",
+        "external_id": "person_8736ab3853",
+        "kulturnav_id": "5729ebcb-4dd2-4aba-abfa-46c79fe1acb0",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Thrap-Meyer, Henrik"
+    },
+    "authors": [
+        {
+            "full_name": "Trond Marinus Indahl"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

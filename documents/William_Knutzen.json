@@ -1,0 +1,878 @@
+{
+    "id": 417815,
+    "headword": "William Knutzen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104451",
+                "birth_date": "1870",
+                "death_date": "1919",
+                "firstname": "Einar",
+                "lastname": "Knutzen",
+                "professions": []
+            },
+            {
+                "from_date": "1942",
+                "to_date": "1948",
+                "type": "Gift med",
+                "external_id": "person_8736ab104453",
+                "birth_date": "1917",
+                "death_date": "1979",
+                "firstname": "Brit",
+                "lastname": "Rogne",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104452",
+                "birth_date": "1877",
+                "death_date": "1955",
+                "firstname": "Inger Kristine",
+                "lastname": "Kjersgaard",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Paul Ansteinsson og Thorbjørn Alvsåker 1933–35",
+                "order": "1"
+            },
+            {
+                "comment": "Verkstedlære hos keramikerne Eilif Whist, Oslo 1930–31 og Andreas Thiele Schneider, Oslo 1932–33",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Statens stipend for eldre fortjente kunstnere fra 1975"
+            },
+            {
+                "order": "2",
+                "description": "Studiereiser Berlin 1936, Paris -37, Italia -50"
+            },
+            {
+                "order": "0",
+                "description": "Foreningen Brukskunsts stipend 1950"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Kunstnerisk leder A/S Graverens Teglverk, Sandnes 1946–49"
+            },
+            {
+                "order": "2",
+                "description": "medstifter og formann Stavanger Brukskunstforening 1947"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Foreningen Brukskunst"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Museum für angewandte Kunst, Wien"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Museo Internazionale delle Ceramiche, Faenza"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Victoria & Albert Museum, London"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norsk brukskunst, København",
+                "from_date": "1951",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1977-02",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1952",
+                "order": "12",
+                "to_date": "",
+                "title": "Scandinavia at Table"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1952",
+                "order": "11",
+                "to_date": "",
+                "title": "Scandinavia at Table"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1951-09",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1970",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1954",
+                "order": "13",
+                "to_date": "",
+                "title": "Design in Scandinavia"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1960",
+                "order": "14",
+                "to_date": "",
+                "title": "12. Triennale di Milano"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Brukskunst, Oslo",
+                "from_date": "1941-09",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Röhsska konstslöjdmuseet i Göteborg",
+                "from_date": "1938-12",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "5",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Brukskunst, Oslo",
+                "from_date": "1937-01",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Brukskunst, Oslo",
+                "from_date": "1935-03",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Röhsska konstslöjdmuseet i Göteborg",
+                "from_date": "1938-11",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norsk brukskunst, Göteborg",
+                "from_date": "1951",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Foreningen Brukskunst, Oslo",
+                "from_date": "1940-06",
+                "order": "0",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1947-04-26",
+                "order": "0",
+                "to_date": "",
+                "description": "Glimt fra finsk brukskunst, Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1935-03-13",
+                "order": "26",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-02-09",
+                "order": "54",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "36",
+                "reference": "s. 972–73, 982",
+                "to_date": "",
+                "description": "Urd",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "4",
+                "to_date": "",
+                "description": "Norsk Brukskunst",
+                "authors": [],
+                "comments": [
+                    "(katalog)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1951-09-04",
+                "order": "40",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "8",
+                "reference": "s. 5, 90, 91",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935-03-04",
+                "order": "22",
+                "to_date": "",
+                "description": "Aviser: Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "21",
+                "reference": "s. 163s. 114",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-06-26",
+                "order": "30",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-10-03",
+                "order": "49",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "20",
+                "reference": "s. 8",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "12",
+                "reference": "s. 34",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-01-23",
+                "order": "47",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-12-21",
+                "order": "53",
+                "to_date": "",
+                "description": "Oppland Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "16",
+                "reference": "s. 93–95",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-12-13",
+                "order": "45",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-01-11",
+                "order": "27",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-02-19",
+                "order": "55",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "von der Lippe, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norsk Brukskunst",
+                "place": "Göteborg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "37",
+                "reference": "s. 81",
+                "to_date": "",
+                "description": "Form",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-01-11",
+                "order": "39",
+                "to_date": "",
+                "description": "1ste Mai",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935-03-04",
+                "order": "23",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-06-26",
+                "order": "29",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "13",
+                "reference": "s. 84, nr. 4 s. III",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "19",
+                "reference": "s. 175–176",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-12-16",
+                "order": "50",
+                "to_date": "",
+                "description": "Samhold/Velgeren",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "17",
+                "reference": "nr. 1 s. III",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-06-09",
+                "order": "44",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Molaug, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-12-14",
+                "order": "46",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "2",
+                "reference": "nr. 3, s. 4, 12–13 (ill.)",
+                "to_date": "",
+                "description": "i Vi selv og våre hjem",
+                "place": "Oslo",
+                "authors": [
+                    "Greve, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-10-17",
+                "order": "56",
+                "to_date": "",
+                "description": "i Familien",
+                "place": "Oslo",
+                "authors": [
+                    "Eklund, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951-09-06",
+                "order": "42",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-09-15",
+                "order": "34",
+                "to_date": "",
+                "description": "Fritt Folk",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937-01-12",
+                "order": "28",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-09-14",
+                "order": "38",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935-03-04",
+                "order": "24",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "9",
+                "reference": "s. 43–44, 46",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "6",
+                "to_date": "",
+                "description": "Norsk Brukskunst",
+                "place": "Kjøbenhavn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "18",
+                "reference": "s. 101, nr. 2 s. XVI",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "1",
+                "reference": "s. 56 (ill.), s. 57 (ill.)",
+                "to_date": "",
+                "description": "Norwegian decorative art",
+                "place": "Oslo",
+                "authors": [
+                    "Vreim, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-06-28",
+                "order": "51",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-09-04",
+                "order": "33",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "10",
+                "reference": "s. 164, 165",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-02-20",
+                "order": "43",
+                "to_date": "",
+                "description": "i Urd",
+                "place": "Oslo",
+                "authors": [
+                    "Amdahl, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "14",
+                "reference": "s. 179, nr. 1 s. XII, nr. 9 s. XII",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "3",
+                "reference": "s. 40, 48 (ill.)",
+                "to_date": "",
+                "description": "Norwegian Arts and Crafts, Industrial Design",
+                "place": "Oslo",
+                "authors": [
+                    "Aars, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-09-16",
+                "order": "35",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951-09-06",
+                "order": "41",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-06-26",
+                "order": "31",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "7",
+                "reference": "s. 14",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935-03-07",
+                "order": "25",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Refsum, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-07-13",
+                "order": "52",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "11",
+                "reference": "s. 31, 33, 155",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-09-03",
+                "order": "32",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "15",
+                "reference": "s. 176",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-10-02",
+                "order": "48",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "William Knutzen",
+    "url": "https://nkl.snl.no/William_Knutzen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>I 1934 etablerte K. eget verksted i Wessels gt. 3, Oslo. Hans debut som keramiker fant sted på en utstilling arrangert av Foreningen Brukskunst i Kunstnernes Hus i mars 1935. Anmelderen i Morgenbladet, maleren Tor Refsum, festet seg den gang ved hans formfaste leirgodskrukker i monokrome glasurer. I 1937 gikk K. i kompaniskap med Andreas Schneiders sønn, Andreas Thiele Schneider, som hadde ledet driften av verkstedet etter farens død i 1931. Sammen drev de Andreas Schneiders gamle verksted på Slemdal videre under navnet Schneider &amp; Knutzen A/S. Bak verkstedets keramiske nyorienteringer var K. den drivende kraft. Funksjonalismens idealer om enklere form og dekor satte etter hvert sitt preg på produksjonen, f.eks. i hans gjenstander i chamotte med blå dekor på hvit glasur. Lite kjent er en begrenset forsøksproduksjon i steingods fra 1944. Med denne ble K. den første norske keramiker som gjorde bruk av steingodset som kunstnerisk uttrykksmiddel. Fra 1946 ble K. ansatt som kunstnerisk leder for keramikkavdelingen ved A/S Graverens Teglverk, Sandnes. Ansettelsen sikret fabrikkens ry med nye bruksvennlige modeller og et stort antall dekorer. Fra 1949–52 drev K. eget verksted i Solliveien på Lysaker. Samtidig fungerte han som kunstnerisk konsulent og tegnet flere modeller for leirvareproduksjonen hos Arnold Wiik, Halden. Stor oppmerksomhet vakte en utstilling i Galleri Per i september 1951 med blomstervaser og fruktfat i et utradisjonelt, abstrakt-skulpturalt formspråk. I 1952 flyttet K. verkstedet til Fjellmoran ved Elverum. I 1959 drog han tilbake til Oslo og fikk innredet verksted i Grini mølle på Røa. Fra 1963 til sin død drev han verksted i Heggenes i Øystre Slidre. I etterkrigstidens verkstedproduksjon har K. lagt vekt på den kunstneriske foredling av leirgodset. I tallrike arbeider har K. latt selve leiren være en viktig del av det kunstneriske uttrykk. For mange er likevel hans navn først og fremst knyttet til tinnglaserte arbeider med blå dekor. Mens K. i sin tidlige produksjon var relativt tilbakeholden i sin dekor med vekt på gjenstandenes form og stofflighet, finner man på hans senere arbeider en mer løssluppen og frodig ornamentikk. Et sjeldent artistisk talent gjør seg gjeldende i hans beste keramiske arbeider.</p></div>",
+    "created_at": "2013-07-04T00:52:13.189+02:00",
+    "changed_at": "2024-06-18T23:26:18.735+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2144\",\"https://digitaltmuseum.no/87288098-2fc3-4024-987e-454da6809625\",\"http://kulturnav.org/87288098-2fc3-4024-987e-454da6809625\"]",
+        "lastname": "Knutzen",
+        "firstname": "William",
+        "birth_date": "4.7.1913",
+        "birthplace": "Kristiania",
+        "death_date": "11.2.1983",
+        "external_id": "person_8736ab2144",
+        "kulturnav_id": "87288098-2fc3-4024-987e-454da6809625",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Ivar Stranger"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16157/standard_NMK-D_OK-1123220130725-13675-1c5xdox.jpg",
+            "full_size_url": "https://media.snl.no/media/16157/NMK-D_OK-1123220130725-13675-1c5xdox.jpg",
+            "xhtml": "<div>\r\n<p>Vase, 1942. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "William Knutzen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16159/standard_NMK-D_OK-1166420130725-13675-hr3zqo.jpg",
+            "full_size_url": "https://media.snl.no/media/16159/NMK-D_OK-1166420130725-13675-hr3zqo.jpg",
+            "xhtml": "<div>\r\n<p>Vase, 1946. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "William Knutzen",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16179/standard_NMK-D_OK-1989-022020130725-13675-1x75iim.jpg",
+            "full_size_url": "https://media.snl.no/media/16179/NMK-D_OK-1989-022020130725-13675-1x75iim.jpg",
+            "xhtml": "<div>\r\n<p>Bolle, 1946-1949. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "William Knutzen",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "keramiker"
+        }
+    ]
+}

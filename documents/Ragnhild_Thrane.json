@@ -1,0 +1,588 @@
+{
+    "id": 430929,
+    "headword": "Ragnhild Thrane",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107808",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Martha Kirstine",
+                "lastname": "Schnitler",
+                "professions": null
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107807",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Konrad Clasen",
+                "lastname": "Thrane",
+                "professions": [
+                    "kaptein"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Knud Bergsliens malerskole, Kristiania 1872-74",
+                "order": "0"
+            },
+            {
+                "comment": "flere tegnekurs i midten av 1870-årene, bl.a. elev av Anton M. Bergh",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Chr. Krohg 1883-85",
+                "order": "2"
+            },
+            {
+                "comment": "Chr. Krohg, Eilif Peterssen og Hans Heyerdahls malerskole, Kristiania 1885-86, samtidig elev av Peterssen",
+                "order": "3"
+            },
+            {
+                "comment": "deltager Gerhard Munthes damekurs i Sandvika sommeren 1887",
+                "order": "4"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1888 og -90"
+            },
+            {
+                "order": "1",
+                "description": "Hielmstierne Rosencrones legat 1891"
+            },
+            {
+                "order": "2",
+                "description": "Schäffers legat 1894/95"
+            },
+            {
+                "order": "3",
+                "description": "Studieopphold i København 1892"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "1",
+                "description": "Initiativtager stiftelsen av Malerindeforb. 1907"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo (tapt)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Bergen Billedgalleri (tapt?)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Skiens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Hallingdal Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo børs"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Bergen domkirke"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "from_date": "1913",
+                "order": "5",
+                "to_date": "",
+                "title": "minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1887",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1890",
+                "order": "8",
+                "to_date": "1992",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "9",
+                "to_date": "1913",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1888",
+                "order": "10",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1904",
+                "order": "13",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1910",
+                "order": "15",
+                "to_date": "",
+                "title": "Malerindeforb.s utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "16",
+                "to_date": "",
+                "title": "Den anonyme maleriutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "17",
+                "to_date": "",
+                "title": "Malerindeforb.s utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "18",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "19",
+                "to_date": "1916",
+                "title": "Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1919",
+                "order": "20",
+                "to_date": "",
+                "title": "Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "21",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "22",
+                "to_date": "",
+                "title": "Kvinners bilder"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "23",
+                "to_date": "1983",
+                "title": "Kvinners bilder"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1907",
+                "order": "0",
+                "reference": "bd. 2, s. 357",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1913",
+                "order": "1",
+                "reference": "s. 546 (ill.)",
+                "to_date": "",
+                "description": "i Urd",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1914-06-06",
+                "order": "2",
+                "to_date": "",
+                "description": "i Urd",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944-01-08",
+                "order": "3",
+                "to_date": "",
+                "description": "i Urd",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1916-06-05",
+                "order": "4",
+                "to_date": "",
+                "description": "Ukens revy",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1939",
+                "order": "5",
+                "reference": "bd. 33, s. 104",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "6",
+                "reference": "s. 29–54 (ill.)",
+                "to_date": "",
+                "description": "Ragnhild Thrane, Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "7",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "authors": null,
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "8",
+                "reference": "s. 136, 253",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972",
+                "order": "9",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "authors": null,
+                "comments": [
+                    "bd. 18, spalte 870"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1976",
+                "order": "10",
+                "reference": "s. 65–69",
+                "to_date": "",
+                "description": "Lillehammerprofiler",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "11",
+                "reference": "bd. 11, s. 620",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983",
+                "order": "12",
+                "reference": "register (ill.).",
+                "to_date": "",
+                "description": "Kvinner ved staffeliet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1907-10-20",
+                "order": "13",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1908-10-25",
+                "order": "14",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1911-04-22",
+                "order": "15",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1913-12-16",
+                "order": "16",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1919-04-09",
+                "order": "17",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1911-10-22",
+                "order": "18",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1913-11-11",
+                "order": "19",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1913-12-14",
+                "order": "20",
+                "to_date": "",
+                "description": "Norske Intelligenssedler",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1913-12-14",
+                "order": "21",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1915-04-11",
+                "order": "23",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1913-12-15",
+                "order": "24",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1914-05-24",
+                "order": "25",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1916-05-19",
+                "order": "26",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1943-11-26",
+                "order": "27",
+                "to_date": "",
+                "description": "i Gudbrandsdølen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956-03-20",
+                "order": "28",
+                "to_date": "",
+                "description": "Lillehammer Tilskuer",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1970",
+                "order": "29",
+                "to_date": "",
+                "description": "Ragnhild Thrane 1856-1913",
+                "authors": null,
+                "comments": [
+                    "manuskript"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Dagbøker 1892, 1895-1913",
+                "authors": null,
+                "comments": [
+                    "privat eie"
+                ],
+                "archives": null
+            },
+            {
+                "order": "31",
+                "description": "Nasjonalgalleriets dokumentasjonsarkiv",
+                "from_date": "",
+                "to_date": "",
+                "publisher": "",
+                "title": "",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ragnhild Thrane",
+    "url": "https://nkl.snl.no/Ragnhild_Thrane",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>T. avbrøt kunstutdannelsen i 1875 av økonomiske årsaker, tok middelskoleeksamen og virket som lærer til 1884, da hun gjenopptok utdannelsen. Hennes bilder fra 1880-årene føyer seg etter tidens toneangivende realistiske maleri, f.eks. <em>Kjøkkeninteriør</em> (1887). En ettertenksom, melankolsk grunntone er karakteristisk for T.s malerier allerede fra denne tiden, f.eks. i <em>Halvakt</em> (1886). 1880-årenes kunst var også avgjørende for hennes senere arbeider, men i 90-årene utviklet T. en mer selvstendig kunst der realismen mykes opp av nyromantiske impulser. Koloritten fikk en blond tone og konturene ble duse. Hun malte gjerne motiver der det er kontraster mellom lys ute og inne, mot vinduer og i døråpninger, f.eks. <em>Småbarn, Son</em> (1895), og dessuten interiører i aftenbelysning, der familiens kvinner er modeller, f.eks. <em>I skumringen</em> (1905, Lillehammer Bys malerisamling). T. var en dyktig portrettmaler, blant hennes mest vellykkede er portretter av moren (1887), <em>Therese Berteau</em> og <em>Sara Horneman</em> (begge 1902). Hun malte en serie bestillingsportretter, dels etter eldre bilder, til Børsens portrettgalleri (1907-13). T. malte også landskaper, fra Kristiania og omegn og fra Lillehammer, der hun tilbrakte flere somre. Etter århundreskiftet fikk hun tilknytning til Lillehammermalerne.</p></div>",
+    "created_at": "2014-12-19T15:54:53.324+01:00",
+    "changed_at": "2024-06-18T23:28:10.414+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3851\",\"https://digitaltmuseum.no/e09beba8-bc81-42a0-a963-3ba615f6671f\",\"http://kulturnav.org/e09beba8-bc81-42a0-a963-3ba615f6671f\"]",
+        "lastname": "Thrane",
+        "firstname": "Ragnhild",
+        "birth_date": "20.3.1853",
+        "birthplace": "Fåberg",
+        "death_date": "4.11.1913",
+        "external_id": "person_8736ab3851",
+        "kulturnav_id": "e09beba8-bc81-42a0-a963-3ba615f6671f",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Thrane, Ragnhild Christine"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Wichstrøm"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

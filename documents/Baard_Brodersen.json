@@ -1,0 +1,770 @@
+{
+    "id": 414528,
+    "headword": "Baard Brodersen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101102",
+                "birth_date": "1900",
+                "death_date": "1973",
+                "firstname": "Oscar E.",
+                "lastname": "Brodersen",
+                "professions": []
+            },
+            {
+                "from_date": "1970",
+                "to_date": "1977",
+                "type": "Gift med",
+                "external_id": "person_8736ab101105",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bjørg",
+                "lastname": "Johansen",
+                "professions": []
+            },
+            {
+                "from_date": "1959",
+                "to_date": "1969",
+                "type": "Gift med",
+                "external_id": "person_8736ab101104",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jorunn",
+                "lastname": "Lyngstad",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101103",
+                "birth_date": "1903",
+                "death_date": "1974",
+                "firstname": "Borghild",
+                "lastname": "Nyberg",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under P. Krohg 1947–50",
+                "order": "1"
+            },
+            {
+                "comment": "korrektur av Hans Hartung, Paris 1952",
+                "order": "3"
+            },
+            {
+                "comment": "Bjarne Engebrets malerskole, Oslo, 1946–47",
+                "order": "0"
+            },
+            {
+                "comment": "hospitant Kunstakademiet København under Richard Mortensen 1965",
+                "order": "4"
+            },
+            {
+                "comment": "hospitant på Fernand Légers malerskole",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "6",
+                "description": "Namdalstipend 1964"
+            },
+            {
+                "order": "5",
+                "description": "3% fondets stipend 1964, -68"
+            },
+            {
+                "order": "4",
+                "description": "Unge Kunstneres Samfunn stipend 1963–66"
+            },
+            {
+                "order": "7",
+                "description": "Drammens Kunstforenings 100 års jubileumsstipend 1967"
+            },
+            {
+                "order": "2",
+                "description": "Stipend fra Fondet for svensk-norsk samarbeide 1963"
+            },
+            {
+                "order": "12",
+                "description": "København 1948, -49, -50, -51, -52, -60, -65"
+            },
+            {
+                "order": "11",
+                "description": "Paris 1950–51, 1952, 1964–65"
+            },
+            {
+                "order": "16",
+                "description": "DDR"
+            },
+            {
+                "order": "14",
+                "description": "dessuten Nederland"
+            },
+            {
+                "order": "13",
+                "description": "Stockholm, Göteborg 1948, -51, -60, -63"
+            },
+            {
+                "order": "9",
+                "description": "Statens 3-årige arbeidsstipend fra 1977"
+            },
+            {
+                "order": "8",
+                "description": "Molde Kunstforenings stipend 1969"
+            },
+            {
+                "order": "0",
+                "description": "Drammen kommunes stipend (Snorre-fondet) 1952, 1964, -66, -69"
+            },
+            {
+                "order": "3",
+                "description": "Statens ett-årige stipend 1963, -65"
+            },
+            {
+                "order": "1",
+                "description": "Stipend fra Fondet for dansk-norsk samarbeide 1960, -65"
+            },
+            {
+                "order": "15",
+                "description": "Den tyske forbundsrepublikken"
+            },
+            {
+                "order": "10",
+                "description": "Reiser til Italia-Frankrike 1949"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo skolestyres kunstutvalg"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Drammens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Namsos Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Skellefteå Stads Kulturnämnd"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "arbeider etter oppdrag (1979) med utkast til dekorasjon i det nye Telegrafbygget i Drammen"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Skoger Sparebank"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Melkebaren, Drammen"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Hankø Bad"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1964",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1950",
+                "order": "21",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1967",
+                "order": "23",
+                "to_date": "1977",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hønefoss Kunstforening",
+                "from_date": "1956",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kongsberg Kunstforening",
+                "from_date": "1969",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund Kunstforening",
+                "from_date": "1971",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Örebro",
+                "from_date": "1968",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1954",
+                "order": "29",
+                "to_date": "",
+                "title": "9 unges vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1952",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1973",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1969",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Edinburgh",
+                "from_date": "1951",
+                "order": "25",
+                "to_date": "",
+                "title": "Yngre norsk kunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1949",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1951",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1962",
+                "order": "30",
+                "to_date": "1965",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Odense",
+                "from_date": "1970",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Örebro",
+                "from_date": "1956",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1976",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1954",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1962",
+                "order": "22",
+                "to_date": "1965",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1969",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Örebro",
+                "from_date": "1951",
+                "order": "26",
+                "to_date": "",
+                "title": "Drammens-kunstnere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1966",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1953",
+                "order": "28",
+                "to_date": "",
+                "title": "Juniutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Molde Kunstforening",
+                "from_date": "1969",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Landsforeningen Norske Malere",
+                "from_date": "1978",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stockholm og Wilmanstrand",
+                "from_date": "1970",
+                "order": "15",
+                "to_date": "",
+                "title": "Nutida Nordisk Konst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Oslo",
+                "from_date": "1971",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1949",
+                "order": "24",
+                "to_date": "",
+                "title": "Ung Norsk Kunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1951",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund Kunstforening",
+                "from_date": "1971",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1977",
+                "order": "31",
+                "to_date": "",
+                "title": "Visuelt"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1966",
+                "order": "3",
+                "reference": "s. 182",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-04-27",
+                "order": "26",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-12-15",
+                "order": "9",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-12-16",
+                "order": "13",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "1",
+                "reference": "bd. 3, s. 521",
+                "to_date": "",
+                "description": "Hurums historie",
+                "title": "Holmsbu-malerne, S.L. Eier",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-03-04",
+                "order": "14",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-10-08",
+                "order": "11",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-11-29",
+                "order": "16",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-12-01",
+                "order": "25",
+                "to_date": "",
+                "description": "Sunnmørsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-12-07",
+                "order": "23",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "8",
+                "reference": "s. 49, 62",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-03-08",
+                "order": "19",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "4",
+                "reference": "s. 214, 215 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "6",
+                "reference": "s. 60",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-07-09",
+                "order": "21",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-10-05",
+                "order": "18",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "0",
+                "reference": "s. 18, 19 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunst i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Matheson, F.",
+                    "Askeland, J.",
+                    "Parmann, Ø.",
+                    "Malmanger, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-07-12",
+                "order": "15",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-06-24",
+                "order": "10",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-10-01",
+                "order": "12",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "2",
+                "reference": "s. 48, 49",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-11-29",
+                "order": "22",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-12-06",
+                "order": "17",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-04-27",
+                "order": "24",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "7",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "5",
+                "reference": "s. 55, 115",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-04-30",
+                "order": "20",
+                "to_date": "",
+                "description": "Drammens Tidende/Buskeruds Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-05-12",
+                "order": "27",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Baard Brodersen",
+    "url": "https://nkl.snl.no/Baard_Brodersen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. var allerede som ti års gutt klar over at han ville bli maler. Etter krigen var slutt, begynte han 19 år gammel sin kunstneriske utdannelse, og fikk i 1950 antatt sitt første bilde på Høstutstillingen. Det var en lett stilisert komposisjon, kalt <em>Eventyrreise</em>, holdt i en behersket koloritt med et visst preg av skolen han hadde gjennomgått. Senere skulle han anslå langt dristigere toner. Likevel gir denne <em>Eventyrreisen</em> et hint om hvilken vei B. skulle gå. Undertiden viser han symbolske trekk, men først og fremst er han lyriker, som søker uttrykk for sin opplevelse av naturen og de følelser som den nedfeller hos ham. B. har malt portretter og figurbilder. Men især er det landskapet som inspirerer ham. B. har malt på sine mange reiser og ikke minst fra sommerparadiset Holmsbu, hvor han i 1969 hadde et opphold på Oscars-borg, Knut Hermod Knutsens sommersted i Støa, som denne har testamentert Drammen kommune til bruk for kunstnere fra Drammensdistriktet. Her har B. kunnet arbeide under inspirasjon av Thv. Erichsen. Det er lyset og fargene som har opptatt ham. B. har funnet fram til en slags rytme i sin kunst. Om sommeren maler han nærmest naturalistiske landskaper, om vinteren på atelieret abstrakte komposisjoner, bygd på tidligere inntrykk og opplevelser, kanskje langt tilbake i tiden, som han søker å gi lyrisk-musikalsk form. Hans uttrykksmåte kan være halvabstrakt, som portrettet av Leif Wilthil, kalt <em>Lyrisk pianist</em> (Drammens Kunstforening Faste Galleri.), men ganske særlig har han funnet fram til en helt abstrakt flatebehandling, ofte dominert av en eller noen få, høyt oppdrevne, stemningsbærende farger, som brytes av små glimt av kontrasterende farger som får flaten til å puste og gir bud om et rom innenfor. Det kan nevnes karakteristiske titler som <em>Natt III</em> (1966) og <em>Rødt-gult-hvitt</em> (1971) (begge Riksgalleriet). I den siste tiden er endelig glimtene vokst og gir plass for større bevegelighet og romfølelse.</p></div>",
+    "created_at": "2013-06-09T16:36:30.121+02:00",
+    "changed_at": "2024-06-18T23:25:20.157+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab531\",\"https://digitaltmuseum.no/e4f73f8e-6ae6-4584-8b32-3ec18dd40360\",\"http://kulturnav.org/e4f73f8e-6ae6-4584-8b32-3ec18dd40360\"]",
+        "lastname": "Brodersen",
+        "firstname": "Baard",
+        "birth_date": "30.4.1927",
+        "birthplace": "Førde i Sunnfjord",
+        "death_date": "27.4.2001",
+        "external_id": "person_8736ab531",
+        "kulturnav_id": "dec0733e-1351-4e03-9332-8e10923624f4",
+        "place_of_death": "Drammen"
+    },
+    "authors": [
+        {
+            "full_name": "Henning Alsvik"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

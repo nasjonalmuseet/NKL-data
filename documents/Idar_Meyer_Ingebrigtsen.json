@@ -1,0 +1,336 @@
+{
+    "id": 417234,
+    "headword": "Idar Meyer Ingebrigtsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab103805",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Erika",
+                "lastname": "Zabel",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103803",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Agnes",
+                "lastname": "Ingebrigsten",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103804",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jens",
+                "lastname": "Ingebrigsten",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Tromsø"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Otte Skölds Målarskola, Stockholm 1944-45",
+                "order": "0"
+            },
+            {
+                "comment": "kunstak. i København under Aksel Jørgensen 1948-49, grafisk linje 1950-51",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Tromsø Kunstforening jubileumsstipend"
+            },
+            {
+                "order": "7",
+                "description": "dessuten reiser til Tyskland, Tsjekkoslovakia, Østerrike, Finland, Sovjetunionen, Frankrike og Nederland"
+            },
+            {
+                "order": "3",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "6",
+                "description": "Madeira 1979"
+            },
+            {
+                "order": "2",
+                "description": "Hålogaland Teaterselskaps studiestipend"
+            },
+            {
+                "order": "5",
+                "description": "Dubrovnik 1969"
+            },
+            {
+                "order": "4",
+                "description": "Reiser til Wien 1964"
+            },
+            {
+                "order": "0",
+                "description": "Tromsø bys stipend to ganger"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Initiativtager og medlem Nord-Norske Bildende Kunstnere, styreformann 1971-73, -77, styremedlem 1974-76"
+            },
+            {
+                "order": "2",
+                "description": "Æresmedlem Tromsø Kunstforening 1977"
+            },
+            {
+                "order": "1",
+                "description": "medlem forberedende arbeidsutvalg for Norske Billedkunstneres Fagorganisasjon, 1972-74, organisasjonsutvalg 1974-75 og styremedlem 1976-77"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Folkets Hus, Tromsø 1961–62, -68"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Harstad sykehus 1978"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Tromsø museum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Grafikk til to av Tromsø Kunstforenings grafiske mapper"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tromsø museum",
+                "from_date": "1979",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1952",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "title": "Nord-norske kunstutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1946",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Troms fylke, vandreutst.",
+                "from_date": "1978",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1977",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1954",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø",
+                "from_date": "1958",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Samorganisasjonen av Kunstforeninger i Nord-Norges vandreutst.",
+                "from_date": "1980",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1969",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1954-11-04",
+                "order": "1",
+                "to_date": "",
+                "description": "Tromsø",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-11-04",
+                "order": "2",
+                "to_date": "",
+                "description": "Tromsø",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-07-29",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbl.",
+                "authors": [
+                    "Fjørtoft, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "3",
+                "reference": "bd. 3, register s. 780",
+                "to_date": "",
+                "description": "Tromsø bys historie",
+                "place": "Tromsø",
+                "authors": [
+                    "Ytreberg, N. A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-01-29",
+                "order": "6",
+                "to_date": "",
+                "description": "Finnmarken",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-18",
+                "order": "5",
+                "to_date": "",
+                "description": "Nordlys",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-15",
+                "order": "7",
+                "to_date": "",
+                "description": "Harstad Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-10-03",
+                "order": "0",
+                "to_date": "",
+                "description": "Tromsø",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Idar Meyer Ingebrigtsen",
+    "url": "https://nkl.snl.no/Idar_Meyer_Ingebrigtsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>I.s formspråk er impresjonistisk. Han maler helst landskap, men også figurkomposisjoner. Han er særlig opptatt av lyset, og hans bilder har i de senere år fått en dempet, blond koloritt med en disig effekt som oppnås ved bruk av olje og tempera lagvis.</p></div>",
+    "created_at": "2013-07-03T20:16:25.420+02:00",
+    "changed_at": "2024-06-18T23:26:02.202+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1834\",\"https://digitaltmuseum.no/c8e3d634-afe1-4b2c-9bab-59587805bd45\",\"http://kulturnav.org/c8e3d634-afe1-4b2c-9bab-59587805bd45\"]",
+        "lastname": "Ingebrigtsen",
+        "firstname": "Idar Meyer",
+        "birth_date": "26.3.1917",
+        "birthplace": "Tromsø",
+        "death_date": "0.0.2004",
+        "external_id": "person_8736ab1834",
+        "kulturnav_id": "c8e3d634-afe1-4b2c-9bab-59587805bd45"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

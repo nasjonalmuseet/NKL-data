@@ -1,0 +1,625 @@
+{
+    "id": 417833,
+    "headword": "Karl Konow",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab104489",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Elisabeth",
+                "lastname": "Wildenrath",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104488",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Henrikke Christiane Johanne Malde",
+                "lastname": "Wolff",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104487",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Wollert Otto",
+                "lastname": "Konow",
+                "professions": [
+                    "sogneprest"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev av Leopold von Kalckreuth, Weimar (før 1889)",
+                "order": "1"
+            },
+            {
+                "comment": "Vladimir Schereschevski, München 1891–92",
+                "order": "3"
+            },
+            {
+                "comment": "Erwin Knirr, München 1893–94",
+                "order": "4"
+            },
+            {
+                "comment": "Léon Bonnat og Fernand Cormon, Paris 1889–90",
+                "order": "2"
+            },
+            {
+                "comment": "Cand. jur. 1889",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "München 1891–92, 1893–94"
+            },
+            {
+                "order": "3",
+                "description": "København 1905–06, -17"
+            },
+            {
+                "order": "2",
+                "description": "Firenze og Roma 1900-01, 1907–08"
+            },
+            {
+                "order": "4",
+                "description": "Berlin 1911"
+            },
+            {
+                "order": "0",
+                "description": "Bosatt store deler av sitt voksne liv i utlandet, bl.a. i Paris 1889–90, 1902, -04"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Medalje på Verdensutstillingen i Paris 1900"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Skiens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "12",
+                "to_date": "1916",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1892",
+                "order": "13",
+                "to_date": "",
+                "title": "Glaspalast-ausstellung"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1890",
+                "order": "8",
+                "to_date": "1892",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1893",
+                "order": "14",
+                "to_date": "",
+                "title": "Glaspalast-ausstellung"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1935",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1904",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1902",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1916",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "9",
+                "to_date": "1899",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1905",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1916",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1918",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "22",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1896",
+                "order": "18",
+                "to_date": "",
+                "title": "International Kunst-Ausstellung"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lillehammer byjub.utstilling",
+                "from_date": "1927",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "München n",
+                "from_date": "1892",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1894",
+                "order": "17",
+                "to_date": "",
+                "title": "Secessionisternes utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "16",
+                "to_date": "",
+                "title": "Verdensutstillingen i Chicago"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1906",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "19",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1902",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norska konstnärers arbeten, Stockholm",
+                "from_date": "1904",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1901",
+                "order": "15",
+                "to_date": "",
+                "title": "Glaspalast-ausstellung"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "maleri utført av Anders Kongsrud (privat eie, vist på utstilling av Kunstnerportretter, Oslo Kunstforening 1946)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Selvportrett (1894, privat eie)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1925",
+                "order": "0",
+                "to_date": "",
+                "description": "Adam Bøøks øine",
+                "place": "Oslo",
+                "authors": [
+                    "Know, Karl"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1912-09-07",
+                "order": "16",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "7",
+                "reference": "s. 158",
+                "to_date": "",
+                "description": "Idékamp og stilskifte i norsk malerkunst 1900–1919",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-06-02",
+                "order": "21",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-09-18",
+                "order": "18",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-06-02",
+                "order": "23",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "5",
+                "reference": "bd. 21, s. 279",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "1",
+                "reference": "s. 60",
+                "to_date": "",
+                "description": "Norsk kalender",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "3",
+                "reference": "bd. 14, s. 439",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "13",
+                "reference": "s. 216",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-06-11",
+                "order": "15",
+                "to_date": "",
+                "description": "Aviser: Berlingske Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "11",
+                "reference": "s. 148",
+                "to_date": "",
+                "description": "For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O.Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-09-28",
+                "order": "19",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "9",
+                "reference": "s. 154",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J.J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-09-17",
+                "order": "17",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug,"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-06-02",
+                "order": "22",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "8",
+                "reference": "s. 92",
+                "to_date": "",
+                "description": "Modum i malerkunsten vår",
+                "place": "Drammen",
+                "authors": [
+                    "Kongsrud, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-05-29",
+                "order": "20",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "6",
+                "reference": "s. 92, 98–99",
+                "to_date": "",
+                "description": "Lillehammer 1827–1927, Festskrift",
+                "place": "Lillehammer",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-01-14",
+                "order": "24",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "4",
+                "reference": "bd. 2, s. 549",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "12",
+                "reference": "s. 137",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "2",
+                "reference": "bd. 2, s. 359",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "14",
+                "reference": "bd. 6, s. 285",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des E. Bénézit: DictiPeintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "10",
+                "reference": "register s. 277 (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Karl Konow",
+    "url": "https://nkl.snl.no/Karl_Konow",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>K. vokste opp i Vang i Valdres, hvor faren var prost. Naturen i Vang betok ham sterkt og var en medvirkende årsak til at han valgte å bli kunstner. Etter artium i 1883 begynte K. etter familiens ønske å studere jus. På grunn av dårlig hørsel drog han til Halle for behandling, og da benyttet han anledningen til å studere malerkunst en kort periode under Leopold von Kalckreuth i Weimar. Etter endt juridikum i 1889, la K. jusen på hyllen for godt og viet seg til kunsten. I de følgende årene oppholdt K. seg i utlandet, hvor han mottok undervisning i Paris og München. Han holdt flere separatutstillinger og deltok jevnlig på kollektivutstillinger i inn- og utland. K. malte både landskaper og portretter. Til å begynne med arbeidet han innenfor det naturalistiske friluftsmaleri, men i 1890-årene sluttet han seg til den nyromantiske retningen. I denne perioden forsøkte han seg også med religiøs-symbolistiske komposisjoner, som f.eks. <em>Ved himmelens port</em> og <em>Adam og Eva</em>. K. arbeidet langsomt, og hans produksjon er derfor beskjeden. I 1917 ble K. rammet av en øyensykdom og ble nesten blind. Etter en operasjon i 1921 fikk han noe syn tilbake, men ikke tilstrekkelig til å gjenoppta malingen. K. var en dyktig skribent og skrev artikler for en rekke aviser, dessuten selvbiografien Adam Bøøks øine (1925).</p></div>",
+    "created_at": "2013-07-04T01:10:06.992+02:00",
+    "changed_at": "2024-06-18T23:26:19.223+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2164\",\"https://digitaltmuseum.no/2fb0d7ca-3741-47a9-9669-35058fd3ed25\",\"http://kulturnav.org/2fb0d7ca-3741-47a9-9669-35058fd3ed25\"]",
+        "lastname": "Konow",
+        "firstname": "Karl",
+        "birth_date": "4.9.1865",
+        "birthplace": "Sør-Aurdal",
+        "death_date": "13.1.1928",
+        "external_id": "person_8736ab2164",
+        "kulturnav_id": "2fb0d7ca-3741-47a9-9669-35058fd3ed25",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Aaserud"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

@@ -1,0 +1,862 @@
+{
+    "id": 417138,
+    "headword": "Lubos Hruza",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "scenograf"
+            }
+        ],
+        "others": {},
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103644",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "František",
+                "lastname": "Hruza",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103645",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kristina",
+                "lastname": "Kopecka",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab1763",
+                "birth_date": "02.12.1946",
+                "death_date": "",
+                "firstname": "Madla",
+                "lastname": "Hruza",
+                "professions": [
+                    "designer",
+                    "scenograf"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Universitetet i Brno, billedkunst og pedagogikk, under professor Edward Millen 1953–55",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstakademiet i Praha, scenografi og arkitektur, under professor František Tröster 1956–59",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "7",
+                "description": "Italia 1980"
+            },
+            {
+                "order": "1",
+                "description": "Sveits 1970"
+            },
+            {
+                "order": "5",
+                "description": "Nederland 1976/77"
+            },
+            {
+                "order": "6",
+                "description": "Sverige 1979"
+            },
+            {
+                "order": "2",
+                "description": "Japan 1971"
+            },
+            {
+                "order": "0",
+                "description": "Opphold i England 1970, -71, -72, -78"
+            },
+            {
+                "order": "4",
+                "description": "Danmark 1975, -79"
+            },
+            {
+                "order": "3",
+                "description": "Tyskland 1974"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "scenograf ved Teatret Petra Bezruce, Ostrava 1959–64"
+            },
+            {
+                "order": "4",
+                "description": "Foreleser ved Maidstone College of Art, Kent, England 1971–72"
+            },
+            {
+                "order": "3",
+                "description": "scenograf ved Nationaltheatret 1968–72, sjefscenograf fra 1972"
+            },
+            {
+                "order": "6",
+                "description": "Medlem av Norske Scenografer og av PEN-klubben"
+            },
+            {
+                "order": "0",
+                "description": "Skuespiller ved regionteatret Jihlava/Horacke divadlo, Tsjekkoslovakia 1952–53"
+            },
+            {
+                "order": "2",
+                "description": "sjefscenograf ved Cinoherni Klub teatret, Praha 1964-69"
+            },
+            {
+                "order": "5",
+                "description": "Medlem av SCDU (Teaterkunstforbundet) og SCVU (Billedkunstforbundet) i Tsjekkoslovakia til 1969"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Teaterkritikerprisen 1978/79 for scenografien til John Gabriel Borkman"
+            },
+            {
+                "order": "0",
+                "description": "Sølvmedalje ved Praha-kvadriennalen 1967"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "teatersamlingen, Universitetsbiblioteket, Oslo"
+            }
+        ],
+        "performed_productions": {},
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Plakater og programmer til egne forestillinger, hovedsakelig i Tsjekkoslovakia"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Sentrum, Oslo",
+                "from_date": "1982",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "4",
+                "to_date": "",
+                "title": "Praha-kvadriennalen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "3",
+                "to_date": "",
+                "title": "Praha-kvadriennalen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Atelieret dp, Oslo",
+                "from_date": "1982",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "5",
+                "to_date": "",
+                "title": "Praha-kvadriennalen",
+                "comment": "(vandreutst. til flere europeiske land)"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerhuset, Ostrava, Tsjekkoslovakia",
+                "from_date": "1963",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "6",
+                "to_date": "",
+                "title": "Norske scenografers jubileumsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Acanthus, Oslo",
+                "from_date": "1982",
+                "order": "8",
+                "to_date": "",
+                "title": "Scenografi"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1977",
+                "order": "7",
+                "to_date": "",
+                "title": "Norsk scenografi i dag"
+            }
+        ],
+        "portraits": {},
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975-03-21",
+                "order": "28",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thagaard, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-05-19",
+                "order": "38",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Wiik, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-02-25",
+                "order": "33",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Pierstorff, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "(u. å., upag.) (ill.)",
+                "order": "0",
+                "to_date": "",
+                "description": "Divadlo Petra Bezruce 1945–70",
+                "place": "Ostrava",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-11-11",
+                "order": "29",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-02-26",
+                "order": "24",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thagaard, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "10",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Henrik Ibsen, mennesket og kunstneren",
+                "place": "Oslo",
+                "authors": [
+                    "Haakonsen, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-09-24",
+                "order": "19",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Eidem,"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-02-06",
+                "order": "23",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hurum, H. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-06-12",
+                "order": "39",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Pierstorff, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-03-24",
+                "order": "15",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-08-29",
+                "order": "43",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "4",
+                "reference": "nr. 16, s. 6 (ill.)",
+                "to_date": "1975",
+                "description": "Da Capo",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "utg. av Den Norske Opera"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "8",
+                "reference": "bd. 6, s. 34",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-21",
+                "order": "48",
+                "to_date": "",
+                "description": "i Bergens Arbeiderbladet",
+                "authors": [
+                    "Breivik, Th."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-07",
+                "order": "37",
+                "to_date": "",
+                "description": "Evening Post",
+                "place": "Nottingham",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-03-21",
+                "order": "27",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Nordraa, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-03",
+                "order": "32",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Calmeyer, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "1",
+                "reference": "(upag.) (ill.)",
+                "to_date": "",
+                "description": "Designers of the Czechoslovak Theatres 1960–70",
+                "place": "Praha",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "11",
+                "reference": "bd. 17, s. 320",
+                "to_date": "",
+                "description": "Dictionary of International Biography",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-09-28",
+                "order": "22",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Eidem, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-08-28",
+                "order": "42",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "5",
+                "to_date": "",
+                "description": "Nationaltheatret 1949–1974",
+                "place": "Oslo",
+                "authors": [
+                    "Rønneberg, A."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971-03-29",
+                "order": "16",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Anderssen, O. -S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-07-23",
+                "order": "52",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03-11",
+                "order": "47",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Arntzen, A. O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-06-08",
+                "order": "31",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thagaard, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03-21",
+                "order": "46",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Wiik, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-01-21",
+                "order": "36",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "2",
+                "reference": "nr. 1 (ill.)",
+                "to_date": "",
+                "description": "Nationaltheatrets sceneste",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-06",
+                "order": "26",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Torsteinson, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "katalog Galleri Sentrum",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-09-26",
+                "order": "21",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-05",
+                "order": "41",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Anderssen, O. -S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "6",
+                "reference": "s. 106-07 (ill.)",
+                "to_date": "",
+                "description": "Scenografi. Omkring Lubos Hruzas arbeider, Byggekunst",
+                "authors": [
+                    "Norberg-Schulz, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-02-19",
+                "order": "13",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Anderssen, O.-S."
+                ],
+                "comments": [
+                    "Aviser"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971-05-27",
+                "order": "17",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thagaard, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-05-27",
+                "order": "51",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Anderssen, O. -S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-01",
+                "order": "45",
+                "to_date": "",
+                "description": "i Arbetet",
+                "place": "Malmö",
+                "authors": [
+                    "T. Kaplan"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "3",
+                "reference": "nr. 7, s. 6-7 (ill.)",
+                "to_date": "1973",
+                "description": "Da Capo",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "utg. av Den Norske Opera"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-27",
+                "order": "35",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Pierstorff, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-02-05",
+                "order": "30",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-10-01",
+                "order": "25",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thagaard, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-14",
+                "order": "49",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hurum, H. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-06",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "reference": "utg. av Norsk Teaterunion, (u. å.) s. 39-40 (ill.), 50 (ill.)",
+                "to_date": "",
+                "description": "Theatre in Norway 1979",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "7",
+                "reference": "s. 250",
+                "to_date": "",
+                "description": "Who is who in Opera?",
+                "place": "New York",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-05",
+                "order": "40",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Calmeyer, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-09-12",
+                "order": "14",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thagaard, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-09-15",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Calmeyer, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-06-03",
+                "order": "18",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-05-27",
+                "order": "50",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Pierstorff, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-19",
+                "order": "44",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Anderssen, O. -S."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Lubos Hruza",
+    "url": "https://nkl.snl.no/Lubos_Hruza",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>H. arbeidet som scenograf og maler i Tsjekkoslovakia fra 1956, en sesong også som skuespiller. Han var i fem år knyttet til Teatret Petra Bezruce i Ostrava, hvor han var scenograf for vel 30 forestillinger. Sammen med bl.a. regissøren Jan Kacer, som han hadde samarbeidet med i Ostrava, var han i 1965 en av grunnleggerne av Cinoherni Klub teatret i Praha. Ved denne scenen, som kom til å innta en sentral stilling i tsjekkisk teater, ble han sjefscenograf. I 1968 gjestet H. Nationaltheatret som scenograf under oppsetningen av Raskolnikov. Forholdene i hans hjemland gjorde at han ble boende i Norge hvor han ble scenograf, senere sjefscenograf ved Nationaltheatret. Her har han med sin bakgrunn i det rike tsjekkiske teatermiljøet brakt noe nytt inn i norsk teater. H.s utdannelse som arkitekt avspeiler seg tydelig i hans løsninger. Hans scenebilder er romkunst av en nesten suggestiv karakter. Med forskjellige virkemidler kan han bevisst løse opp rommet, samtidig som han setter inn noen få karakteriserende enkeltgjenstander. Med dette sterkt forenklete, nesten fortettete uttrykk søker han å understreke skuespillenes evig gyldige budskap. Han er da også først og fremst en tolker av de store klassiske dramaer. Blant hans mange oppsetninger på Nationaltheatret kan nevnes W. Shakespeare: King Lear (1971), En sommernattsdrøm (1973), Helligtrekongersaften (1976); A.P. Tsjekov: Kirsebærhaven (1971); Henrik Ibsen: Byggmester Solness (1969), Hedda Gabler (1971), Peer Gynt (1975), Fruen fra havet (1977), Brand (1978), John Gabriel Borkman (1979); J.C.F. Schiller: Don Carlos (1980). For Den Nationale Scene har H. satt opp Henrik Ibsen: Vildanden (1974) og John Gabriel Borkman (1981, -82), Pavel Kohout: Maria kjemper med englene (1982) og A.P. Tsjekov: Tre søstre (1982); for Trøndelag Teater Ole Brumm (1977); for Riksteatret Gogol: Revisoren (1977) og Aleksej Abruzov: Det hendte i Riga (1979), for Rogaland Teater L. Holberg: Jeppe på berget (1978); for Den Norske Opera Puccini: Gianni Schicchi/Kappen (1973), Donizetti: Don Pasquale (1974), Zoltán Kodály: Hary Janos (1975), Puccini: Tosca (1976) og Richard Strauss: Arabella (1981).</p>\n<p>H. har vunnet verdensry for sine oppsetninger og har gjestet mange utenlandske scener, bl.a. Royal Shakespeare Company, Stratford - on - Avon (1972). H. har arbeidet med film og fjernsyn både i Tsjekkoslovakia og i Norge. Sammen med sin hustru hadde han i 1979 scenografien til Anja Breiens film Arven. Blant hans oppsetninger for Fjernsynsteatret kan fremheves August Strindberg: Kameratene (1972) og Kåre Kolberg: Tivoli (1974).</p>\n<p>Som maler anvender H. flere teknikker. Mens han tidligere benyttet et ekspressivt formspråk, har hans bilder etter hvert blitt lysere og mykere. Hans mange akvareller fra Nordmarka og Venezia eier en følsom, lyrisk tone.</p>\n</div>",
+    "created_at": "2013-07-03T19:45:21.299+02:00",
+    "changed_at": "2024-06-18T23:25:59.360+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1762\",\"https://digitaltmuseum.no/c7847329-a3b1-4ff1-9658-210bd3d045a5\",\"http://kulturnav.org/c7847329-a3b1-4ff1-9658-210bd3d045a5\"]",
+        "lastname": "Hruza",
+        "firstname": "Lubos",
+        "birth_date": "28.3.1933",
+        "birthplace": "Jihlava, Tsjekkoslovakia",
+        "death_date": "2.12.2008",
+        "external_id": "person_8736ab1762",
+        "kulturnav_id": "c7847329-a3b1-4ff1-9658-210bd3d045a5",
+        "place_of_death": "Praha, Tsjekkia",
+        "alternative_names": "Hruza, Lubomir"
+    },
+    "authors": [
+        {
+            "full_name": "Sigrid Rømcke Thue"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "CC BY SA 4.0",
+            "standard_size_url": "https://media.snl.no/media/277575/standard_Attest.jpg",
+            "full_size_url": "https://media.snl.no/media/277575/Attest.jpg",
+            "xhtml": "<div>Hruzas scenografi til de tsjekkiske forfatterne Pavel Kohout og Václav Havels enaktere <em>Attest</em> og <em>Protest</em>. Nationaltheatret 1980.</div>",
+            "type": "image",
+            "heading": "Lubos Hruza",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "CC BY SA 4.0",
+            "standard_size_url": "https://media.snl.no/media/277591/standard_Sommernattsdrøm.jpg",
+            "full_size_url": "https://media.snl.no/media/277591/Sommernattsdrøm.jpg",
+            "xhtml": "<div>Scene fra <em>En sommernattsdrøm</em>. Nationaltheatret 1973.</div>",
+            "type": "image",
+            "heading": "Lubos Hruza",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "scenograf"
+        }
+    ]
+}

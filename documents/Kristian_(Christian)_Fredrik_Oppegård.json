@@ -1,0 +1,656 @@
+{
+    "id": 430310,
+    "headword": "Kristian (Christian) Fredrik Oppegård",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106121",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gustava Katinka",
+                "lastname": "Mathiesen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106120",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Christian Fredrik",
+                "lastname": "Oppegaard",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "André Lhotes og Vassilï Ivanovitch Choukhaieffs malerskoler, Paris 1924–25",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole under Johan Nordhagen",
+                "order": "0"
+            },
+            {
+                "comment": "Académie Julian, Paris under Jean Paul Laurens 1912",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Kristiania tegneklassen under Halfdan Strøm 1913–14",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Statens kunstnerstipend"
+            },
+            {
+                "order": "2",
+                "description": "Schäffers legat 1931, -32"
+            },
+            {
+                "order": "1",
+                "description": "Unge Kunstneres Samfunn arbeidsstipend 1929"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1916, -17"
+            },
+            {
+                "order": "8",
+                "description": "Paris 1924–25"
+            },
+            {
+                "order": "4",
+                "description": "Studieopphold i Paris 1912"
+            },
+            {
+                "order": "6",
+                "description": "Stockholm 1917"
+            },
+            {
+                "order": "5",
+                "description": "København 1912–13, 1918–19"
+            },
+            {
+                "order": "7",
+                "description": "Tyskland 1922–24"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Kunstanmelder i Fritt Folk 1940–45"
+            },
+            {
+                "order": "1",
+                "description": "Varamann Bildende Kunstneres Styre 1937–39"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Innkjøpt av Hilmar Rekstens samling, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo (1 radering)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "lege og antropolog Anette Schreiner, f. Falch, Blindern Studenterhjem, Oslo (olje)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Portrett av overlege Severin Anton Heyerdahl, Rikshospitalet (olje, 1930)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Årsmappe Norsk Forening for Grafisk Kunst 1916"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1924",
+                "order": "14",
+                "to_date": "",
+                "title": "Nordisk grafik"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1928",
+                "order": "16",
+                "to_date": "",
+                "title": "Exhibition of Norwegian Art"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riga",
+                "from_date": "1934",
+                "order": "20",
+                "to_date": "",
+                "title": "Den offisielle norske kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1942",
+                "order": "24",
+                "to_date": "",
+                "title": "Hirdkunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "8",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1929",
+                "order": "6",
+                "to_date": "1930",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1919",
+                "order": "11",
+                "to_date": "",
+                "title": "juleutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1915",
+                "order": "9",
+                "to_date": "",
+                "title": "De frie unge"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1918",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1937",
+                "order": "23",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1917",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1931",
+                "order": "18",
+                "to_date": "",
+                "title": "Secession Norwegische Kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1935",
+                "order": "21",
+                "to_date": "1936",
+                "title": "Unge Kunstneres Samfunn"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1931",
+                "order": "17",
+                "to_date": "",
+                "title": "sommerutstilling"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1913",
+                "order": "5",
+                "to_date": "1917",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Budapest",
+                "from_date": "1931",
+                "order": "19",
+                "to_date": "",
+                "title": "Secession Norwegische Kunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1925",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1932",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon d'Automne, Paris",
+                "from_date": "1924",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1922",
+                "order": "12",
+                "to_date": "",
+                "title": "Norske grafikere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1914",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1916",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1927",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1935",
+                "order": "22",
+                "to_date": "",
+                "title": "Professorkonkurransen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1929",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1915-04-21",
+                "order": "3",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "22",
+                "reference": "s. 395",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-15",
+                "order": "1",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-02-07",
+                "order": "10",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-12-04",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-12-05",
+                "order": "13",
+                "to_date": "",
+                "description": "i Norske Intelligenssedler",
+                "authors": [
+                    "Soot, P. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-06-11",
+                "order": "7",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "15",
+                "reference": "s. 99",
+                "to_date": "",
+                "description": "Om grafisk kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Willums, O.",
+                    "Ingebretsen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "20",
+                "reference": "s. 116",
+                "to_date": "",
+                "description": "Streiftog og glimt fra Kunstnerforbundets første 50 år",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-06-03",
+                "order": "5",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "17",
+                "reference": "register s. 10",
+                "to_date": "",
+                "description": "Norske grafikere i det tyvende århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Sinding-Larsen, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-14",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-19",
+                "order": "2",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "23",
+                "reference": "s. 171",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-02-08",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-12-08",
+                "order": "14",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-06-05",
+                "order": "6",
+                "to_date": "",
+                "description": "Norske Intelligenssedler",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-02-03",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-16",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Krig og Fred",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "19",
+                "reference": "s. 278",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "18",
+                "reference": "s. 188 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "24",
+                "reference": "s. 232",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-23",
+                "order": "4",
+                "to_date": "",
+                "description": "i Ukens Revy",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "21",
+                "reference": "s. 149",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "16",
+                "reference": "bd. 16, s. 29",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Kristian (Christian) Fredrik Oppegård",
+    "url": "https://nkl.snl.no/Kristian_(Christian)_Fredrik_Oppeg%C3%A5rd",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\r\n<p>O. malte landskaper, portretter og genrebilder. Han oppnådde tidlig en utpreget teknisk dyktighet, og hans bilder fra 1918–19 kan minne om arbeider av samtidige malere som Charles W. Strøm, Søren Onsager og Harald Sohlberg. O. foretrakk kjølige farger, rolige flater og klare linjer. De grafiske arbeider var som oftest menneskestudier, som <em>Fremmed </em>(radering, 1916).</p>\r\n</div>",
+    "created_at": "2014-11-20T12:46:50.254+01:00",
+    "changed_at": "2024-06-18T23:27:54.734+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3027\",\"https://digitaltmuseum.no/0bcc9030-c86c-496e-bcd4-153e752b8552\",\"http://kulturnav.org/0bcc9030-c86c-496e-bcd4-153e752b8552\"]",
+        "lastname": "Oppegård",
+        "firstname": "Kristian (christian) Fredrik",
+        "birth_date": "21.3.1887",
+        "birthplace": "Enebakk",
+        "death_date": "27.10.1955",
+        "external_id": "person_8736ab3027",
+        "kulturnav_id": "0bcc9030-c86c-496e-bcd4-153e752b8552",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

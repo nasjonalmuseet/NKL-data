@@ -1,0 +1,463 @@
+{
+    "id": 418179,
+    "headword": "Anne Mariendal",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": {},
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105318",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Herman",
+                "lastname": "Mariendal",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105319",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna",
+                "lastname": "Flathaug",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Sørvågen på Moskenes"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Reidar Aulie og Halvdan Ljøsne 1968-73",
+                "order": "1"
+            },
+            {
+                "comment": "Elev av Rolf Schønfeld 1965–66",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "Studiereiser til Stockholm"
+            },
+            {
+                "order": "7",
+                "description": "Ibiza"
+            },
+            {
+                "order": "1",
+                "description": "Th. Fearnleys Minnestipend II 1971"
+            },
+            {
+                "order": "5",
+                "description": "København"
+            },
+            {
+                "order": "2",
+                "description": "Statens etableringsstipend 1976, -79"
+            },
+            {
+                "order": "9",
+                "description": "Nederland"
+            },
+            {
+                "order": "8",
+                "description": "Italia"
+            },
+            {
+                "order": "6",
+                "description": "London"
+            },
+            {
+                "order": "0",
+                "description": "Hans Ødegaards legat 1970"
+            },
+            {
+                "order": "3",
+                "description": "Nordland fylkes kulturstipend og etableringsstipend"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "0",
+                "description": "Lærer Studentersamfundets Fri Undervisning i Moskenes 1978"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "3",
+                "description": "Nord-Norske Bildende Kunstnere"
+            }
+        ],
+        "awards": {},
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Tromsø Lufthavn"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Høybuktmoen militærleir (1980)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Porsangermoen militærforlegning"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Maskinførerskolen på Vikeid (alle under arbeid i 1982)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Svolvær rådhus"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Vestvågøy Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Psykiatrisk klinikk, Bodø"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Regionssykehuset, Tromsø"
+            }
+        ],
+        "performed_productions": {},
+        "illustrations": {},
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Festspillene i Nord-Norge",
+                "from_date": "1978",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Haugtussa, Haugesund",
+                "from_date": "1979",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Samorganisasjonen for kunstformidling i Nord-Norge, vandreutstilling",
+                "from_date": "1978",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Mejan, Stockholm",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frysja Bruk, Oslo",
+                "from_date": "1971",
+                "order": "5",
+                "to_date": "",
+                "title": "5 kunstnere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "3",
+                "to_date": "1980",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1978",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Norges veterinærhøgskole, Oslo",
+                "from_date": "1973",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge nordnorske kunstnere",
+                "from_date": "1979",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tromsø Kunstforening",
+                "from_date": "1979",
+                "order": "12",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1974",
+                "order": "7",
+                "to_date": "",
+                "title": "juniutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Malmö",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": "",
+                "title": "Nordiska kvinnor, tecknare och målare"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1977",
+                "order": "8",
+                "to_date": "",
+                "title": "Nord-Norske Bildende Kunstnere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. HH, Lillehammer",
+                "from_date": "1981",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstfestivalen, Brevik",
+                "from_date": "1971",
+                "order": "6",
+                "to_date": ""
+            }
+        ],
+        "portraits": {},
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1978-09-27",
+                "order": "6",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-22",
+                "order": "5",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "0",
+                "reference": "s. 127",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "1",
+                "reference": "s. 63",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-30",
+                "order": "7",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-21",
+                "order": "4",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-16",
+                "order": "3",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-30",
+                "order": "8",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-04-24",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Lofotposten",
+                "authors": [
+                    "Bakke, D."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-15",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "9",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Anne Mariendal",
+    "url": "https://nkl.snl.no/Anne_Mariendal",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>M. flyttet i 1975 til Lofoten og fant her motivene til sine nyromantiske stemningsmalerier. Hun er opptatt av de skiftende værforhold, særlig skodde og tåke, i det storslåtte landskap med fjell og hav og små hus. Bildene er stort sett holdt i mørke gråtoner med jordfarger i grønt, oker og umbra, og er malt i en nitid, utpenslet strøkteknikk. M. foretrekker det lille format. Hun maler også portretter.</p></div>",
+    "created_at": "2013-07-04T08:31:02.966+02:00",
+    "changed_at": "2024-06-18T23:26:28.911+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2553\",\"https://digitaltmuseum.no/c9ffb14e-62b2-4487-90fd-ff349de78cf1\",\"http://kulturnav.org/c9ffb14e-62b2-4487-90fd-ff349de78cf1\"]",
+        "lastname": "Mariendal",
+        "firstname": "Anne",
+        "birth_date": "16.1.1948",
+        "birthplace": "Gjøvik",
+        "external_id": "person_8736ab2553",
+        "kulturnav_id": "c9ffb14e-62b2-4487-90fd-ff349de78cf1"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20298/standard_NMK-B_MS-02667-198820150528-17392-cvlbr3.jpg",
+            "full_size_url": "https://media.snl.no/media/20298/NMK-B_MS-02667-198820150528-17392-cvlbr3.jpg",
+            "xhtml": "<div><p><i>Lofotenlandskap I</i>. 1976</p></div>",
+            "type": "image",
+            "heading": "Anne Mariendal",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20299/standard_NMK-B_MS-03422-198820150528-17392-au5a2m.jpg",
+            "full_size_url": "https://media.snl.no/media/20299/NMK-B_MS-03422-198820150528-17392-au5a2m.jpg",
+            "xhtml": "<div><p><i>Skodde, Tind</i>. 1979</p></div>",
+            "type": "image",
+            "heading": "Anne Mariendal",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

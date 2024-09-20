@@ -1,0 +1,292 @@
+{
+    "id": 417644,
+    "headword": "Livja Flood",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "forfatter"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102221",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "John Andreus Heitmann",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab102223",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Leonardo",
+                "lastname": "Bounatian-Benatov",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102222",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lilly Augusta",
+                "lastname": "Flood",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Frankrike"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Elev av Edvarda Lie",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Leonardo Bounatian-Benatov i Paris",
+                "order": "3"
+            },
+            {
+                "comment": "kunsthistoriestudier ved École du Louvre ca. 1934",
+                "order": "1"
+            },
+            {
+                "comment": "La grande Chaumière, Paris",
+                "order": "2"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Association Nationale Lettres, Art, Musique"
+            },
+            {
+                "order": "3",
+                "description": "jurymedlem i Le Grand Prix International de Peinture, Deauville fra 1975"
+            },
+            {
+                "order": "0",
+                "description": "Liaison des Artistes Peintres et Amateurs d'Art"
+            },
+            {
+                "order": "1",
+                "description": "Association des Artistes de France et Outre Mer"
+            }
+        ],
+        "awards": [
+            {
+                "order": "3",
+                "description": "Inscrit au palmares I setti colli de Roma Grand Finaliste, Grand Prix de Cote d'Azure"
+            },
+            {
+                "order": "2",
+                "description": "Prix de Portrait, Deauville"
+            },
+            {
+                "order": "0",
+                "description": "Grand Prix International de Peinture, Vichy 1963"
+            },
+            {
+                "order": "1",
+                "description": "Mention-Prix des Artistes Etrangères, Vichy"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1978",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fiskernes Bank, Tromsø",
+                "from_date": "1974",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø Sparebank",
+                "from_date": "1979",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Palais New York, Paris",
+                "from_date": "1951",
+                "order": "9",
+                "to_date": "",
+                "title": "Salon Nationale des Beaux Arts"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø Museum",
+                "from_date": "1969",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. René Borel, Deauville",
+                "from_date": "1975",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "La Caverne Des Arts, Chantilly",
+                "from_date": "1975",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Casino de Cannes",
+                "from_date": "1977",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1950",
+                "order": "11",
+                "to_date": "1978",
+                "title": "Salon des femmes peintres et sculpteurs"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Paletten, Oslo",
+                "from_date": "1959",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1963",
+                "order": "10",
+                "to_date": "",
+                "title": "Salon d'Automne"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Casino de Cannes",
+                "from_date": "1976",
+                "order": "5",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1978-06-30",
+                "order": "1",
+                "to_date": "",
+                "description": "i Sandefjords Blad",
+                "authors": [
+                    "Willumsen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-07",
+                "order": "2",
+                "to_date": "",
+                "description": "i La Revue Moderne",
+                "place": "Paris",
+                "authors": [
+                    "Clermont, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "0",
+                "reference": "s. 197",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Livja Flood",
+    "url": "https://nkl.snl.no/Livja_Flood",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>F. debuterte som maler på Société National des Beaux Art, Grand Palais, Paris i 1950. Hun har reist mye i Europa, Afrika, Sør-Amerika og har arbeidet som journalist og utgitt bøker i Frankrike og Tyskland. F. maler portretter og landskap med motiver fra bl.a. Norge, Frankrike og Brasil.</p></div>",
+    "created_at": "2013-07-03T22:58:03.241+02:00",
+    "changed_at": "2024-06-18T23:26:14.474+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1083\",\"https://digitaltmuseum.no/1fbd6711-1e14-4513-9041-0463b2534358\",\"http://kulturnav.org/1fbd6711-1e14-4513-9041-0463b2534358\"]",
+        "lastname": "Flood",
+        "firstname": "Livja",
+        "birth_date": "17.8.1909",
+        "birthplace": "Tromsø",
+        "death_date": "0.0.1995",
+        "external_id": "person_8736ab1083",
+        "kulturnav_id": "1fbd6711-1e14-4513-9041-0463b2534358",
+        "place_of_death": "Frankrike",
+        "alternative_names": "Olsen, Liv-Ingebjørg"
+    },
+    "authors": [
+        {
+            "full_name": "Ingeborg Wikborg"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "CC BY NC ND 4.0",
+            "standard_size_url": "https://media.snl.no/media/177825/standard_Flood_Livja.jpg",
+            "full_size_url": "https://media.snl.no/media/177825/Flood_Livja.jpg",
+            "xhtml": "<div>Livja Flood. Foto 1960.</div>",
+            "type": "image",
+            "heading": "Livja Flood",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "forfatter"
+        }
+    ]
+}

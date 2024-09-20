@@ -1,0 +1,393 @@
+{
+    "id": 417548,
+    "headword": "Iver Iversen Jåks",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "billedhugger"
+            },
+            {
+                "description": "kunsthåndverker"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108418",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Iver Andersen",
+                "lastname": "Joks",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab108420",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Inger Karen Johanne",
+                "lastname": "Nielsen",
+                "professions": [
+                    "kunsthåndverker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108419",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kirsten Andersdatter",
+                "lastname": "Guttorm",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "Karasjok"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Hospitant Statens Håndverks- og Kunstindustriskole, Oslo under bl.a. Thorbjørn Lie-Jørgensen, Karl Høgberg, Finn Faaborg og Kåre Wildhagen 1952 - 55",
+                "order": "1"
+            },
+            {
+                "comment": "Statens lærerskole i forming, Notodden 1955 - 56",
+                "order": "2"
+            },
+            {
+                "comment": "hospitant kunstakademiet i København under Søren Hjorth-Nielsen og Axel Jensen 1958 - 59 og studier i kunsthistorie under R. Broby-Johansen",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Schäffers legat 1958"
+            },
+            {
+                "order": "5",
+                "description": "Opphold i Danmark 1958 - 59"
+            },
+            {
+                "order": "2",
+                "description": "Statens 3-årige arbeidsstipend 1969 - 71 og 1972 - 74"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "3",
+                "description": "Nordkalottens kulturstipend 1970"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Medlem Nord-norske Bildende Kunstnere, nestformann 1971 - 76"
+            },
+            {
+                "order": "2",
+                "description": "kunstnerisk konsulent for flere offentlige bygg"
+            },
+            {
+                "order": "5",
+                "description": "medlem utredningskomité for utdannelse av bildende kunstnere i Nord-Norge 1979"
+            },
+            {
+                "order": "4",
+                "description": "medlem interimstyret Norske Billedkunstneres Fagorganisasjon 1975"
+            },
+            {
+                "order": "1",
+                "description": "Formgiver hos gullsmed Mikkelborg, Notodden 1955 - 57"
+            }
+        ],
+        "awards": [
+            {
+                "order": "3",
+                "description": "Tromsø Kunstforening jub. gave 1974"
+            },
+            {
+                "order": "5",
+                "description": "Kirke- og undervisningsdep. 1. pris for illustrasjon av barne- og ungdomsbøker 1977"
+            },
+            {
+                "order": "1",
+                "description": "Polarsirkelfestivalens kunstnerpris 1967"
+            },
+            {
+                "order": "4",
+                "description": "Norske Samers Riksforbunds ærespris 1977"
+            },
+            {
+                "order": "2",
+                "description": "Dagbladet Nordlys festspillpris 1972"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "relieff (1979) og skulptur (furu, 1981), Karasjok videregående skole"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Universitetet i Tromsø"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Sølv til Finnmarksbunaden (1962)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Bodø Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Tromsø og Kautokeino kommuner"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "teppe, Kulturhuset, Kautokeino (1980)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Alta Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "illustrasjoner, Samisk etnografisk avdeling, Tromsø Museum (1967 - 72)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "minnestein over John Savio, Vestre Gravlund, Oslo (1977)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Tromsø flyplass (1980)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "tekstiler, lysarmatur, Sjusja'vri kapell osv. (1972)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Nordisk konstcentrum, Sveaborg"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Norrbotten museum"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "modeller, samisk håndverk, Karasjok produkter"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Kirkenes sykehus (1978)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "relieff, De samiske samlinger, Karasjok (betong, 1970)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "E.H. Eriksen: Samisk-Norsk lesebok, 2. bd., Oslo 1965 - 70"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "J. Jernsletten: Galka, Oslo 1976 og Borta, Oslo 1977"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Lávllagirji (sangbok), Oslo 1975"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Ottar Bondevik: Under Nordkalotten, Oslo 1968"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "M. Mikkelsen: Kautokeinopprøret, Nordnorsk magasin 1978, Stonglandseidet 1978"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Nord-Norge, Oslo 1974"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "N. Jernsletten: Dajahusat, Oslo 1976"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "P. Jalvi og A. Larsen: Sátnedáidu, Oslo 1969"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Gløtt fra Tromsø Museum, Tromsø 1969 og 1970"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "M. Aikio: I dyreskinn, Oslo 1975 og Bygda på Elveneset, Oslo 1976"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Nord-norsk kunst 1975"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Barneårets informasjonsskrifter 1982"
+            }
+        ],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Iver Iversen Jåks",
+    "url": "https://nkl.snl.no/Iver_Iversen_J%C3%A5ks",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>J. vokste opp i et reindriftssamfunn. Som 8-åring ble han skadet i en ulykke med kjørerein. Under det etterfølgende langvarige sykehusopphold begynte han å tegne, og i 1952 begynte han sin utdannelse som bildende kunstner. Han hospiterte i grafikk ved kunstakademiet i København, samtidig som han studerte kunsthistorie. Hans økende kunnskaper innen europeisk kulturhistorie forsterket hans samhørighet med den samiske kulturtradisjon. Fra 1959 drev han i flere år undervisning i tegning og hornsløyd, var formingslærer ved Den samiske folkehøyskole i Karasjok og arbeidet som samisk kunsthåndverker fram til slutten av 60-årene. </p>\n<p>Som grafiker foretrekker J. tresnittet med dets materialegenskaper og muligheter. I tresnittet har han tatt opp aktuelle perspektiver, bl.a. i flere utgaver av <em>Homo sapiens</em>, med mannsfiguren som kjemper seg ut og opp av et tett ornament av marsjerende hjelmer. I J.s kunst er kvinnen som fruktbarhetssymbol et tilbakevendende tema. De myke feminine former hører til i den samiske formtradisjon, som en kontrast til karrigheten i landskapet. Den til dels voldsomme frodighet i J.s kvinneskikkelser knyttes ofte sammen med mytiske symboler fra den samiske ornamentikk og understreker både feminine og etniske karaktertrekk. Seriene av kulltegninger, som <em>Kvinnen og skaperens erotiske lek</em> og de mindre arbeider fra serien <em>Den sanselige</em> og <em>Min kravfulle sanselighet</em>, formidler en urkraft av robust og fortettet form. Fallosmotivet gjentas også stadig i J.s arbeider. Til foajeen på Den samiske videregående skole i Karasjok har han bl.a. fremstilt Kristus på korset sammen med en samisk guddom og med et overdimensjonert lem. Viktig i J.s motivkrets er bruken av samenes runebomme (spåtromme med mytiske symboler). I <em>Runebommens vesen</em> og <em>Runebommens hammer</em> (begge messing) er symbolene stilisert i en organisk masse og innesluttet i avrundede messingformer. </p>\n<p>I enkelte grupper skulpturarbeider kommer tilhørigheten til samisk tradisjon tydelig fram. J. finner naturlig formede emner og bearbeider dem til en fallosfigur eller et urvesen, som <em>Offerpåle</em> og <em>Noaidens stav</em>, det siste et fuglelignende vesen med snodde tråder av garvet reinsskinn. Hans skulpturarbeider omfatter også relieffer, til dels monumentale, som fondveggen på De samiske samlinger, og en 7,5 m høy furuskulptur utenfor Den samiske videregående skole (begge i Karasjok). Best kjent blant utsmykkingsoppgavene er illustrasjonene ved De samiske samlinger i Karasjok og Tromsø Museums etnografiske utstilling av samekulturen, for øvrig det første oppdrag J. fikk som kunstner (1967 - 72). </p>\n<p>J. har illustrert flere samiske lærebøker med enkle og morsomme tegninger for barn, og laget 40 akvareller til sine egne fortellinger. Han har dessuten vært aktiv i kulturlivet som foredragsholder og debattant. Med sin kulturbakgrunn er J. som kunstner blitt en eksponent for moderne samisk kunst med tilknytning til den vestlige kultur.</p>\n</div>",
+    "created_at": "2013-07-03T22:15:58.841+02:00",
+    "changed_at": "2024-06-18T23:26:10.919+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab108417\",\"https://digitaltmuseum.no/19d03c55-1c16-4e93-88a0-823db717e6d1\",\"http://kulturnav.org/19d03c55-1c16-4e93-88a0-823db717e6d1\"]",
+        "lastname": "Jåks",
+        "firstname": "Iver Iversen",
+        "birth_date": "25.10.1932",
+        "birthplace": "Karasjok",
+        "death_date": "17.3.2007",
+        "external_id": "person_8736ab108417",
+        "kulturnav_id": "19d03c55-1c16-4e93-88a0-823db717e6d1"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "billedhugger"
+        },
+        {
+            "description": "kunsthåndverker"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

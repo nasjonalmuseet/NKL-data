@@ -1,0 +1,529 @@
+{
+    "id": 417977,
+    "headword": "Brynjulf Larsson",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104847",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ludvig Gustav",
+                "lastname": "Larsson",
+                "professions": [
+                    "tegnelærer"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104848",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hilma",
+                "lastname": "Hansen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab104849",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Pauline",
+                "lastname": "Larsson",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Laurits Tuxen, København 1904",
+                "order": "3"
+            },
+            {
+                "comment": "Den kgl. Tegneskole, Kristiania",
+                "order": "0"
+            },
+            {
+                "comment": "kort tid elev av Erik Werenskiold og Harriet Backer",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Henrichsens legat 1920"
+            },
+            {
+                "order": "3",
+                "description": "Studieopphold København 1904 og Paris"
+            },
+            {
+                "order": "1",
+                "description": "Hielmstierne Rosencrones legat 1906, -07"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1903, -04"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Overlærer Statens Håndverks- og Kunstindustriskole, Kristiania 1917–20"
+            },
+            {
+                "order": "2",
+                "description": "formann i Yngre Kunstneres Forening 1902–04"
+            },
+            {
+                "order": "1",
+                "description": "vignett-tegner i Tidens Tegn"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norges historie fremstillet for det norske folk, Kristiania 1909–17, bd. 1–13"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "H. Scheibler: Haandbog for enhver som har brug for tryksager, Kristiania 1912"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "H. Ibsen: Brand. Et dramatisk digt, Kristiania 1916"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Jørgen [Alf Harbitz]: O egtestand eller Hvad vil min kone si?, Kristiania 1916"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "K. Solum: Eventyr fra land og sjø, Kristiania 1915"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Jul i Norge, Kristiania 1913 og -21"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kungl. Akademien för de Fria Konsterna, Stockholm",
+                "from_date": "1904",
+                "order": "5",
+                "to_date": "",
+                "title": "Norska konstnärers arbeten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1905",
+                "order": "0",
+                "to_date": "1908",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1919",
+                "order": "7",
+                "to_date": "",
+                "title": "utstilling av konkurranseutkast til utsmykking av Bergen børs"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1901",
+                "order": "4",
+                "to_date": "",
+                "title": "Satiriske tegninger"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1917",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Brighton",
+                "from_date": "1913",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1910",
+                "order": "1",
+                "to_date": "1912",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Byste utført av Robert Dietrich (gips, 1904, Nasjonalgalleriet, Oslo)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1910-10-29",
+                "order": "0",
+                "to_date": "",
+                "description": "Kunst og publikum i Verdens Gang",
+                "authors": [
+                    "LARSSON, Sverre Brynjulf"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1912",
+                "order": "2",
+                "reference": "s. 159",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "1",
+                "to_date": "",
+                "description": "Ex Libris Zeitschrift",
+                "authors": [],
+                "comments": [
+                    "[upag.]"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "21",
+                "reference": "bd. 7, s. 485",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "20",
+                "reference": "bd. 6, s. 459–60",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit,E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "s. 102, 218",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "3",
+                "reference": "bd. 1, s. 2–11 (ill.)",
+                "to_date": "",
+                "description": "Brynjulf Larsson, Norsk bokkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Harbitz, Alf"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "16",
+                "reference": "bd. 3, s. 176",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "17",
+                "reference": "s. 127 (ill.)",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "18",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 12, spalte 176"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "15",
+                "reference": "bd. 22, s. 400",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "13",
+                "reference": "bd. 15, s. 471",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-09-14",
+                "order": "9",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "14",
+                "reference": "bd. 2, s. 349, 551",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-09-13",
+                "order": "7",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-09-14",
+                "order": "10",
+                "to_date": "",
+                "description": "Norske Intelligenssedler",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-09-16",
+                "order": "11",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Harbitz, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "6",
+                "reference": "s. 174–75",
+                "to_date": "",
+                "description": "i Norges haandverk",
+                "place": "Oslo",
+                "authors": [
+                    "Bull, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "12",
+                "reference": "s. 54–55 (ill.)",
+                "to_date": "",
+                "description": "i Foreningen Brukskunsts årbok",
+                "place": "(Kristiania",
+                "authors": [
+                    "Waldal, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "4",
+                "reference": "s. 196–200 (ill.)",
+                "to_date": "",
+                "description": "i Kunst og Kultur",
+                "authors": [
+                    "Lexow, E"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "5",
+                "reference": "hefte 4, s. 3–5 (ill.)",
+                "to_date": "",
+                "description": "i Tegnerforbundets årshefte",
+                "place": "(Kristiania",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-09-14",
+                "order": "8",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Brynjulf Larsson",
+    "url": "https://nkl.snl.no/Brynjulf_Larsson",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Alt fra tolvårsalderen var L. fast bestemt på å bli maler. Han fikk sin første undervisning av faren som var tegnelærer. L. hadde stort utbytte av elevtiden hos Erik Werenskiold, Harriet Backer og Laurits Tuxen, og senere kom fransk impresjonisme til å bety meget for ham. Han beundret Cézanne, Gauguin og van Gogh. I sine tidligere malerier var L. omhyggelig med detaljene, men etter hvert nærmet han seg impresjonismen, om enn i sin egen spesielle form. L.s motivkrets var landskaper, portretter og figurmaleri, men hans produksjon som maler er begrenset. Han deltok i konkurransen om utsmykkingen av Bergen børs og om glassmalerier til Trondheim domkirke. Det ble først og fremst som tegner og grafiker L. gjorde seg bemerket. Til å begynne med var han påvirket av den engelske tegner A.C. Beardsleys raffinerte linjestil. Senere ble han sterkt påvirket av Edv. Munch. Sporadisk forekommer også påvirkning fra japansk, persisk og indisk kunst. Han lærte også dessuten mye av eldre franske tegnere og grafikere. L. hadde en utpreget sans for komposisjon og det ornamentale. Hans formspråk var sterkt, djervt og ofte noe overlesset. I sine ungdomsarbeider var han kynisk og ironisk, men han utviklet seg etter hvert i lyrisk retning. Litografiet <em>Kvinne i landskap med blomstrende trær</em> (Nasjonalgalleriet, Oslo) har rike, bløte toner, alle nyanser i grått opp mot hvitt. L.s ironi kommer fram i raderingen <em>Karikatur</em> og i tegningene <em>Trio</em> og <em>Eva og djevelen</em> (alle Nasjonalgalleriet). L. var meget benyttet som bokkunstner. Som et hovedverk kan nevnes Norges historie fremstillet for det norske folk (1909–1917). Han utførte også en rekke bokomslag, som f.eks. det fint utsmykkede omslag til Hans E. Kinck: Den sidste gjæst. L var dessuten en fremragende plakattegner. Han laget bl.a. plakaten til Landbruksavdelingen ved Jubileumsutstillingen 1914 og en rekke karnevalsplakater for Kunstnerforeningen. Et forsøk på å skape kunstnerisk akseptable prospektkort var akvarellserien <em>Fra frihetsåret 1814</em>.</p></div>",
+    "created_at": "2013-07-04T04:17:25.373+02:00",
+    "changed_at": "2024-06-18T23:26:23.459+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2334\",\"https://digitaltmuseum.no/78633aef-fb1c-45c0-abb3-c6189ceb679b\",\"http://kulturnav.org/78633aef-fb1c-45c0-abb3-c6189ceb679b\"]",
+        "lastname": "Larsson",
+        "firstname": "Brynjulf",
+        "birth_date": "8.7.1881",
+        "birthplace": "Kristiania",
+        "death_date": "12.9.1920",
+        "external_id": "person_8736ab2334",
+        "kulturnav_id": "78633aef-fb1c-45c0-abb3-c6189ceb679b",
+        "place_of_death": "Trondheim",
+        "alternative_names": "Larsson, Sverre Brynjulf"
+    },
+    "authors": [
+        {
+            "full_name": "Sonja Hagemann"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

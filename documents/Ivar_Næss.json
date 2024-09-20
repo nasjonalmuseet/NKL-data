@@ -1,0 +1,505 @@
+{
+    "id": 430227,
+    "headword": "Ivar Næss",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106010",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Thorvald",
+                "lastname": "Næss",
+                "professions": [
+                    "skipsfører"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108746",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg Marie",
+                "lastname": "Asker",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106011",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Margit",
+                "lastname": "Arneberg",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "studier ved South Kensington Museum, London 1900–01",
+                "order": "2"
+            },
+            {
+                "comment": "Murerlære 1892–95",
+                "order": "0"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 1893–96",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Reise til Frankrike og England 1901"
+            },
+            {
+                "order": "2",
+                "description": "studiereise til Danmark og Sverige"
+            },
+            {
+                "order": "0",
+                "description": "Houens legat 1901"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "viseformann Bærum ligningsnemnd fra 1916, formann fra 1932"
+            },
+            {
+                "order": "0",
+                "description": "Styremedlem Oslo Arkitektforening"
+            },
+            {
+                "order": "5",
+                "description": "medlem fattigstyret 1928-33"
+            },
+            {
+                "order": "6",
+                "description": "helserådet og idrettsutvalget"
+            },
+            {
+                "order": "1",
+                "description": "jurymedlem for utdeling av Kongens gullmedalje for arkitektur i 10 år"
+            },
+            {
+                "order": "4",
+                "description": "viseformann Småbruk- og boligbankens arbeidsnemnd, Bærum 1912–31, formann 1931–34"
+            },
+            {
+                "order": "2",
+                "description": "medlem Bærums herredstyre 1920–25, deretter varamann, varamann formannskapet 1923–25"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "bad på Munkehagen"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "husmorskolen for Oppland, Bondelia, Gjøvik (1930-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Lilleaker gamlehjem"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Slemmestad kapell (1925)"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "Kristinelund vei 2 Oslo (1911)"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "Kråkerøy (1909)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Leiegårdene Bygdøy allé 69 og Rosenkrantz gt. 22, Oslo (ca. 1896–99, sistnevnte revet ca. 1916)"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Åssiden, Vårvn. 3, Drammen (1927)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Ullevål kino, Oslo (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Storsteigen, Alvdal"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "Jernbanestasjoner: Samtlige stasjoner på Åmli-Treungen-banen (åpnet 1913, nedlagt 1967)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Stabekk videregående skole med rektorbolig, Gamle Drammensvn. 15, Bærum (1922–23) etter konkurranse 1917"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Strand restaurant Holtekilen, Bærum, ombygd av Espen Poulsson"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "pleiehjemmet, Asker"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Sylling"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "Drammensvn. 109 C, Oslo (1912)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Jernbanegården, Lysaker, Bærum"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "Eidskog herredhus"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "Lier"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Melkeforsyningens gård, Vangsv. 23, Hamar (1918)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Gresvik, Onsøy (1925)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Holmen og Landøen Vel hus, Asker, brent"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Stabekk skoles gymnastikksalbygning, Gamle Ringeriksvn. 17 (1920-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Landbruksskoler: Buskerud gård, Modum, kontor og internatbygningen (1910–12)"
+            },
+            {
+                "from_date": "",
+                "order": "62",
+                "to_date": "",
+                "description": "1. premie bebyggelse av Elvarheim og Sverresborg for A/S Odda Egne Hjem, Hardanger (1913)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Aust-Agder, Bygland (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Hostvet, Ytre Sandsvær"
+            },
+            {
+                "from_date": "",
+                "order": "59",
+                "to_date": "",
+                "description": "Konkurranseprosjekter: Innkjøp møbeltegninger i Bergens Håndverks- og Industrifor.s konkurranse (1903)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Bøndernes hus, Sandvika, Bærum"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "Godskontorbygningen, Østbanestasjonen, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "57",
+                "to_date": "",
+                "description": "Langåsen, Bærum for skipsreder A. F. Klaveness (1912) sammen med Thorvald Astrup"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Fosnes i Vestfold"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "våningshus, Nordre Skude gård, Søndre Land (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Oppland, Storhove i Fåberg (1927), Valdres, Måno (1920–26)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Komnes, Ytre Sandsvær"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Lier (1907)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Ådal gravkapell.Skoler: Jansløkka folkeskole, Asker (1915)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Kirker: Frogner, Oslo (1905–07) etter 1. premie i konkurranse"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Bøndernes hus, Brandbu"
+            },
+            {
+                "from_date": "",
+                "order": "61",
+                "to_date": "",
+                "description": "innkjøp arbeiderbruk for kyststrøk langs Oslofjorden og Sørlandet (1911) sammen med Thorvald Astrup"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Jar folkeskole, Bærum (1920-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Apotekergården (Wesselgården), Asker sentrum"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Kirkekredsen, Ytre Sandsvær"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "lokalstasjonsbygningen, Vestbanestasjonen, Oslo (1918–20)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Stabekk Apotek, Bærum"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "Villaer: Egen villa, Gamle Drammensvn. 75, Bærum (1907–08)"
+            },
+            {
+                "from_date": "",
+                "order": "58",
+                "to_date": "",
+                "description": "bolig for lensmann Fjell, fra 1924 Lunner prestebolig (påbygd 2. etasje)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "Kalnes. Kommunelokaler: Møtelokalet Vennskaben, Asker (1904–05)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "aldershjem, Sem i Asker (1910)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Fana"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "Elvarheim, Elverum (1905, brent 1940)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Skjeberg fylkesskole"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Årnes folkeskole (1917–21)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Lier tuberkulosehjem"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "leiegård Anton Schjøths gt. 10, Oslo (1930)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "hovedbygningen, Statens lærerinneskole i husstell, Ringstabekkvn. 105, Bærum (1922)"
+            },
+            {
+                "from_date": "",
+                "order": "60",
+                "to_date": "",
+                "description": "2. premie artillerikaserne, Akershus festning (1912)"
+            }
+        ],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "63",
+                "to_date": "",
+                "description": "G. Tandberg: Kortfattet veiledning i bygningsvæsen paa landet, Kra. 1919, 4. utg."
+            }
+        ],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ivar Næss",
+    "url": "https://nkl.snl.no/Ivar_N%C3%A6ss",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>N. var ansatt hos arkitekt Henrik Nissen i Kristiania 1896–99, de siste tre år som kontorsjef. Han arbeidet ett år hos arkitektfirma C. Harrison i London 1902, deretter åpnet han privat arkitektpraksis i Kristiania.</p>\n<p>Blant de første arbeider til N. er <em>Elvarheim kommunelokale</em>, Elverum (1905, brent 1940). Bygningen er hans eneste kjente arbeid i jugendstil og syns hovedsakelig å være engelsk påvirket. Elgrelieffene på hovedfasaden skulle sannsynligvis bidra til å gi det et lokalt preg. <em>Frogner kirke</em> (1905–07) fra samme tid er et annet hovedverk i den engelsk-influerte stilen som samtiden kalte normannisk, med råkoppfasade og asymmetrisk tårnplassering. Den er et tidlig eksempel på en kirke som er planlagt og bygd omgitt av leiegårder, der den ene gatefronten flukter med kirkens hovedfasade. Grunnplanen med det sidestilte galleriet og de store vinduene, bl.a. over inngangen, vakte begeistring, men også irritasjon i samtiden. Enkelte syntes at det praktiske hadde overskygget det høytidsstemte. De fleste av N.s mindre bygninger, som f.eks. hans <em>egen villa i Bærum</em> eller <em>jernbanestasjonene på Åmli-Treungen-banen</em>, var holdt i en \"nasjonal stil\" med forankring i norsk 1700-talls embetsmanns- og bygdearkitektur. Men alt så tidlig som 1905, i møtelokalet <em>Vennskaben</em>, Asker finner vi en representant for nyklassisismen. <em>Ullevål kino</em>, Oslo er et av hans betydeligste arbeider i 20-årenes nyklassisisme. Det er først og fremst som skolearkitekt N. markerte seg, med et stort antall landbruks- og folkeskoler.</p>\n</div>",
+    "created_at": "2014-11-20T12:03:05.148+01:00",
+    "changed_at": "2024-06-18T23:27:52.574+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2969\",\"https://digitaltmuseum.no/410e3ff1-abe1-48e2-8a5f-05e1476dcda1\",\"http://kulturnav.org/410e3ff1-abe1-48e2-8a5f-05e1476dcda1\"]",
+        "lastname": "Næss",
+        "firstname": "Ivar",
+        "birth_date": "25.3.1878",
+        "birthplace": "Næss gård i Asker",
+        "death_date": "10.8.1936",
+        "external_id": "person_8736ab2969",
+        "kulturnav_id": "410e3ff1-abe1-48e2-8a5f-05e1476dcda1",
+        "place_of_death": "Bærum"
+    },
+    "authors": [
+        {
+            "full_name": "Axel Chr. Mykleby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20351/standard_NMK-A_NAMF.0156420151204-26003-lya5uw.jpg",
+            "full_size_url": "https://media.snl.no/media/20351/NMK-A_NAMF.0156420151204-26003-lya5uw.jpg",
+            "xhtml": "<div><p><i>Frogner kirke i Oslo</i>. Harstad. <a href=\"http://digitaltmuseum.no/011074072702\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Ivar Næss",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

@@ -1,0 +1,382 @@
+{
+    "id": 417498,
+    "headword": "Yngvil Fagerheim",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab3527",
+                "birth_date": "17.07.1939",
+                "death_date": "",
+                "firstname": "Olav",
+                "lastname": "Starheim",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102042",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Oddleif",
+                "lastname": "Fagerheim",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab102043",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Thora",
+                "lastname": "Nitter",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Espa"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Bergen kunsthåndverkskole, keramikklinjen 1964–67",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Astrid Aasens gave 1968"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "3",
+                "description": "Fredrikstad bys kulturpris 1977"
+            },
+            {
+                "order": "2",
+                "description": "Statens 3-årige arbeidstipend 1971–73"
+            },
+            {
+                "order": "5",
+                "description": "Studiereise Marokko, Algerie, Nigeria 1972"
+            },
+            {
+                "order": "6",
+                "description": "Frankrike 1977"
+            },
+            {
+                "order": "1",
+                "description": "Trondheim bys kulturpris 1969"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "medlem av Kunsthåndverkernes forhandlingsutvalg med Staten 1977–78"
+            },
+            {
+                "order": "0",
+                "description": "Medlem Norske Kunsthåndverkere"
+            },
+            {
+                "order": "5",
+                "description": "Vararepresentant i Statens stipend og garantiintektskomité 1978–79"
+            },
+            {
+                "order": "2",
+                "description": "formann i samarbeidskomiteen, Kunstneraksjon 74, 1976–77"
+            },
+            {
+                "order": "1",
+                "description": "Norske Kunsthåndverkeres representant i Samarbeidskomiteen, Kunstneraksjon 74, 1974–77"
+            },
+            {
+                "order": "4",
+                "description": "medlem av Norsk kulturråds utsmykningsutvalg 1978–80"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Trøndelag teater (1979)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Jönköping Läns Museum"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Klaveness cruise-skip (1973)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bilsakkyndige i Moss (1978)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tokio, Kyoto",
+                "from_date": "1978",
+                "order": "16",
+                "to_date": "1979",
+                "title": "Scandinavian Crafts"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frankrike",
+                "from_date": "1977",
+                "order": "15",
+                "to_date": "",
+                "title": "Symposium International de Céramique"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1975",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandske Kunstindustrimuseum, Bergen",
+                "from_date": "1971",
+                "order": "8",
+                "to_date": "",
+                "title": "Dekorativ tekstil og keramikk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1976",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Jönköping Läns Museum",
+                "from_date": "1972",
+                "order": "11",
+                "to_date": "",
+                "title": "Nordisk keramik"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Jönköping Läns Museum",
+                "from_date": "1971",
+                "order": "10",
+                "to_date": "",
+                "title": "Nordisk keramik"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "title": "Tendenser 71, 72, 76"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "12",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Spektrum, Bergen",
+                "from_date": "1969",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "5",
+                "to_date": "",
+                "title": "Østlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1968",
+                "order": "6",
+                "to_date": "1970"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "13",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1978",
+                "order": "4",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Landsforbundet Norsk Brukskunst, Uranienborgv. 2, Oslo",
+                "from_date": "1973",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Galeria Nova, Barcelona",
+                "from_date": "1972",
+                "order": "1",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1973-02-22",
+                "order": "2",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Nilsen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-07-01",
+                "order": "3",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "4",
+                "reference": "nr. 2, s. 47",
+                "to_date": "",
+                "description": "Form",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "1",
+                "reference": "nr. 10, s. 34 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "0",
+                "reference": "nr. 9, s. 15 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Yngvil Fagerheim",
+    "url": "https://nkl.snl.no/Yngvil_Fagerheim",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter 3-årig utdannelse ved Bergen kunsthåndverkskole flyttet F. til Trondheim, der hun sammen med keramikeren Terje Westfoss åpnet eget verksted. F. markerte seg som en dyktig håndverker med sikker formsans og følelse for den presist utførte profilering og detalj som del av helheten. Ved siden av å arbeide med brukskeramikk viste hun tidlig interesse for å utvide sine uttrykksmuligheter innenfor det keramiske materiale. Som en av de første i Norge ble hun inspirert av amerikanske og europeiske eksperimenter med friere sammensetning av former. I 1970-årene utførte hun en rekke interessante keramiske arbeider i relieff og fri keramisk skulptur, der hun ofte gir uttrykk for markant politisk tendens og samfunnssyn. F.s arbeider har gitt norsk keramikk en ny dimensjon og status. Også på det fagpolitiske plan gjorde F. seg tidlig gjeldende i den lokale brukskunstforening i Trondheim. Senere nedla hun et stort arbeid under etableringen av Norske Kunsthåndverkere, der hun har vært forkjemper for kunsthåndverkernes rettigheter. I den forbindelse avslo hun å motta Landsforbundet Norsk Brukskunsts Jakobpris i 1977.</p></div>",
+    "created_at": "2013-07-03T21:50:33.853+02:00",
+    "changed_at": "2024-06-18T23:26:09.506+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1005\",\"https://digitaltmuseum.no/a56baf89-bb1f-47c9-aa96-ef7368f7fc46\",\"http://kulturnav.org/a56baf89-bb1f-47c9-aa96-ef7368f7fc46\"]",
+        "lastname": "Fagerheim",
+        "firstname": "Yngvil",
+        "birth_date": "16.9.1942",
+        "birthplace": "Dale i Sunnfjord",
+        "external_id": "person_8736ab1005",
+        "kulturnav_id": "a56baf89-bb1f-47c9-aa96-ef7368f7fc46",
+        "alternative_names": "Fagerheim, Yngvild"
+    },
+    "authors": [
+        {
+            "full_name": "Albert Steen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        }
+    ]
+}

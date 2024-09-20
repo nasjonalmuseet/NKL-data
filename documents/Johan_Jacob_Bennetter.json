@@ -1,0 +1,841 @@
+{
+    "id": 416325,
+    "headword": "Johan Jacob Bennetter",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "marinemaler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100595",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Andreas",
+                "lastname": "Bennetter",
+                "professions": [
+                    "skipper"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100596",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Berthe C.",
+                "lastname": "Hansen",
+                "professions": []
+            },
+            {
+                "from_date": "1868",
+                "to_date": "1904",
+                "type": "Gift med",
+                "external_id": "person_8736ab100598",
+                "birth_date": "1840",
+                "death_date": "1904",
+                "firstname": "Katherine Caroline Wilhelmine",
+                "lastname": "Fischer",
+                "professions": [],
+                "place": "Paris"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Théodore Gudin i Paris 1852–54",
+                "order": "2"
+            },
+            {
+                "comment": "Den kgl. Tegneskole under David Arnesen, Johannes Flintoe og H.A. Grosch 1844–48",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Louis Meijer i Haag 1849–51",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Bosatt i Haag 1849–51"
+            },
+            {
+                "order": "4",
+                "description": "Le Havre, London 1851–52"
+            },
+            {
+                "order": "0",
+                "description": "Statlig reisestipend 1848 og -49"
+            },
+            {
+                "order": "2",
+                "description": "i Paris 1852–70 og 1872–80"
+            },
+            {
+                "order": "3",
+                "description": "Studiereise i Nordmarka, langs Oslofjorden og i Vestfold 1848"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Mention Honorable på Salonen i Paris 1863"
+            },
+            {
+                "order": "2",
+                "description": "sølvmedalje i London 1883"
+            },
+            {
+                "order": "3",
+                "description": "Litteris et artibus i gull"
+            },
+            {
+                "order": "1",
+                "description": "sølvmedalje i Le Havre 1868"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "National Gallery of Victoria, Melbourne"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "St. Joseph's College, Sydney"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Göteborg Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Stavanger Sjøfartsmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Norsk Sjøfartsmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "comment": "(?)",
+                "category": "Kollektiv",
+                "from_date": "1852",
+                "order": "7",
+                "to_date": "",
+                "title": "Skand.utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1878",
+                "order": "10",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1892",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1867",
+                "order": "9",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1857",
+                "order": "11",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1873",
+                "order": "21",
+                "to_date": "1876",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1855",
+                "order": "8",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1860",
+                "order": "27",
+                "to_date": "1861",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1880",
+                "order": "26",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1878",
+                "order": "25",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1868",
+                "order": "39",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1925",
+                "order": "0",
+                "to_date": "",
+                "title": "Minneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1866",
+                "order": "38",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1881",
+                "order": "42",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1873",
+                "order": "40",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1876",
+                "order": "41",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1884",
+                "order": "1",
+                "to_date": "1888",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1888",
+                "order": "43",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "44",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1859",
+                "order": "12",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1863",
+                "order": "13",
+                "to_date": "1870",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kungliga Akademien",
+                "from_date": "1866",
+                "order": "30",
+                "to_date": "1873"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1862",
+                "order": "29",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1951",
+                "order": "15",
+                "reference": "bd. 1, s. 166, 167 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "L. Østby",
+                    "H. Alsvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "17",
+                "reference": "register, s. 210",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "S. Willoch"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "24",
+                "reference": "s. 26–27 (ill.), s. 72 (ill.), 74  (ill.), 209 (ill.)",
+                "to_date": "",
+                "description": "Stavanger. Byen i billedkunsten",
+                "place": "Stavanger",
+                "authors": [
+                    "G. Schanche Hidle"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "10",
+                "reference": "bd. 3, s. 333–34",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904-04-02",
+                "order": "29",
+                "reference": "Nekrolog",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [
+                    "R. T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "13",
+                "reference": "s. 166",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Jæren i malerkunsten",
+                "authors": [
+                    "H. Grevenor"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "3",
+                "reference": "bd.1, s. 79",
+                "to_date": "",
+                "description": "Malerwerke des neunzehnten Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Fr. v. Boetticher"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "19",
+                "reference": "s. 70, 91 (ill.), 109, 178",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "R. Kloster"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "11",
+                "reference": "bd. 2, s. 935",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "1",
+                "reference": "s. 34",
+                "to_date": "",
+                "description": "Det norske Nationalgalleri",
+                "place": "(Kristiania",
+                "authors": [
+                    "L. Dietrichson"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "21",
+                "reference": "register, s. 255",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "place": "Trondheim",
+                "authors": [
+                    "J.J. Grimelund",
+                    "O. Flønes"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "26",
+                "reference": "s. 131, 278",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "H. Alsvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904-04-02",
+                "order": "28",
+                "reference": "Nekrolog",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "8",
+                "reference": "s. 30 (ill.), 31",
+                "to_date": "",
+                "description": "Det nye Norges malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "A. Aubert"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904-04-24",
+                "order": "31",
+                "reference": "Nekrolog, (2. tillæg)",
+                "to_date": "",
+                "description": "Allers Familiejournal",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "6",
+                "reference": "bd. 1, s. 239, 242",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "J. Thiis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "16",
+                "reference": "s. 198",
+                "to_date": "",
+                "description": "Med kunstnarauge",
+                "place": "Oslo",
+                "authors": [
+                    "L. Østby"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "18",
+                "reference": "s. 55",
+                "to_date": "",
+                "description": "Nasjonalgalleriet gjennem hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "S. Willoch"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "9",
+                "reference": "s. 118–19",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "R. Thommessen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "23",
+                "reference": "s. 52–58 (3 ill.)",
+                "to_date": "",
+                "description": "Profiler og paletter i Rogalands kunst",
+                "place": "Stavanger",
+                "authors": [
+                    "G. Schanche Hidle"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "14",
+                "reference": "s. 120",
+                "to_date": "",
+                "description": "Fra naturalisme til nyromantikk",
+                "place": "Oslo",
+                "authors": [
+                    "L. Østby"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900-01",
+                "order": "4",
+                "to_date": "",
+                "description": "Stavanger Amtstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904-04-02",
+                "order": "30",
+                "reference": "Nekrolog",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "25",
+                "publisher": "A. Hannevik",
+                "reference": "s. 19, 21, 24",
+                "to_date": "",
+                "description": "Brev fra S. Obstfelder",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "12",
+                "reference": "bd. 1, s. 428",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "22",
+                "reference": "s. 63, 65",
+                "to_date": "",
+                "description": "Sigbjørn Obstfelder",
+                "place": "Oslo",
+                "authors": [
+                    "J.F. Bjørnsen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "2",
+                "to_date": "",
+                "description": "Fra Jæderen",
+                "place": "Stavanger",
+                "authors": [
+                    "O.A. Løwold"
+                ],
+                "comments": [
+                    "(avsnittet Marinemaleren i den gamle kirken opptrykt i Stavangeren 16.1.1957)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1944-08-12",
+                "order": "20",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Th. Dahl"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904-04-30",
+                "order": "32",
+                "reference": "Nekrolog",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "7",
+                "reference": "bd. 2, s. 382",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "J. Thiis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904-03-25",
+                "order": "27",
+                "reference": "Nekrolog",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1879",
+                "order": "0",
+                "reference": "bd. 2, s. 10",
+                "to_date": "",
+                "description": "A. Tidemand",
+                "place": "(Kristiania",
+                "authors": [
+                    "L. Dietrichson"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901-03-31",
+                "order": "5",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Kunstnerens selvbiografiske opptegnelser (ført fram til 1853) hos Ulf B."
+                ],
+                "archives": [
+                    "(kopi i Nasjonalgalleriets dokumentasjonsarkiv)"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "brevsaml."
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Johan Jacob Bennetter",
+    "url": "https://nkl.snl.no/Johan_Jacob_Bennetter",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>B. vokste opp i et sjømanns- og håndverkerstrøk i det gamle Pipervika. 11 år gammel var han med faren på sin første reis, og i 1840 tok han styrmannseksamen. Han fór så en tid om sommeren med farens skonnert på Bergen og var skipstømmermann om vinteren. Ved denne tid traff han J. Gørbitz og fikk se på da denne malte grev Wedels portrett. Egentlig \"oppdaget\" ble han av kunstentusiasten oberst Kaltenborn, som fikk se hans tegninger og sørget for at han kom inn på Den kgl. Tegneskole med Arnesen, Flintoe og Grosch som lærere. På skolen traff han bl.a. J.F. Eckersberg, som fikk ham til å prøve seg med oljefarger, og han kopierte bilder bl.a. av J.C. Dahl i Nasjonalgalleriet. Sommeren 1848 drog han på sin første studieferd, i Nordmarka, sammen med Eckersberg, Morten Müller og Erik Bodom, og senere på sommeren gjorde han sjøstudier langs Oslofjorden og i Vestfold. Høsten 1849 drog han med et to-årig stipend til den kjente sjømaler Louis Meijer i Haag. Sent på høsten 1851 reiste han til Frankrike, ble i Le Havre til over nyttår, og etter et besøk i London for å se Verdensutstillingen, kom han 2. februar 1852 til Paris, der han i ca. to år var elev av Th. Gudin. B. ble en årrekke i Paris, vant atskillig anerkjennelse og fikk mange bestillinger. Kort før krigsutbruddet i 1870 drog han hjem og slo seg ned i Stavanger. Etter et nytt opphold i Paris 1872–80 kom han på ny til Stavanger. Han hadde allerede under sitt første opphold kjøpt Sola kirkeruin, som han innredet til bolig og atelier og tok i bruk høsten 1881. Selve kirkeskipet ble atelier, sakristiet spisestue, og i 2. etasje var det dagligstue og soverom. Huset ble revet av tyskerne under annen verdenskrig. Høsten 1880 besøkte B. Island, ellers holdt han seg nå hjemme i Norge. Han ble etter hvert svekket av sykdom, var fra 1898 nesten blind. Hans siste år ble derfor vanskelige, og forsøkene på å skaffe ham offentlig understøttelse førte ikke fram.</p>\n<p>B. tok i sine større komponerte sjøbilder avgjørende inntrykk av den mørkstemte dramatikk hos læreren Gudin, med vekt på spennende og farefulle opptrinn, uvær og forlis, sjøslag osv., men samtidig la han stort arbeid i å få alle detaljer så nøyaktige og korrekte som mulig. Utførlige titler skulle hjelpe til å fastholde de begivenheter bildet fortalte om. De strakte seg i tid fra vikingtogene og Vilhelm Erobreren til hans egen samtid, geografisk fra India til Amerika. B. hadde også sterke religiøse interesser, men de satte lite spor etter seg i hans maleri. I mindre naturstudier kom hans beste kunstneriske egenskaper fram. De er malt i en mykere og bredere malerisk stil med fin sans for lys og atmosfære, som i noen havnebilder fra Bretagne, Stavanger og Bergen.</p>\n<p>Norske kunstforeninger utstilte og loddet ut en lang rekke bilder av B.: i Oslo 32 bilder (1851–87), i Bergen 16 (1852–91), i Trondheim 14 (1859–95).</p>\n</div>",
+    "created_at": "2013-07-03T15:11:36.786+02:00",
+    "changed_at": "2024-06-18T23:25:38.339+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab287\",\"https://digitaltmuseum.no/15a41fc2-e399-40b2-b1c4-cbbf378fe8cc\",\"http://kulturnav.org/15a41fc2-e399-40b2-b1c4-cbbf378fe8cc\"]",
+        "lastname": "Bennetter",
+        "firstname": "Johan Jacob",
+        "birth_date": "30.9.1822",
+        "birthplace": "Christiania",
+        "death_date": "29.3.1904",
+        "external_id": "person_8736ab287",
+        "kulturnav_id": "15a41fc2-e399-40b2-b1c4-cbbf378fe8cc",
+        "place_of_death": "Sola"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15587/standard_NMK-B_NG.K_26H.1996.0011-014verso20130725-13675-bttxib.jpg",
+            "full_size_url": "https://media.snl.no/media/15587/NMK-B_NG.K_26H.1996.0011-014verso20130725-13675-bttxib.jpg",
+            "xhtml": "<div>\r\n<p>Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Johan Jacob Bennetter",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15618/standard_NMK-B_NG.M.0022420130725-13675-zsuiib.jpg",
+            "full_size_url": "https://media.snl.no/media/15618/NMK-B_NG.M.0022420130725-13675-zsuiib.jpg",
+            "xhtml": "<div>\r\n<p><em>Sjøslag i Lagoa-bukten, Madagaskar, 21.-22. sept. 1799</em>, 1863. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Johan Jacob Bennetter",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15651/standard_NMK-B_NG.M.0065420130725-13675-17wapvm.jpg",
+            "full_size_url": "https://media.snl.no/media/15651/NMK-B_NG.M.0065420130725-13675-17wapvm.jpg",
+            "xhtml": "<div>\r\n<p><em>Skute i solnedgang</em>, 1879. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Johan Jacob Bennetter",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15760/standard_NMK-B_NG.M.0362120130725-13675-12vtij0.jpg",
+            "full_size_url": "https://media.snl.no/media/15760/NMK-B_NG.M.0362120130725-13675-12vtij0.jpg",
+            "xhtml": "<div>\r\n<p><em>Strandparti</em>, 1888. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Johan Jacob Bennetter",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "marinemaler"
+        }
+    ]
+}

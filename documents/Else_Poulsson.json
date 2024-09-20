@@ -1,0 +1,535 @@
+{
+    "id": 430112,
+    "headword": "Else Poulsson",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tekstilkunstner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106330",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jens Jørgensen",
+                "lastname": "Poulsson",
+                "professions": []
+            },
+            {
+                "from_date": "1942",
+                "type": "Gift med",
+                "external_id": "person_8736ab106332",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Per Reetz",
+                "lastname": "Moe",
+                "professions": [
+                    "lektor"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106331",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Vivi",
+                "lastname": "Lange",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Johanna Brunsons vävskola, Stockholm",
+                "order": "2"
+            },
+            {
+                "comment": "Vävskola Tavastehus, Finland",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under bl.a. Enevold Thømt 1927-29",
+                "order": "1"
+            },
+            {
+                "comment": "Statens kvinnelige industriskole, Oslo 1925-27",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Den Norske Husflidsforenings stipend 1930"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold i Stockholm og Finland"
+            },
+            {
+                "order": "1",
+                "description": "Den norske tekstilindustris reisestipend 1963"
+            },
+            {
+                "order": "3",
+                "description": "studiereiser over hele Europa"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Tegner og leder tekstilatelieret, Den Norske Husflidsforening 1929-54"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "premiert engere konkurranse om tekstiler samme sted 1948"
+            },
+            {
+                "order": "0",
+                "description": "1. premie i konkurranse om bordutstyr til Oslo Rådhus 1947 (duker og servietter, 1. premie også til Esther Tjersland)"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "hyndetrekk til marmorbenk, Rådhushallen"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo (broderi)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim (teppemønster)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "gardiner og møbelstoffer, Munch-rommet og Formannskapssalen"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "lintapet, Formannskapssalen og damaskduker og servietter til Rådhusets bordutstyr, utført av Joh. Petersens linvarefabrikk (alt utført 1948-49)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Tekstiler til Oslo Rådhus: Gardiner (1942) og St. Hallvardteppet, billedvev utført av Else Halling og Sunniva Lønning (1948), Bystyresalen"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "teppe, FN-bygningen, New York"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "3",
+                "to_date": "",
+                "title": "Stockholms.-utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1937",
+                "order": "6",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1930",
+                "order": "5",
+                "to_date": "",
+                "title": "Norsk Prydkunstlags juleutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "4",
+                "to_date": "",
+                "title": "Landsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1951",
+                "order": "7",
+                "to_date": "",
+                "title": "Norsk Brukskunst 1951"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1928",
+                "order": "2",
+                "to_date": "",
+                "title": "Landsutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1966",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1951",
+                "order": "8",
+                "to_date": "",
+                "title": "Norsk Brukskunst 1951"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling USA",
+                "from_date": "1954",
+                "order": "9",
+                "to_date": "",
+                "title": "Design in Scandinavia"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1971",
+                "order": "10",
+                "to_date": "",
+                "title": "Norsk tekstil nå"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1961",
+                "order": "0",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1951",
+                "order": "6",
+                "reference": "s.152–53",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "7",
+                "reference": "s. 193, 196",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "16",
+                "reference": "s. 48 (ill.)",
+                "to_date": "",
+                "description": "Norwegian Arts and Crafts, Industrial Design",
+                "place": "Oslo",
+                "authors": [
+                    "Aars, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "18",
+                "reference": "s. 718",
+                "to_date": "",
+                "description": "Gransherad soga",
+                "place": "(Skien",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "5",
+                "reference": "s. 103, 179",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "17",
+                "reference": "s. 51",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "19",
+                "reference": "bd. 6, s. 348.",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "13",
+                "reference": "s. 164, 168–69",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-01-05",
+                "order": "21",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [
+                    "(?)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "1",
+                "reference": "nr. 5, s. 32__-;34 (ill.)",
+                "to_date": "",
+                "description": "Til Paris. De håndvevde tekstiler, Vi selv og våre hjem",
+                "place": "Oslo",
+                "authors": [
+                    "Engelstad, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "12",
+                "reference": "s. 19",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "2",
+                "reference": "s. 157",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-03-11",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-03-10",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "3",
+                "reference": "s. 200",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "0",
+                "reference": "s. 13, 14, 18, 21, 24, 25, 26, 27 (ill.)",
+                "to_date": "",
+                "description": "Norwegian Decorative Art Today",
+                "place": "Oslo",
+                "authors": [
+                    "Vreim, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-05-07",
+                "order": "20",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [
+                    "(?)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "14",
+                "reference": "s. 201",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "15",
+                "reference": "227–30, 240–46 (ill.)",
+                "to_date": "",
+                "description": "Rådhuset i Oslo. Fører gjennom bygningen",
+                "place": "Oslo",
+                "authors": [
+                    "Just, C. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "4",
+                "reference": "s. 130, 192 nr. 5–6 s. VIII",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "10",
+                "reference": "s. 204",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "9",
+                "reference": "s. 230",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "8",
+                "reference": "s. 143",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "11",
+                "reference": "s. 256",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Else Poulsson",
+    "url": "https://nkl.snl.no/Else_Poulsson",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>P.s virksomhet som kunstner er nær knyttet til Den Norske Husflidsforenings innsats for norske tekstiler fra 1930-årene og utover. P. var tegner og senere leder for tekstilatelieret i årene 1929-54. Hun komponerte mønstre til ryer, tepper, gardin- og møbelstoffer og tapeter, bl.a. til flere av tekstilene i Oslo Rådhus. Mest kjent er det store teppet til Bystyresalen, med St. Hallvard som hovedmotiv.</p></div>",
+    "created_at": "2014-11-20T11:10:37.090+01:00",
+    "changed_at": "2024-06-18T23:27:49.630+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3130\",\"https://digitaltmuseum.no/e2537cd3-e7ea-41cc-b9b8-9b3e5f14ab2a\",\"http://kulturnav.org/e2537cd3-e7ea-41cc-b9b8-9b3e5f14ab2a\"]",
+        "lastname": "Poulsson",
+        "firstname": "Else",
+        "birth_date": "24.3.1909",
+        "birthplace": "Rjukan",
+        "death_date": "10.2.2002",
+        "external_id": "person_8736ab3130",
+        "kulturnav_id": "e2537cd3-e7ea-41cc-b9b8-9b3e5f14ab2a",
+        "place_of_death": "Bærum"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tekstilkunstner"
+        }
+    ]
+}

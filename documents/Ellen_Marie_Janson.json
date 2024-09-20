@@ -1,0 +1,182 @@
+{
+    "id": 417328,
+    "headword": "Ellen Marie Janson",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tekstilkunstner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab2882",
+                "birth_date": "03.01.1877",
+                "death_date": "02.04.1943",
+                "firstname": "Erling",
+                "lastname": "Nielsen",
+                "professions": [
+                    "arkitekt"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab1895",
+                "birth_date": "01.09.1901",
+                "death_date": "11.06.1983",
+                "firstname": "Gunnar Tidemand",
+                "lastname": "Janson",
+                "professions": [
+                    "billedhugger"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105849",
+                "birth_date": "1891",
+                "death_date": "1970",
+                "firstname": "Alfhild",
+                "lastname": "Smith",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev av Bjarne Engebret 1940-41",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole 1940-42, 1946-48",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Marit Nørregaard 1962-63",
+                "order": "2"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem av Unge Kunstneres Samfunn"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Rana Kunstforening (tekstilbilde)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "H. har tegnet forsideillustrasjoner til flere barnebøker for Damm & Søn forlag"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Rana Kunstforening, Mo i Rana",
+                "from_date": "1976",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Horten Sparebank",
+                "from_date": "1981",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1975",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. U-12, Oslo",
+                "from_date": "1982",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "4",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1981-09-18",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ellen Marie Janson",
+    "url": "https://nkl.snl.no/Ellen_Marie_Janson",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>J.s tekstilbilder er applikasjoner. Striper av stoff i en harmonisk avtonet fargeskala, former sterkt stiliserte trær, blomster og fugler. Den samme fargeskala går igjen i J.s akvareller, men formspråket er her naturalistisk og motivet som oftest naturstemninger. Hun konsentrerer seg gjerne om værets og lysets skiftende spill på skylag og himmel. Fargene i atmosfæren klinger igjen i resten av naturutstnittet. J. arbeider også med rosemaling.</p></div>",
+    "created_at": "2013-07-03T20:48:22.748+02:00",
+    "changed_at": "2024-06-18T23:26:05.108+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1894\",\"https://digitaltmuseum.no/eeb2956e-5145-467f-b64b-b75fe62980a1\",\"http://kulturnav.org/eeb2956e-5145-467f-b64b-b75fe62980a1\"]",
+        "lastname": "Janson",
+        "firstname": "Ellen Marie",
+        "birth_date": "9.3.1923",
+        "birthplace": "Stavanger",
+        "death_date": "19.6.2012",
+        "external_id": "person_8736ab1894",
+        "kulturnav_id": "eeb2956e-5145-467f-b64b-b75fe62980a1",
+        "place_of_death": "Oslo",
+        "alternative_names": "Janson, Ellen Marie Nielsen"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tekstilkunstner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

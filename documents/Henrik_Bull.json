@@ -1,0 +1,835 @@
+{
+    "id": 416807,
+    "headword": "Henrik Bull",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1905",
+                "type": "Gift med",
+                "external_id": "person_8736ab101210",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Mette Marie",
+                "lastname": "Berntsen",
+                "professions": [
+                    "skuespiller"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab585",
+                "birth_date": "26.03.1829",
+                "death_date": "01.02.1917",
+                "firstname": "Georg Andreas",
+                "lastname": "Bull",
+                "professions": [
+                    "arkitekt",
+                    "stadskonduktør"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101207",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Emilie Constance",
+                "lastname": "Hjelm",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "fullstendig arkitektutdannelse ved Königliche Technische Hochschule i Charlottenburg ved Berlin 1884–87",
+                "order": "1"
+            },
+            {
+                "comment": "Hospitant ved Kristiania tekniske skole 1883–84 og besøkte samtidig Den kgl. Tegneskole",
+                "order": "0"
+            },
+            {
+                "comment": "samtidig assistent hos prof. Julius Raschdorf",
+                "order": "2"
+            },
+            {
+                "comment": "elev ved prof. Johan Otzens mesteratelier ved Academie der Künste i Berlin for å studere murarkitektur i ca. et halvt år 1888",
+                "order": "3"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "styremedlem ved Kunstindustrimuseet i Oslo"
+            },
+            {
+                "order": "0",
+                "description": "Initiativtaker til stiftelsen av AOF og foreningens første formann 1906–08"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Houens Fonds premie for Den gamle regjeringsbygning (1904)"
+            },
+            {
+                "order": "0",
+                "description": "Gullmedalje for møbler på Verdensutstilling i Paris 1900"
+            },
+            {
+                "order": "3",
+                "description": "Prøyssiske Røde ørns orden (1907)"
+            },
+            {
+                "order": "4",
+                "description": "Fortjenestmedalje i gull (1915) etter arbeidet med Jubileumsutstillingen i 1914, Kristiania"
+            },
+            {
+                "order": "2",
+                "description": "R1 St. Olavs Orden 1889"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Åmot gravkapell, Rena i Østerdalen (1905–15)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "tilbygg til Fritzøhus ved Larvik (1897–98)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Historisk Museum, Fredriks gt. 2 (1898–1902)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "deler av Norges seksjon på Verdensutstilling i Paris 1900"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Kongevillaen på Voksenkollen (1907)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Uvdal nye kirke i Numedal (1890–93)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Prosjekter: Regjeringsbygning (1901)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "I Oslo når annet ikke er nevnt. Paulus kirke (1889–92, etter 1.premie i konkurranse 1888)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "maskinavdelingen og avdelingen for håndverk og industri og Skarpsnoavdelingen for fiskeri og sjøfart, Jubileumsutstillingen i 1914, Kristiania"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "villa for skipsreder W. Wilhelmsen, Ris (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "forretningsgård for skipsreder C. Hannevig, Rådhusgt. 23B (1917)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Åmot kirke, Rena i Østerdalen (1898–1902)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "enebolig Lyder Sagens gt. 27 (1928)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Trondheim domkirkes vestfront (1909)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Den gamle regjeringsbygning, Akersgt. 42 (1899–1906, bearbeidelse av arkitekt Stener Lenschows 1. premieutkast fra 1887, bare en av fire planlagte fløyer er oppført)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Rena folke- og middelskole, Østerdalen (1902–05)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Mogens Thorsens stiftelse, Bygdøy allé (1896–98, revet 1958)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nationaltheatret (1891–99)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "villa Otium for gen.konsul H. Olsen, Nobels gt. 28 (1909, fra 1924 bolig for USAs ambassadør)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Den nationale Scene i Bergen (1904)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "villa Kristinelundvei 4 (1915)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Heradsbygd kapell, Elverum (1911)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Savoy Hotell, Universitetsgt. 11 (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "tilbygning til Kurbadet, Akersgt. 74 (1927)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "sommerbolig for skipsreder C. Hannevig, Vestmanrød ved Borre i Vestfold (1917)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1897",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "6",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1890",
+                "order": "1",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1889",
+                "order": "0",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1895",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1906",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1900",
+                "order": "5",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bronsebyste utført av Lars Utne (før 1908), Statens Håndverks- og Kunstindustriskole, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "oljeskisse utført av Henrik Lund, Statens Håndverks- og Kunstindustriskole, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "bronsebyste utført av Johan Fahlstrøm, (ca. 1922)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "oljemaleri utført av Edvard Munch, Christianssand Kunstforening"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1934",
+                "order": "20",
+                "reference": "tillegg s. 10",
+                "to_date": "",
+                "description": "Arkitekt Henrik Bull 70 år, Byggekunst",
+                "authors": [
+                    "Astrup, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationaltheatret i Kristiania, Festskrift i anledning theatrets aabning 1. september 1899",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "27",
+                "reference": "register, s. 265",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "32",
+                "reference": "register, s. 475",
+                "to_date": "",
+                "description": "Sources of Art Nouveau",
+                "place": "New York",
+                "authors": [
+                    "Tschudi-Madsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "5",
+                "reference": "s. 29, 68",
+                "to_date": "",
+                "description": "Norges deltagelse i verdensutstillingen Paris 1900, Beretning",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "36",
+                "reference": "s. 43–44 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "7",
+                "reference": "arkitektafd. s. 27–29 (ill.)",
+                "to_date": "",
+                "description": "Regjeringsbygningen i Kristiania, Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "u.å.,  s.197 (ill.)",
+                "order": "34",
+                "to_date": "",
+                "description": "Oslo gårdkalender. Nybygg 1925–45",
+                "place": "Oslo",
+                "authors": [
+                    "Hofflund, P. D.",
+                    "Nyquist, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "1",
+                "reference": "s. 221–5 (ill.)",
+                "to_date": "",
+                "description": "Kristiania nye Theater, Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "30",
+                "reference": "bd. 3, register, s. 688 (ill.)",
+                "to_date": "",
+                "description": "Åmot bygdebok",
+                "place": "Elverum",
+                "authors": [
+                    "Lillevold, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "17",
+                "reference": "bd 2, s. 392–3",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "21",
+                "reference": "s. 267–68 (ill.)",
+                "to_date": "",
+                "description": "Norske hus",
+                "place": "Oslo",
+                "authors": [
+                    "m.fl.",
+                    "Eliassen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "15",
+                "reference": "s. 132",
+                "to_date": "",
+                "description": "Norske ingeniører og arkitekter",
+                "place": "(Kristiania",
+                "authors": [
+                    "Fougner, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "23",
+                "reference": "tillegg s. 13–14",
+                "to_date": "",
+                "description": "Henrik Bull 1864–1953 Byggekunst",
+                "authors": [
+                    "Swensen, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "13",
+                "reference": "s. 65–76 (ill.) 105–12 (ill.)",
+                "to_date": "",
+                "description": "Norges 100-aars Jubilæumsudstilling 1914, Arkitektur og dekorativ kunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "9",
+                "reference": "s. 67–68",
+                "to_date": "",
+                "description": "Studentene fra 1883",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "25",
+                "reference": "s. 70–81 (ill.)",
+                "to_date": "",
+                "description": "Henrik Bull, Byggekunst",
+                "authors": [
+                    "Norberg-Schulz, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "11",
+                "reference": "bd. 5, s. 215",
+                "to_date": "",
+                "place": "Leipzig",
+                "authors": [
+                    "Bakken, Joh.."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "19",
+                "reference": "s. 23–24",
+                "to_date": "",
+                "description": "Studentene fra 1883",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "29",
+                "reference": "s. 269–84 (ill.)",
+                "to_date": "",
+                "description": "Henrik Bulls Historiske Museum (1897–1902), St. Halvard",
+                "authors": [
+                    "Holmen, T. M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "28",
+                "reference": "s. 271, 296",
+                "to_date": "",
+                "description": "Tegneskolen gjennom 150 år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "37",
+                "reference": "s. 59 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "4",
+                "reference": "s.211–7 (ill.)",
+                "to_date": "",
+                "description": "Pariserudstillingen 1900, Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "8",
+                "reference": "s. 57–9 (ill.)",
+                "to_date": "",
+                "description": "Trondhjems Domkirke, konkurrancen om Vest-fronten, Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "33",
+                "reference": "register, s. 277",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Henrik Bull, arkitekt og formgiver, Norsk arkitekturmuseum, skrift 1",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis-Evensen, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "6",
+                "reference": "bd. 4, s. 575",
+                "to_date": "",
+                "description": "Nordisk Familiebok",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "35",
+                "reference": "s. 74 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "16",
+                "reference": "s. 11–35 (ill.)",
+                "to_date": "",
+                "description": "Nationaltheatret gjennom 25 aar",
+                "place": "(Kristiania",
+                "authors": [
+                    "Wiers-Jenssen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "2",
+                "reference": "s. 242–3",
+                "to_date": "",
+                "description": "Nationaltheatret",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "24",
+                "reference": "s. 304",
+                "to_date": "",
+                "description": "Forening til norske Fortidsminnesmerkers Bevarings årbok, registerbd.",
+                "place": "Sarpsborg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "18",
+                "reference": "bd. 2, register s. 673",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "22",
+                "reference": "s. 19–62 (ill.)",
+                "to_date": "",
+                "description": "Dragestilen, Honnør til en hånet stil, Vestlandske Kunstindustrimuseum årbok 1949–50",
+                "place": "Bergen",
+                "authors": [
+                    "Tschudi-Madsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "0",
+                "reference": "s. 351–2 (ill.)",
+                "to_date": "",
+                "description": "Paulus kirke, Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "14",
+                "reference": "bd. 4, s. 246",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "12",
+                "to_date": "1950",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "10",
+                "reference": "s. 21, 23 (ill.)",
+                "to_date": "",
+                "description": "Børskonkurrancen, Arkitektur og dekorativ kunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "26",
+                "reference": "register, s. 278 (ill.)",
+                "to_date": "",
+                "description": "Akersgatens arkitekturhistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1977",
+                "order": "39",
+                "to_date": "",
+                "title": "Møblene på Kristiania Håndverks- og Industriforenings lotteriutstillinger 1895–1914",
+                "authors": [
+                    "Skaug, A.-B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Opplysninger fra kunstneren 1891"
+                ],
+                "archives": [
+                    "Antikvarisk arkiv, Riksantikvaren"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Henrik Bull",
+    "url": "https://nkl.snl.no/Henrik_Bull",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. hadde egen praksis i Kristiania fra 1888. Han ble lærer ved Den kgl. Tegneskole, senere Statens Håndverks- og Kunstindustriskole, Oslo i 1908, og direktør samme sted 1912–34. Han var bygningssjef for Jubileumsutstillingen i 1914, Kristiania. Fra 1888 praktiserte B. som arkitekt i Oslo. Berlinerinnflytelsen gjorde seg gjeldende i hans første arbeider etter hjemkomsten: <em>Paulus kirke</em> (1892) og <em>Mogens Thorsens  stiftelse</em> (1898). Man finner også nasjonalromantiske trekk i den sterkt stavkirkeinspirerte <em>Uvdal nye kirke</em> (1893). Mot slutten av 1890-årene utviklet han en mer personlig stil, som i stigende grad kom til uttrykk i hans 3 monumentalbygg i hovedstaden: <em>Nationaltheatret</em> (1899), <em>Historisk Museum</em> (1902) og (den gamle) <em>Regjeringsbygningen</em> (1904). B. var i disse årene influert av den europeiske art nouveau og Wienerbarokken, og han er retningens betydeligste representant i Norge. Klarest viser B.s nye ideer seg i interiørene, som preges av hans bevisste behandling av overgangene mellom tilgrensende flater. Typisk er de avrundete hjørner i <em>Nationaltheatret</em>s nedre vestibyle og i <em>Historisk Museum</em>s interiør. Som bygningssjef og delvis som utførende arkitekt ved <em>Jubileumsutstillingen 1914</em> var B. i stor grad ansvarlig for den nordiske nybarokks mest omfattende manifestasjon i Norge. Tyngden av B.s produksjon falt i tiden før første verdenskrig, og hans virksomhet som arkitekt avtok sterkt etter at han ble direktør ved Statens Håndverks- og Kunstindustriskole. Det finnes likevel prosjekttegninger i hans etterlatte arkiv som er datert helt fram til 1940-årene. Etter oppnådd pensjonsalder arbeidet han dessuten i mange år med oppmålinger for Forening til norske Fortidsminners Bevaring. B.s evne til plastisk modellering og integrasjon og hans talent som formgiver fant et dekkende uttrykk gjennom art nouveau-tendensene i tiden omkring århundreskiftet, der også interessene for det nasjonale kom til syne i hans dragestils-ornamenter. Felles for B.s arbeider er sikkerhet i materialbehandlingen og gjennomarbeidelse av detaljene, kombinert med håndverksmessig innsikt, som gir dem karakter og preg av høy kvalitet. Dette gjelder i høy grad også for hans store produksjon av design for møbler og annet inventar.</p></div>",
+    "created_at": "2013-07-03T17:35:28.411+02:00",
+    "changed_at": "2024-06-18T23:25:50.782+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab586\",\"https://digitaltmuseum.no/18f4a99c-9050-4244-9a5d-7068cf7bab27\",\"http://kulturnav.org/18f4a99c-9050-4244-9a5d-7068cf7bab27\"]",
+        "lastname": "Bull",
+        "firstname": "Henrik",
+        "birth_date": "28.3.1864",
+        "birthplace": "Christiania",
+        "death_date": "2.6.1953",
+        "external_id": "person_8736ab586",
+        "kulturnav_id": "18f4a99c-9050-4244-9a5d-7068cf7bab27",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Julius Malling"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

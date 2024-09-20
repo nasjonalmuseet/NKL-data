@@ -1,0 +1,996 @@
+{
+    "id": 430909,
+    "headword": "Mouche Thomsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107765",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Randi",
+                "lastname": "Pettersen",
+                "professions": []
+            },
+            {
+                "from_date": "1957",
+                "type": "Gift med",
+                "external_id": "person_8736ab107766",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Paul Edvard",
+                "lastname": "Støre",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107764",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Carlo Z.",
+                "lastname": "Thomsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Kai Fjell 1939-40",
+                "order": "1"
+            },
+            {
+                "comment": "Bosatt på Java de første leveår",
+                "order": "3"
+            },
+            {
+                "comment": "studiereiser i USA, Frankrike, England, Hellas og Italia",
+                "order": "4"
+            },
+            {
+                "comment": "Otte Sköld, Stockholm 1944-45",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole Oslo, fire år",
+                "order": "0"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Foreningen Norske Grafikere, mangeårig styremedlem"
+            },
+            {
+                "order": "3",
+                "description": "Norske Billedkunstneres Fagorganisasjon. Statens garantiinntekt 1979"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Norges Eksportråd"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "UNESCO, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Riksförbundet för Bildande Konst"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Stortinget"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Utenriksdep."
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Oregon State University"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "17",
+                "to_date": "",
+                "title": "Europäischer Kunstverein"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "26",
+                "to_date": "",
+                "title": "Norsk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "50",
+                "to_date": "",
+                "title": "To kritikere ser seg tilbake"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "41",
+                "to_date": "",
+                "title": "grafikkutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "22",
+                "to_date": "1962",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "45",
+                "to_date": "",
+                "title": "The Manzanares el Real Festival"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "55",
+                "to_date": "",
+                "title": "Oslo Bildende Kunstnere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "18",
+                "to_date": "",
+                "title": "Norsk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "37",
+                "to_date": "",
+                "title": "grafikkbiennale"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1962",
+                "order": "23",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1957",
+                "order": "13",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn jubileumsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "28",
+                "to_date": "",
+                "title": "CCAC World Print Competition"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "40",
+                "to_date": "",
+                "title": "grafikkbiennale"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "54",
+                "to_date": "",
+                "title": "Generasjonene møtes"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "33",
+                "to_date": "",
+                "title": "Visuelt 1974"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "29",
+                "to_date": "",
+                "title": "Hendelser i flaten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "19",
+                "to_date": "",
+                "title": "Norsk grafikk siden sist"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1946",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1962",
+                "order": "24",
+                "to_date": "",
+                "title": "Norwegische Graphik der Gegenwart"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "10",
+                "to_date": "1964",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "14",
+                "to_date": "",
+                "title": "Samtidsgrafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "43",
+                "to_date": "",
+                "title": "3. United States International"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "30",
+                "to_date": "",
+                "title": "sommerutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "34",
+                "to_date": "",
+                "title": "Visuelt 1974"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "53",
+                "to_date": "",
+                "title": "Norske Grafikere 60 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "39",
+                "to_date": "",
+                "title": "8 Norwegian Printmakers"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1960",
+                "order": "16",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "25",
+                "to_date": "",
+                "title": "Norsk grafikk siden sist"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "21",
+                "to_date": "",
+                "title": "grafikkutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "42",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1960",
+                "order": "15",
+                "to_date": "",
+                "title": "Internationale Kunstausamme sted"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "31",
+                "to_date": "",
+                "title": "2. New Hampshire International"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "35",
+                "to_date": "",
+                "title": "Visuelt 1974"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "46",
+                "to_date": "",
+                "title": "7. grafikkbiennale"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1949-10-04",
+                "order": "12",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-08-17",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-04",
+                "order": "26",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-02",
+                "order": "47",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-04-27",
+                "order": "53",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-06",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-04-25",
+                "order": "39",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "2",
+                "reference": "s. 22",
+                "to_date": "",
+                "description": "Norsk kunst i dag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-10",
+                "order": "29",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-06",
+                "order": "27",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-04-26",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-11-29",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-09-12",
+                "order": "17",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-07",
+                "order": "49",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "5",
+                "reference": "s. 66",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-01",
+                "order": "11",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-08-23",
+                "order": "44",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-05",
+                "order": "15",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-03",
+                "order": "48",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergen Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-05-11",
+                "order": "54",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-03",
+                "order": "25",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-04-26",
+                "order": "40",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "8",
+                "reference": "bd. 11, s. 612",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-11",
+                "order": "34",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-04-30",
+                "order": "20",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-09-08",
+                "order": "16",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-11-30",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-14",
+                "order": "30",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-11",
+                "order": "50",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "3",
+                "reference": "s. 252",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "4",
+                "reference": "s. 180",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-09-28",
+                "order": "10",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-05",
+                "order": "14",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-04-27",
+                "order": "41",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-05-14",
+                "order": "55",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-08-26",
+                "order": "45",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-15",
+                "order": "35",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "0",
+                "reference": "hefte 11 s. 56",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-05-03",
+                "order": "21",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-11",
+                "order": "51",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "7",
+                "reference": "s. 50",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-04",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-10-04",
+                "order": "13",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-09-28",
+                "order": "9",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-05-04",
+                "order": "42",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-09-24",
+                "order": "56",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-04-21",
+                "order": "38",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-02",
+                "order": "46",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-12-10",
+                "order": "28",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-04-20",
+                "order": "37",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-22",
+                "order": "36",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "1",
+                "reference": "hefte 29–30 s. 77 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-05-06",
+                "order": "52",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-09-16",
+                "order": "18",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "6",
+                "reference": "s. 121",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-05-04",
+                "order": "22",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-05",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Mouche Thomsen",
+    "url": "https://nkl.snl.no/Mouche_Thomsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>T. plasserte seg ved sin debututstilling som kolorist og en sikker representant for det nye abstrakte maleriet i Paris etter krigen. Kritikken var samstemt i rosen av hennes modenhet og teknikk, men savnet et sterkere engasjement. Dette er en karakteristikk som fulgte hennes utstillinger en tid fremover, mens hennes uttrykksform skiftet mot det mer figurative og ble utvidet til også å omfatte grafikk. Som grafiker arbeidet hun særlig med tresnitt i årene 1952-62, og med silketrykk 1972-82. Omkring 1960 svingte uttrykket igjen mot det abstrakte og det helt nonfigurative, basert på rene fargeklanger. Nasjonalgalleriet, Oslo kjøpte fargetresnittet <em>Blå visjon</em> som fremheves blant oljemaleri og gouache på hennes separatutstilling i 1962. Farge- og stoffbehandling bringer fram følelsen av at: \"det er ved å oppstå en rent malerisk realitet av det slaget som først gir abstraksjonen dens raison d'être\" (J. F. Michelet). En slik billedmessig realitet fremstod etter års iherdig søken og ble presentert i 1972 som et konkret maleri redusert til to-tre elementer, rektangulære former i aksentuerte, brutte fargeklanger, nøytralt utført i akryl. T. hadde her funnet fram til et visuelt språk som i utpreget grad var hennes eget - selvstendig i forhold til R. Mortensen, O. Baertling og J. Albers - og ikke minst kunne fungere rent emosjonelt, langt bedre enn hennes tidligere, konstruktivistisk oppfattede uttrykksform hadde gjort. Fra denne grunnleggende forenkling og konsentrasjon av bildets uttrykk i flater eller former stilt bak hverandre i et udefinert billedrom tok T. skrittet over i en form bygd på parallelle fargefelt eller -striper, med flere elementer sideordnet på flaten. I førstningen vertikalt, men snart også horisontalt orientert er dette strengt inndelte maleri og silketrykk knyttet til naturopplevelsen. I sin strengeste form føres det over på det rent eksistensielle plan, visuelt uttrykt gjennom dramatisk kontrasteffekt, slik som hos B. Newman. Direkte påvirkning lar seg neppe spore verken fra ham eller fra amerikanske malere som førte hans virkemidler over i minimal-kunsten (K. Noland, E. Kelly). Til det er hennes konkrete uttrykksform for sterkt forankret i den norske, lyrisk ekspressive billedtradisjon.</p></div>",
+    "created_at": "2014-12-19T15:40:55.823+01:00",
+    "changed_at": "2024-06-18T23:28:09.997+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3833\",\"https://digitaltmuseum.no/2f3f1b46-e653-44c2-944a-ad5c9b133353\",\"http://kulturnav.org/2f3f1b46-e653-44c2-944a-ad5c9b133353\"]",
+        "lastname": "Thomsen",
+        "firstname": "Mouche",
+        "birth_date": "19.12.1918",
+        "birthplace": "New York",
+        "death_date": "20.9.1984",
+        "external_id": "person_8736ab3833",
+        "kulturnav_id": "2f3f1b46-e653-44c2-944a-ad5c9b133353",
+        "place_of_death": "Oslo",
+        "alternative_names": "Thomsen, Mouche (Paus i 1946); Paus, Mouche"
+    },
+    "authors": [
+        {
+            "full_name": "Even Hebbe Johnsrud"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

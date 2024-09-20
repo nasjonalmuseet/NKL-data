@@ -1,0 +1,426 @@
+{
+    "id": 416898,
+    "headword": "Wilhelm Carpelan",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "kartograf"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "offiser"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101339",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Barbro Elisabet",
+                "lastname": "Toll",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101338",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Axel M.",
+                "lastname": "Carpelan",
+                "professions": [
+                    "løytnant"
+                ]
+            },
+            {
+                "from_date": "1824",
+                "to_date": "1873",
+                "type": "Gift med",
+                "external_id": "person_8736ab101340",
+                "birth_date": "1805",
+                "death_date": "",
+                "firstname": "Emanuella Sofia",
+                "lastname": "Scherman",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem av Krigsvetenskapsak. Stockholm 1829"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Ridder av Sverdordenen 1820"
+            },
+            {
+                "order": "0",
+                "description": "Tapperhetsmedalje i gull 1808"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nationalmuseum Stockholm (ca. 20 etsninger og 2 laveringer)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Universitetsbiblioteket, Oslo (23 akvareller og 2 tegninger, de siste i B.M. Keilhaus album Erindringer af Fjeldreisen i 1820)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "U. Thersner: Fordna och närvarande Sverige, 1817–25"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Voyage pittoresque aux alpes Norvégiennes, (25 akvatintplansjer) Stockholm 1821–23 (25 akvatintblad)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Vues Norvégiennes, Stockholm 1826–27, (8 akvatintblad)"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Götiska Förbundet, Stockholm",
+                "from_date": "1818",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1826",
+                "order": "2",
+                "to_date": "",
+                "title": "Konstakademiens utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1820",
+                "order": "1",
+                "to_date": "",
+                "title": "Den kgl. Tegneskoles 2. utstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Blyanttegning av O.J. Sødermark (Privat eie, Helsingfors)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1968",
+                "order": "14",
+                "reference": "s. 70",
+                "to_date": "",
+                "description": "Højdpunkter i norsk konst",
+                "place": "Stockholm",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "8",
+                "reference": "s. 63–64, 319, 444–47",
+                "to_date": "",
+                "description": "Kgl. Akademiens...utställningar 1794–1887",
+                "place": "Stockholm",
+                "authors": [
+                    "Hultmark, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "13",
+                "reference": "s. 9, 11 og 14 (ill.)",
+                "to_date": "",
+                "description": "Valdres i norsk malerkunst",
+                "place": "Beitostølen",
+                "authors": [
+                    "Hauge, E.O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "7",
+                "reference": "s. 27, ill. nr. 125",
+                "to_date": "",
+                "description": "Norsk kultur i samtidige billeder",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "15",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Med kunstnarauge",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "16",
+                "reference": "bd. 2",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "6",
+                "reference": "s. 173–74, 177",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Fremmede kunstnere i Norge",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1873",
+                "order": "1",
+                "reference": "s. 72",
+                "to_date": "",
+                "description": "Grev Sandels's Statholderskab 1818–1827",
+                "place": "(Kristiania",
+                "authors": [
+                    "Nielsen, Y."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "17",
+                "reference": "bd. 2",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1828",
+                "order": "0",
+                "reference": "nr. 68",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "2",
+                "reference": "s. 9–10, pl. 19, 21, 24, 38–42, 44, 62–63",
+                "to_date": "",
+                "description": "Vore oldeforældres land",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "11",
+                "reference": "bd. 1",
+                "to_date": "",
+                "description": "Svenska män och kvinnor",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "12",
+                "reference": "bd. 1",
+                "to_date": "",
+                "description": "Svenskt konstnärslexikon",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "3",
+                "reference": "s. 339, 483",
+                "to_date": "",
+                "description": "Slægten fra 1814",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "10",
+                "reference": "s. 62",
+                "to_date": "",
+                "description": "Svenska kopparstickare och etsare 1500–1944",
+                "place": "Uppsala",
+                "authors": [
+                    "Hultmark, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "5",
+                "reference": "bd. 7, s. 624–28",
+                "to_date": "",
+                "description": "Svenskt biografisk lexikon",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "4",
+                "reference": "bd. 6, s. 40",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "9",
+                "reference": "s. 47",
+                "to_date": "",
+                "description": "Johannes Flintoe",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Wilhelm Carpelan",
+    "url": "https://nkl.snl.no/Wilhelm_Carpelan",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>C. ble offiser 1803 og kom 1807 til Stockholm som feltmålingsoffiser. Han deltok i den finske krig 1808–09, i Tyskland 1813 og i Norge (Halden) 1814, der han avanserte til major. På Götiska Förbundets utstilling i Stockholm 1818 deltok han med kobberstikk, deriblant et som vel er et minne fra dette siste felttoget, en utsikt av Eskevik \"tagen från bryggan vid Fredrikshall i Norge\" 1819–24. Han var adjutant hos den svenske stattholder Sandels i Christiania 1819–24, og lærte nå landet godt å kjenne på flere reiser, ofte sammen med Johannes Flintoe og naturforskeren Chr. Hansteen. Allerede sommeren 1819 reiste han gjennom Valdres og Sogn til Bergen, vel i forbindelse med Sandels' besøk der, og traff på hjemveien Flintoe, som han slo følge med tilbake gjennom Valdres. I august 1820 drog han over Kongsberg til Telemark, og kom dit igjen 1823. Sammen med Flintoe og H.A. Grosch står han da som den egentlige oppdager av Telemark. Alt etter sin første Norges-tur kunne han på Tegneskolens utstilling i Christiania 1820 vise 22 norske landskaper i akvarell, og på Akademi-utstillingen i Stockholm 1826 utstilte han 21 norske motiver, denne gang i olje. Fem av dem er malt etter gouacher av Flintoe og skildrer steder dit C. visst aldri kom (Hardanger, Aurland, Jostedal), men resten er originaler og viser at han også har vært atskillig rundt i Sogn (Luster, Fresvik, Frønningen, Feigum, Skagastølstindene, Voss, Stalheim, Hurrungane). 1821–23 utgav han i Stockholm et stort plansjeverk med kolorerte akvatintblad, <em>Voyage pittoresque aux alpes Norvégiennes</em>, med egne tekster. De to første heftene (1821 og 1822) skildrer i 16 blad veien fra Christiania over Krokskogen og opp gjennom Valdres til Fillefjell. Blant disse blad med de klangfulle, kraftige farger kan vi nevne det fra Randsfjorden med den vakre skyhimmelen, det dype blå fra Nord-Aurdal eller det med postkjøreren under Suletind. Det siste heftet (1823) er helt viet Telemark, bl.a. med Vestfjorddalen, Gausta og Rjukan. En senere mindre samling, <em>Vues Norvégiennes</em> (1826-27), har 8 plansjer fra ulike deler av landet, bl.a. tre fra Halden-strøket. Heller ikke her er alt originalt. I <em>Voyage pittoresque</em> er tre motiver lånt fra Flintoe, fire Valdres-motiver fra B.M. Keilhau og ett (Krokkleiva) fra Carl Vogt, og i Vues Norvégiennes har Thomas Fearnley bidratt med et motiv fra Aurland. </p>\n<p>C. er en ganske god grafiker. Han vet å utnytte akvatintens valørrikdom, og hans blad har holdning og god dekorativ virkning, selv om de kan være noe stive. Fargene er gjerne dypere og kraftigere enn i de tilsvarende akvareller (en samling på 23 blad på UB i Oslo, deriblant flere Valdres-motiver som er brukt i Voyage pittoresque). Bladene er imidlertid ikke kolorert av ham selv, men av F.E. Werner. En tilsvarende svensk akvatint-serie utgav han omtrent samtidig (1817–25). Enkelte norske motiver finnes i F. Boyes Magasin för konst, nyheter och moder (1823–26). Endelig utgav han 1826 et kart over det sydlige Norge.</p>\n<p>C. ble oberstløytnant i 1823 og forlot året etter Norge, men synes å ha bevart kontakten med norske kunstnere og sin interesse for norsk natur, den han tydelig legger for dagen gjennom sin store mønstring på Akademi-utstillingen 1826. Om kvaliteten av disse 21 oljemaleriene kan vi imidlertid nå vanskelig dømme.</p>\n</div>",
+    "created_at": "2013-07-03T18:08:56.594+02:00",
+    "changed_at": "2024-06-18T23:25:53.072+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab660\",\"https://digitaltmuseum.no/f512819b-43fa-4a36-95ec-cf079ee0b360\",\"http://kulturnav.org/f512819b-43fa-4a36-95ec-cf079ee0b360\"]",
+        "lastname": "Carpelan",
+        "firstname": "Wilhelm",
+        "birth_date": "7.1.1787",
+        "birthplace": "Ojamo i Lojo, Finland",
+        "death_date": "19.5.1830",
+        "external_id": "person_8736ab660",
+        "kulturnav_id": "f512819b-43fa-4a36-95ec-cf079ee0b360",
+        "place_of_death": "Stockholm",
+        "alternative_names": "Carpelan, Wilhelm Maximilian"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16203/standard_NMK-B_NG.K_26H.1975.004520130725-13675-1chbmyk.jpg",
+            "full_size_url": "https://media.snl.no/media/16203/NMK-B_NG.K_26H.1975.004520130725-13675-1chbmyk.jpg",
+            "xhtml": "<div>\r\n<p><em>Bro i Kolidalen, Øvre Telemark</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Wilhelm Carpelan",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "kartograf"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "offiser"
+        }
+    ]
+}

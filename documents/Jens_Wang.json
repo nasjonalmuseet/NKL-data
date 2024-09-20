@@ -1,0 +1,706 @@
+{
+    "id": 431231,
+    "headword": "Jens Wang",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "teatermaler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108032",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Christian August",
+                "lastname": "Wang",
+                "professions": [
+                    "styrmann"
+                ]
+            },
+            {
+                "professions": [
+                    "undertollbetjent"
+                ],
+                "from_date": "1886",
+                "type": "Gift med",
+                "external_id": "person_8736ab108034",
+                "birth_date": "1863",
+                "death_date": "",
+                "firstname": "Hanna Josefine",
+                "lastname": "Hansen",
+                "place": "Kristiania"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108033",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Josephine Christine",
+                "lastname": "Myhrvold"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Den kgl. Tegneskole, aftenskole under Julius Middelthun 1882-85 (?)",
+                "order": "0"
+            },
+            {
+                "comment": "korreksjon av Chr. Krohg 1882-85",
+                "order": "1"
+            },
+            {
+                "comment": "Académie Julian, Paris under William-Adolphe Bouguereau og Albert-François Fleury 1885-87",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Schäffers legat og Benneches legat ca. 1883-85"
+            },
+            {
+                "order": "1",
+                "description": "Finnes legat 1886"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold i Paris 1883, flere opphold 1885-87, -89"
+            },
+            {
+                "order": "3",
+                "description": "flere studiereiser til utlandet bl.a. Tyskland (1896) og London"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Teatermaler Christiania Theater 1889-98 og Nationaltheatret 1898-1918"
+            },
+            {
+                "order": "1",
+                "description": "eget atelier for teaterdekorasjoner, Drammensvn. 104, Oslo 1918-26"
+            },
+            {
+                "order": "2",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "3",
+                "description": "Sekretær Høstutstillingen 1886-88"
+            },
+            {
+                "order": "4",
+                "description": "styremedlem Christiania Kunstforening 1890-årene"
+            },
+            {
+                "order": "5",
+                "description": "medlem hovedkomiteen for Jubileumsutstillingen i 1914, Kristiania"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Mention honorable Verdensutst. i Paris 1889"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Dekorasjoner til følgende teatre i Oslo: Christiania Theater (1890-98)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nationaltheatret (1899-1918)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Centralteatret (1902-24)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Tivoli Revyteater (1904)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Bertha Ræstads teater (1912)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Det Norske Teatret (1913-21)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Theatre Moderne (1914-26)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Opera Comique (1917-21)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Inga Bjørnsons barneteater (1920-26)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Tabarin teater (1921-22)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Mayolteatret (1921-25)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Casino teater (1921-28)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Circus Varieté og Fluesnapper'n (ukjent år). Øvrige norske scener: Fahlstrøms Teater, Bergen (1902)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Den Nationale Scene, Bergen (1903-20)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Sarpsborg Teater (1909)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Trondhjems Nationale Scene (1911)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Sommerteatret i Kongsberg (ukjent år)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "scener i Drammen, Fredrikstad og Halden"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "se for øvrig Johansen, R.: Teatermaler Jens Wang. Dekorasjonskunst og sceneteknikk, Oslo 1984, s. 354–63 (samlet liste over teaterforestillinger). Gatedekorasjoner ved Fridtjof Nansens hjemkomst, Kristiania 1896"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "scene-forteppe Nationaltheatret (1898-99, brent 1943)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "restaurering Eidsvollsbygningen og interiør Theatercaféen, Kristiania 1900"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "dekorasjoner til kunstnerkarneval og markeder Kristiania omkr. 1900"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "altertavle Borre kirke (kopi av Adolph Tidemand: Jesu dåp)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "monumentalmaleri, Oslo rådhus."
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Teatermuseum i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Skiens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Universitetsbiblioteket, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Elverum kunstgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Med egen tekst: Dukkene som havde det ondt, Kristiania 1907"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Peer Gynt i 24 billeder, Oslo 1924."
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1883",
+                "order": "2",
+                "to_date": "1884",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1886",
+                "order": "3",
+                "to_date": "1891",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1886",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1888",
+                "order": "5",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "6",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen jubileumsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1966",
+                "order": "9",
+                "to_date": "",
+                "title": "Norske teatermalere og Henrik Ibsen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Portrett malt av Fredrik Kolstø (olje, tidligere Oslo Bymuseum, nå Teatermuseet i Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "portrettbyste utført av Lars Utne (1916, Nationaltheatret, replikk privat eie)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "to portrettegninger utført av Øyvind Sørensen (privat eie)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "diverse tegninger i vittighetspressen tegnet av Olaf Gulbranson, Olaf Krohn, Gustav Lærum m.fl"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "authors": [
+                    ""
+                ],
+                "comments": [
+                    "Se illustrasjonsarbeider"
+                ],
+                "archives": null
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1900",
+                "order": "1",
+                "to_date": "",
+                "description": "i Jul",
+                "authors": null,
+                "comments": [
+                    "julehefte"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1907",
+                "order": "2",
+                "reference": "bd. 2, s. 150, 355",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1918",
+                "order": "3",
+                "to_date": "",
+                "description": "Theaterkatten",
+                "authors": null,
+                "comments": [
+                    "hefte 24"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1924",
+                "order": "4",
+                "to_date": "",
+                "description": "Theaterkatten",
+                "authors": null,
+                "comments": [
+                    "hefte 24"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1918",
+                "order": "5",
+                "reference": "bd. 4, s. 337",
+                "to_date": "1924",
+                "description": "Hallingdalens historie",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1923",
+                "order": "6",
+                "reference": "s. 69",
+                "to_date": "",
+                "description": "Samtiden",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924",
+                "order": "7",
+                "reference": "s. 72",
+                "to_date": "",
+                "description": "Nationaltheatret gjennem 25 aar",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1928",
+                "order": "8",
+                "reference": "bd. 24, s. 523",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1942",
+                "order": "9",
+                "reference": "bd. 35, s. 145",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1949",
+                "order": "10",
+                "reference": "s. 67",
+                "to_date": "",
+                "description": "Nationaltheatret gjennom femti år",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1954",
+                "order": "11",
+                "to_date": "",
+                "description": "Borre bygdebok",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "12",
+                "reference": "s. 74, 79",
+                "to_date": "",
+                "description": "Gustav Wentzel",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1960",
+                "order": "13",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "14",
+                "reference": "s. 150",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "15",
+                "reference": "s. 87",
+                "to_date": "1968",
+                "description": "Vestlandske Kunstindustrimuseum, årbok",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967",
+                "order": "16",
+                "reference": "s. 118",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967",
+                "order": "17",
+                "reference": "s. 203, 223",
+                "to_date": "",
+                "description": "Akersgaten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "18",
+                "reference": "s. 140, 258",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1970",
+                "order": "19",
+                "reference": "s. 235–50",
+                "to_date": "",
+                "description": "L'Art officiel og Skandinavia, Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972",
+                "order": "20",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "authors": null,
+                "comments": [
+                    "bd. 19, spalte 940–41"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "21",
+                "reference": "s. 9–10",
+                "to_date": "",
+                "description": "Arne Walentin, teatermålar og scenograf",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "22",
+                "reference": "bd. 18, s. 307–12",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "23",
+                "reference": "bd. 12, s. 537",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "24",
+                "reference": "bd. 5, s. 430",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "25",
+                "reference": "s. 176",
+                "to_date": "",
+                "description": "Biografisk skuespillerleksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1984",
+                "order": "26",
+                "to_date": "",
+                "description": "Teatermaler Jens Wang. Dekorasjonskunst og sceneteknikk",
+                "authors": null,
+                "comments": [
+                    "(se denne for aviser og utrykte kilder)"
+                ],
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jens Wang",
+    "url": "https://nkl.snl.no/Jens_Wang",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>W. tok realskolen i Moss og ble 14 år gammel sendt til Christiania for å gå i krambodlære. Samtidig gikk han på handelsskole, hvor han konsentrerte seg om moderne språk. I 1882 begynte han på Den kgl. Tegneskole om aftenen og ble også elev av Chr. Krohg. Sammen med bl.a. Edv. Munch, Halfdan Strøm, Kalle Løchen, Gustav Wentzel og Jørgen Sørensen kom W. til å danne en gruppe av friluftsmalere som stod i opposisjon til ateliermalerne. De stod ute i Christianias gater og malte, Munch foretrakk Akerselva og Løchen byens hustak, mens W. malte falleferdig bebyggelse i Munkedamsveien. På Høstutstillingen i 1883 gjorde W. seg bemerket ved en kraftig fargebruk og en tilnærmet impresjonistisk malemåte. Kritikerne bedømte ham som umoden og påpekte også senere mangler ved hans figurtegning. Etter sitt første besøk i Paris 1883 malte han <em>Fra Skulpturmuseet</em> (1884, privat eie) som viser innflytelse fra den franske kunsts La vie moderne-temaer. Som motiv er bildet uten paralleller i norsk samtid. Figurtegningen var blitt sikrere, og i 1885-87 søkte han videre skolering i Paris under William-Adolphe Bouguereau. Portrettet av <em>Gustav Wentzel</em> (1887) og det store figurbilde av W.s mor (utstilt 1896) viser ham senere som en habil figurmaler. Genrebilder som <em>Gode venner, En knude på Traaden</em> (1884) og <em>Efter karnevalet</em> (1887) er alle typiske for 80-årenes motivvalg. Fra slutten av 1880-årene malte W. helst landskaper og bymotiver i en mer moderat fargebruk og en mer utpenslet teknikk. Han deltok jevnlig på utstillinger fram til midten av 1890-årene. Hos Blomqvists Kunsthandel, Oslo 1896 stilte han ut maleriske motiver fra et opphold i middelalderbyen Rothenburg an der Tauber, Tyskland og året etter sommerlige landskaper preget av 1890-årenes romantiske strømninger. Fra slutten av 80-årene og flere år fremover spilte W. dessuten kontrabass i byens teaterorkestere, for bl.a. å skaffe midler til utenlandsstudier. Sin første dekorasjonsoppgave for teater fikk han i 1885 ved Tivoliteatret, Kristiania, til Wagners opera Lohengrin. Etter hjemkomsten fra Paris i 1889 fikk han sammen med Andreas Bloch i oppdrag å male dekorasjoner til Nordahl Rolfsens eventyrkomedie Svein Uræd på Christiania Theater, hvor han samme år ble ansatt.</p>\n<p>Ved norske teatre hadde man hittil benyttet utenlandske teatermalere eller leilighetsvis gitt oppdrag til norske staffelimaler, som f.eks. Knud Baade og Frits Thaulow. W. fikk ganske snart en sterk posisjon innen teatret, særlig som spesialist på Ibsens og Bjørnsons skuespill. Etter 10 år ved Christiania Theater i 1898 ble han ansatt ved det nyopprettete Nationaltheatret. Gjennom 20 år laget han her scenedekorasjoner til en lang rekke dramaer, lystspill og operaer, i de første 10 år i samarbeid med Andreas Bloch og under teatersjef og iscenesetter Bjørn Bjørnson. W. leverte også skisser til Ibsen og Bjørnsons dramaer til utenlandske scener, bl.a. til Bjørnsons Over evne for Royalty Theatre, London, Ibsens John Gabriel Borkman for Odéon-teatret, Paris, Samfundets støtter og Peer Gynt for teatre i Budapest, Dresden og Stuttgart, Ibsens Kongsemnerne, Brand, John Gabriel Borkman og Bjørnsons Sigurd Jorsalfar for teatre i Stockholm. Etter at han forlot Nationaltheatret i 1918 leverte han teaterdekorasjoner fra eget atelier til både innen- og utenbys scener. Som teatermaler var W. representant for det realistisk-naturalistiske scenebilde. Fra besøk i utlandet brakte han dessuten med seg nye scenetekniske løsninger og gjorde bl.a. lyset til en vesentlig del av dekorasjonene. Fra 1898 til 1918 var W. så å si enerådende som teatermaler i Kristiania og skapte en ny forståelse for teatermalerens plass i forestillingen. Blant annet skrev teaterkritikken for første gang seriøst om dekorasjonene ved teatret.</p>\n</div>",
+    "created_at": "2014-12-21T15:06:32.396+01:00",
+    "changed_at": "2024-06-18T23:28:19.340+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3956\",\"https://digitaltmuseum.no/41b7a84d-c499-48db-af85-aae4da8e4325\",\"http://kulturnav.org/41b7a84d-c499-48db-af85-aae4da8e4325\"]",
+        "lastname": "Wang",
+        "firstname": "Jens",
+        "birth_date": "11.3.1859",
+        "birthplace": "Fredrikstad",
+        "death_date": "28.5.1926",
+        "external_id": "person_8736ab3956",
+        "kulturnav_id": "41b7a84d-c499-48db-af85-aae4da8e4325",
+        "place_of_death": "Oslo",
+        "alternative_names": "Wang, Jens Waldemar"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "teatermaler"
+        }
+    ]
+}

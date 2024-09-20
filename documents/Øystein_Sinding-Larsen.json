@@ -1,0 +1,657 @@
+{
+    "id": 430526,
+    "headword": "Øystein Sinding-Larsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "glasskunstner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab107047",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gertrude Amalia Carlotta",
+                "lastname": "Kretschmann",
+                "professions": [
+                    "sanger"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107045",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Peter Andreas Holger",
+                "lastname": "Sinding-Larsen",
+                "professions": [
+                    "arkitekt"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107036",
+                "birth_date": "1872",
+                "death_date": "1957",
+                "firstname": "Sina Broch",
+                "lastname": "Martens",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "fresko- og mosaikkstudier, Firenze 1923",
+                "order": "2"
+            },
+            {
+                "comment": "Elev av Emanuel Vigeland 1916–21",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstakademiet i Stuttgart, Tyskland 1/+2 år 1924",
+                "order": "3"
+            },
+            {
+                "comment": "Statens Håndverks og Kunstindustriskole, Kristiania under Enevold Thømt",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studieopphold i Firenze 1923"
+            },
+            {
+                "order": "6",
+                "description": "Norge 1939–46"
+            },
+            {
+                "order": "3",
+                "description": "bosatt i Paris ca. 1927–30, 1932–34"
+            },
+            {
+                "order": "1",
+                "description": "Stuttgart 1924"
+            },
+            {
+                "order": "4",
+                "description": "Tyskland 1930–32(?)"
+            },
+            {
+                "order": "2",
+                "description": "studiereise til Nederland, Belgia, Frankrike og Firenze 1926"
+            },
+            {
+                "order": "7",
+                "description": "bosatt i London fra 1949"
+            },
+            {
+                "order": "5",
+                "description": "London ca. 1934–39"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "3",
+                "description": "1. premie konkurranse om glassvindu Williston Church, Portland, Maine 1930"
+            },
+            {
+                "order": "0",
+                "description": "Pris ved akademiutst. i Stuttgart, Tyskland 1924"
+            },
+            {
+                "order": "1",
+                "description": "gullmedalje og æresdiplom, Firenze 1926"
+            },
+            {
+                "order": "2",
+                "description": "diplom Landsutst., Bergen 1928"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "kapellet, Château de Brecourt, Normandie (1924–28(?))"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Glassmalerier: Holmenkollen kapell, Oslo (1924-36)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Williston Church, Portland, Maine (avduket 1932)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "kirker i Stratton og Northshields, England (1936, -39 ikke fullført)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "kirke i Dorchester (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bloomsbury-bygningen, London University (1936)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Firenze",
+                "from_date": "1926",
+                "order": "4",
+                "to_date": "",
+                "title": "Esposizione d'Arte e Lavoro applicati all'Industria"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1925",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Rue Labrouste, Paris",
+                "from_date": "1928",
+                "order": "2",
+                "to_date": "",
+                "title": "atelierutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bloomsbury Galleri, London",
+                "from_date": "1936",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stuttgart",
+                "from_date": "1930",
+                "order": "7",
+                "to_date": "",
+                "title": "kirkekunstutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1924",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1928",
+                "order": "6",
+                "to_date": "",
+                "title": "Landsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1927",
+                "order": "5",
+                "to_date": "",
+                "title": "Salon d'automne"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Portrettegning gjengitt i Oslo Aftenavis 2.4.1925"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1928-05-23",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "1928-05-30",
+                "description": "Oslo Illustrerte",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-26",
+                "order": "23",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-28",
+                "order": "25",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-08",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Art et Décoration",
+                "place": "Paris",
+                "authors": [
+                    "Rais, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-10-05",
+                "order": "27",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-04-02",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "6",
+                "reference": "s. 236, 238 (ill.), 268",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-09",
+                "order": "4",
+                "to_date": "",
+                "description": "i D'Aci i d'Alla",
+                "place": "Spania",
+                "authors": [
+                    "E. de Falgairolle"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-25",
+                "order": "11",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-29",
+                "order": "29",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-09-22",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-24",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "8",
+                "reference": "hefte 91 s. 16",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-07-09",
+                "order": "34",
+                "to_date": "",
+                "description": "La Comédie",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-26",
+                "order": "16",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-09-20",
+                "order": "36",
+                "to_date": "",
+                "description": "Courier-Gazette",
+                "place": "Portland, USA",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-24",
+                "order": "20",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-11-03",
+                "order": "14",
+                "to_date": "",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-09-22",
+                "order": "26",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-29",
+                "order": "22",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-11-07",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "1928-11-14",
+                "description": "Oslo Illustrerte",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-08",
+                "order": "3",
+                "to_date": "",
+                "description": "Amour de l'Art",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-09-27",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927-11-19",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936-05-02",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936-04-09",
+                "order": "7",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "News Review",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-04-02",
+                "order": "30",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-09-22",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-11",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "The Christian Endeavour",
+                "place": "Boston, USA",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-09-15",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929-01-19",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "9",
+                "reference": "s. 46",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri,S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-07-06",
+                "order": "33",
+                "to_date": "",
+                "description": "La Semaine",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-12-13",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-25",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-09-28",
+                "order": "35",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-01-24",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Øystein Sinding-Larsen",
+    "url": "https://nkl.snl.no/%C3%98ystein_Sinding-Larsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Som elev av Emanuel Vigeland deltok S.-L. bl.a. i utførelsen av glassmaleriene til Oscarskyrkan i Stockholm. De fleste av hans arbeider er utført for kirker og privathus i England, Frankrike og Italia. Han laget bl.a. glassvinduer med profane motiver, arbeidet med fresko- og dekorasjonsmaling og malte portretter og akvareller.</p></div>",
+    "created_at": "2014-11-20T17:28:36.415+01:00",
+    "changed_at": "2024-06-18T23:28:00.334+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3487\",\"https://digitaltmuseum.no/09b0cf49-0601-4bd5-ae1c-ec829c8eff22\",\"http://kulturnav.org/09b0cf49-0601-4bd5-ae1c-ec829c8eff22\"]",
+        "lastname": "Sinding-Larsen",
+        "firstname": "Øystein",
+        "birth_date": "28.2.1900",
+        "birthplace": "Kristiania",
+        "death_date": "0.0.1979",
+        "external_id": "person_8736ab3487",
+        "kulturnav_id": "09b0cf49-0601-4bd5-ae1c-ec829c8eff22"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "glasskunstner"
+        }
+    ]
+}

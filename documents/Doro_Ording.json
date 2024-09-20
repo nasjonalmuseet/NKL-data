@@ -1,0 +1,1167 @@
+{
+    "id": 430318,
+    "headword": "Doro Ording",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1926",
+                "type": "Gift med",
+                "external_id": "person_8736ab1425",
+                "birth_date": "24.11.1901",
+                "death_date": "13.02.1953",
+                "firstname": "Carl von",
+                "lastname": "Hanno",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106136",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna",
+                "lastname": "Horn",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106138",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jørgen Fredrik",
+                "lastname": "Ording",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106135",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "V. B.",
+                "lastname": "Nicolaysen",
+                "professions": [
+                    "major"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "privat malerskole, Dresden 7 mndr. vinteren 1923",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Kunstakademi, Kristiania, under Chr. Krohg og Halfdan Strøm 1920–23",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Georg Jacobsen 1939–40",
+                "order": "4"
+            },
+            {
+                "comment": "Atelier 17, Paris under Stanley William Hayter 1953–54",
+                "order": "6"
+            },
+            {
+                "comment": "elev av Jørleif Uthaug 1970",
+                "order": "8"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Kristiania 1920",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Marcel Gromaire, Paris 1933",
+                "order": "3"
+            },
+            {
+                "comment": "elev av Gustave Singier, Paris 1955",
+                "order": "7"
+            },
+            {
+                "comment": "hospitant på Statens Håndverks- og Kunstindustriskole, Oslo under Chrix Dahl 1947–49",
+                "order": "5"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Oslo bys stipend 1954"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "7",
+                "description": "Italia 1927"
+            },
+            {
+                "order": "0",
+                "description": "Namdalsstipend 1947"
+            },
+            {
+                "order": "1",
+                "description": "Statens grafikerstipend 1952"
+            },
+            {
+                "order": "8",
+                "description": "Spania 1933"
+            },
+            {
+                "order": "3",
+                "description": "Th. Fearnleys Minnestipend 1962"
+            },
+            {
+                "order": "5",
+                "description": "Studieopphold og reiser til Dresden 1922–23"
+            },
+            {
+                "order": "6",
+                "description": "Paris 1925, 1932–33, 1953–54, -55"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "6",
+                "description": "Foreningen Norske Grafikere"
+            },
+            {
+                "order": "5",
+                "description": "Medlem Landsforeningen Norske Malere"
+            },
+            {
+                "order": "4",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "startet de frie farge- og formingskursene i AOF i 1946, lærer til ca. 1970"
+            },
+            {
+                "order": "1",
+                "description": "egen malerskole til ca. 1950"
+            },
+            {
+                "order": "0",
+                "description": "Privat malerskole i Oslo sammen med Carl von Hanno 1936–43"
+            },
+            {
+                "order": "3",
+                "description": "malerundervisning ved Nic Waals Institutt i Oslo i noen år"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Skiens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Utenriksdepartementet"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "New York International Library for Graphics"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Galleri Numero, Firenze"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Ateneum, Helsinki"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Sarpsborg, Namsos og Bodø kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Milano Museum"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Holst Halvorsens Kunsthandel, Oslo",
+                "from_date": "1981",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "comment": "før",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riverside Museum, New York",
+                "from_date": "1940",
+                "order": "26",
+                "to_date": "",
+                "title": "International Council of Women"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1954",
+                "order": "42",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1928",
+                "order": "9",
+                "to_date": "1930",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1956",
+                "order": "46",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sarpsborg",
+                "from_date": "1975",
+                "order": "56",
+                "to_date": "",
+                "title": "Foreningen Norske Grafikeres kvinneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lugano, Italia",
+                "from_date": "1952",
+                "order": "36",
+                "to_date": "",
+                "title": "Norsk svart-hvittutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lausanne, Sveits",
+                "from_date": "1950",
+                "order": "32",
+                "to_date": "",
+                "title": "Norsk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1946",
+                "order": "13",
+                "to_date": "1953",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1936",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet",
+                "from_date": "1940",
+                "order": "22",
+                "to_date": "",
+                "title": "Retrospektiv utstilling over norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "comment": "før",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1940",
+                "order": "25",
+                "to_date": "",
+                "title": "International Council of Women"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1922",
+                "order": "8",
+                "to_date": "1925",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger",
+                "from_date": "1954",
+                "order": "41",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oregon",
+                "from_date": "1958",
+                "order": "49",
+                "to_date": "1959",
+                "title": "Contemporary Prints from Norway"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "10",
+                "to_date": "1935",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ljubljana",
+                "from_date": "1956",
+                "order": "45",
+                "to_date": "",
+                "title": "Norweska Grafika"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1969",
+                "order": "55",
+                "to_date": "",
+                "title": "Statens Kunstakademi 60 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1951",
+                "order": "35",
+                "to_date": "",
+                "title": "Norsk Nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1950",
+                "order": "31",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1931",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "14",
+                "to_date": "1956",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1954",
+                "order": "40",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Reykjavik",
+                "from_date": "1954",
+                "order": "39",
+                "to_date": "",
+                "title": "Hin Opinbera Norska Listsýning"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1932",
+                "order": "21",
+                "to_date": "",
+                "title": "Bildende Kunstnerinners utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1960",
+                "order": "50",
+                "to_date": "",
+                "title": "Nordisk grafik"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1947",
+                "order": "29",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frankrike",
+                "from_date": "1956",
+                "order": "44",
+                "to_date": "",
+                "title": "La gravure norvégienne contemporaine"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1947",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1961",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Foreningen Norske Grafikere, Kunstnerforbundet, Oslo",
+                "from_date": "1953",
+                "order": "38",
+                "to_date": "",
+                "title": "Svart og hvitt i dag"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1957",
+                "order": "28",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Jubileumsutstill."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1959",
+                "order": "48",
+                "to_date": "1961",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1964",
+                "order": "54",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1951",
+                "order": "34",
+                "to_date": "",
+                "title": "Norsk Nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "The Royal Society of British Artists Galleri, London",
+                "from_date": "1928",
+                "order": "20",
+                "to_date": "",
+                "title": "Exhibition of Norwegian Art"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1926",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "comment": "før",
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1940",
+                "order": "24",
+                "to_date": "",
+                "title": "International Council of Women"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1958",
+                "order": "15",
+                "to_date": "1966",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1950",
+                "order": "30",
+                "to_date": "",
+                "title": "Utstillingsrevyen 1930–50"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kragerø Kunstforening",
+                "from_date": "1973",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "57",
+                "to_date": "",
+                "title": "Foreningen Norske Grafikeres kvinneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "São Paulo",
+                "from_date": "1955",
+                "order": "43",
+                "to_date": "",
+                "title": "3. biennale"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1943",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "England",
+                "from_date": "1961",
+                "order": "51",
+                "to_date": "",
+                "title": "Norwegian Graphic Art"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1939",
+                "order": "12",
+                "to_date": "1940",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1953",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1946",
+                "order": "27",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Jubileumsutstill."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1962",
+                "order": "53",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1957",
+                "order": "47",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1924",
+                "order": "19",
+                "to_date": "",
+                "title": "vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "16",
+                "to_date": "1970",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1950",
+                "order": "33",
+                "to_date": "1951",
+                "title": "Ung Norsk Konst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1962",
+                "order": "52",
+                "to_date": "",
+                "title": "Norwegische Graphik der Gegenwart"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1937",
+                "order": "23",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1976",
+                "order": "11",
+                "reference": "s. 62, 189",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-25",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "13",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 15, spalte 100"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-28",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Havers, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "3",
+                "reference": "nr. 10 s. xvii",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "9",
+                "reference": "s. 233",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "1",
+                "reference": "s. 87, pl. 111",
+                "to_date": "",
+                "description": "Kvinneportretter i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R.",
+                    "Gran, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "0001-05-01",
+                "description": "i katalog Holst Halvorsens Kunsthandel",
+                "place": "Oslo",
+                "authors": [
+                    "Hougen, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-05-15",
+                "order": "19",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-10-01",
+                "order": "21",
+                "to_date": "",
+                "description": "Nordtrønderen og Namdalen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "7",
+                "reference": "s. 144",
+                "to_date": "",
+                "description": "For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "5",
+                "reference": "s. 197, 199 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "14",
+                "reference": "s. 17 (ill.), 18",
+                "to_date": "",
+                "description": "Norsk grafikk i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Flor, H. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-25",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Alle Kvinner",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-12",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-06-02",
+                "order": "18",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984-05-02",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Renberg, U."
+                ],
+                "comments": [
+                    "(bilag)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1961-10-19",
+                "order": "23",
+                "to_date": "",
+                "description": "i Sandefjords Blad",
+                "authors": [
+                    "Lind, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "12",
+                "reference": "s. 69",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1945–1970",
+                "place": "Trondheim",
+                "authors": [
+                    "Kristiansen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "10",
+                "reference": "s. 113",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-02",
+                "order": "29",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Astrup, C. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-25",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Rostad, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "17",
+                "reference": "bd. 6, s. 194–95",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "0",
+                "reference": "s. 190 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "6",
+                "reference": "s. 124 (ill.)",
+                "to_date": "",
+                "description": "Streiftog og glimt fra Kunstnerforbundets første femti år",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-08-05",
+                "order": "20",
+                "to_date": "",
+                "description": "Namdal Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "4",
+                "reference": "bd. 2, s. 204",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "2",
+                "reference": "s. 192",
+                "to_date": "",
+                "description": "Ung norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-07-19",
+                "order": "24",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Røed, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-04",
+                "order": "30",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-10-14",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Sandefjords Blad",
+                "authors": [
+                    "Lind, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "8",
+                "reference": "s. 80 (ill.)",
+                "to_date": "",
+                "description": "106 norske grafikere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "15",
+                "reference": "bd. 9, s. 172",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-05",
+                "order": "32",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Doro Ording",
+    "url": "https://nkl.snl.no/Doro_Ording",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>O. traff Carl von Hanno allerede på Statens Håndverks- og Kunstindustriskole og gjennomgikk som han en periode med romantisk klassisisme i 1920-årene. Begge mottok senere impulser fra Marcel Gromaires strenge billedoppbygging og kraftige konturtegning. Utover i 30-årene ble O.s bilder tydelig påvirket av von Hannos sosial-realistiske motivkrets og kubistisk kantete formspråk. Hennes bilder viser imidlertid mer temperament i malemåten med friske og uvørne penselstrøk. Fargevalget var dypstemt med rene og sterke farger, som i <em>Krabber</em> (1930, Nasjonalgalleriet, Oslo), innkjøpt på separatutstillingen 1931. O.s sterke engasjement i arbeidernes harde slit og livsvilkår kommer fram bl.a. i en rekke større bilder malt fra Tyssedal, Flekkefjord og Andenes. Et hovedverk fra disse årene er <em>Opp av det sorte hull</em>, malt på smelteverket i Tyssedal i 1935.</p>\n<p>I 1950- og 60-årene var O. med å kjempe fram det abstrakte maleri i Norge, sammen med den yngre generasjon med Jakob Weidemann, Inger Sitter, Ludvig Eikaas og Gunnar S. Gundersen. O.s abstrakte formspråk utviklet seg i landskapsbilder og motiver fra Sørlandet, Portør og Kragerøs skjærgård, malt i 40-årene. Stofflighet og struktur i landskapet ble etter hvert like viktig som naturinntrykkene. Hun abstraherte motiver både fra den store helheten i naturen og fra mikrokosmos, som i <em>Forurenset pytt</em> (1967). De gjennomført abstrakte bilder er bygd opp over et strengt formalt skjema av kvadratiske fargeflater, enten i en dominantfarge eller i et kontrasterende fargespekter. Bilder fra begynnelsen av 70-årene danner en overgang mot mer rytmiske og bevegelige komposisjoner (<em>Jettegryte</em>, 1978). O. har gjennom årene malt en rekke følsomme og sikre portretter og i 60- og 70-årene dessuten flere impresjonistiske sommer- og reiseinntrykk. Det siste ti-år har hun arbeidet en del med skulptur, men fremhever selv først og fremst sin grafikk. Etter krigen var hun hospitant hos Chrix Dahl på Statens Håndverks- og Kunstindustriskole, hvor hun laget sine første etsninger med politisk tendens. Arbeider som <em>Forvitret kvinne</em> (1949), <em>Splittet hode, verden deler seg</em> og <em>To supermakter</em> (begge 1950) viser hennes tolkning av etterkrigstidens problemer og den kalde krigen. Bildene er figurative, med en sterkt ekspressiv karakter og preget av en symbolsk og av og til surrealistisk form. De uforutsette grafiske virkninger i metallplaten er en del av billeduttrykket. O. tilbrakte også et år på Atelier 17 i Paris, hvor hun arbeidet med fargetrykk. Hennes abstrakte grafiske blad er en videreutvikling av malerienes komposisjonsprinsipper. Hun fremhever selv Georg Jacobsens formalisme som bestemmende for hennes formspråk både som maler og grafiker. O. har drevet malerskole i mange år, først sammen med sin mann Carl von Hanno, senere alene. I 1946 startet hun de frie farge- og formingskursene i AOFs regi og gjorde i mange år en stor innsats som kunstpedagog og drivkraft i Arbeidernes Kunstsirkel.</p>\n</div>",
+    "created_at": "2014-11-20T12:51:58.923+01:00",
+    "changed_at": "2024-06-18T23:27:54.937+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3033\",\"https://digitaltmuseum.no/2781b364-1874-4f31-9753-f6b2de9607f9\",\"http://kulturnav.org/2781b364-1874-4f31-9753-f6b2de9607f9\"]",
+        "lastname": "Ording",
+        "firstname": "Doro",
+        "birth_date": "26.4.1901",
+        "birthplace": "Kristiania",
+        "death_date": "21.6.1993",
+        "external_id": "person_8736ab3033",
+        "kulturnav_id": "2781b364-1874-4f31-9753-f6b2de9607f9",
+        "place_of_death": "Oslo",
+        "alternative_names": "Ording, Dorothea Henriette"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

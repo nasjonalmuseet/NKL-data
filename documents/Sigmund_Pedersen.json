@@ -1,0 +1,1270 @@
+{
+    "id": 429969,
+    "headword": "Sigmund Pedersen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106224",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Margit Schjelderup",
+                "lastname": "Schjelderup",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106223",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Simon Andreas",
+                "lastname": "Pedersen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Trondheim"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev av Ola Teien, Trondheim 1943–44",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1944–46",
+                "order": "2"
+            },
+            {
+                "comment": "Trondheim tekniske aftenskole, frihåndstegning 1942–43",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstskolen i Trondheim under Karsten Keiseraas 1946–47",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Studieopphold i Paris 1958"
+            },
+            {
+                "order": "4",
+                "description": "København 1964"
+            },
+            {
+                "order": "1",
+                "description": "Trondheim bys kulturstipend 1962"
+            },
+            {
+                "order": "0",
+                "description": "Astri Aasens gave 1957, -61"
+            },
+            {
+                "order": "2",
+                "description": "Statens garantiinntekt fra 1977"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "8",
+                "description": "Trøndelag Bildende Kunstnere, styremedlem 1970–73, 1979–80, formann 1972, nestformann 1973, komitémedlem og jurymedlem flere år, representant ved riksmøter i Oslo"
+            },
+            {
+                "order": "1",
+                "description": "tegnelærer Trondheim yrkesskole 1960–66 og Trondheim katedralskole 1965–66"
+            },
+            {
+                "order": "7",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "4",
+                "description": "lærer periodevis malerklubben St. Olav, Trondheim og Orkanger Kunstforenings malerklubb"
+            },
+            {
+                "order": "6",
+                "description": "Medlem Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "0",
+                "description": "Kunstkritiker Dagsavisa, Trondheim 1949–50 og periodevis til 1953"
+            },
+            {
+                "order": "3",
+                "description": "museumsbetjent Det Konglige Norske Videnskabers Selskab, Trondheim fra 1957"
+            },
+            {
+                "order": "9",
+                "description": "jurymedlem Trondheim Kunstforening"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nord- og Sør-Trøndelag fylker"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Vadsø Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Split kommune, Jugoslavia"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kirkenes kunstforening",
+                "from_date": "1971",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Gall. Strømmen, Trondheim",
+                "from_date": "1971",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1953",
+                "order": "30",
+                "to_date": "1955",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "32",
+                "to_date": "",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Landsforeningen Norske Malere, Oslo",
+                "from_date": "1981",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Ålesund kunstforeninger",
+                "from_date": "1966",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "36",
+                "to_date": "",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Bodø Kunstforening",
+                "from_date": "1956",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1965",
+                "order": "34",
+                "to_date": "",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo kunstforening",
+                "from_date": "1963",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Hamar kunstforening",
+                "from_date": "1972",
+                "order": "27",
+                "to_date": "1973"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "title": "Trondheim Kunstforening fra 1946"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund kunstforening",
+                "from_date": "1963",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Namsos kunstforening",
+                "from_date": "1972",
+                "order": "25",
+                "to_date": "1973"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim kunstforening",
+                "from_date": "1950",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1964",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund kunstforening",
+                "from_date": "1971",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1957",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund kunstforening",
+                "from_date": "1950",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "37",
+                "to_date": "",
+                "title": "Trøndelagsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn fra 1963"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1948",
+                "order": "29",
+                "to_date": "1949",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Molde kunstforeninger",
+                "from_date": "1966",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Trondheim kunstforeninger",
+                "from_date": "1966",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vadsø kunstforening",
+                "from_date": "1971",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "40",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Horneman",
+                "from_date": "1981",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "31",
+                "to_date": "",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ørland og Bjugn Kunstforening",
+                "from_date": "1980",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "35",
+                "to_date": "",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "33",
+                "to_date": "",
+                "title": "Nord-norske kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trøndelag Kunstnersentrum, Trondheim",
+                "from_date": "1981",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Lillehammer og Elverum kunstforening",
+                "from_date": "1972",
+                "order": "28",
+                "to_date": "1973"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Steinkjer kunstforening",
+                "from_date": "1972",
+                "order": "26",
+                "to_date": "1973"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sarpsborg Kunstforening",
+                "from_date": "1964",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund kunstforening",
+                "from_date": "1950",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "title": "Trøndelag Bildende Kunstnere fra 1950"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1970",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "39",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger kunstforening",
+                "from_date": "1963",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "38",
+                "to_date": "",
+                "title": "Trøndelagsutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1953",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1962",
+                "order": "5",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1978-11-06",
+                "order": "12",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-02-16",
+                "order": "4",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-11-02",
+                "order": "8",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-11-08",
+                "order": "9",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-04",
+                "order": "13",
+                "to_date": "",
+                "description": "Nidaros",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-11-09",
+                "order": "3",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "0",
+                "to_date": "1953",
+                "description": "Dagsavisa i perioden",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-07-21",
+                "order": "7",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-03-10",
+                "order": "10",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-22",
+                "order": "6",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-07-06",
+                "order": "1",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-03-14",
+                "order": "11",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-08",
+                "order": "5",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-11-03",
+                "order": "2",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "PEDERSEN, Sigmund"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1971-09-15",
+                "order": "57",
+                "to_date": "",
+                "description": "Sunnmørsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-12-17",
+                "order": "27",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Kristiansen, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-20",
+                "order": "47",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-16",
+                "order": "65",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-01-18",
+                "order": "43",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-06-11",
+                "order": "33",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Refsum, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-07-19",
+                "order": "60",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950-04-05",
+                "order": "23",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-07-03",
+                "order": "37",
+                "to_date": "",
+                "description": "i Östersundsposten",
+                "place": "Sverige",
+                "authors": [
+                    "Andersson, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-16",
+                "order": "52",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "19",
+                "reference": "s. 55",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "16",
+                "reference": "s. 234",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-07",
+                "order": "68",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950-04-22",
+                "order": "26",
+                "to_date": "",
+                "description": "i Under dusken",
+                "authors": [
+                    "Rodahl, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-19",
+                "order": "56",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Hagen, T. Løvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-14",
+                "order": "64",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Breivik, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-18",
+                "order": "46",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Moe, O. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-03-24",
+                "order": "42",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Aasma, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-07-18",
+                "order": "29",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Refsum, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-15",
+                "order": "59",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Helland, R. Thiis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-12-16",
+                "order": "32",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Refsum, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-06-28",
+                "order": "22",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Willumsen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-04-24",
+                "order": "36",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Flønes, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-06-21",
+                "order": "53",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Brockmann, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "17",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1945–1970",
+                "place": "Trondheim",
+                "authors": [
+                    "Kristiansen, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1982-04-14",
+                "order": "69",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-13",
+                "order": "63",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-25",
+                "order": "49",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-15",
+                "order": "55",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-15",
+                "order": "45",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-04-26",
+                "order": "39",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Breivik, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-12-22",
+                "order": "40",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Bøe, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950-04-17",
+                "order": "25",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Willumsen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-04-23",
+                "order": "31",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Refsum, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "18",
+                "reference": "s. 335",
+                "to_date": "",
+                "description": "Nordland, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "14",
+                "reference": "s.270",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-27",
+                "order": "66",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-07-30",
+                "order": "21",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Sandal, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-06-29",
+                "order": "35",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Nordhuus, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-05",
+                "order": "50",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Anker, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-12-06",
+                "order": "54",
+                "to_date": "",
+                "description": "i Sunnmøre Arbeideravis",
+                "authors": [
+                    "Rønnestad, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-07",
+                "order": "62",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-02-12",
+                "order": "28",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Willumsen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-04-19",
+                "order": "38",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Jørgensen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-04-02",
+                "order": "44",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-06-06",
+                "order": "58",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-25",
+                "order": "48",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950-04-15",
+                "order": "24",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Bakken, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-12-20",
+                "order": "41",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Aasma, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-12-18",
+                "order": "30",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Refsum, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-07",
+                "order": "67",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "15",
+                "reference": "hefte 63 s. 50",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-07-30",
+                "order": "20",
+                "to_date": "",
+                "description": "i Arbeider-Avisa",
+                "authors": [
+                    "Biermann, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-08-28",
+                "order": "61",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-12-15",
+                "order": "34",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Nordhuus, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-16",
+                "order": "51",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Berg, G. Backer"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "70",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Selvbiografi, Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Sigmund Pedersen",
+    "url": "https://nkl.snl.no/Sigmund_Pedersen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>P.s utvikling som maler viser ham som en utpreget kolorist. Fra de første års naturalistiske bilder har han senere arbeidet målbevisst med å utvikle et maleri basert på fargen alene. På utstillingen i Trondheim Kunstforening i 1950 viste han perioder i denne utvikling med enkelte sterkt abstraherte landskaper og et helt nonfigurativt bilde, <em>Eventyrnatt</em> (1948). Men hovedtendensen på utstillingen var lett ekspressive bilder der han eksperimenterte med formale problemer. Utover i 50-årene fortsatte P. å løse opp naturformene, særlig i stilleben og interiør- og figurbilder, malt i en varm, ofte glødende koloritt. Fra disse årene har han også hatt en produksjon av små, men gjennomreflekterte akvareller og gouacher hvor han har utprøvd de forskjellige faser av sitt billedspråk. Fargeholdningen har variert fra sterke kontrastfarger til mykere klanger og overganger.Etter en periode med både mer figurative bilder og miniatyrbilder i en såkalt koloristisk ekspresjonisme, presenterte S. i 1980 et helt nonfigurativt formspråk. Rene fargeflater står mot hverandre eller skilles av linjer som ofte er smale bånd med egenfarge. Koloritten har nå mindre av naturens fargeskala i seg.</p></div>",
+    "created_at": "2014-11-20T10:14:59.373+01:00",
+    "changed_at": "2024-06-18T23:27:45.952+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3076\",\"https://digitaltmuseum.no/481a9644-bf78-464d-aa00-2780e19a8ab1\",\"http://kulturnav.org/481a9644-bf78-464d-aa00-2780e19a8ab1\"]",
+        "lastname": "Pedersen",
+        "firstname": "Sigmund",
+        "birth_date": "23.11.1926",
+        "birthplace": "Stokmarknes, Vesterålen",
+        "external_id": "person_8736ab3076",
+        "kulturnav_id": "481a9644-bf78-464d-aa00-2780e19a8ab1",
+        "alternative_names": "Pedersen, Sigmund Magne Schjelderup"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": 430598,
+    "headword": "Knud Smith",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "bilthugger"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108629",
+                "birth_date": "1641",
+                "death_date": "1695",
+                "firstname": "Maren",
+                "lastname": "Knudsdatter",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108628",
+                "birth_date": "1620",
+                "death_date": "14.12.1692",
+                "firstname": "Anders Lauritzen",
+                "lastname": "Smith",
+                "professions": [
+                    "bilthugger",
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [],
+        "travels": [],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Lauritz Smith (Oslo kommunes kunstsamlinger)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Knud Smith",
+    "url": "https://nkl.snl.no/Knud_Smith",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. fikk sin utdannelse hos faren, men man vet lite om hvilken rolle han har spilt i Stavangers kunstliv. Portrettet av broren, Lauritz S., tyder på utenlandsk, antagelig engelsk påvirkning. H. Fett attribuerer en rekke dekorasjonsarbeider fra slutten av 1600-tallet til S.</p></div>",
+    "created_at": "2014-11-20T18:07:48.463+01:00",
+    "changed_at": "2024-06-18T23:28:02.343+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab108648\",\"https://digitaltmuseum.no/f3d34ef9-8770-47fe-bdc6-f6bd1ed03083\",\"http://kulturnav.org/f3d34ef9-8770-47fe-bdc6-f6bd1ed03083\"]",
+        "lastname": "Smith",
+        "firstname": "Knud",
+        "birth_date": "0.0.1670",
+        "birthplace": "Stavanger (født ca 1670)",
+        "external_id": "person_8736ab108648",
+        "kulturnav_id": "f3d34ef9-8770-47fe-bdc6-f6bd1ed03083",
+        "place_of_death": "Skottland"
+    },
+    "authors": [
+        {
+            "full_name": "Helen Holager"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "bilthugger"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

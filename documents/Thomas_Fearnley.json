@@ -1,0 +1,2842 @@
+{
+    "id": 417522,
+    "headword": "Thomas Fearnley",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102082",
+                "birth_date": "1782",
+                "death_date": "1838",
+                "firstname": "Maren Sophie",
+                "lastname": "Paus",
+                "professions": []
+            },
+            {
+                "to_date": "1888",
+                "type": "Gift med",
+                "external_id": "person_8736ab102083",
+                "birth_date": "15.07.1817",
+                "death_date": "",
+                "firstname": "Cecilie Cathrine",
+                "lastname": "Andresen",
+                "professions": [],
+                "place": "Christiania"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102081",
+                "birth_date": "1768",
+                "death_date": "1834",
+                "firstname": "Thomas",
+                "lastname": "Fearnley",
+                "professions": [
+                    "kjøpmann"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Det mangler nærmere opplysninger om F.s elevforhold ved akademiet. Antagelig elev av Christian August Lorentzen og i 1823 av landskapsmaleren Jens Peter Møller",
+                "order": "4"
+            },
+            {
+                "comment": "Elev ved Landcadetcorpset, Krigsskolen i Christiania fra mars 1814 til nyttår 1819",
+                "order": "0"
+            },
+            {
+                "comment": "Antagelig til kunstakademiet i København våren 1821, hvor han oktober samme år er notert som elev ved første frihåndsklasse",
+                "order": "3"
+            },
+            {
+                "comment": "Elev ved Den kgl. Tegneskoles elementærklasse under H.A. Grosch fra januar 1819, gipsmodellklassen, frihåndtegning, under Jacob Munch og antagelig arkitekt H.D.F. Linstow 1820",
+                "order": "2"
+            },
+            {
+                "comment": "I slutten av oktober 1823 til Stockholm, hvor han ble elev av Den svenska Konstakademien, modellskolen, og av landskapsmaleren Carl Johan Fahlcrantz. Agreert ved Konstakademien 1827",
+                "order": "5"
+            },
+            {
+                "comment": "derpå handelsbetjent hos Hagemann",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "F. var bosatt i København 1821–23"
+            },
+            {
+                "order": "5",
+                "description": "Roma des. 1832 - mai 1835"
+            },
+            {
+                "order": "8",
+                "description": "London høsten 1836 - juli 1838"
+            },
+            {
+                "order": "11",
+                "description": "München fra aug. 1841"
+            },
+            {
+                "order": "9",
+                "description": "Christiania sept. 1838 - sept. 1840"
+            },
+            {
+                "order": "2",
+                "description": "København vinteren 1827–28"
+            },
+            {
+                "order": "10",
+                "description": "Amsterdam sept. 1840 - aug. 1841"
+            },
+            {
+                "order": "3",
+                "description": "Dresden jan. 1829 - juni 1830"
+            },
+            {
+                "order": "4",
+                "description": "München okt. 1830 - sept. 1832"
+            },
+            {
+                "order": "7",
+                "description": "Paris sept. 1835 - mai 1836"
+            },
+            {
+                "order": "6",
+                "description": "Sveits, 3 md. i 1835"
+            },
+            {
+                "order": "1",
+                "description": "Stockholm 1823–27"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Trøndelag kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Kunsthalle, Hamburg"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergen Billedgalleri (8 malerier)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Kgl. Kobberstiksaml. og Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Berg-Kragerø Museum"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Slottsmuseet, Weimar"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Musée du Louvre, Paris"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Rasmus Meyers Samlinger, Bergen (10 malerier)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Rød herregård, Halden"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Göteborg Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Staatliche Galerie, Dresden"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Drammens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Haldens Minner"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Uddevalla museum"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Thorvaldsens museum, København"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Ledaal, Stavanger"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet (57 malerier og flere hundre tegninger)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Chr. Tønsberg: Norge fremstillet i Tegninger, Christiania 1848 og 1855"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "W.M. Carpelan: Vues norvégiennes, Stockholm 1826-27"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin Kunstakademiet",
+                "from_date": "1832",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet Dresden",
+                "from_date": "1843",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Historisk Museum Kristiania",
+                "from_date": "1903",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Amsterdam",
+                "from_date": "1971",
+                "order": "71",
+                "to_date": "",
+                "title": "Møde med Italien"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Royal Academy, London",
+                "from_date": "1837",
+                "order": "44",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nationalmuseum, Stockholm",
+                "from_date": "1981",
+                "order": "77",
+                "to_date": "",
+                "title": "Dahls Dresden"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborg",
+                "from_date": "1822",
+                "order": "9",
+                "to_date": "1823"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborg",
+                "from_date": "1871",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Roma",
+                "from_date": "1835",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1856",
+                "order": "52",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Dresden Kunstverein",
+                "from_date": "1830",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Halberstädter Kunstverein",
+                "from_date": "1832",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Den kgl. Tegneskole",
+                "from_date": "1823",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1840",
+                "order": "39",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1838",
+                "order": "38",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborg",
+                "from_date": "1828",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1915",
+                "order": "61",
+                "to_date": "",
+                "title": "Norsk tegnekunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "New York",
+                "from_date": "1965",
+                "order": "67",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Børs",
+                "from_date": "1838",
+                "order": "48",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1831",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1906",
+                "order": "57",
+                "to_date": "",
+                "title": "Jahrhundert-Ausstellung"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1898",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Royal Academy, London",
+                "from_date": "1838",
+                "order": "45",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet Dresden",
+                "from_date": "1829",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1975",
+                "order": "72",
+                "to_date": "1976",
+                "title": "Norwegian Romantic Landscape 1820-1920"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet",
+                "from_date": "1980",
+                "order": "76",
+                "to_date": "",
+                "title": "Dahls Dresden"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München Kunstverein",
+                "from_date": "1830",
+                "order": "20",
+                "to_date": "1832"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Halberstädter Kunstverein",
+                "from_date": "1834",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Konstföreningen Stockholm",
+                "from_date": "1836",
+                "order": "35",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1888",
+                "order": "51",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Den kgl. Tegneskole",
+                "from_date": "1820",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1841",
+                "order": "40",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München Kunstverein",
+                "from_date": "1835",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bremen",
+                "from_date": "1977",
+                "order": "75",
+                "to_date": "",
+                "title": "Norwegian Romantic Landscape 1820-1920"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1938",
+                "order": "62",
+                "to_date": "",
+                "title": "J.C. Dahl og hans samtidige"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborg",
+                "from_date": "1834",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kiel",
+                "from_date": "1964",
+                "order": "66",
+                "to_date": "",
+                "title": "150 Jahre Norwegische Malerei"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Braunschweig",
+                "from_date": "1832",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1901",
+                "order": "56",
+                "to_date": "",
+                "title": "Den kulturhistoriske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Newcastle",
+                "from_date": "1975",
+                "order": "73",
+                "to_date": "1976",
+                "title": "Norwegian Romantic Landscape 1820-1920"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Brussel",
+                "from_date": "1950",
+                "order": "64",
+                "to_date": "",
+                "title": "Honderd Jaar Noorse Schilderkunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Royal Society of British Artists",
+                "from_date": "1837",
+                "order": "46",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1842",
+                "order": "1",
+                "to_date": "",
+                "title": "Minneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborg",
+                "from_date": "1841",
+                "order": "12",
+                "to_date": "1843"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1966",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet Dresden",
+                "from_date": "1836",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Königsberg",
+                "from_date": "1833",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1970",
+                "order": "69",
+                "to_date": "",
+                "title": "Norge sett med kunstnerøyne"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Halberstädter Kunstverein",
+                "from_date": "1836",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München Kunstverein",
+                "from_date": "1842",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1872",
+                "order": "55",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hannover Kunstverein",
+                "from_date": "1833",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1836",
+                "order": "36",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1844",
+                "order": "41",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Den kgl. Tegneskole",
+                "from_date": "1827",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1855",
+                "order": "49",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1936",
+                "order": "59",
+                "to_date": "",
+                "title": "Kristiania Kunstforening jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1959",
+                "order": "65",
+                "to_date": "",
+                "title": "The Romantic Movement"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liverpool",
+                "from_date": "1975",
+                "order": "74",
+                "to_date": "1976",
+                "title": "Norwegian Romantic Landscape 1820-1920"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Haag",
+                "from_date": "1949",
+                "order": "63",
+                "to_date": "",
+                "title": "Honderd Jaar Noorse Schilderkunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Royal Society of British Artists",
+                "from_date": "1838",
+                "order": "47",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborg",
+                "from_date": "1851",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "British Institution, London",
+                "from_date": "1838",
+                "order": "43",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet Dresden",
+                "from_date": "1840",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1857",
+                "order": "53",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1924",
+                "order": "4",
+                "to_date": "",
+                "title": "Minneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Thorvaldsens Museum, København",
+                "from_date": "1971",
+                "order": "70",
+                "to_date": "",
+                "title": "Møde med Italien"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin Kunstakademiet",
+                "from_date": "1830",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Roma",
+                "from_date": "1834",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1837",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Halberstädter Kunstverein",
+                "from_date": "1830",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1880",
+                "order": "50",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1862",
+                "order": "54",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kiel",
+                "from_date": "1969",
+                "order": "68",
+                "to_date": "",
+                "title": "Romantische Zeichnungen und Aquarelle Norwegischer Künstler"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "British Institution, London",
+                "from_date": "1837",
+                "order": "42",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "60",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Den Kgl. Tegneskole",
+                "from_date": "1830",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "58",
+                "to_date": "",
+                "title": "Kristiania Kunstforening jubileumsutstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "3 tegninger av ukjente kunstnere (gjengitt i Alsvik og Willoch, 1952 s. 13, 19, 24 nærmere opplysninger i S. Willoch, Oslo 1932 s. 236–42 og register)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "C.W. Cope: Osteria di Campagna (Walker Art Galleri, Liverpool)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "selvportrett: Kunstneren i sitt atelier (ca. 1826)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "dessuten portrettert på Wilhelm Bendz: Kunstnere i Fincks kaffehus (1832, Thorvaldsens Museum København)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "tegning av C.W. Cope, (gjengitt i S. Willoch 1932 s. 237 og H. Alsvik og S. Willoch 1952 s. 1)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "miniatyrportrett av J.D.A. Fiorino (ca. 1841)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Stort antall studiehoder og F.s figur i situasjonsbilder tegnet og malt av H.W. Bissen og W. v. Kaulbach, (gjengitt i Kunst og Kultur 1916–17, s. 64 og 1925 s. 5)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "malerier av Per Berggren (1825) og F. Westphal (1829)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "antagelig selvportrett med pipe, tegning (1831, gjengitt H. Alsvik og L. Østby; Norges billedkunst i det 19. og 20. århundre, Oslo 1951, bd. 1, s. 105)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1906",
+                "order": "32",
+                "reference": "s. 77",
+                "to_date": "",
+                "description": "Ein Gang durch die Jahrhundert-Ausstellung",
+                "place": "Berlin",
+                "authors": [
+                    "Hamann, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1855",
+                "order": "5",
+                "reference": "bd. 3, s. 482",
+                "to_date": "",
+                "description": "Thorvaldsens Biografi",
+                "place": "København",
+                "authors": [
+                    "Thiele, J.M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "80",
+                "reference": "hefte 4, s. 4",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "91",
+                "reference": "s. 15–22 (ill.)",
+                "to_date": "",
+                "description": "Juleglede",
+                "title": "Thomas Fearnleys Italia-år 1832–35",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-10",
+                "order": "147",
+                "reference": "s. 25, 40, 56 (ill.), 82 (ill.) , 86 (ill.), 95–100",
+                "to_date": "",
+                "description": "Dahls Dresden",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "katalog Nasjonalgalleriet"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "104",
+                "reference": "s. 19–28 (ill.)",
+                "to_date": "",
+                "description": "Gullalderens mestere, ny samling",
+                "place": "Oslo",
+                "authors": [
+                    "Moen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "70",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "137",
+                "reference": "bd. 1, s. 25, 35 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunst i bilder",
+                "place": "Oslo",
+                "authors": [
+                    "Simonnæs, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "16",
+                "reference": "s. 166",
+                "to_date": "",
+                "description": "Geschichte der Münchener Kunst im 19. Jahrhundert",
+                "place": "München",
+                "authors": [
+                    "Pecht, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "41",
+                "reference": "s. 55, 56, 67, 111–12, 119",
+                "to_date": "",
+                "description": "Fra den gamle Tegneskole",
+                "place": "(Kristiania",
+                "authors": [
+                    "Krogvig, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "27",
+                "reference": "s. 10–12 (ill.), 13",
+                "to_date": "",
+                "description": "Det nye Norges malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-09-18",
+                "order": "51",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "117",
+                "reference": "hefte 82, s. 7",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "127",
+                "reference": "s. 238",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "61",
+                "to_date": "",
+                "description": "Norges malerkunst siden 1814",
+                "place": "Oslo",
+                "authors": [
+                    "Langaard, J.H.",
+                    "Grevenor, H.",
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "37",
+                "reference": "s. 354",
+                "to_date": "",
+                "description": "Slægten fra 1814",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "31",
+                "reference": "4, s. 30–56",
+                "to_date": "",
+                "description": "i Julebogen",
+                "place": "København",
+                "authors": [
+                    "Bobé, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1867",
+                "order": "6",
+                "reference": "s. 389, 390",
+                "to_date": "",
+                "description": "De bildende konsternas historia",
+                "place": "Stockholm",
+                "authors": [
+                    "Estlander, C.G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "19",
+                "reference": "serie 2, nr. 79",
+                "to_date": "",
+                "description": "Katalog der Sammlung Hammer",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "129",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Slottet i Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "Hjelde, G.",
+                    "Kavli, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "146",
+                "reference": "s. 140–41, 161 (ill.)",
+                "to_date": "",
+                "description": "Setesdal",
+                "title": "Setesdal i billedkunsten",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L.",
+                    "Bøe, O."
+                ],
+                "comments": [
+                    "i",
+                    "(red.)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "81",
+                "reference": "s. 39, 59–69 (ill.)",
+                "to_date": "",
+                "description": "Malerskikkelser fra 1800–1880",
+                "place": "Trondheim",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "90",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Johan Christian Dahl, Tegninger og akvareller",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "71",
+                "reference": "s. 32 (ill.), 44",
+                "to_date": "",
+                "description": "Bergen Billedgalleri",
+                "place": "Oslo",
+                "authors": [
+                    "Kaland, M.",
+                    "Lexow, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "139",
+                "reference": "s. 238",
+                "to_date": "",
+                "description": "Agder",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "136",
+                "reference": "s. 127",
+                "to_date": "",
+                "description": "Akerselva",
+                "place": "Oslo",
+                "authors": [
+                    "Senje, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "105",
+                "reference": "bd. 3, s. 303–04 (ill.), 305",
+                "to_date": "",
+                "description": "i Dette er Norge 1814–1914",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "15",
+                "reference": "s. 2, 15, 16, 27, 44, 55",
+                "to_date": "",
+                "description": "Det norske Nationalgaleri",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "28",
+                "reference": "bd. 1–3, register (ill.)",
+                "to_date": "1907",
+                "description": "Norske malere og billedhuggere",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "40",
+                "reference": "bd. 11, s. 323–24",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Schnitler, C.W.",
+                    "Thieme-Becker"
+                ],
+                "comments": [
+                    "i"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1924-09-17",
+                "order": "50",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "116",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "119",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "i Høydepunkter i norsk kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "109",
+                "reference": "bd. II, register (ill.)",
+                "to_date": "",
+                "description": "Die Kunst des 19. Jahrhunderts",
+                "place": "Berlin",
+                "authors": [
+                    "Zeitler, R."
+                ],
+                "comments": [
+                    "Propyläen Kunstgeschichte"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "126",
+                "reference": "s. 259",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "30",
+                "reference": "s. 272",
+                "to_date": "",
+                "description": "i The Magazine of Art",
+                "place": "London",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "38",
+                "reference": "s. 5, 9–11 (ill.), pl. [nr. 3]",
+                "to_date": "",
+                "description": "Norsk malerkunst i Nationalgalleriet",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "60",
+                "to_date": "",
+                "description": "Maleren Thomas Fearnley",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1843",
+                "order": "3",
+                "reference": "nr. 5",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "82",
+                "reference": "s. 19, 21–22 (ill.)",
+                "to_date": "",
+                "description": "Av norsk palett, Fra Bergljot og Sven Bruns samling",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Med kunsthistorisk oversikt av S. Willoch"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "77",
+                "reference": "s. 108",
+                "to_date": "",
+                "description": "Mit Livs Eventyr",
+                "place": "København",
+                "authors": [
+                    "Andersen, H.C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "44",
+                "reference": "bd. 7, s. 823–24",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1882",
+                "order": "14",
+                "reference": "s. 64",
+                "to_date": "",
+                "description": "Carl XV's Tafvelsamling",
+                "place": "Stockholm",
+                "authors": [
+                    "Upmark, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "140",
+                "reference": "s. 268",
+                "to_date": "",
+                "description": "Buskerud",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "102",
+                "reference": "s. 155",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "135",
+                "reference": "s. 198, 202 (ill.)",
+                "to_date": "",
+                "description": "Krokskogen",
+                "place": "Oslo",
+                "authors": [
+                    "Holtvedt, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "89",
+                "reference": "s. 140, 257",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J.J.",
+                    "Flønes, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-01-19",
+                "order": "115",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Moe, O.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "96",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Nordisk kunstnerliv i Rom",
+                "place": "Oslo",
+                "authors": [
+                    "Bull, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "120",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Paris und die deutsche Malerei 1750–1840",
+                "place": "München",
+                "authors": [
+                    "Becker, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-09-16",
+                "order": "49",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903",
+                "order": "25",
+                "reference": "s. 93",
+                "to_date": "",
+                "description": "Norsk familie-journal",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "58",
+                "reference": "bd. 4, s. 99-103",
+                "to_date": "",
+                "description": "i Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "29",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Norsk billedkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thommesen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "63",
+                "reference": "s. 175–76 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Thomas Fearnley i utlandet",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1845",
+                "order": "4",
+                "reference": "bd. 2, s. 50",
+                "to_date": "",
+                "description": "Portræter af Mærkelige Nordmænd",
+                "place": "Christiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "78",
+                "reference": "register",
+                "to_date": "",
+                "description": "Romerske Dagbøger",
+                "place": "København",
+                "authors": [
+                    "Andersen, H.C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "83",
+                "reference": "12. Række, bd. 4, s. 75–116",
+                "to_date": "",
+                "description": "Dansk Personalhistorisk Tidskrift",
+                "title": "Fra Maleren Martinus Rørbyes Vandreaar",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "103",
+                "reference": "faksimileutg., register",
+                "to_date": "",
+                "description": "Reisebok og skisser fra reiser 1826 og nærmeste år gjennom deler av Østlandet Vestlandet og Trøndelag",
+                "place": "Trondheim",
+                "authors": [
+                    "Eckhoff, M.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "141",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Møre og Romsdal",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "43",
+                "reference": "s. 203, 204, 205",
+                "to_date": "",
+                "description": "Kunst og Haandverk",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [
+                    "(festskrift til Johan Bøgh)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1878",
+                "order": "13",
+                "publisher": "C.S.A. Bille og N. Bøgh",
+                "reference": "bd. 1, s. 153, 182, 205",
+                "to_date": "",
+                "description": "Breve fra H.Chr. Andersen",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "69",
+                "reference": "s. 257–58",
+                "to_date": "",
+                "description": "i Danske i Paris gjennem Tiderne",
+                "place": "København",
+                "authors": [
+                    "Schultz, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "98",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Halden",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Norske Minnesmerker"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "134",
+                "reference": "bd. 4, s. 299",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveurs",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "97",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "121",
+                "reference": "s. 70, 93, 95, 132, 135, 163, 166",
+                "to_date": "",
+                "description": "Tegneskolen gjennom 150 år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-01-18",
+                "order": "114",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "42",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Akers historie",
+                "place": "(Kristiania",
+                "authors": [
+                    "Bull, Edv."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903",
+                "order": "26",
+                "to_date": "",
+                "description": "Katalog Kristiania Kunstforening",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "62",
+                "reference": "s. 19 - 32 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Thomas Fearnley og de danske kunstnere i Italia",
+                "authors": [
+                    "Bull, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "57",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Arkitekt, stadskonduktør Chr.H. Grosch",
+                "place": "Oslo",
+                "authors": [
+                    "Bugge, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "128",
+                "reference": "s. 33",
+                "to_date": "",
+                "description": "Gjennom skiftende tider - fra Borre og Horten",
+                "place": "Horten",
+                "authors": [
+                    "Baggethun, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "100",
+                "reference": "s. V (ill.)",
+                "to_date": "",
+                "description": "Norsk tegnekunst i Nasjonalgalleriet",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "74",
+                "reference": "s. 15–17 (ill.)",
+                "to_date": "",
+                "description": "Norske malerier gjennem hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "142",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Østfold",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "46",
+                "reference": "bd. 2, register (ill.)",
+                "to_date": "",
+                "description": "Nordisk konst",
+                "place": "Stockholm",
+                "authors": [
+                    "Laurin, C.G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "84",
+                "reference": "bd. 2, s. 93 - 103 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R.",
+                    "Alsvik, H."
+                ],
+                "comments": [
+                    "i"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "132",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Die Malerei der Romantik in Dresden",
+                "place": "Leipzig",
+                "authors": [
+                    "Neidhardt, H.J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "36",
+                "reference": "s. 10, pl. 62",
+                "to_date": "",
+                "description": "Vore oldeforældres land",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1830",
+                "order": "1",
+                "reference": "nr. 218, 225, 324",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "56",
+                "reference": "bd. 2, register (ill.)",
+                "to_date": "",
+                "description": "Norges Kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "123",
+                "reference": "s. 195",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903",
+                "order": "23",
+                "reference": "s. 475 - 87 (utvidet artikkel i A. Aubert: Norsk kultur og norsk kunst, Kristiania 1917, s. 146 - 62 (ill.))",
+                "to_date": "",
+                "description": "Nordisk Tidskrift",
+                "title": "Thomas Fearnley, En biografisk skisse",
+                "place": "Stockholm",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-01-17",
+                "order": "113",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "66",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "94",
+                "reference": "s. 111–18 (ill.)",
+                "to_date": "",
+                "description": "Stavanger Museum, Årbok",
+                "title": "Norges første sykkel og Thomas Fearnleys tegning fra Ledaal",
+                "place": "Stavanger",
+                "authors": [
+                    "Lexow, J.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "108",
+                "reference": "s. 22–23",
+                "to_date": "",
+                "description": "Rasmus Meyers Samlinger",
+                "place": "Bergen",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [
+                    "katalog"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "64",
+                "reference": "s. 160 (ill.), 247 (ill.)",
+                "to_date": "",
+                "description": "Balestrand",
+                "place": "Bergen",
+                "authors": [
+                    "Laberg, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "45",
+                "reference": "s. 153–56, 178–82, 196–99, 254, 272–73, 399–400, 404, 410, 418, 428, 434, 436",
+                "to_date": "",
+                "description": "Maleren Johan Christian Dahl",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "75",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Telemark i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1875",
+                "order": "9",
+                "reference": "Årg. 6, reg.",
+                "to_date": "",
+                "description": "Fraa By og Bygd",
+                "place": "Bjørgvin",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-12-23",
+                "order": "143",
+                "to_date": "",
+                "description": "i Farmand",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-01-18",
+                "order": "101",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Østfold Bygdeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "85",
+                "to_date": "",
+                "description": "Thomas Fearnleys tegninger",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S.",
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "35",
+                "reference": "s. 7 - 9 (ill.), 10",
+                "to_date": "",
+                "description": "Die Norwegische Malerei im XIX Jahrhundert 1814 bis 1900",
+                "place": "Leipzig",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1843",
+                "order": "2",
+                "reference": "nr. 1",
+                "to_date": "",
+                "description": "Den Constitutionelle",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "55",
+                "reference": "5, s. 422–30",
+                "to_date": "",
+                "description": "Samlede Skrifter IV",
+                "title": "Med Thomas Fearnleys Portræt, 1845",
+                "place": "Oslo",
+                "authors": [
+                    "Wergeland, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903",
+                "order": "24",
+                "reference": "s. 77, 97, 104",
+                "to_date": "",
+                "description": "Syn og Segn",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "122",
+                "reference": "s. 38, 80, 195–96",
+                "to_date": "",
+                "description": "Kunst og Kultur, register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "133",
+                "reference": "s. 40–41 (ill.)",
+                "to_date": "",
+                "description": "Stavanger, byen i billedkunsten",
+                "place": "Stavanger",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "76",
+                "reference": "s. 11–12, pl. V-VII",
+                "to_date": "",
+                "description": "Norske malere fra J.C. Dahl til Edvard Munch",
+                "place": "Oslo",
+                "authors": [
+                    "Gudenrath, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-01-14",
+                "order": "112",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1876",
+                "order": "10",
+                "reference": "s. 43",
+                "to_date": "1877",
+                "description": "Det nittende Aarhundrede",
+                "title": "V. Bendz' brev til C.W. Eckersberg 1832",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "95",
+                "reference": "bd. 3, reg.",
+                "to_date": "",
+                "description": "Skiens historie",
+                "place": "(Skien",
+                "authors": [
+                    "Østvedt, E.",
+                    "Seierstad, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "65",
+                "reference": "s. 91",
+                "to_date": "",
+                "description": "Kungl. Akademien för de fria Konsternas Utställningar 1794–1887",
+                "place": "Stockholm",
+                "authors": [
+                    "Hultmark, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "72",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Johannes Flintoe",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-09-04",
+                "order": "48",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "53",
+                "reference": "s. 165–66",
+                "to_date": "",
+                "description": "Fra Ulrikken til Alpene",
+                "place": "Oslo",
+                "authors": [
+                    "Grønvold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "18",
+                "reference": "bd. 1, del 1, s. 289-90",
+                "to_date": "",
+                "description": "Malerwerke des neunzehnten Jahrhunderts",
+                "place": "Dresden",
+                "authors": [
+                    "Boetticher, F. v."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "130",
+                "reference": "s. 347",
+                "to_date": "",
+                "description": "Gudbrandsdalen",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "34",
+                "reference": "s. 357–58, 367, 440",
+                "to_date": "",
+                "description": "Gamle Dage",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dunker, Conradine"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1894",
+                "order": "20",
+                "reference": "bd. 2, s. 195",
+                "to_date": "",
+                "description": "Museum",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "86",
+                "reference": "s. 204",
+                "to_date": "",
+                "description": "Byen under fjellet, Holmestrand 1752–1952",
+                "place": "Oslo",
+                "authors": [
+                    "Ringard, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "39",
+                "reference": "[s. 5] portr., [18] ill., [21] ill., [98] ill., retrospektive avd. nr. 110–123, grafisk kunst nr. 37–46",
+                "to_date": "",
+                "description": "Norges kunst, katalog Jubileumsutstillingen",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "59",
+                "reference": "s. 120",
+                "to_date": "",
+                "description": "Maleren Martinus Rørbyes Rejsedagbog 1830",
+                "place": "København",
+                "authors": [],
+                "comments": [
+                    "ved G. Nygaard"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1897",
+                "order": "21",
+                "reference": "bd. 2, s. 594",
+                "to_date": "",
+                "description": "Nyt dansk Kunstnerlexikon",
+                "place": "København",
+                "authors": [
+                    "Weilbach, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "87",
+                "reference": "hefte 4, mot s. XII",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "125",
+                "reference": "s. 31–46 ill. (d.s.: Med romantiske kunstnere i Sogn, 2. Baleasken og Frithjofsteinen), 144",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "54",
+                "reference": "s. 1–27 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Brev fra Th. Fearnley til J.C. Dahl",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "106",
+                "reference": "bd. 34, s. 222–32 (ill.)",
+                "to_date": "",
+                "description": "Nordelbingen",
+                "title": "Die Slindebirke, Ein romantisches Symbol in norwegischer Malerei und Dichtung",
+                "place": "Heide in Holstein",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "68",
+                "reference": "bd. 2, reg.",
+                "to_date": "",
+                "description": "Rom og Danmark gjennem Tiderne",
+                "place": "København",
+                "authors": [
+                    "Bobé, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1877",
+                "order": "11",
+                "reference": "upag. (ill.)",
+                "to_date": "",
+                "description": "Norsk Portræt-Galleri",
+                "place": "Christiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "79",
+                "reference": "s. 7, 8, 14, ill., nr. 2 og 58",
+                "to_date": "",
+                "description": "Norge som malerne så det",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-01-08",
+                "order": "111",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten A-mag.",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "144",
+                "reference": "bd. 4, s. 159–60 (ill.)",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1867",
+                "order": "7",
+                "reference": "bd. 2, s. 345–52",
+                "to_date": "",
+                "description": "Samlede Skrifter",
+                "title": "Thomas Fearnleys malede Studier",
+                "place": "København",
+                "authors": [
+                    "Welhaven, J.S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-02-17",
+                "order": "92",
+                "to_date": "",
+                "description": "Østfold Bygdeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "17",
+                "reference": "s. 421",
+                "to_date": "",
+                "description": "Den svenska Konst-Akademien",
+                "place": "Stockholm",
+                "authors": [
+                    "Looström, Ludv."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-01",
+                "order": "110",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Thomas Fearnley",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "katalog Kunstnerforbundet"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "138",
+                "reference": "reg. (ill.)",
+                "to_date": "",
+                "description": "Norges Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "73",
+                "reference": "s. 213 (ill.), 215 (ill.), 216–18",
+                "to_date": "",
+                "description": "Norges kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-09-03",
+                "order": "47",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "52",
+                "reference": "(opptrykk i Kunsten og den gode form, Oslo 1927, s. 27–32)",
+                "to_date": "",
+                "description": "i Thomas Fearnley, katalog Blomqvists Kunsthandel",
+                "place": "Oslo",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "118",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Med kunstnarauge",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "131",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Skandinavische Landschaftbilder, Deutsche Künstlerreisen von 1780 bis 1864",
+                "place": "Neumünster",
+                "authors": [
+                    "Martius, L.",
+                    "Klose, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "33",
+                "reference": "s. 45",
+                "to_date": "",
+                "description": "Fritz von Nerly",
+                "place": "Erfurt",
+                "authors": [
+                    "Meyer, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "124",
+                "reference": "s. 80, 82, 83, 238, 239–52 (ill.) (Willoch, S.: Med romantiske kunstnere i Sogn, 1. Slindebirken)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "88",
+                "reference": "hefte 1, s. I, II",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "22",
+                "reference": "s. XVI, 9, 145",
+                "to_date": "",
+                "description": "Af Hans Gudes Liv og Værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1828",
+                "order": "0",
+                "to_date": "",
+                "description": "Nogle Bemærkninger over de paa Charlottenborg udstilte Konstsager",
+                "place": "København",
+                "authors": [
+                    "Høyen, N.L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "107",
+                "reference": "bd. 2, s. 338–40 (ill.)",
+                "to_date": "",
+                "description": "i Kindlers Malerei Lexikon",
+                "place": "Zürich",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "67",
+                "reference": "reg.",
+                "to_date": "",
+                "description": "Nasjonalgalleriet gjennem hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "93",
+                "reference": "s. 110–13 (ill.)",
+                "to_date": "",
+                "description": "Gullalderens mestere",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "99",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [
+                    "reg."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1878",
+                "order": "12",
+                "reference": "bd. 1, s. 30–31, 63, 77, 96 bd. 2, s. 74",
+                "to_date": "",
+                "description": "Adolph Tidemand",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1873",
+                "order": "8",
+                "reference": "s. 384",
+                "to_date": "",
+                "description": "Nutidskunst",
+                "place": "København",
+                "authors": [
+                    "Lange, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "145",
+                "reference": "bd. 5, s. 235, 238, 239, 240 - 41 (ill.), 244, 247, 249",
+                "to_date": "",
+                "description": "Norges kulturhistorie",
+                "title": "Kunstens vilkår",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Thomas Fearnley",
+    "url": "https://nkl.snl.no/Thomas_Fearnley",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\r\n<h2>Tidligere år og bakgrunn</h2>\r\n<p>Thomas Fearnley var en norsk maler. Han var elev på Krigsskolen, som var et av de få steder i landet som hadde tegneundervisning. De siste årene på Krigsskolen hadde han premierløytnant Gerhard Munthe som tegnelærer, og det er mulig at det er han som kan ha stimulert Fearnley lyst til å bli kunstner. På Tegneskolen i Christiania var Jacob Calmeyer og Christian Heinrich Grosch hans medelever. Det siste året (1820) Fearnley var ved skolen, var også den unge Henrik Wergeland innskrevet som elev. Grosch og Wergeland ble begge Fearnleys nære venner. Fearnley må ha sett \"Den første norske kunstutstilling\" i 1818, der Johan Christian Dahl var representert, og han var selv som elev med på Tegneskolens utstilling i 1820 og ble påskjønnet med stattholderen, grev Sandels 2. premie.</p>\r\n<p>I utstillingen kunne han se et stort antall gouacher og akvareller av Johannes Flintoe og svensken Wilhelm Maximilian Carpelan, som åpenbarte en storslått norsk natur og som gjorde dypt inntrykk. Disse malernes og Dahls skildringer av norsk landskap er viktige utgangspunkter for Fearnleys kunst.</p>\r\n<h2>Kunstakademiet i København</h2>\r\n<p>I København kom Fearnley inn i en krets av høyt begavede unge malere. Vi vet lite om hans forhold til Christoffer Wilhelm Eckersberg, den ledende i den yngre generasjon ved Kunstakademiet, utover at Fearnley har kjent ham. Kunstnerisk synes ikke Eckersberg foreløpig å ha betydd større for Fearnley, som ennå arbeidet i den gamle tradisjon. Fearnley var våren 1821 opptatt med å kopiere hollandske landskapsbilder i Det Kongelige Kunstkammer i København og fortsatte med dette de to følgende år.</p>\r\n<p>Jens Peter Møller var opptatt av naturstudiet som ledd i akademiundervisningen. Fearnley drog som andre unge malere på studieferder i sommertiden, og i juli-august 1823 har han vært en tur til hertugdømmene, ifølge med Fritz Westphal. Fearnley var i Slesvig, og ved Kiel fant han motivet til et maleri. Vi vet ellers lite om Fearnleys dagligliv i København, men det fremgår at han fant seg meget vel til rette og senere lengtet tilbake dit.</p>\r\n<h2>Stor interesse for norske landskap</h2>\r\n<p>Våren 1823 var Fearnley opptatt med å male et <em>Prospect fra Charlottenlund mod København</em> for den norsk-svenske kronprins (utstilt Charlottenborgutstillingen, København). Bestillingen var utvilsomt et kulturpolitisk trekk, en oppfordring til en talentfull ung norsk maler om å komme til Stockholm. Fearnley likte seg ikke så godt i Stockholm som han hadde gjort i København. Det var en lite fruktbar tid i svensk kunstmiljø. Carl Johan Fahlcrantz' maleri hadde en komposisjonell holdning som Fearnley kunne lære noe av, men det var et gammelmodig, romantisk stemningsmaleri som var lite stimulerende.</p>\r\n<p>Imidlertid var det i Sverige stor interesse for det norske landskap, bl.a. gjaldt det brødrene Johan August og Michael Gustaf Anckarsvärd, og også Fahlcrantz, som i 1827 reiste rundt i Norge. Viktigere har kanskje møtet i Stockholm med den unge tyske maler Christian Etzdorf vært, han hadde også reist mye omkring i Norge og var en stor forkynner av norsk natur, også Fahlcrantz animerte sine elever til studier i naturen.</p>\r\n<h2><em>Stockholm sett fra Klaravikstranden</em></h2>\r\n<p>Sommeren 1825 reiste Fearnley omkring i Sverige og tegnet landskap, ellers holdt han seg i Stockholms nærhet. Resultater av denne turen ble et maleri med Gripsholm slott og et av Vadstena slott ved en opprørt Vänern sjø. Men de norske motivene trer sterkere fram; <em>Innseilingen til Fredrikshald</em> (1824), <em>Tistedalen</em> (1825) og <em>Utsikt mot Fredrikshald og Fredriksten</em> (1825), som Fearnley stilte ut på Konstakademiet 1826. Denne utsikten mot Halden ser vi i bakgrunnen i det interiøret Fearnley malte fra sitt Stockholms atelier. Bildet skulle vise det stedet der Karl 12 falt og var en bestilling av kronprins Oscar (Kungliga Slottet Stockholm, deponert Tullgarn slott).</p>\r\n<p>Fearnleys hovedverk i disse ungdomsårene er det store veduteaktige <em>Stockholm sett fra Klaravikstranden. </em>Det ble fullført innen Fearnley reiste fra Stockholm i september/oktober i 1827. En mindre replikk finnes i svensk privateie. Vinteren 1827–28 tilbrakte Fearnley igjen i København. Charlottenborgutstillingen 1828 viste hvilken rekke av talentfulle unge malere som nå flokket seg om akademilæreren Christoffer W. Eckersberg: Martin Rørbye, Constantin Hansen, Jørgen Roed og Fearnleys nære venn interiørmaleren Vilhelm Ferdinand Bendz. Fearnely stilte her selv ut <em>Parti fra Steine i Aurlandsdalen</em> (Jarlsberg) og <em>Rognefossen ved Voss</em> (antagelig Nationalmuseum, Stockholm); som innbrakte ham kritikeren N.L. Høyens ros for den friskhet i farge og utførelse som utmerket dem — men også en liten reservasjon for \"en vis Effect \".</p>\r\n<p>Begge somrene 1824 og 1826 var Fearnley på lange studieturer i Norge, og han sluttet seg dermed til den første generasjon av våre malere som Flintoe og Dahl som \"oppdaget\" den norske natur. I april 1824 kom Fearnley til Christiania. Han var en tur til hjembyen Fredrikshald, også for å forberede sine bilder med motiv derfra. I juni gikk veien over Lier og Kongsberg, Ulefoss og Telemarkbygdene til Setesdal og Suldal.</p>\r\n<h2>Studietur med Johan Christian Dahl</h2>\r\n<p>I august 1824 var Fearnley igjen tilbake i Stockholm. Da han i mai 1926 på ny kom til Christiania, var det fra Fredrikshald. Denne gang gikk ruten langs kysten til Bergen, så hurtig over Voss og Stalheim til Sogn. Den 24. juli nådde Fearnley Ytre Kroken i Luster, hvor han ble en halv måned hos major H. K. Munthe. Her var det Fearnley møtte Johan Christian Dahl, et møte som ble avgjørende for Fearnley som kunstner. Ansporet av Dahls virkelighetsnære naturskildring og friske maleriske form begynte Fearnley langsomt å frigjøres både som tegner og maler.</p>\r\n<p>Etter fjorten dagers samvær på Kroken drog de to malerne over Fortun og Hafslo til Sogndal. De skiltes antagelig i Fjærland i vennskapelig håp om snart å møtes igjen. Først 4. september, etter en avstikker til Aurland, nådde Fearnley over Lærdal og Valdres til Christiania, også i 1828 var Fearnley på studietur hjemme. Det fremgår at han har vært i Tinn, ved Boen nord for Kristiansand, og han har vært hos Jacob Aall på Nes Verk. Et resultat av turen var et bilde fra Vestfjorddalen med Gausta i bakgrunnen.</p>\r\n<p>Høsten 1828 må Fearnley ha tilbrakt lengre tid i Fredrikshald før veien gikk sørover. I nærmere åtte år ble han nå borte fra Norge. Midt i november 1828 seilte Fearnley fra Norge, og nyttårsdag 1829 noterer Johan C. Dahl at Fearnley er kommet til Dresden. Fearnley ble i Dresden halvannet år. Den første tiden bodde han hos Johan C. Dahl, senere i nærheten, og Dahls familie ble Fearnleys nærmeste omgang. Hos Dahl må Fearnley ha møtt Caspar David Friedrich, hvis egenartede, romantiske landskapskunst Fearnley kan ha kjent alt i København. Disse to malere, Dahl og Friedrich, nevner Fearnley selv — som de kunstnere som fikk betydning for ham i Dresden.</p>\r\n<h2>Motiver fra Norge og Sachsen</h2>\r\n<p>Fra Dresden-tiden er det bevart studier av Fearnley som malte langs Elben og i byen. Han streifet også omkring i omegnen, og sommeren 1829 malte han ved det lille slottet Scharffenberg og videre ned langs Elben til Meissen, senere innover mot grensen til Böhmen, ofte ifølge med kamerater, blant dem Fritz Westphal, som malte Fearnleys portrett (1829). Fearnleys studier i denne tiden er likefremme og friske. Det kan ikke være tvil om at Dahls kunst og samværet med ham var meget stimulerende. Fearnleys tegninger, som er en viktig del av hans kunstneriske verk, vinner stadig i frihet og naturnærhet. På atelieret arbeidet han flittig med motiver fra både Norge og Sachsen og gjorde stor lykke.</p>\r\n<p><em>Utsikt over Elbdalen</em> (1830) ble utført på bestilling av grev Trolle-Bonde på Sävstaholm. Dresdens kunstforening kjøpte verk av Fearnley, og det første av disse bildene, <em>Øde egn</em>, (Slottsmuseet, Weimar) har minnelser om Friedrichs romantikk. En varig dyptgående innvirkning fra Friedrich kunne det ikke bli tale om. Fearnley kunne ta opp motiver fra Friedrich, mer detaljer enn billedideer, og enkelte ganger senere når han skulle tolke sterke inntrykk av øde natur (som <em>Slindebjerken</em>), har han Friedrich i tankene, men uten å arbeide i dennes strenge form.</p>\r\n<p>Turen fra Dresden til München sommeren 1830 i følge med dansken Albert Küchler gikk over Praha og Nürnberg. I august skilte de to lag — og i september holdt Fearnley inne ved sjøene i de Salzburgske fjellene med Berchtesgaden som utgangspunkt. Her traff han også kamerater som Fritz Petzholdt og Christian Morgenstern. \"Jeg har fundet Stof nok til at male\", skrev Fearnley og både tegninger og skisser fra studieturene vitner om at vitaliteten og arbeidsgleden var på topp. Ved Königssee fant Fearnley motivet til sitt senere store maleri, med jegerne ved sjøen og den tåkedekkede Watzmann som fond i bildet.</p>\r\n<h2>Inspirert av unge tyske og danske kunstnere</h2>\r\n<p>Fearnley var i München i to år fra oktober 1830; en av de lykkeligste perioder i hans liv. Fearnley sognet til de unges krets, flere av dem kom fra Nord-Tyskland, som Hermann Kaufmann og Fearnleys nære venn Christian Morgenstern. Deres kunst representerte en frisk naturalisme i motsetning til all den tanketunge freskokunst i de nye monumentalbyggene. Et par danske malere bør være nevnt, som Albert Küchler, Jörgen Sonne og ikke minst Vilhelm Bendz, som malte sitt interiørbilde fra Fincks kaffehus med Fearnley som en av hovedfigurene (1832), Bendz' hovedverk, som Fearnley i begeistring kjøpte (Thorvaldsens museum).</p>\r\n<p>Somrene 1831 og 1832 holdt Fearnley til i de sørbayerske fjellene og tegnet og malte ifølge med unge malere. Fearnleys tid i München fortoner seg som en triumf. Hans talent utfoldet seg frodig i de mange studiene fra fjellene, og hans store landskapsbilder vakte begeistring både ved sin storslagne naturskildring, frie maleriske form og en naturalisme som var aktuell for mange av de unge. Vi skal ikke overse at Fearnley kan ha fått impulser i sine landskapskomposisjoner fra Karl Rottmanns storlinjede kunst.</p>\r\n<p>Det vakte oppsikt da fyrsten av Thurn und Taxis kjøpte Fearnleys store, pompøse <em>Mårumfossen</em>, 1831 (Slottet i Regensburg, replikk i Thorvaldsens museum 1833). Flere salg til andre fyrstelige og adelige familier fulgte. En del av disse bildene lar seg ennå etterspore, som partier fra Aurland og Labrofossen for grev Arco (Schloss Anif, Østerrrike). For grev Arco var også første utgave av <em>Jakten ved Königssee</em>, (ant. 1831, Schloss Sankt Martin, Østerrike). Fearnley gjentok motivet 10 år senere (Rasmus Meyers Samlinger). Under München-oppholdet malte Fearnley også enkelte bilder med motiv fra Øresund med skuter og småbåter, ikke helt uten å minne om Christoffer W. Eckersberg, men uten danskens systematiske oppbygging av motivet.</p>\r\n<h2>Overveldende rik tid i Italia</h2>\r\n<p>I følge med Bendz og Ferdinand Petzl reiste Fearnley, 6. september 1832, fra München og sørover. Veien gikk over Salzburg og Berchtesgaden. Via Trieste nådde de 20. oktober Venezia. Petzl og Fearnley drog videre over Bologna og Firenze til Roma, hvor Fearnley må være ankommet før jul 1832. Her ble han til mai 1835, men tok langvarige studieturer sørover i landet. \"Med mit Italienske Coursum har jeg voren meget fornøiet\", skrev Fearnley til Dahl da han igjen var reist nordover. Og hele hans opphold i Italia står i en egen glans. For Fearnley ble det en kunstnerisk overveldende rik tid, med full utfoldelse av hans livsnytende natur.</p>\r\n<p>Hans omgangskrets var tyske, engelske, men mest med de danske kunstnere, som stadig virket i Roma. Fearnley har truffet og hatt omgang med fremtredende skandinaver som Bertel Thorvaldsen, Hans C. Andersen, billedhuggeren Johan Niklas Byström, Ole Bull og den danske dikter Ludvig Bødtcher. Samværet med de danske malerne hadde nok betydning for Fearnleys kunst i Italia-årene, men man må ikke tillegge dette for stor betydning. Den overveldende del av sine italienske studier og mindre malerier utførte Fearnley somrene 1833 og 1834 ved Napoligolfen og Salernogolfen, og da ikke i følge med sine danske venner. Fearnley viste seg i disse årene som en glimrende arkitekturskildrer, fremfor alt i sine tegninger.</p>\r\n<p>Han kan ha tatt lærdom av Christoffer W. Eckersbergs kunst på dette felt under sitt seneste København-opphold, og Martinus Rørbye, som skulle bli en så fremragende arkitekturmaler, kan ha gitt Fearnley impulser, men Fearnley ble aldri arkitekturmaler i samme betydning som disse danske kunstnere. I hans fremstilling glir bygningene mer inn som et ledd i naturen. I det hele viser nok Fearnleys maleri en viss likhet med danskenes italienske bilder, og med kunst av andre lands Italia-dyrkere, men hans skiller seg også ut. Der er større glans, og stundom ytre effekt, over Fearnleys studier og komposisjoner enn hos hans danske kamerater.</p>\r\n<p>Den første tiden i Roma arbeidet Fearnley med bilder over nordiske og bayerske motiver, som <em>Sundet ved Helsingør en vinterdag</em> og <em>Sundet i høstvær</em> (begge Thorvaldsens Museum). Også senere fortsatte han dette, som <em>Gosausjøen</em>, 1834 (Nationalmuseum, Stockholm), og så sent som vinteren 1835 et svært bilde fra Königssee under Watzmanns tåkedekkede vegg – \"det betydeligste Arbeide jeg har udført her i Rom\" (Kunsthalle, Hamburg). For oss står Fearnleys studiekunst og de mange mindre maleriene han utførte i Italia som hans egentlige og betydeligste innsats.</p>\r\n<h2>Sorrento-halvøya</h2>\r\n<p>Alt tidlig vinteren 1833 var Fearnley på utflukt i Romas omegn, og noen vakre høstdager samme år var han i følge med Hans C. Andersen, Bødtcher, Blunck og Küchler omkring i Albanerfjellene. 20. april reiste Fearnley sammen med Christian Hansen, Christian Christensen og teologen Severin Bindesbøll over Napoli til Palermo og videre til fots og på eselrygg Sicilia rundt. Bindesbøll har i brev gitt en levende skildring av denne store og utbytterike ekspedisjon. Fearnley ble igjen en tid i Palermo før han reiste til Napoli, opptatt av studiemaling ved golfen der. For Fearnley ble likevel Sorrento-halvøyas kystland den natur han intenst dyrket i sin kunst somrene 1833 og —34</p>\r\n<p>Småstedene langs Napoligolfen og Salernogolfen, kysten vest for Napoli, Procida, Ischia og Capri ble hans tilholdssteder til ut i september 1833. H. C. Andersens påstand om at Fearnley strøk over sitt bilde fra Den blå grotte – den gang en høyaktuell, ny turistattraksjon – \"thi han havde ikke Farverne\", er ikke riktig. Også dette naturfenomenet gav Fearnley en fullgyldig skildring av. Alt i mai 1834 var Fearnley igjen ved Napoligolfen. Denne sommeren holdt han seg mer i ro ved Sorrento, hvor han hadde selskap med engelskmenn. Nye turer til øyene og til Amalfikysten gav også rikelig med motiver for hans kunst. En rekke av Fearnleys fornemste Italia-bilder ble til denne sommeren eller på grunnlag av studier utført i disse månedene. Det gjelder <em>Maleren og gutten</em>, det lysende <em>Terrasse i Sorrento, Orangepergola</em> (med markert bruk av perspektivlinjer) og den henrivende studien av månelyset over en terrasse ved Amalfigolfen. Fearnley utførte under sitt opphold i Roma en del mindre, men nitid utførte bilder for utenlandske kunder. Større arbeider over italienske motiver synes han først å ha tatt opp i 1834 med et strandparti fra Catania.</p>\r\n<p>Motivet er karakteristisk for kystmaleren Fearnley, fiskere på stranden mot en bakgrunn av bratte klipper og pittoresk bebyggelse. Et lignende motiv fant han samme år i Sorrento. Sjøen med dens rike fargespill og de storslåtte fjellene skal med, helst også et inntrykk av landets frodige vegetasjon, som i det store bilde av utsikten over Sorrentodalen mot Monte San Angelo. De store komponerte bildene har neppe den maleriske friskhet som Fearnleys studier, men de kan ha en stortenkt helhet. Det kan ikke herske noen tvil om at Italia-tiden for Fearnley, som for så mange nordiske malere, frigjorde og utviklet hans kunstneriske evner. Som han siden skrev til Dahl: \"staaer min hele Hue til at komme derhen igjen\".</p>\r\n<h2>Nye motiver i den barske Alpe-naturen</h2>\r\n<p>Etter livlige dager i Ole Bulls selskap og utflukt i Campagnaen forlot Fearnley Roma i mai 1835. Stadig opptatt med å tegne og male underveis reiste Fearnley over Firenze, Carrara, Genova, Milano, Como og Lugano. Via St. Gotthard nådde han Brunnen ved Vierwaldstättersjøen 20. juni. Fearnley ble tre måneder i Sveits. Han holdt seg mest inne mellom fjellene og kunne fra Meiringen søke inn til Wetterhorn og Grindelwald, hvor han fant motiver til et par av sine hovedverk. Fra disse turene finnes en mengde glimrende studier, som i sin dypere koloritt og kraftige utførelse skiller seg helt ut fra Italia-studiene. Møtet med den barske Alpe-naturen har stimulert Fearnley etter årene sørpå.</p>\r\n<p>Til det rike studiemateriale fra Sveits må vi regne en rekke ypperlige tegninger. Fearnley fortsetter her det arbeide med tegningen som han med så stort hell hadde drevet i Italia. Med sin klare markering av landskapets store masser og det inntrengende studium av detaljpartiene er disse tegningene i seg selv fullendte kunstverk, og de kunne nyttes uten vesentlige endringer til maleri. Fra Lüzern må Fearnley sist i september 1835 være reist til Paris, hvor han 2. oktober møtte den unge danske kobberstikker Erling Eckersberg. Fearnley var mye sammen med Eckersberg, som i brev til sin far, Christoffer W. Eckersberg, gir opplysninger om Fearnley. I Paris var Fearnley også sammen med Ole Bull, og han må ha truffet sin norske kollega Johan Gørbitz, som også var en erfaren Italia-farer. Men Fearnley trivdes ikke i Paris og kunne ikke tilpasse seg den franske livsform.</p>\r\n<h2>Stilte ut på <em>Salonen</em>\n</h2>\r\n<p>Under sitt opphold i Paris kopierte han landskapsbilder av Théodor Gudin, Paul Huet og Eugène Isabey. Hans hovedbeskjeftigelse vinteren 1835–36 må ha vært de store landskapene han våren 1836 sendte til utstilling på Salonen og fikk antatt der. Et landskap fra Sogn kan neppe identifiseres. Han utførte en replikk av bildet <em>Höstmorgen ved Königssee</em> (Rød herregård, Halden) og endelig det som skulle være den store trumf, <em>Øvre Grindelwald Gletsjer</em>. Maleriet var neppe helt fullført, og ifølge Fearnleys egen beskrivelse var fremstillingen kanskje noe forskjellig fra den endelige utforming, slik vi kjenner den fra bildet i Nasjonalgalleriet. \"Ismasserne gaaer lige til Forgrunden og fylder saaledes Bredden af Maleriet ud\". (Ifølge Wergeland malte Fearnley senere en \"noget formildet Kopi\" av Grindelwaldbildet).</p>\r\n<p>Men Fearnleys malerier slo ikke an og hevdet seg ikke overfor Salonens franskmenn. Bildene \"saae lidt matte ud ved Siden af de franske Malerier, som han ogsaa selv siger\", beretter Erling Eckersberg. Den siste tiden i Paris arbeidet Fearnley antagelig med et par motiver fra Italia og Sveits. Vi hører intet om kontakt med franske kunstnere, heller ikke at Fearnley så seg om i Paris' omegn, men Paris-oppholdet må likevel ha hatt betydning for hans kunstneriske utvikling.</p>\r\n<h2>Labrofossen — og videre studier i Romsdal</h2>\r\n<p>Midt i mai 1836 reiste Fearnley til London for å se Royal Academys utstilling, og i juni reiste han med båt fra England til Altona. På hjemveien hilste Fearnley på Christoffer W. Eckersberg og andre danske bekjente i København. Han besøkte sin familie i Fredrikshald og nådde Christiania til St. Hans. Fearnley var kommet hjem, for som han skrev til Dahl; for å samle materiale. For hans videre arbeide ble studieturene sommeren 1836 helt avgjørende. Få dager etter hjemkomsten var Fearnley i virksomhet ved Lågen og malte bl.a. et par friske studier ved Labrofossen som ble grunnlaget for hans hovedverk. Fearnleys store studietur 1836 gikk til Romsdal. Reiseruten kjenner vi ikke, utover at den er gått over Bergen.</p>\r\n<p>Den siste tiden av juli og hele august holdt Fearnley seg i Romsdal, fra Molde over Veøy til Åndalsnes. Tross elendig vær fikk Fearnley malt en rekke studier som han nyttiggjorde seg da han igjen vendte tilbake til London: <em>Romsdal med Romsdalshorn</em>, 1837, (Rød herregård, Halden); <em>Romsdal</em>, 1838, (Nasjonalgalleriet); <em>Fjellegn i Romsdal</em>, 1838, (privat eie, antagelig kjøpt av Carl Johan). Sent i oktober 1836 kom Fearnley til London og ble der utover sommeren 1838. Med sitt joviale vesen fikk han mange venner, og han fant seg meget godt til rette. Han besøkte bekjente på landet, ble medlem av den nystiftede Etching Club, utførte noen blad til klubbens publikasjon Etch'd Thoughts, og ble dens æresmedlem.</p>\r\n<h2>Deltar på flere utstillinger i London</h2>\r\n<p>I august og ut i september 1837 reiste Fearnley på studietur til det pittoreske Lake District. Han malte i disse ukene en lang rekke ypperlige studier, som i sin koloristiske rikdom og maleriske kraft hører til det aller beste i hans produksjon. Nevnes kan Nasjonalgalleriets bilde av den gamle <em>Patterdale kirke</em> bak en mektig eik. Alt under sitt korte besøk i London sommeren 1836 ble Fearnley på Royal Academys utstilling fortrolig med både Turners og Constables kunst. Fearnleys holdning til Turner synes helt klar. Han kan ha hatt en hemmelig beundring for englenderens dristige effekter, men har funnet ham eksentrisk og bisarr.</p>\r\n<p>I et par muntre små studier har Fearnley harselert over fristeren Turner og hans selvlysende maleri. Selv om Fearnley ikke nevner Constable, må den store englenders friske landskapsmaleri ha virket på ham. Hos Constable møtte Fearnley naturnærhet og et studium som måtte minne ham om hans lærer Johan. C. Dahl, men som hos Constable ble utviklet til enda større artistisk mesterskap. Det var sine store motiver Fearnley tok opp i London.</p>\r\n<p>Vinteren 1836–37 malte han en gjentagelse av bildet fra Gosausjøen, som ble stilt ut i British Institution, uten hell. Hans viktigste innsats denne vinteren var <em>Labrofossen</em> (Nasjonalgalleriet). På grunnlag av flere malte og tegnede studier malte Fearnley dette romantiske bilde som i sin storslagene naturskildring går langt ut over det nokså tamme landskap komposisjonen er bygd over. Men dette \"Norwegian Scenery\" ble lite bemerket da det våren 1837 kom på Royal Academys utstilling. <em>Labrofossen</em> og tre andre bilder var utstilt i British Institution i 1838. Fearnley stilte også ut i Royal Society of British Artists i 1837 og i 1838. Siste gang bl.a. Soloppgang i <em>Wengeralpene</em>, et stort bilde med motiv fra Sveits, som han må ha påbegynt tidligere, men formodentlig malte ferdig i London.</p>\r\n<p>Vinteren 1838 er det fremfor noe <em>Grindelwaldgletsjeren</em> som opptar ham. Det er uklart om Fearnley forandret den komposisjon han hadde lagt opp i Paris (røntgenfotografering gir ikke holdepunkter for at det har vært foretatt en inngripende forandring), men maleriet er først fullført og signert 1838. Fremstillingen følger i alt vesentlig en tegning Fearnley laget ved breen i august 1835. Han har føyet til spisse fjelltinder og balansert komposisjonen med de sprikende, halvt utdødde trærne, som ikke fantes på det ødslige stedet, men som han har tegnet oppe i Alpene. Det ble Fearnleys bidrag til Royal Academys utstilling, som åpnet i mai i National Gallerys flunkende nye bygning. Et par andre bilder med norske motiv som Fearnley malte i sin London-tid, lar seg ikke identifisere.</p>\r\n<h2>Tolker av norsk natur</h2>\r\n<p>Formodentlig forlot Fearnley, London i juli 1838 for å reise til Hamburg. Derfra drog han i følge med Nicolai Heftye over Berlin til Dresden, hvor de ankom 24. juli. I Dresden traff han Dahl igjen og fikk nye inntrykk av sin landsmanns kunst. Også den aldrende Friedrich må ha gitt ham nye impulser. De kom til uttrykk da Fearnley året etter malte sitt bilde <em>Slindebjerken</em>. Det ble Fearnleys siste virkelige samvær med Dahl. Den 12. august var \"den berømte maler Fearnley\" kommet til München. Veien synes videre å ha gått langs Rhinen over Düsseldorf, hvor Fearnley har truffet maleren Karl Friedrich Lessing og Andreas Achenbach. Fearnley fikk igjen kontakt med Achenbach sommeren 1839.</p>\r\n<p>Først sent i september kom Fearnley over København igjen til Christiania, hvor han ble de to følgende årene. Fearnley hadde ikke vært hjemme om vinteren siden 1821. Det var mange oppgaver som ventet ham. Fearnley skulle nå innfri det håp Johan C. Dahl hadde stilt til ham som kunstnerisk tolker av norsk natur, og den som fortsatte Dahls verk. Studiemateriale manglet ikke, men kunstlivet i Christiania var ikke meget oppmuntrende. Fearnleys nærmeste venner var arkitekt Grosch og Henrik Wergeland. Wergeland har skildret sin selskapsbror i den uforlignelige skissen \"Med Thomas Fearnleys Portræt\".</p>\r\n<p>Sommeren 1839 reiste Fearnley på sin siste virkelige studietur i Norge. I to måneder drog han omkring i følge med Achenbach og den polske maleren Christian Breslauer. Turen gikk antagelig over Valdres og Lærdal. Den 30. juli var de kommet til Gudvangen. Så drog de videre over Voss til Hardanger og tilbake til Sogn og Balholm, hvor de var stasjonert et par uker. På veien innover i Sogn har de tre kameratene truffet Dahl, som reiste i følge med Knud Baade. Det gikk hurtig videre over Luster og Lærdal tilbake til Christiania, hvor de tre ankom sist i august. Noe senere møttes Dahl og Fearnley for siste gang da Dahl passerte Christiania.</p>\r\n<h2>Senere år</h2>\r\n<p>Fra studieturen brakte Fearnley hjem en rekke ypperlige studier, som nå skulle brukes til større bilder. Viktigst er <em>Slindebjerken</em>, <em>Kong Beles Gravhaug</em> og <em>Parti mellem Vindhellen og Gallerne i Lærdal</em>, 1840, som grev H. Wedel-Jarlsberg kjøpte. Det ble Fearnleys siste store arbeide i Norge. Visstnok i september 1840 reiste Fearnley med sin hustru til Amsterdam, hvor de ble et snaut år. Fearnley var mest opptatt med å male sine norske og italienske motiver. Vi kjenner bare et bilde med nederlandsk motiv, en kanal i Amsterdam en tåket novemberdag (Nasjonalgalleriet).</p>\r\n<p>I august 1841 reiste Fearnley videre over Düsseldorf til München. Igjen tok Fearnley fatt på Labrofoss-motivet i ny variert fremstilling. Han fikk ikke fullført bildet (ifølge tradisjonen skal Chr. Morgenstern ha arbeidet på maleriet etter Fearnleys død). Etter få måneder i München ble Fearnley syk av tyfus og døde i januar 1842, 39 år gammel. Fearnleys grav ble i 1922 flyttet fra München til Vår Frelsers gravlund i Oslo.</p>\r\n<h2>Viktig rolle i norsk kunstliv</h2>\r\n<p>Under sine opphold i Norge kom Fearnley til å spille en viss rolle i vårt kunstliv. Han bidrog i 1836 til opprettelsen av Nasjonalgalleriet, ble 1838 valgt inn i Christiania Kunstforenings direksjon, og deltok gjentatte ganger i foreningens utstillinger. I 1842 ble det holdt minneutstilling av Fearnleys malerier, og Christiania Kunstforening utgav som medlemsblad i 1843 et litografi etter <em>Jakt ved Königssee</em>.</p>\r\n<p>11 malerier ble innkjøpt til Christiania Kunstforenings utlodninger i perioden 1837–47, og 3 malerier ble fra 1839 til 1844 innkjøpt til Bergens Kunstforening. I 1839 ble Fearnley medlem av direksjonen for Den kgl. Tegneskole, Det norske Kunstakademi, med intet ringere enn <em>Slindebjerken</em> som resepsjonsarbeide (senere overført til Nasjonalgalleriet), og dermed også medlem av Nasjonalgalleriets direksjon.</p>\r\n<h2>Betydelig og rikest begavede maler</h2>\r\n<p>Samme år hadde Nasjonalgalleriet ervervet hans to hovedverker <em>Labrofossen</em> og <em>Grindelwaldgletsjeren</em>. Et tilbud i 1843 fra Fearnleys enke om kjøp av etterlatte studier, ville formodentlig ha sikret Nasjonalgalleriet en storpart av kunstnerens studier, men ble avslått av museets styre, angivelig pga. pengemangel. Gjennom senere kjøp og generøse gaver, bl.a. av storparten av Fearnleys tegninger, er hans kunst rikt representert i Nasjonalgalleriet. Fearnleys tidlige død førte til at han ikke fikk den innflytelse i vårt maleri man kunne ventet. Bare én norsk maler, Bernt Lund, var en tid hans elev. Det er nok tenkelig at Fearnleys kunst ikke i samme grad som Dahls egnet seg som grunnlag for utviklingen av et norsk maleri.</p>\r\n<p>Fearnley er ved siden av Johan C. Dahl vår betydeligste og rikest begavede maler i årtiene etter 1814. De var begge i eminent grad maleriske talenter med glede over fargens koloristiske og stofflige uttrykksmuligheter og bildets evne til å karakterisere et landskap og meddele en naturopplevelse. Fearnley var i høyere grad enn Dahl en europeisk kunstner. Men det er også dekkende, som Wergeland skrev, at Dahls kunst viste en \"skarpere Profil, et selvstændigere Geni\". Fearnleys frodige studiekunst møter vi hele veien gjennom hans urolige reiseliv. Men Fearnley stilet mot noe annet og større enn de umiddelbare naturinntrykk, han ville gi de store, samlende naturtolkninger, en idealkunst som går ut over Dahls \"naturvei\".</p>\r\n<p>Slike ideer tok Fearnley kanskje først opp i München (<em>Mårumfossen</em>) og han kan ha fått dem styrket i Paris og London. Det er dette som opptar ham sterkest i hans senere år og som utkrystalliserer seg i verker som <em>Jakten ved Königssee</em>, <em>Grindelwaldgletsjeren</em>, <em>Soloppgang i Wengernalpene</em> og <em>Labrofossen</em> i skiftende utforming. Han malte gjerne et sentralmotiv kranset inn av mektige fjellpartier og bygde landskapet opp i store former og markerte linjer. Hans malerier viser lett heroiserende, romantiske naturbilder, tolket med en merkelig sinnets ro. Koloritten i disse naturvyer er oftest dempet enhetlig, iblant kjølig. Penselarbeidet er oftest sobert og detaljene er godt innpasset. Fearnley har ikke Dahls iver i detaljens mangfoldighet.</p>\r\n<p>Hans dristigste forsøk på å nå et høyt kunstnerisk mål er <em>Grindelwaldgletsjeren</em>. Men som gjennomført idé står <em>Labrofossen</em> som hans hovedverk. Ser man bort fra enkelte detaljer som forgrunnens vegetasjon og det utdødde treet, som ikke virker helt naturlige på stedet, er det en imponerende tolkning av norsk natur, og det er, noe lettsindig, blitt betegnet som \"det mest fuldkomne billede som nogen nordmann har frembragt\" (Jens Thiis, 1924). \"I alle fall som komposisjon har det ikke sin make\". Som tegner når Fearnley lignende mål som i maleriet.</p>\r\n<p>Den karakterisering av landskap, trær og andre vekster som han viser i tegningene fra de bayerske fjell og fra Italia, det intense studium av form og struktur og den billedmessige helhet vi her finner, viderefører han særlig vakkert i studiene fra Alpene. Fearnley arbeidet helst med blyanten. Sjeldnere tok han som Dahl laveringen i bruk. Det er grunn til å fremholde tegningene som en viktig del av Fearnleys samlete kunstneriske verk.</p>\r\n\r\n</div>",
+    "created_at": "2013-07-03T22:03:27.746+02:00",
+    "changed_at": "2024-06-18T23:26:10.081+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1022\",\"https://digitaltmuseum.no/82fb21ee-810b-4169-a26a-f221ce5fde32\",\"http://kulturnav.org/82fb21ee-810b-4169-a26a-f221ce5fde32\"]",
+        "lastname": "Fearnley",
+        "firstname": "Thomas",
+        "birth_date": "27.12.1802",
+        "birthplace": "Fredrikshald",
+        "death_date": "16.1.1842",
+        "external_id": "person_8736ab1022",
+        "kulturnav_id": "82fb21ee-810b-4169-a26a-f221ce5fde32",
+        "place_of_death": "München"
+    },
+    "authors": [
+        {
+            "full_name": "Sigurd Willoch"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15605/standard_NMK-B_NG.K_26H.B.0524020130725-13675-908vd7.jpg",
+            "full_size_url": "https://media.snl.no/media/15605/NMK-B_NG.K_26H.B.0524020130725-13675-908vd7.jpg",
+            "xhtml": "<div>\r\n<p><em>Grindelwaldgletscheren</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Thomas Fearnley",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15613/standard_NMK-B_NG.M.0003820130725-13675-lzxmhd.jpg",
+            "full_size_url": "https://media.snl.no/media/15613/NMK-B_NG.M.0003820130725-13675-lzxmhd.jpg",
+            "xhtml": "<div>\r\n<p><em>Grindelwaldgletscheren</em>, 1838. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Thomas Fearnley",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15631/standard_NMK-B_NG.M.0036320130725-13675-oswcn1.jpg",
+            "full_size_url": "https://media.snl.no/media/15631/NMK-B_NG.M.0036320130725-13675-oswcn1.jpg",
+            "xhtml": "<div>\r\n<p><em>Slindebirken</em>, 1839. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Thomas Fearnley",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15691/standard_NMK-B_NG.M.0163020130725-13675-1fshbzi.jpg",
+            "full_size_url": "https://media.snl.no/media/15691/NMK-B_NG.M.0163020130725-13675-1fshbzi.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra Romsdal</em>, 1838. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Thomas Fearnley",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15694/standard_NMK-B_NG.M.0175020130725-13675-ctodtt.jpg",
+            "full_size_url": "https://media.snl.no/media/15694/NMK-B_NG.M.0175020130725-13675-ctodtt.jpg",
+            "xhtml": "<div>\r\n<p><em>Maleren og gutten</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Thomas Fearnley",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15749/standard_NMK-B_NG.M.0336920130725-13675-1viqctt.jpg",
+            "full_size_url": "https://media.snl.no/media/15749/NMK-B_NG.M.0336920130725-13675-1viqctt.jpg",
+            "xhtml": "<div>\r\n<p><em>Terrasse med stenek, Sorrento</em>, 1834. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Thomas Fearnley",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

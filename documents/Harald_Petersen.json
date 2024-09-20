@@ -1,0 +1,831 @@
+{
+    "id": 430005,
+    "headword": "Harald Petersen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106251",
+                "birth_date": "1897",
+                "death_date": "1975",
+                "firstname": "Sigrid Friis",
+                "lastname": "Sivertsen",
+                "professions": [],
+                "place": "Bergen"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106250",
+                "birth_date": "1858",
+                "death_date": "1911",
+                "firstname": "Karoline Mathilde",
+                "lastname": "Jacobsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106249",
+                "birth_date": "1850",
+                "death_date": "1933",
+                "firstname": "Harald Frithjof",
+                "lastname": "Petersen",
+                "professions": [
+                    "maler",
+                    "overlærer"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Den kgl. Tegneskole under bl.a. Herman Major Schirmer 1904-08",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereiser til Danmark og Sverige, bl.a. København og Stockholm 1914"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "1",
+                "description": "2. premie og delvis utførelse sølvkonkurranse om korpus (utført) og bestikk for Kristiania Haandverks- og Industriforenings konkurranse 1922"
+            },
+            {
+                "order": "0",
+                "description": "2. premie møbler Bergens håndverks- og industrifor"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "inventar (utvalg): Kristiania Folkerestauranter (1914-15) sammen med H. Aars"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Malmanger prestegård"
+            },
+            {
+                "from_date": "",
+                "order": "75",
+                "to_date": "",
+                "description": "innkjøp tuberkulosehjem, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "58",
+                "to_date": "",
+                "description": "Bergens kraftstasjon, Samnanger"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "kiosk, Adamstuen (1930-34)"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "ombygging Storengvn. 217 (1960)"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "om- og påbygning Gyssestadkollen 4 (1946 og -64)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Ingwald Nielsen senteret, Torggt. 4–6 (1930-33) sammen med Aars, H."
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "i Åsgårdsstrand for fru Anna Isaksen (1937) sammen med E. Eikrann"
+            },
+            {
+                "from_date": "",
+                "order": "65",
+                "to_date": "",
+                "description": "Bjørndalen 19 (1916) og 8 (1917) sammen med Erik L. Rasmussen og Sigurd Salicath"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Bolighus: I Bærum når ikke annet er nevnt. For politifullmektig Grundt, Orkdalsøren (Orkanger) (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "68",
+                "to_date": "",
+                "description": "hotell i Sogn (1926-27) sammen med S. Lunde"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Eugène Hanssens aldershjem, Stensgt. 45–51"
+            },
+            {
+                "from_date": "",
+                "order": "72",
+                "to_date": "",
+                "description": "Konkurranseprosjekter sammen med S. Lunde: Kongebolig på Aarstadhaugen, Bergen (1910)"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "Solhaugvn. 30 (1950-54)"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "hytteanlegg Burud (g.nr. 113/33) (1958)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "om- og påbygning Ekkovn. 16 (1928-34)"
+            },
+            {
+                "from_date": "",
+                "order": "74",
+                "to_date": "",
+                "description": "2. premie arbeiderboliger, Damsgaard, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Rjukans byanlægs bolig for ugifte arbeidere (1914) sammen med Aars, H."
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Universitetsbiblioteket i Oslo (1942-45)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Gamle Aker menighetshus (1926), prestebolig, Geitemyrsvn. 7 D (1927-28)"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Villa Utsikten, Steinsheia, Asker for Søyland (1947-49)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "smijernsporter Solheim gravkapell (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "tilbygning Tanumvn./Vågebyvn. for Koch"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Eugène Hanssens småhjem for gamle, Stensgt. 50, Kirkevn. 167-71 (1922-28, utvidet 1932-34, -36/37 og -45)"
+            },
+            {
+                "from_date": "",
+                "order": "59",
+                "to_date": "",
+                "description": "Damernes Hus, Nygårds gt. 4 (1915-16)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "om- og påbygning Rosenborgkomplekset, Pilestredet 75 C og Norabakken (1946-49 og -55)"
+            },
+            {
+                "from_date": "",
+                "order": "64",
+                "to_date": "",
+                "description": "Bjørndalen 17 og 18 (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Nedre Næsset 11, Bergen (1917)"
+            },
+            {
+                "from_date": "",
+                "order": "57",
+                "to_date": "",
+                "description": "Dale Sindsykehus, Rogaland (1911-13)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "økonomibygning Stensgt. 49 (1922-28, utvidet 1932-34 og -36/37)"
+            },
+            {
+                "from_date": "",
+                "order": "69",
+                "to_date": "",
+                "description": "gamlehjem på Fagerborg, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Bjørnsvikvn. 19 (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "73",
+                "to_date": "",
+                "description": "innkjøp stasjonsbygning Dovrebanen (1912?)"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "g.nr. 27/328 parsell 17 (1949)"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "egen bolig, Månevn. 14 (1923-24)"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "om- og påbygning Drammensvn. 439 (1957-58)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "kommunale gamlehjem, Sarpsborg (1914) og kinoen Regina Theater (senere Evangeliesalen), Nordregt. 18 (1915), begge sammen med Aars, H."
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Leie- og forretningsgårder: Alle i Oslo. Torggt. 7 (1913) og 4 (1914) sammen med H. Aars"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "østfløyen, Universitetsbiblioteket i Oslo (1939-45) sammen med Holger Sinding-Larsen"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Saugbankens Stuer og Enkestuer, Kirkevn. 163–65 (1922-28)"
+            },
+            {
+                "from_date": "",
+                "order": "63",
+                "to_date": "",
+                "description": "Storhaugen for Arthur Allers (1915-16)"
+            },
+            {
+                "from_date": "",
+                "order": "60",
+                "to_date": "",
+                "description": "tuberkulosehjem, Sandviken (1917)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Rosenborggt. 19 (1938-40, 1945-50)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Nesbruvn. 17, Asker (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "70",
+                "to_date": "",
+                "description": "lagerhaller, Schweigaards gt. 26 og Mandalsgt. for Dahl, Jørgensen & Co (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "Skogfaret 15, Oslo (1952-53)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "kino, Nøtterøy (1937) sammen med Eirik Eikrann"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Melkesentralen, Schweigaards gt."
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "i Asker for doktor Th. øvergaard (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "ombygging Rosenkrantz gt. 3, Bergen (1918)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "I Oslo når ikke annet er nevnt. Jønsberg Landbruksskoles internatbygning, Stange (ca. 1909-13) sammen med H. M. Backer"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Støa's Keramiske Industri, Tromsøgt. 7 (1925-35)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Gamlehjem, Thulstrups gt. (1933-34), etter 2. premie i konkurranse 1918"
+            },
+            {
+                "from_date": "",
+                "order": "66",
+                "to_date": "",
+                "description": "villaer i Landåsvn. og Landåsstredet (1922)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "kioskanlegg, Ullevål sykehus (1947) sammen med Birger Vernang"
+            },
+            {
+                "from_date": "",
+                "order": "76",
+                "to_date": "",
+                "description": "innkjøp Grand Hotel, Bergen (1919)"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "Sammen med Sigurd Lunde: I Bergen når ikke annet er nevnt"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Rosenborggt. 15–17 (1959)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "g.nr. 1 parsell 15 (1946)"
+            },
+            {
+                "from_date": "",
+                "order": "62",
+                "to_date": "",
+                "description": "Bolighus sammen med Sigurd Lunde: Storhaugen 18 (1915-16)"
+            },
+            {
+                "from_date": "",
+                "order": "61",
+                "to_date": "",
+                "description": "likkapell og forstanderbolig, Solheim gravkapell (1915)"
+            },
+            {
+                "from_date": "",
+                "order": "71",
+                "to_date": "",
+                "description": "bygning for Bærum Roklubb, Kalvøya, Bærum (1962)"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "landsted, Brønnøya, Asker for generalkonsul Ingwald Nielsen og grosserer, konsul Odd Nielsen (1929-31)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "om- og påbygning, Øvre Vollgt. 11 (1949-53) og Gladengvn. 10 (1951)"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "om- og påbygning Bjerkealléen 15 (1949-54 og -63)"
+            },
+            {
+                "from_date": "",
+                "order": "67",
+                "to_date": "",
+                "description": "Prosjekter: Gamlehjem på Ila, Oslo (1925-29)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Adamstuen sykehjem, Kirkevn. 161 (1918-26)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Kronstad 152, Bergen (1918)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "fasaden, Dale Sindsykehus, Rogaland (1911)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1984",
+                "order": "21",
+                "reference": "s. 157 (ill.)",
+                "to_date": "",
+                "description": "Oslo. En arkitekturguide",
+                "place": "Oslo",
+                "authors": [
+                    "Gunnarsjaa, A.",
+                    "Engh, P. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-07-29",
+                "order": "17",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Arkitektur og dekorativ Kunst",
+                "authors": [],
+                "comments": [
+                    "nr. 17–19"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "15",
+                "to_date": "",
+                "description": "Ingwald Nielsen gjennem 35 år 1897-1932",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "4",
+                "reference": "s. 420, 556, 684–90 (ill.)",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "13",
+                "to_date": "",
+                "description": "Ørebladet",
+                "authors": [],
+                "comments": [
+                    "november"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "20",
+                "reference": "s. 234",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "9",
+                "reference": "s.53 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "8",
+                "reference": "s. 64",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-10-11",
+                "order": "11",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "6",
+                "reference": "s. 110–13 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941-06-23",
+                "order": "18",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "1",
+                "to_date": "",
+                "description": "hefte. konkurransen om Dovrebanen",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-07-17",
+                "order": "0",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "3",
+                "reference": "s. 252",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-12-17",
+                "order": "14",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-04-29",
+                "order": "12",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [
+                    "Skagen, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "19",
+                "reference": "s. 122, 244, 310, 326",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-07-17",
+                "order": "10",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "5",
+                "reference": "s. 75–81, 141–51 (ill.)",
+                "to_date": "1920",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-03-13",
+                "order": "16",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "7",
+                "reference": "s. 127",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Arkitekt Harald Petersen",
+                "authors": [
+                    "Sinding, K."
+                ],
+                "comments": [],
+                "archives": [
+                    "manuskript Antikvarisk arkiv, Riksantikvaren"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Universitetsbiblioteket, Oslos utklippsarkiv"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Kristiania Arkitektforening"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Byggedirektørens arkiv, Oslo"
+                ]
+            },
+            {
+                "from_date": "1932",
+                "order": "22",
+                "to_date": "",
+                "description": "Bygningsforholdene i Bergen i aarene 1880-1930",
+                "place": "Bergen",
+                "authors": [
+                    "Bull, Schak"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Antikvarisk Arkiv, Riksantikvaren"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Oslo Arkitektforening og Norske Arkitekters Landsforbunds medlemsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Harald Petersen",
+    "url": "https://nkl.snl.no/Harald_Petersen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>P. var ansatt hos arkitektene Henrik Nissen, Kristiania 1908-09, Herman Backer samme sted 1909-10, Sigurd Lunde, Bergen 1910-12, Carl og Jørgen Berner, Kristiania 1912-13, Einar Engelstad samme sted 1913, Harald Aars samme sted 1913-14, Kristian Biong og Henning Kloumann, begge i Kristiania. P. var ansatt som arbeidspartner hos Sigurd Lunde, Bergen i perioden 1915-21, med egen praksis 1917-18 og 1920-22. Fra 1922 hadde han egen praksis i Oslo med unntak av årene ca. 1936/37–38 da han var ansatt hos Holger Sinding-Larsen.</p>\n<p>For Herman Backer tegnet P. <em>Jønsberg Landbruksskoles internatbygning</em>, Stange (ca. 1909-13), en bygning preget av nordisk nybarokk, og for Sigurd Lunde har han angivelig tegnet fasaden til Dale Sindsykehus, Rogaland (1911-13). For Harald Aars tegnet han flere forretningsgårder, bl.a. <em>Torggata 7</em> (1913), alle i nybarokk. P. arbeidet i mange år som medarbeider og selvstendig arbeidspartner hos Sigurd Lunde i Bergen, og han hadde her mer selvstendige oppdrag enn hva som tidligere har vært alminnelig kjent. Den svenske nybarokken som preger mange av bygningene, f.eks. <em>Damernes Hus, Nygårds gt. 4</em> (1915-16), kan gå tilbake på P.s studieopphold i Sverige i 1914. Svensk nybarokk preger også deres prosjekt til Grand Hotel, Bergen (1919) og vinnerutkastet til <em>Bergens Handels- og Rederiforenings bygg</em> (1919). P. tegnet også sammen med Lunde en rekke villaer i Bergen. P. fikk i 1918 tildelt utførelsen av <em>Eugène Hanssens småhjem for gamle</em>, Oslo, og etablerte egen praksis i Kristiania. I årene 1918-28 ble det oppført i alt over 20 hus mellom Kirkeveien, Sognsveien, Stensgaten og Thulstrups gate Anlegget med småhus i et parkområde omgitt av større bygninger med spesialfunksjoner, var inspirert av tidens hagebyideer. Småstuene er lave, pussede teglsteinshus med valmtak og to-etasjes midtrisalitt. I 1930-årene arbeidet P. i tidens funksjonalisme. Sammen med Harald Aars tegnet han den 8 etasjer høye <em>Ingwald Nielsen</em>, Torggt. 4–6, Oslo (1930-33) i glass og betong med runde hjørner. Som ansatt på Holger Sinding-Larsens kontor overtok P. fullførelsen av Universitetsbiblioteket i Oslo etter Sinding-Larsens død i 1938. Han utførte den funksjonalistiske <em>østfløyen</em> (1939-45).</p>\n</div>",
+    "created_at": "2014-11-20T10:29:53.402+01:00",
+    "changed_at": "2024-06-18T23:27:46.955+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3088\",\"https://digitaltmuseum.no/fa7bdfb5-95b3-45f4-86e8-2aef3bc8727d\",\"http://kulturnav.org/fa7bdfb5-95b3-45f4-86e8-2aef3bc8727d\"]",
+        "lastname": "Petersen",
+        "firstname": "Harald",
+        "birth_date": "14.8.1888",
+        "birthplace": "Kristiania",
+        "death_date": "19.7.1971",
+        "external_id": "person_8736ab3088",
+        "kulturnav_id": "fa7bdfb5-95b3-45f4-86e8-2aef3bc8727d",
+        "place_of_death": "Bærum",
+        "alternative_names": "Petersen, Harald Frithjof"
+    },
+    "authors": [
+        {
+            "full_name": "Karin Sinding"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

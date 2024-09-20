@@ -1,0 +1,437 @@
+{
+    "id": 417718,
+    "headword": "Einar From",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102339",
+                "birth_date": "1841",
+                "death_date": "1937",
+                "firstname": "Anne Barthea",
+                "lastname": "Schrøder",
+                "professions": []
+            },
+            {
+                "from_date": "1921",
+                "to_date": "1964",
+                "type": "Gift med",
+                "external_id": "person_8736ab102340",
+                "birth_date": "1894",
+                "death_date": "",
+                "firstname": "Karen Faye",
+                "lastname": "Mühlendorf",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102338",
+                "birth_date": "1839",
+                "death_date": "1910",
+                "firstname": "Hans Christian",
+                "lastname": "From",
+                "professions": [
+                    "klokker",
+                    "lærer",
+                    "kirkesanger"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Erik Werenskiold",
+                "order": "1"
+            },
+            {
+                "comment": "Kristian Zahrtmanns malerskole i København feb. 1894",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Belgia og Nederland (7 år)"
+            },
+            {
+                "order": "5",
+                "description": "Studiereiser til Italia"
+            },
+            {
+                "order": "6",
+                "description": "Frankrike"
+            },
+            {
+                "order": "4",
+                "description": "flere år i Danmark"
+            },
+            {
+                "order": "3",
+                "description": "England (1914–18)"
+            },
+            {
+                "order": "2",
+                "description": "USA (4 år)"
+            },
+            {
+                "order": "0",
+                "description": "Bosatt i Tyskland (6 år)"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Sandefjord Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Sandefjord Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Nationalmuseum Stockholm"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1930",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1915",
+                "order": "5",
+                "to_date": "1916",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1933",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1903",
+                "order": "4",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "from_date": "",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1898",
+                "order": "3",
+                "to_date": "1900",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1920",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1967",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1918",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1922",
+                "order": "7",
+                "to_date": "1923",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1919",
+                "order": "6",
+                "to_date": "1920",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1915",
+                "order": "8",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1930-11-18",
+                "order": "8",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935-11-05",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-11-18",
+                "order": "7",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-11-15",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-02-20",
+                "order": "16",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-11-11",
+                "order": "5",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-18",
+                "order": "17",
+                "to_date": "",
+                "description": "Drammens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-01-19",
+                "order": "14",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966-09-06",
+                "order": "15",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "1",
+                "reference": "nr. 10 s. 13",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-10-08",
+                "order": "3",
+                "to_date": "",
+                "description": "Vort Land",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-02-28",
+                "order": "4",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "2",
+                "reference": "nr. 7",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-11-20",
+                "order": "10",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-11-19",
+                "order": "9",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-11-21",
+                "order": "11",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "0",
+                "reference": "s. 198",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–61",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933-11-11",
+                "order": "12",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Einar From",
+    "url": "https://nkl.snl.no/Einar_From",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div></div>",
+    "created_at": "2013-07-03T23:32:42.651+02:00",
+    "changed_at": "2024-06-18T23:26:16.337+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1135\",\"https://digitaltmuseum.no/e0201d5d-2006-46b4-97de-c33bc648832b\",\"http://kulturnav.org/e0201d5d-2006-46b4-97de-c33bc648832b\"]",
+        "lastname": "From",
+        "firstname": "Einar",
+        "birth_date": "13.4.1872",
+        "birthplace": "Sandefjord",
+        "death_date": "8.6.1972",
+        "external_id": "person_8736ab1135",
+        "kulturnav_id": "e0201d5d-2006-46b4-97de-c33bc648832b",
+        "place_of_death": "Sylling"
+    },
+    "authors": [
+        {
+            "full_name": " Norsk kunstnerleksikon"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

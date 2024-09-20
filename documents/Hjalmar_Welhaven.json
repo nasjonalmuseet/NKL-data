@@ -1,0 +1,539 @@
+{
+    "id": 431266,
+    "headword": "Hjalmar Welhaven",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1876",
+                "type": "Gift med",
+                "external_id": "person_8736ab108083",
+                "birth_date": "1851",
+                "death_date": "1940",
+                "firstname": "Margrethe Petersen",
+                "lastname": "Backer",
+                "professions": [
+                    "maler"
+                ],
+                "place": "Kristiania"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab3977",
+                "birth_date": "22.12.1807",
+                "death_date": "21.10.1873",
+                "firstname": "Johan Sebastian Cammermeyer",
+                "lastname": "Welhaven",
+                "professions": [
+                    "dikter"
+                ]
+            },
+            {
+                "professions": [
+                    "tegner"
+                ],
+                "type": "Sønn av",
+                "external_id": "person_8736ab108086",
+                "birth_date": "1812",
+                "death_date": "1866",
+                "firstname": "Josephine Angelica",
+                "lastname": "Bidoulac"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Den kgl. Tegneskole 1870",
+                "order": "0"
+            },
+            {
+                "comment": "Den tekniske høyskole, Hannover 1871-73",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1874"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Styremedlem Forening til norske Fortidsminnesmerkers Bevaring"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Sølvmedalje i Paris 1890 for Ruseløkkvn. 60"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "I Oslo når ikke annet er nevnt. Arbeiderbolig, Platous gt. 4 (1880)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Paddehatten, musikkpaviljong utført i tre, Studenterlunden (1860, revet 1920-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nedre Slottsgt. 25 (1880)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "stor arbeiderbolig, Ruseløkkvn. 60 (1881)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Arbeiderboliger, Toftes gt. 25 (1887)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Gjendebu turisthytte (1891-92), Steinbergdalshytten (1895) og Glitterheim (1900-01) for Den norske Turistforening"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "ombygging, Prinsens gt. 4 (1893)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Sandvika Politistasjon, Bærum (1895)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Bærum kommunelokale (1896, revet)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "villa, Lyder Sagens gt. 18 B (1897)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "ombygging sommervilla, Kristinelundvei 14 (1902, bygd av Chr. Grosch, H. 1838, senere ombygd av Arneberg, A. 1914)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "villa, Kruses gt. 1 (1890-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "privatbolig for Eva og Fridtjof Nansen, Polhøgda, Lysaker (1900-02)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "utvidelse av stallbygningen fra 1848, Det kgl. Slott (1911)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Frognervn. 19."
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "landeiendom for Axel Heiberg, Strand i Numedal"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "landeiendom for Axel Stang, Maarud gård"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Frk. Rolls skole, senere Vestheim videregående skole"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Trømborg (1879)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Eidsberg (1880)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Mysen (1903)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Auli, Nes (1907)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "tårn, Bamble kirke"
+            }
+        ],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Kirker: Hærland (1879)"
+            }
+        ],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1924",
+                "order": "0",
+                "reference": "bd. 2, s. 122 (ill.)",
+                "to_date": "",
+                "description": "Bærum, en bygds historie",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "1",
+                "reference": "s. 145",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": null,
+                "comments": [
+                    "registerbd."
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1963",
+                "order": "2",
+                "reference": "s. 387",
+                "to_date": "",
+                "description": "Forening til norske Fortidsminnesmerkers Bevaring registerbd.",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1966",
+                "order": "3",
+                "reference": "s. 173, 183, 300",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "4",
+                "reference": "bd. 18, s. 398-400",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "5",
+                "reference": "register s. 272",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "6",
+                "reference": "nr. 23 s. 240-95",
+                "to_date": "",
+                "description": "Asker og Bærum Historielags årsskrift",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "7",
+                "reference": "bd. 12, s. 554",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982",
+                "order": "8",
+                "reference": "s. 141-44 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1984",
+                "order": "9",
+                "reference": "register s. 233",
+                "to_date": "",
+                "description": "Oslo. En arkitekturguide",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1984",
+                "order": "10",
+                "to_date": "",
+                "description": "Romantikk og fortidsvern",
+                "authors": null,
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1922",
+                "order": "11",
+                "reference": "s. 78",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953",
+                "order": "12",
+                "reference": "s. 113",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1922",
+                "order": "13",
+                "reference": "nr. 5 (ill.)",
+                "to_date": "",
+                "description": "Kristiania Arkitektforening",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1894",
+                "order": "14",
+                "reference": "s. 381",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1895",
+                "order": "15",
+                "reference": "s. 135, 408",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1896",
+                "order": "16",
+                "reference": "s. 42, 106, 109, 115, 118, 151, 414",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1897",
+                "order": "17",
+                "reference": "s. 377",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1898",
+                "order": "18",
+                "reference": "s. 266",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1899",
+                "order": "19",
+                "reference": "s. 170-71 (ill.)",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1901",
+                "order": "20",
+                "reference": "s. 646",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1903",
+                "order": "21",
+                "reference": "s. 210, 481",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1904",
+                "order": "22",
+                "reference": "s. 581-82",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1905",
+                "order": "23",
+                "reference": "s. 78, 82, 103",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1906",
+                "order": "24",
+                "reference": "s. 89",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1907",
+                "order": "25",
+                "reference": "s. 72, 399, arkitekturavdelingen s. 77",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "authors": null,
+                "comments": null,
+                "archives": [
+                    "Antikvarisk arkiv"
+                ]
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Hjalmar Welhaven",
+    "url": "https://nkl.snl.no/Hjalmar_Welhaven",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Som privatpraktiserende arkitekt i Kristiania var W. spesielt opptatt av trebygninger bygd i sveitserstil. Av virksomhet utenfor byen må fremheves konsul Axel Heibergs landeiendom i Numedal og Axel Stangs <em>Maarud gård</em>. W. bygde også i mur, mest kjent er <em>Polhøgda</em> (1902) som han oppførte for sin kusine Eva, og Fridtjof Nansen. Særlig fremheves bygningens tårnværelse. I Oslo er W. kjent for å ha bygd <em>Frk. Rolls (Vestheim) skole</em>. W.s innsats for bygging av arbeiderboliger etter filantropiske ideer, er imidlertid lite kjent. <em>Toftes gt. 24</em> (1887) er bygd med 120 to-roms-leiligheter. Fasaden er i pusset tegl. På gårdsplassen ble det plantet to tuntrær, og satt opp flaggstang og en mindre bygning som skulle fungere som et felleshus med vaskeri, bad, forsamlingssal, likhus og bytteleilighet under oppussing av egne leiligheter. Fra 1883 ble W. slottsforvalter for kong Oscar 2. Gjennom sitt 30-årige virke som slottsforvalter, hadde han til ansvar å holde vedlike og gjennomføre forbedringer ved Det kgl. Slott, Bygdøy kongsgård, Oscarshall på Bygdøy og Skinnarbøl i Vinger. I en viss utstrekning supplerte W. dessuten Den kgl. Tegneskoles undervisning i bygningsfaget.</p></div>",
+    "created_at": "2014-12-21T15:27:15.283+01:00",
+    "changed_at": "2024-06-18T23:28:20.253+02:00",
+    "license_name": "fri",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3976\",\"https://digitaltmuseum.no/7d29e7b8-83b3-4973-a721-7af4a230a369\",\"http://kulturnav.org/7d29e7b8-83b3-4973-a721-7af4a230a369\"]",
+        "lastname": "Welhaven",
+        "firstname": "Hjalmar",
+        "birth_date": "26.12.1850",
+        "birthplace": "Christiania",
+        "death_date": "18.4.1922",
+        "external_id": "person_8736ab3976",
+        "kulturnav_id": "7d29e7b8-83b3-4973-a721-7af4a230a369",
+        "place_of_death": "Kristiania"
+    },
+    "authors": [
+        {
+            "full_name": "Ole Petter Bjerkek"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

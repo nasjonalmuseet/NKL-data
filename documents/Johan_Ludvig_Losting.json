@@ -1,0 +1,738 @@
+{
+    "id": 418066,
+    "headword": "Johan Ludvig Losting",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "forgyller"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "litograf"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105051",
+                "birth_date": "1781",
+                "death_date": "1830",
+                "firstname": "Margarethe Magdalene",
+                "lastname": "Wanberg",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105050",
+                "birth_date": "1775",
+                "death_date": "1856",
+                "firstname": "Maximilian Heinrich",
+                "lastname": "Losting",
+                "professions": [
+                    "gartner"
+                ]
+            },
+            {
+                "from_date": "1840",
+                "type": "Gift med",
+                "external_id": "person_8736ab105052",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Fredrikke Christiane",
+                "lastname": "Müller",
+                "professions": [],
+                "place": "Bergen"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "To semestre på Det Nyttige Selskabs Tegneskole, Bergen under Carl Peter Lehmann 1825–26",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens stipend 1849"
+            },
+            {
+                "order": "1",
+                "description": "reise til Paris 1849–50"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Direksjonsmedlem Bergens Kunstforening 1853–76"
+            },
+            {
+                "order": "1",
+                "description": "Bergens Haandverkerforening 1860–62"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "medalje av første klasse på Kunst og Industrieudstilling København 1872 for illustrasjoner av hudsykdommer"
+            },
+            {
+                "order": "0",
+                "description": "Mention Honorable, Verdensutstillingen i Paris 1855 for illustrasjon av lepra"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Hanseatiske museum Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "De Heibergske Samlinger, Ambla"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Historisk museum Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Teatermuseet Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergens Sjøfartsmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Altertavler i kirker: Lindås (1863), Meland (1866), Våge (1868), Os (1870), alle i Hordaland"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Selje (1866) og Guddal (1870) i Sogn og Fjordane"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Aust-Agder museet, Arendal"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norsk Folkemuseum"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Stavanger Museum"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Iakttagelser om Hudens Sygdomme, Bergen 1855–62"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "D.C. Danielssen og Chr. Boeck: Coloreret Atlas over Spedalskhed, Bergen 1847"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Norges National Dragter, Bergen 1828–32, hefte 2 og 4"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "G. Sars: Fauna Littoralis Norvegiae, Christiania og Bergen 1846–47"
+            }
+        ],
+        "exhibitions": [
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1848",
+                "order": "5",
+                "to_date": "1853"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1873",
+                "order": "4",
+                "to_date": "",
+                "title": "Verdensutstillingen i Wien"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1882-05",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Det Dramatiske Selskab, Bergen",
+                "from_date": "1831",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1855",
+                "order": "2",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1853",
+                "order": "1",
+                "to_date": "",
+                "title": "Bergens anden Industrieudstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1872",
+                "order": "3",
+                "to_date": "",
+                "title": "Kunst og Industriudstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Oljemaleri utført av Anders Askevold (1856, privat eie)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1929",
+                "order": "14",
+                "reference": "bd. 23, s. 404",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "22",
+                "reference": "s. 166",
+                "to_date": "",
+                "description": "Florø",
+                "place": "Florø",
+                "authors": [
+                    "Thingnæs, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "3",
+                "reference": "bd. 1, s. 241–42",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "reference": "s. 5–7 (ill.)",
+                "to_date": "",
+                "description": "Maleren og litografen Johan Ludvig Losting, Bergens Sjøfartsmuseum årshefte 1954",
+                "authors": [
+                    "Pettersen jr, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "1",
+                "reference": "s. 92, 107–08",
+                "to_date": "",
+                "description": "Bergens Kunstforening i femti aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "30",
+                "reference": "bd. 7, s. 675",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "12",
+                "reference": "Bergens Sjøfartsmuseums. 52–53 (ill.)",
+                "to_date": "",
+                "description": "Fører",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "27",
+                "reference": "bd. 6, s. 750",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "32",
+                "reference": "s. 105",
+                "to_date": "",
+                "description": "Biografisk skuespillerleksikon",
+                "place": "Oslo",
+                "authors": [
+                    "Jensson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "17",
+                "reference": "bd. 4, s. 1 (ill.)",
+                "to_date": "",
+                "description": "Nordfjord",
+                "place": "Sandane",
+                "authors": [
+                    "Aaland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "5",
+                "reference": "s. 55–56",
+                "to_date": "",
+                "description": "Fra min barndoms og ungdoms tid",
+                "place": "(Kristiania",
+                "authors": [
+                    "Hertzberg, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-02-12",
+                "order": "7",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "24",
+                "reference": "s. 105, 222",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "15",
+                "reference": "register s. 196",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "10",
+                "reference": "bd. 15, s. 1055–56",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "26",
+                "reference": "register s. 565",
+                "to_date": "",
+                "description": "Hordaland og Bergen, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "21",
+                "reference": "s. 9, 32, 33, 35, 37",
+                "to_date": "",
+                "description": "Prahls litografiske arbeider",
+                "place": "Oslo",
+                "authors": [
+                    "Ebbing, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896",
+                "order": "2",
+                "reference": "s. 29, 34, 37, 39, 57",
+                "to_date": "",
+                "description": "Kaptein Georg Prahl",
+                "place": "Bergen",
+                "authors": [
+                    "Ross, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "23",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 12, spalte 673"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "29",
+                "reference": "bd. 9, s. 43 (ill.)",
+                "to_date": "",
+                "description": "Norges historie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-01-26",
+                "order": "31",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Dreyer, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "28",
+                "reference": "bd. 2, s. 182 (tegn. 1840), s. 223",
+                "to_date": "",
+                "description": "Granvin, Ulvik og Eidfjord",
+                "place": "Bergen",
+                "authors": [
+                    "Kolltveit, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1826",
+                "order": "0",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [
+                    "nr. 167"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "13",
+                "reference": "bd. 2, s. 198",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "33",
+                "to_date": "",
+                "description": "En af disse saare nyttige mænd. Kunstmaler Johan Ludvig Losting 1810–76",
+                "place": "Bergen",
+                "authors": [
+                    "Dreyer, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "19",
+                "reference": "s. 90 (ill.)",
+                "to_date": "",
+                "description": "Eid og Hornindal",
+                "place": "Oslo",
+                "authors": [
+                    "Os, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "4",
+                "reference": "s. 24, 26, 31, 60",
+                "to_date": "",
+                "description": "Minder fra den første Nationale Scene",
+                "place": "Bergen",
+                "authors": [
+                    "Bull, M. Midling"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "18",
+                "reference": "s. 87–102 (ill.)",
+                "to_date": "",
+                "description": "Johan Ludvig Losting - en kunstner og kunsthåndverker fra det gamle Bergen, Kunst og Kultur",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "6",
+                "reference": "s. 366–67",
+                "to_date": "",
+                "description": "Slegten fra 1814",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "9",
+                "reference": "bd. 2, s. 489",
+                "to_date": "",
+                "description": "Bergen 1814–1914",
+                "authors": [],
+                "comments": [
+                    "utg. av Bergen kommune"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "11",
+                "reference": "s. 40, 47–50, 56, 175",
+                "to_date": "",
+                "description": "Fra Ulrikken til Alperne",
+                "place": "Oslo",
+                "authors": [
+                    "Grønvold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "16",
+                "reference": "bd. 8, s. 456–57",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913",
+                "order": "8",
+                "reference": "bd. 1, s. 146",
+                "to_date": "",
+                "description": "Svundne tider",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "25",
+                "reference": "s. 24, 27, 36–39, 52–53, 55__-;57 (ill.)",
+                "to_date": "",
+                "description": "Fra sabel til plog, Frå Fjon til Fusa",
+                "place": "Bergen",
+                "authors": [
+                    "Ebbing, N."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Johan Ludvig Losting",
+    "url": "https://nkl.snl.no/Johan_Ludvig_Losting",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>L. levde hele sitt liv i Bergen hvor han tidlig i 1830-årene startet sitt eget forgyllerverksted. I 1840-årene ble dette supplert med en butikk for kunstsaker og kunstnerrekvisita. Denne virksomheten ble L.s hovedinntektskilde livet ut, men samtidig virket han som billedkunstner. I perioden 1827 til ca. 1850 var han tegner og litograf hos G.C.C.W. Prahl som startet Bergens første litografiske anstalt. I den anledning foretok L. flere reiser i Norge for å nedtegne folkedrakter, folkeliv og landskaper. Flere av disse tegningene ligger til grunn for publiserte litografiske blad, i all hovedsak med motiver fra Vestlandet og Bergen. Sammen med Prahl stod L. i 1847 bak det til da største litografiske prosjektet i Norge, nemlig D.C. Danielssen og Chr. Boecks verk Coloreret Atlas over Spedalskhed.</p>\n<p>Fra 1850-årene ble L. mye benyttet som dekorasjonsmaler. I de første årene leverte han scenedekor til det nyopprettete Norske Theater i Bergen. I 1860-årene utførte han en rekke forlegg i akvarell og gouache til gallionsfigurer og annen dekor på skip bygd ved bergenske skipsverft. Samtidig spesialiserte han seg på festdekor av forskjellig slag. Således tegnet han og utførte selv store deler av dekoren til den store sangerfesten i Bergen i 1863. Arbeidet omfattet alt fra tegning av selve det provisoriske festlokalet og dets innredning til store mytologiske malerier og faner. Sistnevnte gjorde særlig stor lykke og dannet opptakten til flere oppdrag på faner og flagg både i 1860- og 70-årene. Kundekretsen omfattet sangforeninger, skoler, næringslivet og privatpersoner. I slutten av 1860- og begynnelsen av 70-årene malte L. en rekke altertavler til Vestlandskirker. De fleste av disse er kopier etter gamle mestre som Leonardo og Rubens. Bildene L. laget på oppdrag viser en habil håndverksmaler og særlig er hans utkast til faner og skipsdekor nitid og delikat utført. I ren ornamenttegning viser L. et sterkt preg av nyrokokko, mens figurene er klart klassisistiske. Hans kunstneriske evner kommer imidlertid best fram i hans private tegninger og laveringer hvorav mange er landskapsprospekter i en sirlig, litt kantet tegnestil. Her er også mindre landskapsutsnitt som gjennom lavering har fått et mykere og mer nyansert preg. En del portretter viser samme sikre tegning, og sans for blyantens valører.</p>\n</div>",
+    "created_at": "2013-07-04T06:15:26.297+02:00",
+    "changed_at": "2024-06-18T23:26:25.773+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2435\",\"https://digitaltmuseum.no/0ff0135c-7663-4eaa-a724-84dee753116e\",\"http://kulturnav.org/0ff0135c-7663-4eaa-a724-84dee753116e\"]",
+        "lastname": "Losting",
+        "firstname": "Johan Ludvig",
+        "birth_date": "11.9.1810",
+        "birthplace": "Bergen",
+        "death_date": "31.3.1876",
+        "external_id": "person_8736ab2435",
+        "kulturnav_id": "0ff0135c-7663-4eaa-a724-84dee753116e",
+        "place_of_death": "Bergen"
+    },
+    "authors": [
+        {
+            "full_name": "Andreas Dreyer"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16127/standard_NMK-B_NG.M.0446720130725-13675-1rs1wzw.jpg",
+            "full_size_url": "https://media.snl.no/media/16127/NMK-B_NG.M.0446720130725-13675-1rs1wzw.jpg",
+            "xhtml": "<div>\r\n<p><em>Fjordparti</em>, 1849. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Johan Ludvig Losting",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16146/standard_NMK-B_NMK.2012.005620130725-13675-1leyqqd.jpg",
+            "full_size_url": "https://media.snl.no/media/16146/NMK-B_NMK.2012.005620130725-13675-1leyqqd.jpg",
+            "xhtml": "<div>\r\n<p><em>Kvinne som er rammet av spedalskhet</em>, 1847. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Johan Ludvig Losting",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16147/standard_NMK-B_NMK.2012.006020130725-13675-pst6f9.jpg",
+            "full_size_url": "https://media.snl.no/media/16147/NMK-B_NMK.2012.006020130725-13675-pst6f9.jpg",
+            "xhtml": "<div>\r\n<p><em>Leprabasiller; utvikling av spedalskhet</em>, 1847. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Johan Ludvig Losting",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "forgyller"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "litograf"
+        }
+    ]
+}

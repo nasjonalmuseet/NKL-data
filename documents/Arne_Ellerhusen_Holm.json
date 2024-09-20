@@ -1,0 +1,1892 @@
+{
+    "id": 417011,
+    "headword": "Arne Ellerhusen Holm",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1938",
+                "type": "Gift med",
+                "external_id": "person_8736ab1374",
+                "birth_date": "21.09.1914",
+                "death_date": "17.08.2010",
+                "firstname": "Else",
+                "lastname": "Hagen",
+                "professions": [
+                    "materialkunstner",
+                    "maler",
+                    "grafiker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103492",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Arne",
+                "lastname": "Holm",
+                "professions": [
+                    "banksjef"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103493",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anne Sophie Wibye",
+                "lastname": "Ellerhusen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold 1934–35",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Georg Jacobsen 1937–38",
+                "order": "2"
+            },
+            {
+                "comment": "arkitekt fra Norges Tekniske Høyskole 1937",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "Sverige 1946"
+            },
+            {
+                "order": "1",
+                "description": "Norges Tekniske Høyskole stip"
+            },
+            {
+                "order": "3",
+                "description": "Frankrike 1938"
+            },
+            {
+                "order": "0",
+                "description": "Bloms stip"
+            },
+            {
+                "order": "6",
+                "description": "Hellas 1961"
+            },
+            {
+                "order": "5",
+                "description": "Frankrike og Italia 1951"
+            },
+            {
+                "order": "2",
+                "description": "Studiereiser Danmark 1935 og 1948"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "6",
+                "description": "styremedlem Nordenfjeldske Kunstindustrimuseum, Trondheim fra 1947"
+            },
+            {
+                "order": "8",
+                "description": "formann i Komiteen for kunstnerspørsmål 1971–74"
+            },
+            {
+                "order": "4",
+                "description": "Formann Unge Kunstneres Samfunn 1943–44"
+            },
+            {
+                "order": "5",
+                "description": "formann Trondheim Kunstforening 1958–65, viseformann 1955–57 og 1966–71"
+            },
+            {
+                "order": "2",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "7",
+                "description": "vise-preses Det Kongelige Norske Videnskapers Selskab, Trondheim 1974–78"
+            },
+            {
+                "order": "0",
+                "description": "Lærer ved Statens Håndverks- og Kunstindustriskole, Oslo 1938–47"
+            },
+            {
+                "order": "3",
+                "description": "Medlem Foreningen Norske Grafikere og Norges tekniske vitenskapsakademi"
+            },
+            {
+                "order": "1",
+                "description": "professor ved arkitektavdelingen Norges Tekniske Høyskole 1947–78"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "1. premie i konkurranse om merke til Norges rederforbund 1932"
+            },
+            {
+                "order": "3",
+                "description": "Æresmedlem av Unge Kunstneres Samfunn og Trondheim Kunstforening"
+            },
+            {
+                "order": "1",
+                "description": "1. premie i innbudt konkurranse om Rikstrygdeverket, Oslo 1957"
+            },
+            {
+                "order": "4",
+                "description": "R1 St. O. O. 1978"
+            },
+            {
+                "order": "2",
+                "description": "1. premie i internasjonal konkurranse om Europa-frimerket 1963"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Drammens Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Det Kgl. Slott"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "relieff, Politiskolen, Oslo (1980)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "utsmykking i aluminium for Felleskjøpet, Tunga ved Trondheim (1973)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Moss kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Altertavle, Herøya kirke (emalje, 1958)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Jämtlands läns konstgalleri, Östersund"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Innkjøpt Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "husgavl, Schøyens gt. Trondheim (1979)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Oslo, Bodø, Kristiansund, Larvik og Modum kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Sosialdepartementet"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "aluminiumsgitter, Rikstrygdeverket, Oslo (1960)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "23 frimerker og 6 postale trykksaker etter 1960"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "merke for Trondheim Kunstforening, Norges tekniske vitenskapsakademi, Institutt for teknisk varmelære, Erkebispegården i Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Kjempevise. Han Lage tjente i kongens gård, nedskrevet av L. D. Klüver, faksimile, Norges Tekniske Høyskole (u.å)"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Ikke angitt",
+                "from_date": "1940",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1962",
+                "order": "29",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1953",
+                "order": "23",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1957",
+                "order": "49",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1954",
+                "order": "39",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1948",
+                "order": "19",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Nasjonalgalleriet",
+                "from_date": "1940",
+                "order": "33",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1956",
+                "order": "48",
+                "to_date": "",
+                "title": "Norveska grafika"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Gall. Per",
+                "from_date": "1953",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1960",
+                "order": "53",
+                "to_date": "",
+                "title": "Nordisk grafikk"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1954",
+                "order": "24",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1956",
+                "order": "47",
+                "to_date": "",
+                "title": "La Gravure Norvégienne Contemporaine"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1962",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "biennalen i São",
+                "from_date": "1955",
+                "order": "43",
+                "to_date": ""
+            },
+            {
+                "comment": "(gjest)",
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1979",
+                "order": "57",
+                "to_date": "",
+                "title": "Sommerutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1939",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1943",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1952",
+                "order": "22",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1945",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1978",
+                "order": "32",
+                "to_date": "",
+                "title": "Trøndelagsutst."
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1956",
+                "order": "26",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1955",
+                "order": "25",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1956",
+                "order": "46",
+                "to_date": "",
+                "title": "Contemporary Norwegian Prints"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1958",
+                "order": "52",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1954",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1963",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1953",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "biennalen for",
+                "from_date": "1958",
+                "order": "42",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1969",
+                "order": "56",
+                "to_date": "",
+                "title": "Statens Kunstakademi 60 år"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1951",
+                "order": "21",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1964",
+                "order": "31",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1957",
+                "order": "27",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1946",
+                "order": "36",
+                "to_date": "",
+                "title": "Ung norsk kunst"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1946",
+                "order": "35",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1959",
+                "order": "51",
+                "to_date": "",
+                "title": "Contemporary prints from Norway"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1946",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1967",
+                "order": "55",
+                "to_date": "",
+                "title": "Zehn Graphiker aus Norwegen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1947",
+                "order": "37",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudst."
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1958",
+                "order": "45",
+                "to_date": "",
+                "title": "Norsk Grafikkunion"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1958",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "biennalen for",
+                "from_date": "1956",
+                "order": "41",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1937",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1943",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1964",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1950",
+                "order": "20",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1958",
+                "order": "50",
+                "to_date": "",
+                "title": "Contemporary prints from Norway"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1963",
+                "order": "30",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1960",
+                "order": "28",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1945",
+                "order": "34",
+                "to_date": "",
+                "title": "Extrøndere"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1947",
+                "order": "18",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Gall. Per",
+                "from_date": "1958",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1964",
+                "order": "54",
+                "to_date": "",
+                "title": "Norsk Grafikkunion"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "title": "Norsk Grafikkunion"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1952",
+                "order": "38",
+                "to_date": "",
+                "title": "Exposião de Pintura e Gravura Norueguesa"
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1938",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1973",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1982",
+                "order": "58",
+                "to_date": "",
+                "title": "Postmuseum"
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Kunstnerforbundet",
+                "from_date": "1942",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "biennalen for",
+                "from_date": "1954",
+                "order": "40",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1955",
+                "order": "14",
+                "reference": "hefte 3, s. 26-45",
+                "to_date": "",
+                "description": "Henri Matisse som skulptør, Kunsten idag",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "20",
+                "to_date": "",
+                "description": "Jan van Eyck's double portrait in London, Det Kongelige Norske Videnskapers Selskab, Trondheim's forhandlinger",
+                "place": "Trondheim",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [
+                    "bd. 37"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1955-11",
+                "order": "15",
+                "to_date": "",
+                "description": "Jean Heiberg, en norsk klassiker, Under dusken",
+                "place": "Trondheim",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "4",
+                "reference": "s. 23-29",
+                "to_date": "",
+                "description": "Om portrettet som kunstform, Ord och Bild",
+                "place": "Stockholm",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "13",
+                "reference": "hefte 2, s. 16-37",
+                "to_date": "",
+                "description": "Mosaikker i Ravenna, Kunsten idag",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "19",
+                "to_date": "",
+                "description": "Georg Jacobsen, Trondhjems kunstforening, årsberetning 1961",
+                "place": "Trondheim",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "3",
+                "reference": "nr. 4, s. 66-71",
+                "to_date": "",
+                "description": "Hva er kubisme, Bonytt",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "17",
+                "reference": "nr. 1, s. 25-28",
+                "to_date": "",
+                "description": "Dekorasjonene i Regjeringsbygget, Byggekunst",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "6",
+                "reference": "nr. 11/12, s. 208-13",
+                "to_date": "",
+                "description": "Sigurd Winge, Bonytt",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "5",
+                "reference": "nr. 1, s. 221-28",
+                "to_date": "",
+                "description": "Romutsmykning og arkitektur, Vinduet",
+                "place": "Oslo",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Om Pierre Bonnard, Trondhjems Kunstforening, årsberetning 1956",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-01",
+                "order": "0",
+                "to_date": "",
+                "description": "Kunst og intellekt, Under dusken",
+                "place": "Trondheim",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "10",
+                "reference": "nr. 9, s. 164-68",
+                "to_date": "",
+                "description": "Skulpturens formspråk, Bonytt",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "8",
+                "reference": "hefte 4, s. 32-48",
+                "to_date": "",
+                "description": "Matisse's kapell i Vence, Kunsten idag",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "9",
+                "reference": "nr. 6, s. 97-101",
+                "to_date": "",
+                "description": "Form, Bonytt",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "18",
+                "reference": "s. 269-87",
+                "to_date": "",
+                "description": "Vår tids kunst, Kunst og Kultur",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "7",
+                "reference": "nr. 2, s. 26-31",
+                "to_date": "",
+                "description": "Nytt eller gammelt i maleriet, Bonytt",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "2",
+                "to_date": "1947",
+                "description": "Romutsmykning, Norges Tekniske Høyskole's årsmelding",
+                "place": "Trondheim",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "12",
+                "to_date": "",
+                "description": "Axel Salto, Utgitt av Landsforeningen for dansk kunsthåndværk",
+                "place": "København",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "22",
+                "reference": "s. 63-100",
+                "to_date": "",
+                "description": "arbeid med bokstav, bind og tegning, Tegneren Hermann Bongard, katalog Kunstindustrimuseet i Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "1",
+                "reference": "nr. 3-4, s. 21-27",
+                "to_date": "",
+                "description": "Billedkunsten i Krematoriet, Byggekunst",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "11",
+                "to_date": "",
+                "description": "Norsk romutsmykning i dag, Dansk Kunsthåndværk",
+                "place": "København",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [
+                    "nr. 5"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "21",
+                "to_date": "",
+                "description": "Billedkunsten i kirkerummet, Kirker i en ny tid",
+                "place": "Oslo",
+                "authors": [
+                    "HOLM, Arne"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1977",
+                "order": "59",
+                "reference": "s. 250, 257, 267 (ill.)",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-01-21",
+                "order": "88",
+                "to_date": "",
+                "description": "i Dagen",
+                "authors": [
+                    "Meyer, A. C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "35",
+                "reference": "nr. 9, mot s. 36",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "45",
+                "reference": "hefte 22, s. 45 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-04-17",
+                "order": "69",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Nyquist, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-02-27",
+                "order": "78",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Berg, G. Backer"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "40",
+                "reference": "s. 102, første s. etter omslagets. 131",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-09",
+                "order": "86",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "50",
+                "reference": "register og s. 234",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-04-09",
+                "order": "64",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-11-26",
+                "order": "95",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "55",
+                "to_date": "",
+                "description": "Porsgrunns Porselænsfabrik, Bedrift og produksjon gjennom åtti år",
+                "place": "Oslo",
+                "authors": [
+                    "Bøe, A."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1964-02-18",
+                "order": "89",
+                "to_date": "",
+                "description": "Telemark Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "58",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1945–1970",
+                "place": "Trondheim",
+                "authors": [
+                    "Kristiansen, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "36",
+                "reference": "nr. 3, s. 8, 32",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "46",
+                "reference": "hefte 25, s. 57 (ill.)hefte 31, s. 51 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-09-13",
+                "order": "79",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-04-17",
+                "order": "68",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nielssen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-01-14",
+                "order": "87",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-04-10",
+                "order": "65",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "49",
+                "reference": "bd. 2, s. 294",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "39",
+                "reference": "s. 6-7, 95-97, 116",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "37",
+                "reference": "s. 161",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "28",
+                "reference": "s. 104, nr. 1, s. XII",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "56",
+                "reference": "s. 25, 41",
+                "to_date": "",
+                "description": "Statens Kunstakademi i 60 år",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [
+                    "katalog Nasjonalgalleriet, Oslo"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1964-02-22",
+                "order": "90",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Varden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "33",
+                "reference": "nr. 7, s. XV",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-02-09",
+                "order": "71",
+                "to_date": "",
+                "description": "i Dagsp.",
+                "authors": [
+                    "Undersaker, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "47",
+                "reference": "hefte 94, s. 28",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "48",
+                "reference": "hefte 105-106, s. 89",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-23",
+                "order": "84",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-04-14",
+                "order": "66",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Durban, A"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "52",
+                "to_date": "",
+                "description": "For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "53",
+                "reference": "s. 52 (ill.)",
+                "to_date": "",
+                "description": "106 Norske grafikere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "27",
+                "reference": "s. 150, nr. 5-6, s. X",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "34",
+                "reference": "nr. 4, s. XXVIII",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "25",
+                "reference": "s. 9, 87",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-09-17",
+                "order": "91",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-02-06",
+                "order": "70",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-23",
+                "order": "85",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942-04-17",
+                "order": "67",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "26",
+                "reference": "s. 28, 30, 113, 171, 172, 192, 217, nr. 3 mot s. XII, nr. 5, s. V, nr.6, s. II",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "54",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "51",
+                "reference": "s. 101, ill.nr. 138",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "41",
+                "reference": "s. 198-99",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "63",
+                "reference": "s. 5-6",
+                "to_date": "",
+                "description": "i Trondhjems Kunstforening, Årsberetning 1980",
+                "place": "Trondheim",
+                "authors": [
+                    "Brockmann, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-03-12",
+                "order": "73",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "31",
+                "reference": "s. 34-38, 146-49",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-09-25",
+                "order": "82",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Aas, A.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-06-10",
+                "order": "92",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "24",
+                "reference": "s. 34, 43",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "42",
+                "reference": "s. 73, 90, pl. 146",
+                "to_date": "",
+                "description": "Kvinneportretter i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Gran, H.",
+                    "Revold, R"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "62",
+                "reference": "s. 171, 173",
+                "to_date": "",
+                "description": "Kunstnernes Hus, Oslo 1930–1980",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "32",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [
+                    "nr. 6-7 mot nest siste omslagsside"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1943-02-11",
+                "order": "72",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-06-10",
+                "order": "83",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "23",
+                "reference": "s. 157",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "61",
+                "reference": "s. 744",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "43",
+                "reference": "s. 52",
+                "to_date": "",
+                "description": "Moderne norsk malerkunst",
+                "place": "København",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "38",
+                "reference": "s. 101",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-03-14",
+                "order": "77",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Moen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "29",
+                "reference": "nr. 3, s. II og mot nest siste omslagside, nr. 9, mot s. XX, nr. 11-12, s. XXIV",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-03-12",
+                "order": "75",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "57",
+                "reference": "s. 90, 208",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-09-13",
+                "order": "80",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-04-06",
+                "order": "93",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "44",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Ung norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-03-12",
+                "order": "76",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "60",
+                "reference": "s. 25",
+                "to_date": "",
+                "description": "Norske grafikere i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Flor, H. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-03-12",
+                "order": "74",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Steen-Johnsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "30",
+                "reference": "s. 11-12, s. XXIV",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-11-24",
+                "order": "94",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Moen, U."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-09-24",
+                "order": "81",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Moen, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1977",
+                "order": "96",
+                "publisher": "Universitetet i Oslo",
+                "reference": "s. 124, 207–08, 212, 248, 255, 281, 285",
+                "to_date": "",
+                "description": "Den konstruktive skole, Georg Jacobsens betydning for norsk malerkunst",
+                "authors": [
+                    "S. Thorud"
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Arne Ellerhusen Holm",
+    "url": "https://nkl.snl.no/Arne_Ellerhusen_Holm",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Allerede fra debututstillingen i 1942 viste H. en utpreget sans for de billedbyggende midler. Hans tidligste malerier er bygd opp av forenklede plan på en måte som vitner om interesse for en dekorativ abstraherende disponering av billedflaten. Etter hvert utviklet han friere, mer spontane penselstrøk og anslaget ble lettere, med små valørsprang som gav fargen stor lyskraft. En del interiører og landskaper, som f.eks. <em>Juninatt</em> (1945, Nasjonalgalleriet, Oslo), er malt med luftige strøk i varme og kalde toner av blått og grønt. Det formidler inntrykk av duft og atmosfære. Fra omkring 1950 kom maleriet i bakgrunnen. En del små gouacher og akvareller viser en gjennomreflektert oppbygging av form og farge og med en dekorativ disponering av fargen. Samtidig ble innslaget av svart-hvitt viktig. Disse tendensene kom H. til å utvikle for fullt i grafikken. Fargelitografiet ble hans medium fremfor noe annet. Fra de første grafiske blad, der maleren naturlig nok er merkbar, har han arbeidet mot en stadig større klarhet og enkelhet ut fra grafikkens lover og egenart. Fargene er begrenset til 3 eller 4, foruten svart. Det er også bilder som går i en eneste toneart, for eks. bruntoner. Utviklingen har for øvrig gått i retning av brutte, dempede farger som blågrått, svartgrønt, gråbeige, grårødt. Former og figurer er abstrahert og konsentrert til den ytterste grad av forenkling. Figurene blir da ofte aksjonstegn som står som svarte ornamenter i et fargemiljø.</p>\n<p>H. har over lengre tid arbeidet med enkelte av sine motiver, slik at de fremstår som tidløse symboler. Det gjelder gondolieren, scene- og teatermotivene, fuglemotivet, små og nære naturobjekt, som vekster, sommerfugler og konkylier. Denne lange prosessen fra det sansede objekt til rendyrket form har vært en nødvendig arbeidsmåte for H. i hans arbeid med emblemer og frimerker. I en rekke frimerkeserier og merker for forskjellige institusjoner har han med sikker formsans skapt en enhet av skrift, tall og bilde. I en klar og stram form har enkle gjenstander og bilder som båtmannsknop, kornaks og fisk, stavkirke og helleristning fått symbolverdi. Internasjonal anerkjennelse vant H. med 1. prisen i konkurransen om Europa-merket i 1963. En knapp og meget enkel geometrisk figur er her blitt symbol på enhet og kommunikasjon. Den strenge disiplin i dette arbeidet må vel også ses i sammenheng med den pedagogiske siden av hans virksomhet, hans grundige og mangeårige arbeid med form- og fargestudier ved Statens Håndverks- og Kunstindustriskole, Oslo og Norges Tekniske Høyskole. Til tross for full arkitektutdannelse har H. aldri arbeidet som arkitekt. Men i tilgrensende områder som fargesetting av arkitektur og utforming av ytre detaljer har han hatt mange oppgaver.</p>\n</div>",
+    "created_at": "2013-07-03T18:48:55.377+02:00",
+    "changed_at": "2024-06-18T23:25:55.781+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1698\",\"https://digitaltmuseum.no/0cf8ad4e-4bd4-4eb9-9fd9-8b77be3b054f\",\"http://kulturnav.org/0cf8ad4e-4bd4-4eb9-9fd9-8b77be3b054f\"]",
+        "lastname": "Holm",
+        "firstname": "Arne Ellerhusen",
+        "birth_date": "11.6.1911",
+        "birthplace": "Bergen",
+        "death_date": "31.1.2009",
+        "external_id": "person_8736ab1698",
+        "kulturnav_id": "0cf8ad4e-4bd4-4eb9-9fd9-8b77be3b054f",
+        "alternative_names": "Holm, Arne E."
+    },
+    "authors": [
+        {
+            "full_name": "Anne Grete Ljøsne"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20227/standard_NMK-A_NAMT.nth206.00220150528-17392-1mjzl90.jpg",
+            "full_size_url": "https://media.snl.no/media/20227/NMK-A_NAMT.nth206.00220150528-17392-1mjzl90.jpg",
+            "xhtml": "<div><p><i>Utstillingsanlegg tilknyttet Munkholmen</i>. 1937</p></div>",
+            "type": "image",
+            "heading": "Arne Ellerhusen Holm",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20228/standard_NMK-A_NAMT.nth206.00720150528-17392-d9lhrh.jpg",
+            "full_size_url": "https://media.snl.no/media/20228/NMK-A_NAMT.nth206.00720150528-17392-d9lhrh.jpg",
+            "xhtml": "<div><p><i>Utstillingsanlegg tilknyttet Munkholmen</i>. 1937</p></div>",
+            "type": "image",
+            "heading": "Arne Ellerhusen Holm",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

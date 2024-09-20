@@ -1,0 +1,946 @@
+{
+    "id": 430522,
+    "headword": "Holger Sinding-Larsen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107034",
+                "birth_date": "1839",
+                "death_date": "1911",
+                "firstname": "Nils Ulrik Alfred",
+                "lastname": "Sinding Larsen",
+                "professions": [
+                    "brigadeauditør"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107035",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Elisabeth",
+                "lastname": "Lange",
+                "professions": []
+            },
+            {
+                "from_date": "1895",
+                "to_date": "1938",
+                "type": "Gift med",
+                "external_id": "person_8736ab107036",
+                "birth_date": "1872",
+                "death_date": "1957",
+                "firstname": "Sina Broch",
+                "lastname": "Martens",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kristiania tekniske skole 1885-89, samtidig Den Kgl. Tegneskole under Herman Major Schirmer",
+                "order": "0"
+            },
+            {
+                "comment": "Technische Hochschule Charlottenburg, Berlin under professorene Johannes Otzen, Johann Edvard Jacobsthal og Johannes Vollmer 1892-93",
+                "order": "2"
+            },
+            {
+                "comment": "assistent hos Vollmer et halvt år 1893",
+                "order": "3"
+            },
+            {
+                "comment": "assistent hos arkitekt Harald Olsen, Kristiania",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "9",
+                "description": "Tyskland for å studere fabrikker 1917"
+            },
+            {
+                "order": "3",
+                "description": "Stockholm 1897"
+            },
+            {
+                "order": "10",
+                "description": "USA for å studere biblioteker 1930"
+            },
+            {
+                "order": "2",
+                "description": "England og Berlin 1896"
+            },
+            {
+                "order": "7",
+                "description": "England for å studere middelalderarkitektur 1910"
+            },
+            {
+                "order": "6",
+                "description": "Skandinavia og Tyskland for å studere biblioteker 1907"
+            },
+            {
+                "order": "5",
+                "description": "Europa for å studere naturhistoriske museer 1902"
+            },
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1896"
+            },
+            {
+                "order": "4",
+                "description": "Paris 1900"
+            },
+            {
+                "order": "1",
+                "description": "Reiser til Spania, Italia og Hellas 1895"
+            },
+            {
+                "order": "8",
+                "description": "Skandinavia og Tyskland for å studere museumsbygg 1917"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medstifter YAF 1891"
+            },
+            {
+                "order": "1",
+                "description": "formann Cæciliaforeningen fra 1910"
+            },
+            {
+                "order": "2",
+                "description": "medstifter Rotarybevegelsen i Norge, suppleant og medlem direksjonen Foreningen til norske Fortidsminnesmerkers Bevaring 1901-09"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Fridtjof Nansens belønning for videnskapelige arbeider 1927"
+            },
+            {
+                "order": "4",
+                "description": "offiser i det franske Akademi"
+            },
+            {
+                "order": "0",
+                "description": "Gullmedalje Verdensutstillingen i Paris 1900"
+            },
+            {
+                "order": "2",
+                "description": "sølvmedalje i arkitektur ved de olympiske leker i Antwerpen 1920"
+            },
+            {
+                "order": "5",
+                "description": "Kongens fortjenstmedalje i gull"
+            },
+            {
+                "order": "3",
+                "description": "R. svensk Vasa O."
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Kirker: Gjøfjell, Nesodden (1901) etter 1. premie i konkurranse 1895"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "villaer Grimelundsvn. 4 (1910) og 8 (1909)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "prosjekt til Fridtjof Nansens Polhøgda (ca. 1900)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "paviljong, Festplassen, Norsk Folkemuseum (1902, om- og tilbygd 1917 og -19)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Siggerud, Kråkstad (1905)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Vålerengen (1902) etter 1. premie sammen med Heinrich Jürgensen 1893, utførelsen alene"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Trosterudvn. 31 (1929)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "en stor produksjon av villaer"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Universitetsbiblioteket (1914-22, tilbygg 1932-33)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "2. premie Haandverk- og Industriforeningens møbelkonkurranse 1894"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Pilestredet 75 c (1931 og -37)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "1. premie Bergens Haandverkerforenings utlodningskonkurranse om møbeltegninger 1896"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Kommunehuset i Ullensaker (1908-09)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Arbeider for Universitetet i Oslo: De naturhistoriske museer på Tøyen (1940-17)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "bygning for De Heibergske Samlinger, Sogn (1905)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "én av fire like premier i konkurranse Justitsbygning i Kristiania 1897"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Eidsfoss (1904)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "brødfabrikk for Martens i Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "diverse om- og tilbygningsarbeider i Universitetets bygninger"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Universitetets nye aula (1911) sammen med Harald Bødtker"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "1. premie Husflidforeningens møbelkonkurranse 1896"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Prosjekter: 2. premie drikkefontene i Kristiania 1894"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Et utvalg sentrale arbeider. I Oslo når ikke annet er nevnt. Norges paviljong, Verdensutstillingen i Paris (1900) etter 1. premie i konkurranse 1898"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Bygdøy allé 66 (1925)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1896",
+                "order": "0",
+                "to_date": "1900",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1917",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "6",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1897",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1910",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1903",
+                "order": "1",
+                "to_date": "1904",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1906",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1912",
+                "order": "1",
+                "to_date": "",
+                "description": "Akershus Slot og Mindesmærkeforeningens Direktion. To redegjørelser",
+                "place": "(Kristiania",
+                "authors": [
+                    "Lund, Macody",
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [
+                    "sammen med"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "7",
+                "to_date": "",
+                "description": "Akershus. Bemerkninger i anledning komiteindstillingen om slottets fremtidige anvendelse",
+                "place": "Oslo",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "5",
+                "to_date": "",
+                "description": "Akershus",
+                "place": "Oslo",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [
+                    "bd. 1"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "3",
+                "to_date": "",
+                "description": "Akershusreguleringen",
+                "place": "(Kristiania",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [
+                    "et stort antall avis- og tidsskriftartikler"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "9",
+                "to_date": "",
+                "description": "Det oprindelige Akershus. Supplerende og korrigerende bemerkninger",
+                "place": "Oslo",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "0",
+                "to_date": "",
+                "description": "Akershus Slots Gjenreisning. Utkast til istandsættelse (av 1908) med erklæringer og uttalelser",
+                "place": "(Kristiania",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "6",
+                "to_date": "",
+                "description": "Akershus",
+                "place": "Oslo",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [
+                    "bd. 2"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "4",
+                "to_date": "",
+                "description": "Macody Lund og Trondhjems domkirkes geometriske system, Macody Lund",
+                "place": "(Kristiania",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913",
+                "order": "2",
+                "to_date": "",
+                "description": "Akershus Slot og Teknisk Ugeblads Redaktion",
+                "place": "(Kristiania",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "8",
+                "to_date": "",
+                "description": "Akershus. Har Haakon Vs borganlæg indeholdt en hal og en kirke, og hvor har disse rum i tilfælde ligget?",
+                "place": "Oslo",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "10",
+                "to_date": "",
+                "description": "Vardøen. De forskjellige befestningsanlegg frem gjennem tidene",
+                "place": "Oslo",
+                "authors": [
+                    "SINDING-LARSEN, Peter Andreas Holger"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1938-12-12",
+                "order": "24",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "30",
+                "reference": "bd. 13, s. 382-83",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-05-29",
+                "order": "14",
+                "to_date": "",
+                "description": "i Dagens Nyt",
+                "authors": [
+                    "Krohg, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "40",
+                "reference": "bd. 2, s. 117-19 (ill.), bd. 5, s. 80, 385-86",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "32",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "22",
+                "reference": "bd. 2, s. 275",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "18",
+                "to_date": "",
+                "description": "Norske ingeniører og arkitekter",
+                "place": "(Kristiania",
+                "authors": [
+                    "Fougner, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "16",
+                "reference": "s. 98-115, 166-80",
+                "to_date": "1911",
+                "description": "Universitetets nye festsal, Kunst og Kultur",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "36",
+                "reference": "register s. 270",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "20",
+                "reference": "s. 817-18",
+                "to_date": "",
+                "description": "Illustrert biografisk leksikon",
+                "place": "(Kristiania",
+                "authors": [
+                    "With, N. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "34",
+                "to_date": "",
+                "description": "Christian Krohg. En bibliografi",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1938-12-13",
+                "order": "27",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-12-12",
+                "order": "25",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "42",
+                "reference": "register s. 318",
+                "to_date": "",
+                "description": "Romantikk og fortidsvern",
+                "place": "Oslo",
+                "authors": [
+                    "Hegard, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "39",
+                "reference": "bd. 10, s. 448",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "37",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 17, spalte 184"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1909-05-27",
+                "order": "13",
+                "to_date": "",
+                "description": "i Dagens Nyt",
+                "authors": [
+                    "Krohg, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "(u.å.), register s. 376",
+                "order": "29",
+                "to_date": "",
+                "description": "Oslo gårdkalender 1925-45",
+                "place": "Oslo",
+                "authors": [
+                    "Hofflund, D.",
+                    "Nyquist, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "23",
+                "reference": "bd. 31, s. 86",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "21",
+                "reference": "bd. 21, s. 443-44",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "17",
+                "to_date": "1924",
+                "description": "Hvem er hvem?",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "31",
+                "reference": "s. 35, 372",
+                "to_date": "",
+                "description": "FNFB årbok, register bd.",
+                "place": "Sarpsborg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-06-01",
+                "order": "15",
+                "to_date": "",
+                "description": "i Dagens Nyt",
+                "authors": [
+                    "Krohg, C."
+                ],
+                "comments": [
+                    "(En farlig Mand 1-3)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "35",
+                "reference": "s. 24, 129",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "19",
+                "to_date": "",
+                "description": "Slektebok over en fra Holsten til Norge indvandret slekt Lange",
+                "place": "(Kristiania",
+                "authors": [
+                    "Lange, A. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "33",
+                "reference": "s. 93, 119",
+                "to_date": "",
+                "description": "i Akersgaten",
+                "place": "Oslo",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "28",
+                "reference": "s. 859-60",
+                "to_date": "",
+                "description": "Vem är vem i Norden?",
+                "place": "Stockholm",
+                "authors": [
+                    "Sjöström, G. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-12-13",
+                "order": "26",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "41",
+                "reference": "register s. 232",
+                "to_date": "",
+                "description": "Oslo. En arkitekturguide",
+                "place": "Oslo",
+                "authors": [
+                    "Engh, P. H.",
+                    "Gunnarsjaa, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-04-14",
+                "order": "12",
+                "reference": "(Et Hærverk, gjenopptrykt i Kampen for tilværelsen, København 1920, bd. 1, s. 77-81)",
+                "to_date": "",
+                "description": "i Dagens Nyt",
+                "authors": [
+                    "Krohg, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "38",
+                "reference": "register s. 282",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "etterlatte papirer og tegninger, Akershussamlingen Riksarkivet"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "opplysninger Antikvarisk arkiv, Riksantikvaren"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "etterlatte papirer og tegninger Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "1979",
+                "order": "43",
+                "publisher": "Universitetet i Oslo",
+                "to_date": "",
+                "description": "Akershus slotts restaurering 1895-1922",
+                "authors": [
+                    "Myklebust, D."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Holger Sinding-Larsen",
+    "url": "https://nkl.snl.no/Holger_Sinding-Larsen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>S.-L. ble i sin studietid sterkt knyttet til sin lærer Herman M. Schirmer og ble hans assistent ved hjemkomsten fra Berlin 1893. S.-L. var vel den arkitekt som mest konsekvent forsøkte å realisere Schirmers program for norsk arkitektur, og det er vanskelig å overvurdere Schirmers betydning for ham. Schirmer tok studentene med på de berømte studiereisene til Gudbrandsdalen for å studere eldre norsk byggeskikk, men hevdet også at det var i England inspirasjonen til en ekte norsk arkitektur måtte hentes. Schirmer mente at vikingene brakte sin trebygningskunst til Frankrike, der formene ble overført til stein, og deretter som den normanniske stil brakt til England. Dette er grunnen til at S.-L., som hadde fått god skolering i teglsteinsgotikk under sin berlinertid, i sin endelige plan for <em>Vålerengen kirke</em> (1902), tegnet en nyromansk huggensteinskirke med assymmetrisk plassert tårn. En annen felles holdning hos Schirmer og S.-L. var deres kamp for å få arkitektene akseptert som selvstendige skapende kunstnere. Dette arbeidet nedfelte seg både i skrift, tale og organisasjonsliv. Yngre arkitekters forening (YAF) ble stiftet i opposisjon mot det syn at arkitektene nærmest var en slags spesialingeniører som kunne ha organisatorisk fellesskap med andreingeniører.</p>\n<p>En side av S.-L.s bevisst norsk-nasjonale holding finner vi i hans første store utførte bygning, den gullmedaljebelønte <em>Norges paviljong</em> på Verdensutstillingen i Paris (1900). Det var en stor dragestilspreget bygning, med mer direkte tilknytning til eldre norsk tømmerarkitektur enn den variant av stilen Holm Munthe hadde utviklet. Noe enklere er <em>museumsbygningen for De Heibergske Samlinger</em>, Kaupanger (1905). I 1907 ble S.-L. tilsatt som bygningsinspektør ved Universitetet i Kristiania. Han hadde da allerede i 1902 blitt bedt om å medvirke til å lage program for et zoologisk museum, og så fått dette som oppdrag i 1904. Fram til sin avskjed i 1924 var S.-L. ansvarlig arkitekt for de fleste av Universitetets store byggeoppdrag. Disse var foruten <em>de naturhistoriske museer</em> på Tøyen (1904-17), <em>Universitetsbiblioteket</em> (1913-22) og <em>Universitetets nye aula</em> (1911). Den sistnevnte oppgave måtte han dele med Harald Bødtker, som ble betraktet som ekspert på \"den græske stil\" som Universitetsledelsen forlangte, noe S.-L. ikke kunne sies å være. De øvrige bygningene er alle relativt tunge i sin karakter, materialet er huggenstein og grå puss. Det er solid, men nøktern arkitektur.</p>\n<p>S.-L.s nøkternhet var en økonomisk realitet. Han bygde endog med besparelse i forhold til sine egne kostnadsoverslag, som dessuten i pris lå under andre arkitekters. Dette må være forklaringen på at han uten forutgående arkitektkonkurranser av Stortinget fikk alle disse oppdragene i en tid som ellers var dårlig for arkitektene. Dette skjedde riktignok etter heftig debatt. Resultatet var av S.-L., som i 1890-årene hadde stått fram som en av de fremste stridsmenn for arkitektstandens interesser, nå ble en meget kontroversiell person blant sine kolleger. S.-L. hadde fra sine unge år interessert seg for vern av fortidsminner og engasjerte seg sterkt i \"palassrevolusjonen\" i Fortidsminneforeningen i 1899. Han ble i 1904 bedt om å foreta de bygningsarkeologiske undersøkelser av Akershus slott i forbindelse med det gjenreisningsarbeid det var samlet inn store private midler til. Dette ble snart til et lønnet engasjement og et arbeid som opptok S.-L. i stor grad. Hans første restaureringsplaner ble fremlagt i 1908 og i revidert form 1910, og vakte enorm motstand, særlig blant kunsthistorikere og museumsfolk. Dette utviklet seg til en kontinuerlig feide, helt til S.-L. ble skjøvet ut av arbeidet med Akershus slott i 1922. Da hadde han på det nærmeste fullført sine bygningsarkeologiske undersøkelser, publisert 1924-25, med en oppsiktsvekkende ny tolkning av Akershusanleggets bygningshistorie som resultat. Dessuten hadde han foretatt omfattende reparasjoner av de fleste bygninger på slottet, gjenreist nordfløyen (1917) og rekonstruert Romerikstårnets hjelm. S.-L.s fremste våpendrager i Akershusstriden var Macody Lund, og da den såkalte \"systemstriden\" om Trondheim domkirke raste i årene rundt 1920 var rollene byttet. S.-L.s heftige engasjement på Lunds side gjorde ham ikke mindre omstridt enn før.</p>\n<p>S.-L.s kvaliteter som arkitekt er ubestridelige, selv om den økonomiske disiplin han underkastet seg i sin byggevirksomhet gjør dette vanskelig å vurdere fullt ut. Men hans utstillings- og kirkearkitektur gjør ham til en fremstående representant for en retning innen de nasjonale bestrebelser i norsk arkitekturhistorie. Hans kvaliteter som bygningsarkeolog var førsteklasses, et faktum som kanskje er oversett på grunn av det rykte hans temperament og nådeløse polemiske stil skaffet ham.</p>\n</div>",
+    "created_at": "2014-11-20T17:20:10.642+01:00",
+    "changed_at": "2024-06-18T23:28:00.233+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3483\",\"https://digitaltmuseum.no/0b7eac48-e4fb-4142-8edb-0f43311f27f7\",\"http://kulturnav.org/0b7eac48-e4fb-4142-8edb-0f43311f27f7\"]",
+        "lastname": "Sinding-Larsen",
+        "firstname": "Holger",
+        "birth_date": "5.7.1869",
+        "birthplace": "Christiania",
+        "death_date": "12.12.1938",
+        "external_id": "person_8736ab3483",
+        "kulturnav_id": "0b7eac48-e4fb-4142-8edb-0f43311f27f7",
+        "place_of_death": "Oslo",
+        "alternative_names": "Sinding-Larsen, Peter Andreas Holger"
+    },
+    "authors": [
+        {
+            "full_name": "Dag Myklebust"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

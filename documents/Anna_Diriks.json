@@ -1,0 +1,296 @@
+{
+    "id": 417133,
+    "headword": "Anna Diriks",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101659",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Otto A.",
+                "lastname": "Westerberg",
+                "professions": [
+                    "kjøpmann"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101660",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Clara",
+                "lastname": "Petersson",
+                "professions": []
+            },
+            {
+                "from_date": "1892",
+                "to_date": "1930",
+                "type": "Gift med",
+                "external_id": "person_8736ab806",
+                "birth_date": "09.01.1855",
+                "death_date": "17.03.1930",
+                "firstname": "Edvard",
+                "lastname": "Diriks",
+                "professions": [
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Drøbak"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "D. viste tidlig kunstneriske anlegg og hadde i sin ungdom flere lærere og studieopphold",
+                "order": "0"
+            },
+            {
+                "comment": "ca. 1900 en tid på Académie Colarossi i Paris",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studieopphold og reiser med sin mann til Paris, Spania, Italia og Tyskland 1894–95"
+            },
+            {
+                "order": "1",
+                "description": "bosatt i Paris 1899–1921"
+            },
+            {
+                "order": "2",
+                "description": "i Drøbak fra 1921"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Delt 3. pris ved konkurransen om glassmalerier til Trondheim Domkirkes vestskip 1908"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1899",
+                "order": "0",
+                "to_date": "1901",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1903",
+                "order": "1",
+                "to_date": "1904",
+                "title": "Salon de la Société nationale des Beaux Arts"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "England og Belgia",
+                "from_date": "",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1922-11-11",
+                "order": "5",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-11-20",
+                "order": "6",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "11",
+                "reference": "s. 396, 400 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-12-31",
+                "order": "7",
+                "to_date": "",
+                "description": "Akershus Amtstid",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-30",
+                "order": "4",
+                "to_date": "",
+                "description": "i T.Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "1",
+                "reference": "bd. 3, reg.",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904-09",
+                "order": "0",
+                "reference": "s. 113–17 (ill.)",
+                "to_date": "",
+                "description": "i L'Art Décoratif",
+                "place": "Paris",
+                "authors": [
+                    "Riotor, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "10",
+                "to_date": "",
+                "description": "Vollmer",
+                "place": "Leipzig",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-03-03",
+                "order": "9",
+                "to_date": "",
+                "description": "Akershus Amtstid.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "2",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-03-01",
+                "order": "8",
+                "reference": "nekrologer",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "3",
+                "to_date": "",
+                "description": "Salmonsen",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Anna Diriks",
+    "url": "https://nkl.snl.no/Anna_Diriks",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>D. tegnet og malte akvareller, særlig interiører og bybilder. De er holdt i en detaljrik, omhyggelig utarbeidet strekstil med sterk vekt på det ornamentale og gjerne med et naivistisk anstrøk. Flere ganger deltok hun på sin manns utstillinger i Frankrike, Belgia, Danmark og England; Antwerpen 1901, på hans atelierutstilling i Paris 1903 og i København 1912. Hun arbeidet også med skulptur og hjeminnredning, malte og utførte dekorativ treskurd både i ekteparets hus i Drøbak og i deres atelierhjem i Paris. Hennes interiører ble gjengitt bl.a. i L'Art Décoratif (september 1904), og hun viste en akvarell av Paris-atelieret 1906 på Salon des Beaux-Arts. Under ekteparets opphold i Bergen 1894 ble hun opptatt av de gamle hollandsk-pregede malte glassvinduer i A. Dekkes samling, og hun utviklet denne kunstart videre i de følgende år. Vinduene viste hun på en utstilling i Paris og 1922 hos Blomqvists Kunsthandel i Oslo. De var bygd opp med et grindverk av blysprosser, og i dette innfelt portrettmedaljonger i silhuett, figurgrupper, skip, fugle- og plantemotiver og innskrifter i dekorativ snørklet stil. Utstillingen ble meget godt mottatt. Hun illustrerte bl.a. sin manns artikkelserie Erindringer fra krigens aar (Aftenposten 1924-25), og samlet i sine klippbøker et rikt kultur- og kunsthistorisk materiale. Mange av hennes tegninger og akvareller finnes her.</p></div>",
+    "created_at": "2013-07-03T19:41:11.672+02:00",
+    "changed_at": "2024-06-18T23:25:59.241+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab804\",\"https://digitaltmuseum.no/9b12feb4-97c3-4ebd-a652-b7d00bf14eb3\",\"http://kulturnav.org/9b12feb4-97c3-4ebd-a652-b7d00bf14eb3\"]",
+        "lastname": "Diriks",
+        "firstname": "Anna",
+        "birth_date": "30.12.1870",
+        "birthplace": "Uppsala",
+        "death_date": "1.3.1932",
+        "external_id": "person_8736ab804",
+        "kulturnav_id": "9b12feb4-97c3-4ebd-a652-b7d00bf14eb3",
+        "place_of_death": "Drøbak",
+        "alternative_names": "Westerberg, Anna Maria; Diriks, Anna Maria"
+    },
+    "authors": [
+        {
+            "full_name": "Karen Marie Ebbesen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

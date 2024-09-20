@@ -1,0 +1,2836 @@
+{
+    "id": 431224,
+    "headword": "Aage Storstein",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107280",
+                "birth_date": "1870",
+                "death_date": "1947",
+                "firstname": "Hans Henrik Møinichen",
+                "lastname": "Storstein",
+                "professions": [
+                    "skolehjemstyrer"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107281",
+                "birth_date": "1875",
+                "death_date": "1935",
+                "firstname": "Elisabeth",
+                "lastname": "Johannsen",
+                "professions": []
+            },
+            {
+                "from_date": "1938",
+                "type": "Gift med",
+                "external_id": "person_8736ab107282",
+                "birth_date": "1914",
+                "death_date": "",
+                "firstname": "Mildrid Helene",
+                "lastname": "Emjellem",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Gauguin, Polas malerskole, Kristiania 1924",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Georg Jacobsen 1935–36",
+                "order": "3"
+            },
+            {
+                "comment": "Académie Moderne, Académie Ranson, Académie Chaumire, Académie Colarossi m.fl., Paris under bl.a. Charles Guérin, Othon Friesz, André Lhote og Pedro Araujo 1920–21",
+                "order": "0"
+            },
+            {
+                "comment": "Académie Scandinave, Paris under Per Krohg og Henrik Sørensen 1926",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Studieopphold i Paris 1920–21 og -26"
+            },
+            {
+                "order": "0",
+                "description": "Behrens legat 1932"
+            },
+            {
+                "order": "2",
+                "description": "Mohrs stipend 1939"
+            },
+            {
+                "order": "7",
+                "description": "Tunis 1938–39"
+            },
+            {
+                "order": "5",
+                "description": "München 1923"
+            },
+            {
+                "order": "1",
+                "description": "Houens legat 1935"
+            },
+            {
+                "order": "6",
+                "description": "Nederland 1935"
+            },
+            {
+                "order": "4",
+                "description": "Italia 1921, -33 og 1938–39"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Den frie Udst., København"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Nasjonalgalleriets råd og innkjøpskomité (1949–55, varamedlem 1937–40, 1955–56)"
+            },
+            {
+                "order": "0",
+                "description": "Professor Statens Kunstakademi, Oslo 1946–69"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "1. premie i konkurranse Universitetet, Blindern, Oslo 1935 (sammen med Per Krohg)"
+            },
+            {
+                "order": "2",
+                "description": "Innkjøp og utføring i konkurranse Centralhallen og Vestre Galleri, Oslo Rådhus 1938"
+            },
+            {
+                "order": "0",
+                "description": "2. premie i konkurranse Det nye Krematorium, Oslo (Vestre Aker) 1932 (utkastene i Nasjonalgalleriet, Oslo)"
+            },
+            {
+                "order": "3",
+                "description": "Kongens fortjenstmedalje i gull"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bodø domkirke (1956)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Arkivmuseet, Lund"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Moderna Museet, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "M/S Blenheim (1951)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "M/S Black Watch (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Fredrikstad krematorium (1965)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "M/S Prinsesse Ragnhild, Jahre Line"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Göteborgs Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Stavanger Trygdekasse (1983)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Drammens Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Sandnes og Sarpsborg kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Moss Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Dekorasjon, Oslo bys paviljong, Vi kan-utst., Oslo (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Oslo Rådhus (1938–49)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Holmsbu kirke (1957)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "M/S Braemar (1953)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Nordahl Rolfsens lesebok, Oslo 1938, bd. 1"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arkivmuseum, Lund",
+                "from_date": "1947",
+                "order": "57",
+                "to_date": "",
+                "title": "Fresko Bröderna"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1952",
+                "order": "69",
+                "to_date": "",
+                "title": "Holmsbumalere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1928",
+                "order": "7",
+                "to_date": "1929"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1958",
+                "order": "22",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1961",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1961",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "New York",
+                "from_date": "1936",
+                "order": "40",
+                "to_date": "",
+                "title": "Norsk samtidsmaleri"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1952",
+                "order": "67",
+                "to_date": "",
+                "title": "Moderne kunst i privat eie"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1948",
+                "order": "59",
+                "to_date": "",
+                "title": "8 malere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1929",
+                "order": "26",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1931",
+                "order": "33",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1936",
+                "order": "39",
+                "to_date": "",
+                "title": "Lille Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "47",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1935",
+                "order": "37",
+                "to_date": "",
+                "title": "Utkast til Blindernkonkurransen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1956",
+                "order": "74",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1980",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kammeratene, København",
+                "from_date": "1938",
+                "order": "43",
+                "to_date": "",
+                "title": "5 norske malere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1951",
+                "order": "64",
+                "to_date": "",
+                "title": "Norsk muralmaleri"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1941",
+                "order": "49",
+                "to_date": "",
+                "title": "Jærens malere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1966",
+                "order": "78",
+                "to_date": "",
+                "title": "Norsk tegnekunst, en generasjon"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1933",
+                "order": "16",
+                "to_date": "1934",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1947",
+                "order": "56",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Rio de Janeiro",
+                "from_date": "1952",
+                "order": "70",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1948",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1945",
+                "order": "51",
+                "to_date": "",
+                "title": "Vårutstilling og Holmsbu-malerier"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Svensk-Franska Konstgalleri, Stockholm",
+                "from_date": "1940",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1948",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "23",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1964",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1937",
+                "order": "41",
+                "to_date": "",
+                "title": "Farvestudier fra utenlandske museer"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1928",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "19",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1952",
+                "order": "66",
+                "to_date": "",
+                "title": "Det lille format"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1948",
+                "order": "60",
+                "to_date": "",
+                "title": "Rolf Stenersens samling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "27",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1970",
+                "order": "81",
+                "to_date": "",
+                "title": "Vi oppsøker 13 kunstnere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutst., Sverige",
+                "from_date": "1958",
+                "order": "75",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1939",
+                "order": "46",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1930",
+                "order": "32",
+                "to_date": "",
+                "title": "Trønder- og Vestlandsmalere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1942",
+                "order": "50",
+                "to_date": "",
+                "title": "Kunst og ukunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1933",
+                "order": "36",
+                "to_date": "",
+                "title": "Forarbeider til et stort maleri"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1951",
+                "order": "65",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "42",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1949",
+                "order": "61",
+                "to_date": "",
+                "title": "Malere og billedhuggere fra Stavanger"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1928",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1946",
+                "order": "52",
+                "to_date": "",
+                "title": "Ung norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1983",
+                "order": "24",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1953",
+                "order": "71",
+                "to_date": "",
+                "title": "Biennalen i São Paulo"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1947",
+                "order": "55",
+                "to_date": "",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1968",
+                "order": "80",
+                "to_date": "",
+                "title": "Riksgalleriet vandreutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1951",
+                "order": "10",
+                "to_date": "",
+                "title": "Den Frie Udstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1930",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "20",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1939",
+                "order": "18",
+                "to_date": "1940",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1959",
+                "order": "76",
+                "to_date": "",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1929",
+                "order": "31",
+                "to_date": "",
+                "title": "11 unge malere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1925",
+                "order": "29",
+                "to_date": "",
+                "title": "jub. utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "28",
+                "to_date": "",
+                "title": "Sørlandsutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1966",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1939",
+                "order": "45",
+                "to_date": "",
+                "title": "45 års norsk tegnekunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Zürich",
+                "from_date": "1933",
+                "order": "35",
+                "to_date": "",
+                "title": "Norsk samtidskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Haag",
+                "from_date": "1950",
+                "order": "62",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1926",
+                "order": "25",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1946",
+                "order": "53",
+                "to_date": "1947",
+                "title": "Nordisk Kunstforbunds utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1950",
+                "order": "54",
+                "to_date": "",
+                "title": "Nordisk Kunstforbunds utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Reykjavik",
+                "from_date": "1954",
+                "order": "72",
+                "to_date": "",
+                "title": "Norsk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1936",
+                "order": "38",
+                "to_date": "",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Moderne Kunst, Oslo",
+                "from_date": "1952",
+                "order": "68",
+                "to_date": "",
+                "title": "6 malere, og Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1968",
+                "order": "79",
+                "to_date": "",
+                "title": "Figurmaler"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1958",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1950",
+                "order": "21",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1948",
+                "order": "58",
+                "to_date": "",
+                "title": "Norske tegnere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1957",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1928",
+                "order": "30",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. 27, Oslo",
+                "from_date": "1964",
+                "order": "77",
+                "to_date": "",
+                "title": "Norske tegninger"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Pettersson, Tønsberg",
+                "from_date": "1981",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Roma",
+                "from_date": "1955",
+                "order": "73",
+                "to_date": "",
+                "title": "Arte Nordica Contemporanea"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1938",
+                "order": "44",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1941",
+                "order": "48",
+                "to_date": "",
+                "title": "Telemarkutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1933",
+                "order": "34",
+                "to_date": "",
+                "title": "Norsk samtidskunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Brüssel",
+                "from_date": "1950",
+                "order": "63",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Selvportrett (blyant 1951) gjengitt i Revold, R.: Norges billedkunst, Oslo 1953, bd. 2, s. 267"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Selvportrett (penn 1931) gjengitt i Dagbladet 7.5. 1938"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Selvportrett (penn 1940) gjengitt i Rogalands Avis 4.1.1961"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1948-06-02",
+                "order": "0",
+                "reference": "s. 46–48 (ill.)",
+                "to_date": "",
+                "description": "Naturalisme og kubisme, A-trykk",
+                "place": "Stavanger",
+                "authors": [
+                    "Storstein, Aage"
+                ],
+                "comments": [
+                    "utgitt av Aktietrykkeriet"
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1928-05",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Oslo Illustrerte",
+                "authors": [
+                    "Janson, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-23",
+                "order": "118",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "35",
+                "reference": "hefte 29–30 s. 54–55, 58 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "16",
+                "reference": "bd. 32, s. 128",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-09-05",
+                "order": "104",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [
+                    "(06.?)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "97",
+                "reference": "bd. 8, register (ill.)",
+                "to_date": "",
+                "description": "Norges kulturhistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-06-23",
+                "order": "124",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Nyquist, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-11-17",
+                "order": "121",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "78",
+                "reference": "s. 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-04-27",
+                "order": "141",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "49",
+                "reference": "bd. 1, s. 125–36, bd. 2, s. 224–26, 228",
+                "to_date": "1952",
+                "description": "Rådhuset i Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "Just, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "21",
+                "reference": "s. 137–38, 140",
+                "to_date": "",
+                "description": "Telemark i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "68",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "90",
+                "reference": "bd. 9, s. 852",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "58",
+                "reference": "hefte 9, s. 11",
+                "to_date": "",
+                "description": "Der Weltkunst",
+                "place": "München",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "41",
+                "reference": "hefte 103 s. 12, hefte 105–106 s. 79, 81",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-03-18",
+                "order": "138",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "88",
+                "reference": "s. 130–33 (ill.)",
+                "to_date": "",
+                "description": "Rolf E. Stenersens gave til Oslo by - Akersamlingen",
+                "place": "Oslo",
+                "authors": [
+                    "Eggum, A."
+                ],
+                "comments": [
+                    "katalog Oslo kommunes kunstsamlinger"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "59",
+                "reference": "v.s. 165 (ill.)",
+                "to_date": "",
+                "description": "Das Kunst und das schöne Heim",
+                "place": "München",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "80",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-05-10",
+                "order": "155",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "15",
+                "reference": "s. 22–24 (ill.)",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "36",
+                "reference": "hefte 37–38 s. (89) (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-11-01",
+                "order": "117",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-09-05",
+                "order": "103",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "8",
+                "reference": "s. 96 (ill.)",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-02-08",
+                "order": "122",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "98",
+                "reference": "bd. 6, s. 214–17 (ill.)",
+                "to_date": "",
+                "description": "i Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Nergaard, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-06-22",
+                "order": "123",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "22",
+                "reference": "s. 245 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "77",
+                "reference": "s. 132, 249",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-07-26",
+                "order": "142",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "91",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "67",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk malerkunst. En oversikt",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "87",
+                "reference": "del 4, s. 153",
+                "to_date": "",
+                "description": "Bildkonsten i Norden",
+                "place": "Stockholm",
+                "authors": [
+                    "Åström, L. E.",
+                    "Lindwall, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "57",
+                "reference": "hefte 5, s. 55 (ill.)",
+                "to_date": "1955",
+                "description": "Das Kunstwerk",
+                "place": "Baden-Baden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-04-11",
+                "order": "137",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "42",
+                "reference": "s. 22–25 (ill.)",
+                "to_date": "",
+                "description": "Moderne norsk malerkunst",
+                "place": "København",
+                "authors": [
+                    "Aulie, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "81",
+                "reference": "s. 16, 52",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-06-04",
+                "order": "109",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "18",
+                "reference": "s. 875",
+                "to_date": "",
+                "description": "Vem är vem i Norden",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-22",
+                "order": "116",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "62",
+                "reference": "bd. 4, s. 371–72",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "95",
+                "reference": "s. 53–54, 106, 202 (ill.)",
+                "to_date": "",
+                "description": "Kunstnernes Hus 1930–1980",
+                "place": "Oslo",
+                "authors": [
+                    "Gjessing, S. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "7",
+                "reference": "s. 38, 40 (ill.)",
+                "to_date": "",
+                "description": "På arbeid. Næringslivet i norsk kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Nygård-Nilssen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-10",
+                "order": "106",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Sørensen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "28",
+                "reference": "s. 3-5",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-26",
+                "order": "119",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "47",
+                "reference": "s. 71–88 (ill.)",
+                "to_date": "",
+                "description": "Raadhuset i Oslo og dets malede dekorationer, Aarstiderne",
+                "place": "København",
+                "authors": [
+                    "Bramsen, H.",
+                    "Lassen, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "37",
+                "reference": "hefte 71 s. 43–44, hefte 74 s. 60 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-20",
+                "order": "150",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "76",
+                "reference": "s. 27, 29, 32, 56",
+                "to_date": "",
+                "description": "Statens Kunstakademi 60 år",
+                "place": "Oslo",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [
+                    "katalog Nasjonalgalleriet"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "19",
+                "reference": "hefte 5, s. 26",
+                "to_date": "",
+                "description": "Deutsche Monatshefte in Norwegen",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "92",
+                "reference": "s. 253",
+                "to_date": "",
+                "description": "Agder. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "94",
+                "to_date": "",
+                "description": "Rogaland. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "29",
+                "reference": "s. 145, 152–55, 165, 171, nr. 4 s. XII, nr. 5 s. XV, nr. 6–7 s. IX, XX, nr. 11–12 s. XXX",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-12-27",
+                "order": "126",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavangeren",
+                "authors": [
+                    "Tveteraas, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-03-29",
+                "order": "139",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [
+                    "Berg, G. Backer"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-15",
+                "order": "129",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-03-21",
+                "order": "136",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "61",
+                "reference": "s. 212–13 (ill.)",
+                "to_date": "",
+                "description": "Gyldendals leksikon over moderne nordisk kunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "9",
+                "reference": "s. 196 (ill.)",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "56",
+                "reference": "s. 118 (ill.)",
+                "to_date": "",
+                "description": "The Studio",
+                "place": "London",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-02-14",
+                "order": "115",
+                "to_date": "",
+                "description": "i Stavangeren",
+                "authors": [
+                    "Nielsen, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "48",
+                "reference": "s. 25–40 (ill.)",
+                "to_date": "",
+                "description": "Det nye rådhus i Oslo, Gutenberghus Årsskrift",
+                "place": "København",
+                "authors": [
+                    "Salto, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "17",
+                "to_date": "1979",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-05-07",
+                "order": "110",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mumle Gåsegg (Borgen, J.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "39",
+                "reference": "hefte 91 s. 16",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-16",
+                "order": "135",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "6",
+                "reference": "hefte 2, bilag s. XXXVIII",
+                "to_date": "",
+                "description": "Das Werk",
+                "place": "Zürich",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "96",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "38",
+                "reference": "hefte 86 s. 48 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "27",
+                "reference": "s. 216-17",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-09-09",
+                "order": "105",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Aamodt, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-29",
+                "order": "120",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "75",
+                "reference": "bd. 2, register (ill.)",
+                "to_date": "",
+                "description": "Hurums historie",
+                "authors": [
+                    "i Eier, S. L. (red.)",
+                    "Alsvik, H."
+                ],
+                "comments": [
+                    "(Tofte)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "20",
+                "reference": "s. 376 (ill.)",
+                "to_date": "",
+                "description": "Norges kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Lexow, E.",
+                    "Østby, L."
+                ],
+                "comments": [
+                    "i"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1966-04-29",
+                "order": "140",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Fædrelandsvennen",
+                "authors": [
+                    "Brune, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-11",
+                "order": "125",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Nyquist, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "93",
+                "reference": "s. 273",
+                "to_date": "",
+                "description": "Buskerud. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "30",
+                "reference": "s. 70–71 (ill.)",
+                "to_date": "",
+                "description": "Kvinneportretter i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R.",
+                    "Gran, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "60",
+                "reference": "s. 132, 134 (ill.)",
+                "to_date": "",
+                "description": "Norskt måleri, Nationalmuseum Årsbok",
+                "place": "Stockholm",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "40",
+                "reference": "hefte 95 s. 15",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-22",
+                "order": "130",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "79",
+                "reference": "s. 63",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "55",
+                "reference": "bd. 2, s. 273–76 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-12",
+                "order": "149",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "10",
+                "reference": "s. 187, 233 (ill.), spesialnr. s. 67",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-08",
+                "order": "147",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "45",
+                "reference": "s. 11, 20–21 (ill.)",
+                "to_date": "",
+                "description": "Kunsten i Oslo Rådhus, Kunsten idag",
+                "authors": [
+                    "Borgen, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "5",
+                "reference": "s. 94",
+                "to_date": "",
+                "description": "Norges billedkunst siden 1814",
+                "place": "Oslo",
+                "authors": [
+                    "Grevenor, H.",
+                    "Thiis, J.",
+                    "Langaard, J. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "54",
+                "reference": "hefte 21 s. 4–29 (ill.)",
+                "to_date": "",
+                "description": "Aage Storstein, Kunsten idag",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "31",
+                "reference": "s. 12, pl. 25, 136",
+                "to_date": "",
+                "description": "Norge som malerne så det",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "64",
+                "reference": "s. 133–34, 181–84 (ill.)",
+                "to_date": "",
+                "description": "Norsk malerkunst i norsk samfunn",
+                "place": "Oslo",
+                "authors": [
+                    "Stenstadvold, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-30",
+                "order": "152",
+                "to_date": "",
+                "description": "i Vestfold Arbeiderblad",
+                "authors": [
+                    "Bjerke, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-02-14",
+                "order": "114",
+                "to_date": "",
+                "description": "i 1ste Mai",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "83",
+                "reference": "s. 4",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "84",
+                "reference": "s. 278",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-04-23",
+                "order": "108",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-07-25",
+                "order": "131",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "11",
+                "reference": "s. 78",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-15",
+                "order": "128",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durbin, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "25",
+                "reference": "s. 16",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-04",
+                "order": "145",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Joner, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "74",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1928-05-10",
+                "order": "100",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "72",
+                "reference": "s. 211–16 (ill.), 271",
+                "to_date": "",
+                "description": "Profiler og paletter i Rogalands kunst",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-13",
+                "order": "148",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [
+                    "Molaug, S.",
+                    "Molaug, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "46",
+                "reference": "s. 173–89 (ill.)",
+                "to_date": "",
+                "description": "Utsmyckningen av Oslo Rådhus, Konstrevy",
+                "place": "Stockholm",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "53",
+                "reference": "s. 156",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850–1950",
+                "place": "Oslo",
+                "authors": [
+                    "Melhus, A. C.",
+                    "Sundseth, A. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "4",
+                "reference": "s. 9, 16–17 (ill.)",
+                "to_date": "",
+                "description": "Zeitgenössische norwegische Malerei und Skulptur",
+                "place": "Berlin",
+                "authors": [
+                    "Grevenor, H."
+                ],
+                "comments": [
+                    "katalogutst. National Gal."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "63",
+                "reference": "register (ill.), tillegg s. 145–46",
+                "to_date": "",
+                "description": "Streiftog og glimt",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "32",
+                "reference": "hefte 4 s. 50 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "82",
+                "reference": "s. 66",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-16",
+                "order": "151",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Vestfold Arbeiderblad",
+                "authors": [
+                    "Bjørndahl, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-24",
+                "order": "132",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Ellingsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-02-07",
+                "order": "113",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Berg, G. Backer"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "12",
+                "reference": "s. 45, 47",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "26",
+                "reference": "s. 73",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933-10-17",
+                "order": "107",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-01-04",
+                "order": "127",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "99",
+                "reference": "s. 15–16, 30",
+                "to_date": "",
+                "description": "Kunstakademiets professorer gjennom 75 år",
+                "authors": [
+                    "Thue, O."
+                ],
+                "comments": [
+                    "katalog Nasjonalgalleriet"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1980-09-04",
+                "order": "146",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "73",
+                "reference": "bd. 15, s. 96–98",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "43",
+                "reference": "bd. 1, s. 79–81 (ill.)",
+                "to_date": "",
+                "description": "i Vår tids kunst og diktning i Skandinavia",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "52",
+                "to_date": "",
+                "description": "Utsmykkingen av Oslo Rådhus",
+                "place": "Oslo",
+                "authors": [
+                    "Rom, P."
+                ],
+                "comments": [
+                    "utgitt av Oslo kommune"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "71",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Freskoepoken. Studier i profant norsk monumentmaleri 1918–1950",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "66",
+                "reference": "s. 169",
+                "to_date": "",
+                "description": "Florø",
+                "place": "Florø",
+                "authors": [
+                    "Thingnæs, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "33",
+                "reference": "hefte 8 s. 60 (ill.)",
+                "to_date": "1949",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-05-09",
+                "order": "154",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "13",
+                "reference": "s. 34, 37 (ill.)",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-02-26",
+                "order": "112",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "86",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1945–1970",
+                "place": "Trondheim",
+                "authors": [
+                    "Kristiansen, H."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-25",
+                "order": "133",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-09-04",
+                "order": "102",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Harbitz, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-07-25",
+                "order": "143",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "23",
+                "reference": "s. 235, 245 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "3",
+                "reference": "s. 21",
+                "to_date": "",
+                "description": "Moderne Norwegische Malerei",
+                "place": "Malmö",
+                "authors": [
+                    "Leffler, B.",
+                    "Langaard, J. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "51",
+                "reference": "s. 12–14",
+                "to_date": "",
+                "description": "i katalog Den Frie Udstilling",
+                "place": "København",
+                "authors": [
+                    "Wilmann, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "44",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Ung norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "69",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk tegnekunst i Nasjonalgalleriet",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "70",
+                "to_date": "",
+                "description": "Peintres contemporains",
+                "place": "Paris",
+                "authors": [
+                    "Dorival, B. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "34",
+                "reference": "hefte 21 s. 49 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-03-16",
+                "order": "153",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "65",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "14",
+                "reference": "s. 159",
+                "to_date": "",
+                "description": "Konstrevy",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-10-04",
+                "order": "111",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "85",
+                "reference": "s. 280",
+                "to_date": "",
+                "description": "Slottet i Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "Hjelde, G.",
+                    "Kavli, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-02-27",
+                "order": "134",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "89",
+                "reference": "s. 260–66",
+                "to_date": "",
+                "description": "i katalog nr. 231, Kunstnernes Hus, Oslo 1961 gjenopptrykt i Rolfsen, A.: Kunsten skifter ham",
+                "place": "Oslo",
+                "authors": [
+                    "Rolfsen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-08-28",
+                "order": "144",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Joner, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-05",
+                "order": "101",
+                "to_date": "",
+                "description": "i Stavangeren",
+                "authors": [
+                    "Sørensen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-09",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Oslo Illustrerte",
+                "authors": [
+                    "Janson, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "50",
+                "reference": "s. 3–11",
+                "to_date": "",
+                "description": "Oslo Rådhus, Ord och Bild",
+                "place": "Stockholm",
+                "authors": [
+                    "Liedholm, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "24",
+                "reference": "s. 117",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Aage Storstein",
+    "url": "https://nkl.snl.no/Aage_Storstein",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>S.' maleri ble bestemt av en indre motsetning mellom to kontrære holdninger: den modernistiske og den klassisistiske. Dette gav hans kunst særpreg. De klassisistiske bestrebelser lærte han å kjenne på kunstskolene i Paris etter 1. verdenskrig. S. gikk hos Charles Guérin, Othon Friesz, André Lhote, Pedro Araujo m.fl. I samme retning virket Gauguin, Polas malerskole i Oslo (1924). Viktig for hans kunstneriske utvikling var også arbeidet han utførte som assistent for Alf Rolfsen under dennes utsmykning av Det nye krematorium, Oslo. Senere fikk han stadfestet hva han tidligere hadde lært i Georg Jacobsens \"old boys\" klasse på Kunstakademiet 1935–36.</p>\n<p>En viktig side ved den senkubistiske klassisisme var studiet av gammel kunst, særlig den italienske tidligrenessanse. S. fikk bekreftet sine lærdommer da han møtte de gamle romutsmykningene i Italia. Dette var et maleri forankret i en rik tradisjon. Denne siden ved S.' kunstnerfysiognomi dannet naturlig nok grunnlag for hans virke som professor ved Kunstakademiet. Da han tiltrådte stillingen i 1946 fremhevet han da også at ved siden av det sedvanlige aktmaleriet, var det nødvendig med grunnleggende studier i museene.</p>\n<p>Det kan synes merkelig at S. så direkte tok opp Picassos kubistiske modernisme da han var i Paris i 1926. Han gikk på Académie Scandinave under Per Krohg og Henrik Sørensen. Det var den nye statuariske stilen til Picasso som fremfor alt opptok ham. Dertil ble nordmannen tiltrukket av ekspresjonismen til dette store forbildet som oppstod på midten av 20-årene. Omslaget i Picassos kunst fikk et monumentalt uttrykk i <em>Tre dansere</em> fra 1925. Dette var et sjokkerende og anti-akademisk bilde - et maleri som skulle gjengi den moderne tids drama. S. arbeidet først i etterkrigstidens grå-brune fargeleie, men tok snart opp Picassos klare, sterke farger og hans frittløpende, kurvete konturlinjer. På Høstutstillingen i 1934 stilte han ut det mektige og programmatiske <em>Storrengjøring</em> (1931-33). Dette ble et ansporende bilde i det norske kunstmiljøet; og da særlig p.g.a. dets revolusjonerende form. Man har tolket maleriet som et oppgjør med de hevdvunne konvensjoner (en opprydding). Maleriet består av kubistiske plan i et intrikat spill, forskyvninger og beskrivende profil- og en-face-tegninger, redegjørelse for bevegelse (den fjerde dimensjon), rette linjer mot krumme, en frigjort og høyt oppdrevet koloritt, og fremfor alt var det perspektiviske \"titteskap\" byttet ut med tidens illusjonsløse profesjonalisme: Det er en praktfullt dekorert flate som møter betrakteren. Det var muralmaleriet som S. siktet seg inn mot under innflytelse fra purismen og den nye funksjonalistiske arkitektur. Alt dette lå i et hverdagslig motiv med en mor og to barn i et interiør! Prosaisk var også S.' neste kjempemaleri, <em>Fisketorget</em> (1934, Nasjonalgalleriet, Oslo). Som i sine mange motiver med steinbryting/steinkjøring, tok han opp freskoepokens hverdagspatos, en hyllest til det arbeidende og byggende Norge. Et sentralt motiv var også \"Felespilleren\", ved siden av en lang rekke fargesterke landskaper, mange av dem fra Holmsbu. S. vant annen premie i konkurransen om utsmykking av Det nye krematorium i Oslo (1932), han delte første premie med Per Krohg i konkurransen om freskoutsmykking av universitetet på Blindern, Oslo (1935), i 1938 fikk han i oppdrag å dekorere Vestre galleri i Oslo Rådhus. <em>Menneskerettighetene</em> (1940–49) fyller hele det høye rommet på en lagdelt, friseaktig måte. Murmaleriet viser hvordan folkestyret i form av en frihetsfakkel kom fra den franske revolusjon til Norge i 1814, og hvordan demokratiet slo rot i landet. S.' dekorative talent kom til uttrykk på Vi kan-utstillingen i Oslo i 1938; han har laget utsmykninger til flere passasjerbåter, laget glassmalerier til Bodø domkirke (1956), dekorert Fredrikstad krematorium (1965) og Stavanger Trygdekasse (ferdig 1983). Malerens bundne form har også egnet seg til billedtepper som han har laget flere kartonger til. S. har også arbeidet som litograf.</p>\n</div>",
+    "created_at": "2014-12-21T15:04:24.423+01:00",
+    "changed_at": "2024-06-18T23:28:19.104+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3582\",\"https://digitaltmuseum.no/c1607821-3deb-403a-b270-d5b367d78452\",\"http://kulturnav.org/c1607821-3deb-403a-b270-d5b367d78452\"]",
+        "lastname": "Storstein",
+        "firstname": "Aage",
+        "birth_date": "26.7.1900",
+        "birthplace": "Stavanger",
+        "death_date": "7.5.1983",
+        "external_id": "person_8736ab3582",
+        "kulturnav_id": "c1607821-3deb-403a-b270-d5b367d78452",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Svein Thorud"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20609/standard_NMK-B_NG.M.0171620151204-26003-1atsdyo.jpg",
+            "full_size_url": "https://media.snl.no/media/20609/NMK-B_NG.M.0171620151204-26003-1atsdyo.jpg",
+            "xhtml": "<div><p><i>Storrengjøring</i>. 1930. <a href=\"http://digitaltmuseum.no/011041108197\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Aage Storstein",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20610/standard_NMK-B_NG.M.0206120151204-26003-1y39pqf.jpg",
+            "full_size_url": "https://media.snl.no/media/20610/NMK-B_NG.M.0206120151204-26003-1y39pqf.jpg",
+            "xhtml": "<div><p><i>Felespilleren</i>. <a href=\"http://digitaltmuseum.no/011041108359\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Aage Storstein",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20611/standard_NMK-B_NG.M.0258720151204-26003-1de3ai4.jpg",
+            "full_size_url": "https://media.snl.no/media/20611/NMK-B_NG.M.0258720151204-26003-1de3ai4.jpg",
+            "xhtml": "<div><p><i>Fisketorvet</i>. 1934. <a href=\"http://digitaltmuseum.no/011041108607\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Aage Storstein",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20612/standard_NMK-B_NG.M.0395620151204-26003-5v4jz2.jpg",
+            "full_size_url": "https://media.snl.no/media/20612/NMK-B_NG.M.0395620151204-26003-5v4jz2.jpg",
+            "xhtml": "<div><p><i>Skuronn i Vang</i>. <a href=\"http://digitaltmuseum.no/011041109049\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Aage Storstein",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

@@ -1,0 +1,690 @@
+{
+    "id": 416913,
+    "headword": "Alexis de Chateauneuf",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": {},
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101353",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Pierre Basile François Delespine De",
+                "lastname": "Chateauneuf",
+                "professions": "diplomat"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101354",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie Elisabeth",
+                "lastname": "Schiebes",
+                "from_date": "1846",
+                "to_date": "1872"
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101355",
+                "birth_date": "1819",
+                "death_date": "",
+                "firstname": "Andrea Kristine Ingeborg Kaspara",
+                "lastname": "Møller",
+                "place": "Eppendorf"
+            }
+        ],
+        "residences": {},
+        "educations": [
+            {
+                "comment": "lærte samtidig teknisk tegning ved Stadtbaumeister Carl Ludvig Wimmel's aftenskole i Hamburg",
+                "order": "1"
+            },
+            {
+                "comment": "Efter noen måneders arkitektstudium ved Charles Alfred Leclére's Akademi i Paris 1817–1818",
+                "order": "2"
+            },
+            {
+                "comment": "fortsatte C. hos professor Adolf Weinbrenner i Karlsruhe fram til 1821",
+                "order": "3"
+            },
+            {
+                "comment": "Fra mai 1817 tømmerlærling hos Amts- und Kirchspielmeister Fersenfeld",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "C.var i Norge tre ganger: 23.7.-7.8.1847, 25.5–29.9.1849 og 17.5.-17.8.1850"
+            },
+            {
+                "order": "0",
+                "description": "Studiereise gjennom Europa til Sør-Tyskland, Østerrike og Italia 1821–1822"
+            },
+            {
+                "order": "2",
+                "description": "efterfulgt av kortere opphold i Paris, München og Berlin (hos Schinkel)"
+            },
+            {
+                "order": "3",
+                "description": "Italia 1831–1832 sammen med Milde, Speckter og Nerlich, hjemreisen alene via Hellas"
+            },
+            {
+                "order": "1",
+                "description": "England sommeren 1828"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "formann for Den tekniske kommisjon ved gjenoppbygningen av Hamburg efter bybrannen i 1842, 1842–1847"
+            },
+            {
+                "order": "0",
+                "description": "Æresmedlem av The Royal Institute of British Architects 1836"
+            }
+        ],
+        "awards": {},
+        "public_productions": {},
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "(i Norge) Tomteforslag og regulering til Trefoldighetskirken (1847)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Prosjekt: Utkast til Stortinget (1850)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "møbeltegninger for Carl Collett (1847–50)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "tre prosjekter til Trefoldighetskirken (1847, 1849 og 1850), fullført av W. von Hanno 1851–1858)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "ominnredning og nytt tårn til Vår Frelser Kirke (1848, gjennomført 1849–1850)"
+            }
+        ],
+        "illustrations": {},
+        "exhibitions": {},
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "blyanttegning av Erwin Speckter (1835, Hamburger Kunsthalle)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "maleri av Robert Schneider (ca. 1845, Museum for Hamburgische Geschichte), litografisk reprodusert av Otto Speckter, (1854, bl.a. Staatsarchiv Hamburg)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Blyanttegning av Julius Milde (1825, St. Annen-Museum, Lubeck)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1836-05",
+                "order": "5",
+                "to_date": "",
+                "description": "Einige Andeutungen und Wünsche über des Hamburgischen Staates Bauwesen",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [
+                    "von A. de Chateauneuf, Ehrenmitglied des Institute of British Architects"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1831-11",
+                "order": "3",
+                "reference": "s. 357–359",
+                "to_date": "",
+                "description": "Über die italienischen Forschungen des C. F. von Rumohr, Kritische Blätter der Börsen-Halle",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1847",
+                "order": "12",
+                "reference": "s. 39–42, 42–43, 115–116 og 216–217 (ill.)",
+                "to_date": "",
+                "description": "Haus von Schute und Schemann i Hamburg, Das Schneideramthaus in Hamburg, Porzellän- und Glaswaaren-Niederlage von Davonport in Hamburg, Privathaus in der Neuen-Wall-Strasse in Hamburg, Landhaus bei Hamburg, Förster's Allgemeine Bauzeitschrift",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1840",
+                "order": "10",
+                "reference": "Heft 5, s. 3–5",
+                "to_date": "",
+                "description": "Entwurf zu einem Museum, Repsold's Monument in Hamburg, Arcitektonisches Album",
+                "place": "Potsdam",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1827-05",
+                "order": "1",
+                "to_date": "",
+                "description": "Betrachtungen über den zweckmässigsten Platz zum Bau einer neuen Börse. Von einem Bürger",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1836",
+                "order": "7",
+                "to_date": "",
+                "description": "forord",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [
+                    "til G. Hetsch: über den Unterricht im Zeichnen"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1834-06",
+                "order": "4",
+                "reference": "s. 201–206",
+                "to_date": "",
+                "description": "Über die Landschaftsgartnerei des Fürsten von Pückler-Muskau, Kritische Blätter der Börsen-Halle",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1829",
+                "order": "2",
+                "reference": "s. 35–36, 39–40 og 43–44",
+                "to_date": "",
+                "description": "Schreiben eines Architekten über die Werke Schinkels, Schorn's Kunstblatt",
+                "place": "Stuttgart",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1843",
+                "order": "11",
+                "to_date": "",
+                "description": "The Country House",
+                "place": "London",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [
+                    "brev fra C. omkring 1840, utg. av Lady Mary Fox"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1860",
+                "order": "13",
+                "to_date": "",
+                "description": "Architectura publica",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [
+                    "(utg. posthumt)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1822",
+                "order": "0",
+                "reference": "s. 158–160",
+                "to_date": "",
+                "description": "Einige Gedanken über die Herausgabe der Alterthümer aus dem Mittelalder, nebst der Ankündigung eines Werkes von altdeutschen Denkmälern, herausgeben von den Architekten, Professor Hermann Fersenfeldt, Alexis de Chateauneuf und Adolf Weissenberg, Schorn's Kunstblatt",
+                "place": "Stuttgart",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1839",
+                "order": "9",
+                "to_date": "",
+                "description": "Architectura domestica",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1838",
+                "order": "8",
+                "to_date": "",
+                "description": "Entwurf zur Boerse auf dem Adolphs-Platze in Hamburg",
+                "place": "Berlin",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1836-06-23",
+                "order": "6",
+                "to_date": "",
+                "description": "Englands neue Parlamentshäuser, Hamburger Correspondent",
+                "place": "Hamburg",
+                "authors": [
+                    "Chaueauneuf, Alexis de"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1967",
+                "order": "28",
+                "reference": "register s. 278",
+                "to_date": "",
+                "description": "Akersgaten",
+                "place": "Oslo",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "30",
+                "to_date": "",
+                "description": "Alexis de Chateauneufs Dreifaltigkeitskirche in Oslo und seine Vaterstadt Hamburg",
+                "place": "Hamburg",
+                "authors": [
+                    "Bjerkek, O. P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "26",
+                "reference": "(litteraturliste i note 1, s. 63–64)",
+                "to_date": "",
+                "description": "Works of Chateauneuf in London and Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "Tschudi-Madsen, S."
+                ],
+                "comments": [
+                    "Forening til norske Fortidsminnesmerkers Bevaring skrifter nr. 53"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "32",
+                "reference": "s. 77–84 (ill.)",
+                "to_date": "1977",
+                "description": "FNFB årbok",
+                "authors": [
+                    "Bjerkek, O. P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "22",
+                "to_date": "",
+                "description": "Trefoldighetskirken 1858–1958. Festskrift utgitt i anledning kirkens og menighetens 100-årsjubileum",
+                "place": "Oslo",
+                "authors": [
+                    "Berg, A.",
+                    "Mannsåker, J."
+                ],
+                "comments": [
+                    "m.fl."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "14",
+                "reference": "s. 423, 427–428",
+                "to_date": "",
+                "description": "Kirchenbau des Protestantismus",
+                "place": "Berlin",
+                "authors": [
+                    "Fritsch, K. E. O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "24",
+                "reference": "(litteraturliste s. 143–144)",
+                "to_date": "",
+                "description": "Alexis de Chateauneuf-Ein hamburger Baumeister",
+                "place": "Hamburg",
+                "authors": [
+                    "Lange, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "16",
+                "reference": "s. 249–252",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "17",
+                "to_date": "",
+                "description": "Trefoldighets menighet, Oslo 1858–1928",
+                "place": "Oslo",
+                "authors": [
+                    "Overn, O. M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "36",
+                "reference": "s. 33–48 (ill.)",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "20",
+                "reference": "s. 51–102",
+                "to_date": "",
+                "description": "Vår Frelsers Kirke, St. Hallvard",
+                "authors": [
+                    "Berg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-07-12",
+                "order": "34",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "23",
+                "reference": "s. 241–261",
+                "to_date": "",
+                "description": "Chr. Norberg-Schulz, Trefoldighetskirken, St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-09-23",
+                "order": "31",
+                "reference": "s. 3",
+                "to_date": "",
+                "description": "Arkitektur og mening, Morgenbladet",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis-Evensen, Th."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "29",
+                "reference": "artikkel om Trefoldighetskirken, s. 132–153",
+                "to_date": "",
+                "description": "Steder i Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis-Evensen, Th."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "25",
+                "reference": "s. 105–122",
+                "to_date": "",
+                "description": "Alexis de Chateauneuf-Europeer i Christiania, Forening til norske Fortidsminnesmerkers Bevarings årbok",
+                "place": "Oslo",
+                "authors": [
+                    "Tschudi-Madsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "27",
+                "reference": "vol. 140, nr 837, s. 366–368",
+                "to_date": "",
+                "description": "Chateauneuf in London, The architectural Review",
+                "place": "London",
+                "authors": [
+                    "Tschudi-Madsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "21",
+                "to_date": "",
+                "description": "Vår Frelsers Kirke",
+                "place": "Oslo",
+                "authors": [
+                    "Berg, A.",
+                    "Hagtvedt, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "15",
+                "reference": "s. 519–522",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "18",
+                "to_date": "",
+                "description": "Trefoldighets menighet Oslo 1858–1928",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "35",
+                "reference": "s. 100–119 (ill.)",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "37",
+                "reference": "s. 123–133 (ill.)",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "33",
+                "reference": "s. 161–166 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "19",
+                "reference": "s. 131–145",
+                "to_date": "",
+                "description": "Bidrag til Vår Frelsers Kirkes bygningshistorie, St. Hallvard",
+                "authors": [
+                    "Larsen, H. Sinding"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1977",
+                "order": "38",
+                "publisher": "Universitetet i Oslo",
+                "reference": "register s. 358–359",
+                "to_date": "",
+                "description": "Vår Frelsers Kirke og Trefoldighetskirken i Oslo-Prosjektene til restaurering og nyoppførelse 1834–1858 av Linstow, Grosch, Nebelong, Schirmer, Chateauneuf og von Hanno",
+                "authors": [
+                    "Bjerkek, O. P."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Alexis de Chateauneuf",
+    "url": "https://nkl.snl.no/Alexis_de_Chateauneuf",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>(i Norge) C.betegnes som en av de betydelige arkitekter ved midten av 1800-tallet, sammen med Gottfried Semper. Han virket hovedsakelig i Hamburg, men oppholdt seg noen år i England, før han vendte tilbake til Hamburg 1842. Hans arbeider var tidlig preget av klassisismen med variasjon av tunge kubiske former (Adolf Weinbrenner) til et klart lettere uttrykk (Karl Friedrich Schinkel). Hans interesse for middelalderarkitektur og studier i Nord-Tyskland og England,var viktige forutsetninger for den betydelige oppgave han fikk som formann for Den tekniske kommisjonen, under gjenoppbygningen og reguleringen av Hamburg efter bybrannen i 1842. Dette innledet hans siste periode som i særlig grad er knyttet til kirkebygg. Gjenoppbygning, prosjektering og studier av St. Gertrud og St. Petri i Hamburg og Gelnhausen kapell, ga grunnlag for en utvikling som frembrakte <em>Trefoldighetskirken</em> i Christiania og som C. mente var en endegyldig form for den protestantiske kirke. Den kollegiale forbindelse med H. F. Linstow og Christian Henrik Grosch førte til at C. fikk til bedømmelse de tre innkomne prosjekt til Vår Frelsers Kirke. Han gikk imot forslagene og utarbeidet en prinsippløsning til grunnlag for ny konkurranse. Under besøket i 1847 mente han kirken bare trengte en mindre reparasjon og at midlene burde samordnes med oppførelse av en ny sognekirke. Under besøket foretok C. også en vurdering av tomteforslagene og reguleringen for den nye kirken. På sommeren 1848 leverte C. tegninger til ominnredning av Vår Frelsers Kirke og til forhøyelse av tårnet. Arkitekt Heinrich Ernst Schirmer ble byggeleder. C. tok videre initiativ til konkurranse om altertavlen, hvor Edward Jakob von Steinle vant. På denne måten fikk det nazarenske kunstsyn sitt nedslagsfelt også i vårt hjemlige miljø. Konkurransen om Trefoldighetskirken betraktes som Norges første betydelige arkitektkonkurranse. C. C. H. Grosch, H. F. Linstow, J. Nebelong og H. E. Schirmer ble invitert, men Grosch trakk seg. Konkurransen ble vunnet av C. Hans prosjektering kom til å gjennomløpe tre faser: 1) 1847, et planlegningsprosjekt i en ren oktogonal form med gavlene som en krans rundt den opphøyde sentralkuppel. 2) 1849, konkurranseprosjektet med det greske kors som grunnform. 3) 1850, det refuserte prosjekt som var en videreutvikling av konkurranseprosjektet med en forbedret konstruktiv/statisk avveining og en langt rikere materialbruk. Under arbeidet med Trefoldighelskirken ble C. alvorlig syk og måtte reise til Tyskland. En tid syntes planene å gå i stå, men C.s elev Adolf Friedrich Wilhelm von Hanno fullførte kirkebygget 1851–1858 på grunnlag av C.s tegninger. Under sine opphold i Christiania tegnet C. møbler for Carl Collet og et utkast til Stortingsbygningen.</p></div>",
+    "created_at": "2013-07-03T18:12:20.429+02:00",
+    "changed_at": "2024-06-18T23:25:53.400+02:00",
+    "license_name": "fri",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab668\",\"https://digitaltmuseum.no/6d64852d-e5b3-449e-b706-5a5a5af124cf\",\"http://kulturnav.org/6d64852d-e5b3-449e-b706-5a5a5af124cf\"]",
+        "lastname": "Chateauneuf",
+        "firstname": "Alexis De",
+        "birth_date": "18.2.1799",
+        "birthplace": "Hamburg",
+        "death_date": "31.12.1853",
+        "external_id": "person_8736ab668",
+        "kulturnav_id": "6d64852d-e5b3-449e-b706-5a5a5af124cf",
+        "place_of_death": "Hamburg"
+    },
+    "authors": [
+        {
+            "full_name": "Ole Petter Bjerkek"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15560/standard_NMK-A_NAMF.00184.00220130725-13675-x0uwxg.jpg",
+            "full_size_url": "https://media.snl.no/media/15560/NMK-A_NAMF.00184.00220130725-13675-x0uwxg.jpg",
+            "xhtml": "<div>\r\n<p>Vår Frelsers Kirke, interiør, sett mot nord. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Alexis de Chateauneuf",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15575/standard_NMK-A_NMK.2011.0012.00120130725-13675-1xlzznq.jpg",
+            "full_size_url": "https://media.snl.no/media/15575/NMK-A_NMK.2011.0012.00120130725-13675-1xlzznq.jpg",
+            "xhtml": "<div>\r\n<p><em>Vor Frelsers kirke</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Alexis de Chateauneuf",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

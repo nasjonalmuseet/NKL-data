@@ -1,0 +1,559 @@
+{
+    "id": 417465,
+    "headword": "Tor Esaissen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102011",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Eva",
+                "lastname": "Thoresen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102010",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Andreas",
+                "lastname": "Esaissen",
+                "professions": [
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "kunstak., København under Niels Lergaard 1958–59",
+                "order": "3"
+            },
+            {
+                "comment": "Académie des Beaux-Arts, Paris 1959–60",
+                "order": "4"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Per Krohg 1956–58",
+                "order": "2"
+            },
+            {
+                "comment": "Kunstskolen i Trondheim under Oddvar Alstad 1950–54",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Rolf Kongsvoll",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "7",
+                "description": "Egypt 1970, -73 og -74"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold i København 1958–59"
+            },
+            {
+                "order": "0",
+                "description": "Trondheim bys kulturstipend 1975"
+            },
+            {
+                "order": "4",
+                "description": "Bosatt i Stockholm 1972–77"
+            },
+            {
+                "order": "1",
+                "description": "3% fondets stipend (2 ganger)"
+            },
+            {
+                "order": "3",
+                "description": "Paris 1959–60"
+            },
+            {
+                "order": "6",
+                "description": "Italia 1957"
+            },
+            {
+                "order": "5",
+                "description": "Reiser til Nederland 1956"
+            },
+            {
+                "order": "8",
+                "description": "Færøyene 1978"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Barnevernsinstituttet Dronning Mauds Minne, Trondheim 1965–71"
+            },
+            {
+                "order": "1",
+                "description": "Charlottenlund barne- og ungdomsskole, Trondheim 1964–66"
+            },
+            {
+                "order": "0",
+                "description": "Tegnelærer ved Katedralskolen, Trondheim 1961-63"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Forenede Forsikring, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri (tidligere Trondheim Kunstforening)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Brandbergen, Sverige",
+                "from_date": "1976",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Trekanten, Sigtuna, Sverige",
+                "from_date": "1974",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1968",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1967",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1978",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1962",
+                "order": "11",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1980",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1964",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1956",
+                "order": "12",
+                "to_date": "",
+                "title": "Juleutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1975",
+                "order": "15",
+                "to_date": "",
+                "title": "Sommerutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1963",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "13",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "14",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aalesunds Kunstforening",
+                "from_date": "1967",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1976",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1965",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1968-05-02",
+                "order": "9",
+                "to_date": "",
+                "description": "i  Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-19",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "11",
+                "reference": "s. 182, 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-06-02",
+                "order": "15",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-06-02",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "13",
+                "reference": "s. 195",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910- 67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-05-06",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Simonnæs, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-13",
+                "order": "24",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-04-26",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Olsvoll, B.O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "3",
+                "reference": "hefte 71, s. 45",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-09",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Hasle, J.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-24",
+                "order": "7",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-02",
+                "order": "22",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-06-01",
+                "order": "14",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-20",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "12",
+                "reference": "s. 66, 192",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-05-06",
+                "order": "10",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-07",
+                "order": "17",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Refsnes, A.M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-05-06",
+                "order": "0",
+                "to_date": "",
+                "description": "i Berg. T.",
+                "authors": [
+                    "Lien, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-05-10",
+                "order": "2",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-18",
+                "order": "4",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-15",
+                "order": "20",
+                "to_date": "",
+                "description": "Klassekampen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-18",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Wulff, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-06",
+                "order": "23",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-14",
+                "order": "19",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-04-27",
+                "order": "8",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Tor Esaissen",
+    "url": "https://nkl.snl.no/Tor_Esaissen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>E.s bilder fra 1960-årene er holdt i et abstrakt formspråk, med dystre farger, store linjer og kraftige penselstrøk. Sykdom rundt 1970 førte til et lengre avbrekk i hans kunstneriske virksomhet. Hans senere arbeider viser en ytterligere abstrahering og forenkling av motivene. </p>\n<p>E. er ivrig opptatt av sosiale problemer og har engasjert seg i arbeidet for de svake i samfunnet. Blant annet har han vært fengselsterapeut ved Oslo Kretsfengsel og tok initiativet til utstillingen \"Fangenes problematikk\" i Unge Kunstneres Samfunn 1978.</p>\n</div>",
+    "created_at": "2013-07-03T21:39:15.736+02:00",
+    "changed_at": "2024-06-18T23:26:08.669+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab988\",\"https://digitaltmuseum.no/394b0f64-15b6-4e71-a905-36d040cebfe8\",\"http://kulturnav.org/394b0f64-15b6-4e71-a905-36d040cebfe8\"]",
+        "lastname": "Esaissen",
+        "firstname": "Tor",
+        "birth_date": "30.11.1936",
+        "birthplace": "Trondheim",
+        "external_id": "person_8736ab988",
+        "kulturnav_id": "394b0f64-15b6-4e71-a905-36d040cebfe8"
+    },
+    "authors": [
+        {
+            "full_name": "Astri Wright"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

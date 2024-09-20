@@ -1,0 +1,298 @@
+{
+    "id": 431140,
+    "headword": "Kjell Varvin",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107910",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Richard",
+                "lastname": "Varvin",
+                "professions": null
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108948",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingebjørg Lindboe",
+                "lastname": "Ree",
+                "professions": null
+            },
+            {
+                "from_date": "",
+                "to_date": "",
+                "type": "Gift med",
+                "external_id": "",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Susanne",
+                "lastname": "Mader",
+                "place": "",
+                "professions": null
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "Bærum"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "SHKS under Gert Jynge 1958-60",
+                "order": "0"
+            },
+            {
+                "comment": "École des Beaux-Arts, Paris 1961-63",
+                "order": "1"
+            },
+            {
+                "comment": "Bellas Artes, Sevilla og O'Porto, Spania 1963",
+                "order": "2"
+            },
+            {
+                "comment": "Artes y Oficios Barcelona 1964-65",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens reisestip. 1978, materialstip. 1981 og 3-årige arbeidsstip. 1982"
+            },
+            {
+                "order": "1",
+                "description": "Studieopphold i Paris 1961-63"
+            },
+            {
+                "order": "2",
+                "description": "Italia, Jugoslavia og Marokko årene 1961-70"
+            },
+            {
+                "order": "3",
+                "description": "Spania 1963-65"
+            },
+            {
+                "order": "4",
+                "description": "studiereise til Mexico, Arizona og New York 1978"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Daglig leder Gall. Musk, Lommedalen 1972-80"
+            },
+            {
+                "order": "1",
+                "description": "deltidslærer Asker Kunstskole 1982-84"
+            },
+            {
+                "order": "2",
+                "description": "Stemmerett BKS"
+            },
+            {
+                "order": "3",
+                "description": "Medlem LNM, styremedlem 1978-82"
+            },
+            {
+                "order": "4",
+                "description": "T. forb., deltidssekretær 1980-82"
+            },
+            {
+                "order": "5",
+                "description": "Akershus Bildende Kunstneres Forening"
+            },
+            {
+                "order": "6",
+                "description": "Bildende Kunstnere i Bærum"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Akrylmaling og tegning på vegg, Victoria Terasse, Oslo (1981)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Utsmykning Skjold kapell, Maukstadmoen, Indre Troms"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "NG"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "RG"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "NKR"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "OKK"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Bærum kommune"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "16",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "17",
+                "to_date": "1983",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "18",
+                "to_date": "1980",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "19",
+                "to_date": "1983",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "20",
+                "to_date": "1974",
+                "title": "UKS Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "21",
+                "to_date": "",
+                "title": "UKS Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "22",
+                "to_date": "",
+                "title": "Drawing International"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "23",
+                "to_date": "",
+                "title": "Kunst i Bærum"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1981",
+                "order": "24",
+                "to_date": "1982",
+                "title": "Nordiske Tegnere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "26",
+                "to_date": "",
+                "title": "Tegning"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1983",
+                "order": "27",
+                "to_date": "",
+                "title": "Idrett i kunsten"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Kjell Varvin",
+    "url": "https://nkl.snl.no/Kjell_Varvin",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\r\n<p>V. arbeider i forskjellige teknikker, men hovedsakelig i blyant, kull, fettstift, tusj og akryl. V.s tidligste bilder var abstraherte naturinntrykk, og han har også arbeidet figurativt med innslag av surrealistiske elementer. Fra slutten av 70-årene har formspråket vært nonfigurativt, inspirert av naturopplevelser. I en periode var bildene sentrert om jord og jordfarger, senere av luft- og vanntemaet. Han arbeider som oftest i flaten og bygger komposisjonen opp av løse enkeltelementer, som i <em>Aria I</em> (utst. 1980) med geometriske former holdt i blåtoner, og i <em>Glasshus</em>(utst. 1982, NG), der han skisserer figurer med kullstift på bakgrunnens valører av blått og grønt. V. arbeider også med grafikk i silke- og dyptrykk.</p>\r\n</div>",
+    "created_at": "2014-12-21T14:20:18.464+01:00",
+    "changed_at": "2024-06-18T23:28:16.959+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3895\",\"https://digitaltmuseum.no/9055dc15-8a80-4923-9d54-2e58cb376ff9\",\"http://kulturnav.org/9055dc15-8a80-4923-9d54-2e58cb376ff9\"]",
+        "lastname": "Varvin",
+        "firstname": "Kjell",
+        "birth_date": "19.8.1939",
+        "birthplace": "Bærum",
+        "external_id": "person_8736ab3895",
+        "kulturnav_id": "9055dc15-8a80-4923-9d54-2e58cb376ff9"
+    },
+    "authors": [
+        {
+            "full_name": "Dorothea Hysing"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20699/standard_NMK-B_MS-00121-198820151204-26003-dbqd3t.jpg",
+            "full_size_url": "https://media.snl.no/media/20699/NMK-B_MS-00121-198820151204-26003-dbqd3t.jpg",
+            "xhtml": "<div><p><i>Gå seg en tur</i>. 1986. <a href=\"http://digitaltmuseum.no/011042423525\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Kjell Varvin",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

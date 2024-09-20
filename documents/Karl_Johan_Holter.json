@@ -1,0 +1,596 @@
+{
+    "id": 417053,
+    "headword": "Karl Johan Holter",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103551",
+                "birth_date": "1844",
+                "death_date": "1914",
+                "firstname": "Maren Helene",
+                "lastname": "Langlie",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab103550",
+                "birth_date": "1838",
+                "death_date": "1918",
+                "firstname": "Johan",
+                "lastname": "Holter",
+                "professions": [
+                    "kjøpmann"
+                ]
+            },
+            {
+                "from_date": "1909",
+                "type": "Gift med",
+                "external_id": "person_8736ab103552",
+                "birth_date": "1891",
+                "death_date": "",
+                "firstname": "Louise Amalie",
+                "lastname": "Jacobsen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Hølen"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Kristian Zahrtmanns malerskole våren 1908",
+                "order": "1"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 1889–91",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1897, -98"
+            },
+            {
+                "order": "1",
+                "description": "Hielmstierne Rosencrones legat 1900"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Altertavle, Filtvet kapell"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "portretter av ordførere i Hølen kommune, Hølen skole"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Christianssands Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Helge Væringsaasens samlinger, Elverum"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Moss Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1909",
+                "order": "6",
+                "to_date": "1911",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1905",
+                "order": "5",
+                "to_date": "1907",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1895",
+                "order": "4",
+                "to_date": "1901",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet, Stockholm",
+                "from_date": "1904",
+                "order": "12",
+                "to_date": "",
+                "title": "Norska konstnärers arbeten"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1909",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1909",
+                "order": "14",
+                "to_date": "",
+                "title": "De unges utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel",
+                "from_date": "1914",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Düsseldorf",
+                "from_date": "1904",
+                "order": "11",
+                "to_date": "",
+                "title": "Internationale Kunst-Ausstellung"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Glaspalast, München",
+                "from_date": "1901",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1897",
+                "order": "9",
+                "to_date": "",
+                "title": "Konst- och industriutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Dioramalokalet, Kristiania",
+                "from_date": "1910",
+                "order": "15",
+                "to_date": "",
+                "title": "De unges utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1932",
+                "order": "17",
+                "to_date": "",
+                "title": "Høstutstillingen gjennom de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1891",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1910",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1911",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vestby Kunstforening Elverhøy, Hølen",
+                "from_date": "1982",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1915",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1932",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Tegnet selvportrett gjengitt i N. With: Illustrert biografisk leksikon, Kristiania 1920, s. 395"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1945-06-05",
+                "order": "20",
+                "to_date": "",
+                "description": "Moss Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "6",
+                "reference": "s. 103 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "4",
+                "reference": "bd. 11, s. 682",
+                "to_date": "",
+                "description": "Salmonsen",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "1",
+                "reference": "bd. 2, s. 410",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-06-06",
+                "order": "22",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "7",
+                "reference": "s. 103, 117 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-01-19",
+                "order": "12",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Schnitler, C. W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-11-19",
+                "order": "14",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-11-04",
+                "order": "16",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "10",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 9, sp. 224"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1960-03-31",
+                "order": "24",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [
+                    "(nekrolog)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1930-06-06",
+                "order": "18",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "9",
+                "reference": "s. 259",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950-06-07",
+                "order": "21",
+                "to_date": "",
+                "description": "Akershus Amtstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "5",
+                "reference": "bd. 17, s. 404",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "3",
+                "reference": "s. 395-96",
+                "to_date": "",
+                "description": "lllustrert biografisk leksikon",
+                "place": "(Kristiania",
+                "authors": [
+                    "With, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940-06-06",
+                "order": "19",
+                "to_date": "",
+                "description": "Norges Handels og Sjøfartstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "2",
+                "reference": "s. 119",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-11-18",
+                "order": "13",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1897",
+                "order": "0",
+                "reference": "s. 43",
+                "to_date": "1898",
+                "description": "Zeitschrift für Bildende Kunst",
+                "place": "Leipzig",
+                "authors": [],
+                "comments": [
+                    "Neue Folge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "8",
+                "reference": "s. 234",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-01-02",
+                "order": "17",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-03-30",
+                "order": "23",
+                "to_date": "",
+                "description": "Moss Avis",
+                "authors": [],
+                "comments": [
+                    "(nekrolog)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1914-03-19",
+                "order": "15",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-01-18",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [
+                    "Aviser"
+                ],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            },
+            {
+                "from_date": "1976",
+                "order": "25",
+                "publisher": "Universitetet i Oslo",
+                "reference": "s. 112, 179",
+                "to_date": "",
+                "description": "Zahrtmanns malerskole 1885–1908",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Karl Johan Holter",
+    "url": "https://nkl.snl.no/Karl_Johan_Holter",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Selv om H. en periode gikk på Den kgl. Tegneskole, regnet han seg selv som selvlært. Han fikk sitt grunnsyn preget av den fransk-norske malerskole, samt av italiensk og bysantinsk kunst. Han søkte, men fikk aldri de statlige legater som kunne ha gitt ham muligheter til videre utvikling utenlands. Hans uttrykksform var 90-årenes stemningsmettede nyromantikk med preg av symbolisme. I sin første tid som kunstner malte H. portretter og kvinnestudier. Bl.a. vakte <em>Voluptas</em> oppmerksomhet på utstilling i Stockholm i 1897. Senere malte H. hovedsakelig landskaper, inspirert av de idylliske omgivelser i sin hjembygd (<em>Blomstrende frukttre</em>, 1900, Nasjonalgalleriet, Oslo).</p>\n<p>H. var en rikt utstyrt, frodig og original personlighet. Han hadde en rekke kommunale verv i Hølen, fattigforstander, bibliotekar, poståpner og dessuten samlagsbestyrer. En tid drev han malerskole i Son. Han leverte også åklemønstre til Den Norske Husflidsforening. Et åkle ble solgt til Oscar 2. (<em>Kastanjer i blomst</em>).</p>\n</div>",
+    "created_at": "2013-07-03T19:16:24.683+02:00",
+    "changed_at": "2024-06-18T23:25:57.268+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1725\",\"https://digitaltmuseum.no/d0b12c75-4025-49e8-a629-718d18a6b35f\",\"http://kulturnav.org/d0b12c75-4025-49e8-a629-718d18a6b35f\"]",
+        "lastname": "Holter",
+        "firstname": "Karl Johan",
+        "birth_date": "6.6.1870",
+        "birthplace": "Son",
+        "death_date": "28.3.1960",
+        "external_id": "person_8736ab1725",
+        "kulturnav_id": "d0b12c75-4025-49e8-a629-718d18a6b35f",
+        "place_of_death": "Hølen"
+    },
+    "authors": [
+        {
+            "full_name": "Helen Holager"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

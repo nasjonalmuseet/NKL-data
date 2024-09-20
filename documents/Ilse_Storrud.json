@@ -1,0 +1,878 @@
+{
+    "id": 431220,
+    "headword": "Ilse Storrud",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "keramiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107278",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Elise-Marie",
+                "lastname": "Thomsen",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107277",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Walter",
+                "lastname": "Menz",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab107279",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Håreik",
+                "lastname": "Storrud",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Drøbak"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Kunsthåndværkerskolen, København 1943-45",
+                "order": "0"
+            },
+            {
+                "comment": "École des Arts et Métiers og Atelier Jean Matisse, Paris 1947",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Bosatt i Norge fra 1948"
+            },
+            {
+                "order": "2",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "1",
+                "description": "Namdalsstipend 1972"
+            },
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1969"
+            },
+            {
+                "order": "4",
+                "description": "Studiereiser til England, Frankrike, Spania, Italia, Tyskland, Nederland, Danmark, Sverige og Hellas fra 1969"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Namsos Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Køge kommune"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Østfold fylke"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Moss Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Tolv fra Milea, 1983. Med egne ill."
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1983",
+                "order": "51",
+                "to_date": "",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1969",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Stondi, Årdalstangen",
+                "from_date": "1979",
+                "order": "36",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Follo Museum, Drøbak",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "46",
+                "to_date": "1972",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1973",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1976",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Hybris, Göteborg",
+                "from_date": "1982",
+                "order": "42",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ellinora, Tønsberg",
+                "from_date": "1974",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Cassandra, Drøbak",
+                "from_date": "1983",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Wolfgang Werner, Hamburg",
+                "from_date": "1977",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Moss Kunstforening",
+                "from_date": "1979",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Smedegården, Køge",
+                "from_date": "1969",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "50",
+                "to_date": "1981",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "47",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Cassandra, Drøbak",
+                "from_date": "1976",
+                "order": "19",
+                "to_date": "1977"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Alderney Town Hall, England",
+                "from_date": "1973",
+                "order": "9",
+                "to_date": "1976"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Stondi, Årdalstangen",
+                "from_date": "1980",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Maison d'Art et Culture Concarneau, Frankrike",
+                "from_date": "1976",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Amalie, Bjørkelangen",
+                "from_date": "1983",
+                "order": "43",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Wallenfels, Kiel",
+                "from_date": "1982",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "De Normannische kat Asperen, Nederland",
+                "from_date": "1975",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Røros yrkesskole",
+                "from_date": "1971",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Centre d'Art, Haag",
+                "from_date": "1976",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "49",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1979",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "School of Architecture, Hull, England",
+                "from_date": "1981",
+                "order": "39",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. de Prinsenkamer, Amsterdam",
+                "from_date": "1977",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "53",
+                "to_date": "1973",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Cassandra, Drøbak",
+                "from_date": "1979",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "48",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1981",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Stasjonen, Bergen",
+                "from_date": "1981",
+                "order": "38",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Smedegården, Køge",
+                "from_date": "1973",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drøbak Kunstforening",
+                "from_date": "1973",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "De Normannische kat Asperen, Nederland",
+                "from_date": "1977",
+                "order": "14",
+                "to_date": "1978"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 83, Strömstad",
+                "from_date": "1983",
+                "order": "44",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Wallenfels, Kiel",
+                "from_date": "1977",
+                "order": "28",
+                "to_date": "1978"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vasastadens Kunstsalong, Göteborg",
+                "from_date": "1978",
+                "order": "40",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1977",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 1, Bergen",
+                "from_date": "1976",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 71, Tromsø",
+                "from_date": "1979",
+                "order": "35",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "52",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Cassandra, Drøbak",
+                "from_date": "1980",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Smedegården, Køge",
+                "from_date": "1975",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Simon Embrand-Guidel, Frankrike",
+                "from_date": "1976",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Aue, Berlin",
+                "from_date": "1977",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1974",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Solhyddan, Öland",
+                "from_date": "1972",
+                "order": "7",
+                "to_date": "1976"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1975",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Langegaarden, Bergen",
+                "from_date": "1984",
+                "order": "45",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Annen Etasjen, Haugesund",
+                "from_date": "1982",
+                "order": "41",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ås Kunstforening",
+                "from_date": "1978",
+                "order": "31",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1983",
+                "order": "0",
+                "to_date": "",
+                "description": "Tolv fra Milea",
+                "place": "Oslo",
+                "authors": [
+                    "Storrud, Ilse"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1983-06-27",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Eklund, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-05",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Nordlys",
+                "authors": [
+                    "Pollestad, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-10",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Haugesunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-02-06",
+                "order": "5",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-05-30",
+                "order": "3",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-15",
+                "order": "16",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durbin, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-12-01",
+                "order": "18",
+                "to_date": "",
+                "description": "i Østlandets Blad",
+                "authors": [
+                    "Gjertsen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-05-28",
+                "order": "1",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-01-21",
+                "order": "7",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durbin, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-02-09",
+                "order": "9",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-12-02",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Eklund, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-19",
+                "order": "21",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-04-28",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Haugesunds Avis",
+                "authors": [
+                    "Borgen, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-11-23",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Sælen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-06-14",
+                "order": "6",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-01-31",
+                "order": "4",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-14",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Lofotposten",
+                "authors": [
+                    "Johansen, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-05-31",
+                "order": "2",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-02-02",
+                "order": "8",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-02-14",
+                "order": "15",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-01-26",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Akershus Amtstidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-11-18",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-14",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Loge, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-09-11",
+                "order": "20",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ilse Storrud",
+    "url": "https://nkl.snl.no/Ilse_Storrud",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. er født i Tyskland og oppvokst i Danmark, men har vært bosatt i Norge siden 1948. S. var opprinnelig keramiker, men gikk over til å arbeide med akvarellmaling og debuterte som maler i 1969. Hennes akvareller består av landskaper med atmosfæriske virkninger, fint og várt registrert og gjengitt. Koloritten er behersket og holdt i duse fargetoner. Komposisjonen er harmonisk og tradisjonell. Motivene er hentet fra reiser i inn- og utland, fra hav og kystlandskap, hvor himmelen dominerer billedflaten. Etter hvert fikk selve landskapet større plass og fargene ble sterkere. I 1983 stilte S. ut endel akvareller samt temperabilder av gamle dører og inngangspartier fra landsbyen Milea, Peloponnes i Hellas, reprodusert i boken <em>Tolv fra Milea</em>.</p></div>",
+    "created_at": "2014-12-21T15:00:11.129+01:00",
+    "changed_at": "2024-06-18T23:28:18.995+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3581\",\"https://digitaltmuseum.no/29f9e492-0f4b-4c55-8f43-e339aed2823b\",\"http://kulturnav.org/29f9e492-0f4b-4c55-8f43-e339aed2823b\"]",
+        "lastname": "Storrud",
+        "firstname": "Ilse",
+        "birth_date": "18.8.1926",
+        "birthplace": "Dresden",
+        "external_id": "person_8736ab3581",
+        "kulturnav_id": "29f9e492-0f4b-4c55-8f43-e339aed2823b"
+    },
+    "authors": [
+        {
+            "full_name": "Jorunn Sanstøl"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "keramiker"
+        }
+    ]
+}

@@ -1,0 +1,721 @@
+{
+    "id": 414544,
+    "headword": "Knut Frøysaa",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102356",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Tellef",
+                "lastname": "Frøysaa",
+                "professions": [
+                    "lektor"
+                ]
+            },
+            {
+                "from_date": "1947",
+                "type": "Gift med",
+                "external_id": "person_8736ab102358",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sidsel",
+                "lastname": "Løken",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102357",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg",
+                "lastname": "Rosseland",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Hamar"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole under Torbjørn Alvsåker 1944–45",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Jean Heiberg 1939–46",
+                "order": "1"
+            },
+            {
+                "comment": "En tid også elev av Axel Revold",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "F. har foretatt flere studiereiser, til Sverige og Danmark 1945 og -46"
+            },
+            {
+                "order": "3",
+                "description": "Statens kunstnerstipend 1953"
+            },
+            {
+                "order": "5",
+                "description": "Nederland, Frankrike og England 1949 og -69"
+            },
+            {
+                "order": "8",
+                "description": "Island 1952"
+            },
+            {
+                "order": "7",
+                "description": "Sovjetunionen 1966"
+            },
+            {
+                "order": "6",
+                "description": "Polen 1959"
+            },
+            {
+                "order": "0",
+                "description": "Helge og Hans Reuschs legat 1947"
+            },
+            {
+                "order": "2",
+                "description": "3% fondets stipend 1951 og -57"
+            },
+            {
+                "order": "1",
+                "description": "Benneches legat 1948"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Bildende Kunstnere i Hedmark/Oppland"
+            },
+            {
+                "order": "4",
+                "description": "Formann i Bildende Kunstneres Styre 1969–72"
+            },
+            {
+                "order": "1",
+                "description": "Medlem av Foreningen Norske Grafikere"
+            },
+            {
+                "order": "3",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "6",
+                "description": "Formann i Oslo Kunstforening 1963–65"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "5",
+                "description": "formann i Tilsynsrådet for Kunstnernes Hus 1967–70"
+            },
+            {
+                "order": "7",
+                "description": "I redaksjonen for Våre nasjonale tegnere, Dreyers Forlag"
+            }
+        ],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Ulrik Hendriksens minnepris 1974"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Moss Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Christianssands Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Nasjonalgalleri i Praha"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Museum of Modern Art, New York"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1979",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Elverum Skogbruksmuseum",
+                "from_date": "1976",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oregon",
+                "from_date": "1958",
+                "order": "31",
+                "to_date": "1959",
+                "title": "Contemporary Prints from Norway"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1951",
+                "order": "28",
+                "to_date": "",
+                "title": "14 malere og 6 billedhuggere"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "21",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1952",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1957",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Kunstnernes Hus",
+                "from_date": "1960",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1968",
+                "order": "19",
+                "to_date": "1979",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1948",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1960",
+                "order": "36",
+                "to_date": "",
+                "title": "Nordisk Grafikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsingfors",
+                "from_date": "1967",
+                "order": "38",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1957",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "LMB",
+                "from_date": "1974",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "22",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "24",
+                "to_date": "",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1947",
+                "order": "26",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1946",
+                "order": "17",
+                "to_date": "1947",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Värmland",
+                "from_date": "1957",
+                "order": "30",
+                "to_date": "",
+                "title": "Norsk konst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1956",
+                "order": "34",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hamar",
+                "from_date": "1941",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1963",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Kunstnernes Hus",
+                "from_date": "1969",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Finsrud, Drøbak",
+                "from_date": "1979",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Krakow",
+                "from_date": "1966",
+                "order": "32",
+                "to_date": "",
+                "title": "Grafika Norweska"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1953",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "20",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "LMB",
+                "from_date": "1967",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1942",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "23",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1964",
+                "order": "37",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1948",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1950",
+                "order": "27",
+                "to_date": "1951",
+                "title": "Ung norsk konst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tsjekkoslovakia",
+                "from_date": "1967",
+                "order": "33",
+                "to_date": "",
+                "title": "Soucasna Norska Grafika"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1949",
+                "order": "18",
+                "to_date": "1966",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "25",
+                "to_date": "1978",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Acanthus, Oslo",
+                "from_date": "1980",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1951",
+                "order": "29",
+                "to_date": "",
+                "title": "Norsk nutidskonst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tyskland",
+                "from_date": "1958",
+                "order": "35",
+                "to_date": "",
+                "title": "Nordisk Grafikkunion"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Malt selvportrett er gjengitt i Norges billedkunst i det 19. og 20. århundre, Oslo 1951–53, bd. 2, side 305"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1970",
+                "order": "4",
+                "reference": "s. 19, 54, 61",
+                "to_date": "",
+                "description": "Lillehammer Bys Malerisamling",
+                "place": "Lillehammer",
+                "authors": [
+                    "Johannesen, O.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "5",
+                "reference": "s. 27",
+                "to_date": "",
+                "description": "Gammalt frå Stange og Romedal",
+                "title": "Kunst og kunstnere i Stange",
+                "place": "Hamar",
+                "authors": [
+                    "Johannesen, O.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "7",
+                "reference": "s. 82, 198",
+                "to_date": "",
+                "description": "K. og K. register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "8",
+                "reference": "s. 120",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "6",
+                "reference": "s. 516, 517",
+                "to_date": "",
+                "description": "Hamar bys historie",
+                "title": "Hamar og kunstnerne",
+                "place": "Hamar",
+                "authors": [
+                    "Johannesen, O.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "11",
+                "reference": "s. 257",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "12",
+                "reference": "s. 21 og 52",
+                "to_date": "",
+                "description": "Norske Grafikere i dag",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "9",
+                "reference": "s. 118",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "10",
+                "reference": "s. 52",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "2",
+                "reference": "s. 71",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "3",
+                "reference": "s. 57, 144, 148",
+                "to_date": "",
+                "description": "For den bildende kunst Bergens Kunstforening ved 125-års jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "1",
+                "reference": "s. 241, 250, 253",
+                "to_date": "",
+                "description": "Ung norsk kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "0",
+                "reference": "bd. 2, s. 304–305",
+                "to_date": "1953",
+                "description": "Norges billedkunst i det nittende og tyvende århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Knut Frøysaa",
+    "url": "https://nkl.snl.no/Knut_Fr%C3%B8ysaa",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>F. trådte første gang fram for offentligheten med en utstilling i hjembyen i 1941, der han gjorde seg bemerket som en kresen kolorist i en klar og distinkt form. Det var for det meste stilleben og landskaper. Hans egentlige gjennombrudd som maler skjedde på Høstutstillingen i 1946 med maleriet <em>Snipeseilere på Mjøsa</em>. I årene som fulgte ble det en god del interiører og figurbilder, aktmalerier og portretter. Kritikerne oppfattet ham som en trofast Heiberg-elev og Enger-beundrer. De berømmet hans atelierinteriører og bemerket hans evne til å skape stemning med enkle midler. Han hadde nå slått seg ned i Oslo, men i sommertiden malte han gjerne på Lista og Jæren der nye utfordringer møtte ham. Han fant seg vel til rette med den vide horisont, og den stofflig levende himmel interesserte ham rent malerisk. I denne periode malte han en rekke landskaper i et ofte kraftig artikulert fargespråk og med en meget forenklet linjeføring. Kritikerne mente at Jens Søndergaard var inspirasjonskilden. I alle fall var det landsdelens klima, fargeklanger og linjer som interesserte ham, men også været, stormkastene, den stadige vinden, de svære skybanker. Også idyllen kunne han finne fram til. </p>\n<p>I 1965 flyttet han tilbake til hjembyen, og her har han i de senere år funnet fram til en motivkrets som er blitt hans egen. Fremdeles er han opptatt av det som foregår i landskapet, og fortsatt er han på jakt etter årstidenes vekslende rytme i sitt maleri. Også her maler han svære skyhimler over et vekslende flatemønster av jorder, åkrer og skogtapper. Det kan være vårens sprø toner i trekronene, det kan være høstens dystre bruntoner, og det er vinterens lysende fargeeventyr over de store åkervidder. </p>\n<p>Hans fargebruk kan undertiden være litt voldsom, noe også kritikerne har festet seg ved. Ved siden av de store lerreter har F. dyrket tresnittet i det mer beskjedne format. På dette området er han selvlært. Han begynte med enkle tresnitt i svart og hvitt, der et selvportrett en face åpnet rekken av trykk. Siden har han mer og mer gått over til fargetresnitt med bruk av flere plater i en stil der han hele tiden lar treets egen struktur få være med i det kunstneriske uttrykk. Motivkretsen er stort sett den samme som i hans maleri. Det er portretter, blomsterbilder og renskårne landskaper der han forenkler komposisjonen i store, hele fargeplan.</p>\n</div>",
+    "created_at": "2013-06-09T16:42:26.035+02:00",
+    "changed_at": "2024-06-18T23:25:20.483+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1144\",\"https://digitaltmuseum.no/f9feace6-96c7-4d4a-b561-9bc68e411494\",\"http://kulturnav.org/f9feace6-96c7-4d4a-b561-9bc68e411494\"]",
+        "lastname": "Frøysaa",
+        "firstname": "Knut",
+        "birth_date": "2.10.1919",
+        "birthplace": "Hamar",
+        "death_date": "14.10.1987",
+        "external_id": "person_8736ab1144",
+        "kulturnav_id": "f9feace6-96c7-4d4a-b561-9bc68e411494"
+    },
+    "authors": [
+        {
+            "full_name": "Ole Rønning Johannesen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

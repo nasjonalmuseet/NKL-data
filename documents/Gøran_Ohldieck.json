@@ -1,0 +1,636 @@
+{
+    "id": 430250,
+    "headword": "Gøran Ohldieck",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "fotograf"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106032",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Monika Renata",
+                "lastname": "Wilkosz",
+                "professions": [
+                    "tekstilkunstner"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106030",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Andreas Busch",
+                "lastname": "Ohldieck",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106031",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ruth",
+                "lastname": "Ellertsen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bergen"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev av Michael Rothenstein og Anthony Benjamin, London 1974–75",
+                "order": "1"
+            },
+            {
+                "comment": "Bergen kunsthåndverkskole grafisk linje 1969–74",
+                "order": "0"
+            },
+            {
+                "comment": "kunstakademiet i Warszawa 1978",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studieopphold i Warszawa 1972, -78"
+            },
+            {
+                "order": "1",
+                "description": "London 1974–75"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "medlem Norsk Forfattersentrum, medlem vestlandsavdelingens arbeidsutvalg fra 1982"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Foreningen Norske Grafikere, medlem kontrollutvalget fra 1983 og Artotekutvalget 1983–84"
+            },
+            {
+                "order": "0",
+                "description": "Frilansillustratør Morgenavisen, Bergen 1973, -75"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Skien Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Institutt for allmennmedisin, Universitetet i Bergen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Pracownia Dziekanka, Warszawa",
+                "from_date": "1983",
+                "order": "22",
+                "to_date": "",
+                "title": "Kvinner og erotiske menn"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Voss kunstlag",
+                "from_date": "1982",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arte Seriado de Segovia, Spania",
+                "from_date": "1974",
+                "order": "30",
+                "to_date": "",
+                "title": "1. Bienal Internacional de Obra Grafica"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Intergrafik",
+                "from_date": "1984",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "øst-Berlin",
+                "from_date": "1984",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ibsenhuset, Skien",
+                "from_date": "1975",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1973",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Urdi, Bergen",
+                "from_date": "1977",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Finland",
+                "from_date": "1983",
+                "order": "24",
+                "to_date": "1984",
+                "title": "vandreutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ørsta kunstlag",
+                "from_date": "1982",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Målselv Kunstforening",
+                "from_date": "1982",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Annen Etasjen, Haugesund",
+                "from_date": "1982",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1981",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Rosenkrantztårnet, Bergen",
+                "from_date": "1984",
+                "order": "28",
+                "to_date": "",
+                "title": "4 håpløse aftener"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Zoologisk museum, Bergen",
+                "from_date": "1982",
+                "order": "26",
+                "to_date": "",
+                "title": "Levende dyr"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Siverts, Bergen",
+                "from_date": "1981",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bodø Kunstforening",
+                "from_date": "1980",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Neue Gal., Aachen, Vest-Tyskland",
+                "from_date": "1976",
+                "order": "6",
+                "to_date": "",
+                "title": "Autobiografische Offsetdrucke"
+            },
+            {
+                "comment": "sensurert og stengt etter 2 dager",
+                "category": "Separat",
+                "exhibition_organizer": "Nordens Hus, Reykjavik",
+                "from_date": "1983",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Volda kunstlag",
+                "from_date": "1982",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Intergrafik",
+                "from_date": "1980",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "from_date": "1981",
+                "order": "29",
+                "to_date": "1983",
+                "title": "6 utstillinger"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Boston Academy of Fine Arts, USA",
+                "from_date": "1974",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ringerike Kunstforening",
+                "from_date": "1983",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Blankenese, Hamburg",
+                "from_date": "1982",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "øst-Berlin",
+                "from_date": "1980",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Urdi, Bergen",
+                "from_date": "1973",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Urdi, Bergen",
+                "from_date": "1982",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sogndal kunstlag",
+                "from_date": "1982",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Norske Grafikere, Oslo",
+                "from_date": "1982",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1971",
+                "order": "25",
+                "to_date": "",
+                "title": "Kulturgerilja"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Bryggens museum, Bergen",
+                "from_date": "1982",
+                "order": "27",
+                "to_date": "",
+                "title": "Menn og andre vikinger"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ray Brill Galleri, London",
+                "from_date": "1980",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstringen, Gimle, Oslo",
+                "from_date": "1979",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1981",
+                "order": "11",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1984",
+                "order": "1",
+                "to_date": "",
+                "description": "Hvorfor går De ikke hjem?",
+                "authors": [
+                    "OHLDIECK, Gøran"
+                ],
+                "comments": [
+                    "teaterstykke oppført ved Matinéteatret, Det Norske Studentersamfund (DNS)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "0",
+                "to_date": "",
+                "description": "Vidner",
+                "place": "Oslo",
+                "authors": [
+                    "OHLDIECK, Gøran"
+                ],
+                "comments": [
+                    "Med egne illustrasjonerroman"
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1981-09-26",
+                "order": "8",
+                "to_date": "",
+                "description": "Haugesunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-06-23",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Bowitz, R. K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-09-24",
+                "order": "18",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-03-28",
+                "order": "3",
+                "to_date": "1945",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-01-14",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-08-26",
+                "order": "6",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Landro, J. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-03-24",
+                "order": "2",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-02-23",
+                "order": "14",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-03-23",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Haugesunds Avis",
+                "authors": [
+                    "Borgen, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-09-25",
+                "order": "19",
+                "to_date": "",
+                "description": "Hordaland",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-03-18",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Johannesen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-03-16",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Møre-Nytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-05",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Haugesunds Avis",
+                "authors": [
+                    "Borgen, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "authors": [
+                    "Føyner, J."
+                ],
+                "comments": [
+                    "i katalog Bergens Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1982-02-13",
+                "order": "13",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Vindsetmo, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "7",
+                "reference": "s. 164",
+                "to_date": "",
+                "description": "Norske grafikere i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Flor, H. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-14",
+                "order": "11",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Loge, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-10-08",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Stabell, W."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Gøran Ohldieck",
+    "url": "https://nkl.snl.no/G%C3%B8ran_Ohldieck",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>O. debuterte separat i Bergen i 1973 med malerier og grafikk, hovedsakelig linosnitt, og fotocollager. Han har siden arbeidet mest med tegninger, linoleums- og offsettrykk foruten fotografier. Motivvalg og billeduttrykk er sterkt påvirket av engelsk og amerikansk pop- og plakatkunst. O. lager sine tegninger med tusj på kartong i stort format, nitid bygd opp i en rasterteknikk som gir et tilnærmet foto-realistisk uttrykk. Motivene er preget av kameraets snapshotmuligheter, med hverdagsglimt fra nærmiljøet og poserende lærjakkekledde eller avkledde unge menn. Sammen med grafikeren Kjetil Berge har han videreutviklet en blandingsteknikk, linoleumsetsninger. Her dominerer de abstrakte egenskaper, med til dels løsrevne figurative elementer mot hvit billedflate. O. gav i 1978 ut billedromanen <em>Vidner</em> illustrert med bl.a. tegninger, fotografier og linoleumssnitt.</p></div>",
+    "created_at": "2014-11-20T12:09:46.564+01:00",
+    "changed_at": "2024-06-18T23:27:53.156+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2979\",\"https://digitaltmuseum.no/2de33760-03ec-4b0d-a407-d4b073069663\",\"http://kulturnav.org/2de33760-03ec-4b0d-a407-d4b073069663\"]",
+        "lastname": "Ohldieck",
+        "firstname": "Gøran",
+        "birth_date": "12.2.1952",
+        "birthplace": "Bergen",
+        "external_id": "person_8736ab2979",
+        "kulturnav_id": "2de33760-03ec-4b0d-a407-d4b073069663",
+        "alternative_names": "Ohldieck, Gøran Andreas"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "fotograf"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

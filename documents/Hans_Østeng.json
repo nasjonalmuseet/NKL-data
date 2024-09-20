@@ -1,0 +1,694 @@
+{
+    "id": 431710,
+    "headword": "Hans Østeng",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab123",
+                "birth_date": "06.02.1930",
+                "death_date": "",
+                "firstname": "Berit",
+                "lastname": "Østeng",
+                "professions": [
+                    "tegner",
+                    "grafiker"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oppegård"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Goldsmith's College School of Art, London 1954-55",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1949-51",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Oslo bys stipend 1971"
+            },
+            {
+                "order": "2",
+                "description": "Norsk Illustrasjonsfonds stipend 1981"
+            },
+            {
+                "order": "0",
+                "description": "Tegnerforbundets stipend 1960"
+            },
+            {
+                "order": "3",
+                "description": "Opphold i Paris 1981 og USA -82"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "medlem Nasjonalgalleriets innkjøpskomité 1965-67"
+            },
+            {
+                "order": "4",
+                "description": "medlem Den faste Jury 1971"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre, varamedlem styret 1964-65"
+            },
+            {
+                "order": "1",
+                "description": "medlem Tegnerforbundet, jurymedlem 1958"
+            },
+            {
+                "order": "2",
+                "description": "medlem Unge Kunstneres Samfunn, jurymedlem 1962"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "1. og 2. premie Aftenpostens illustrasjonskonkurranse 1964"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Moss Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Sør-Varanger Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet",
+                "from_date": "1960",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "14",
+                "to_date": "1980",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Amalie, Bjørkelangen",
+                "from_date": "1982",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1962",
+                "order": "19",
+                "to_date": "",
+                "title": "Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Club 7, Oslo",
+                "from_date": "1971",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1958",
+                "order": "8",
+                "to_date": "1962",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "10",
+                "to_date": "1978",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Atelier Annexe, Oppegård",
+                "from_date": "1983",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Albertus Magnus, Paris",
+                "from_date": "1981",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegnerforbundet",
+                "from_date": "1977",
+                "order": "27",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Tanum, Oslo",
+                "from_date": "1979",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegnerforbundet",
+                "from_date": "1972",
+                "order": "25",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet",
+                "from_date": "1970",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1964",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegnerforbundet",
+                "from_date": "1967",
+                "order": "23",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Tanum, Oslo",
+                "from_date": "1974",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "16",
+                "to_date": "",
+                "title": "Nordisk Kunstforbunds utstillinger, Odense"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "13",
+                "to_date": "",
+                "title": "Nord-norske kunstutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Jørgen, Oslo",
+                "from_date": "1981",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Parken, Bergen",
+                "from_date": "1983",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1960",
+                "order": "18",
+                "to_date": "",
+                "title": "Vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "15",
+                "to_date": "",
+                "title": "Østlandsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1966",
+                "order": "9",
+                "to_date": "1968",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. U 12, Oslo",
+                "from_date": "1980",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Toppen, Moelv",
+                "from_date": "1984",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegnerforbundet",
+                "from_date": "1974",
+                "order": "26",
+                "to_date": "1975",
+                "title": "vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegnerforbundet",
+                "from_date": "1969",
+                "order": "24",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1961",
+                "order": "20",
+                "to_date": "",
+                "title": "Gyngehesten"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet",
+                "from_date": "1959",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1966",
+                "order": "22",
+                "to_date": "",
+                "title": "Tegnerforbundets 50-års jubileumsutst."
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1983-02-18",
+                "order": "23",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Laundal, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "9",
+                "reference": "nr. 12 s. 5 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "0",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O Rønning"
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "13",
+                "reference": "bd. 12, s. 681",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-23",
+                "order": "19",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "11",
+                "reference": "nr. 4 s. 64 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "2",
+                "reference": "s. 50",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-09-02",
+                "order": "21",
+                "to_date": "",
+                "description": "Indre Akershus Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-12",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "8",
+                "reference": "s. 116",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-10-01",
+                "order": "15",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "6",
+                "reference": "s. 63, 117",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "4",
+                "reference": "s. 60",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "10",
+                "reference": "nr. 3 s. 20–21 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-10-28",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Østlandets Blad",
+                "place": null,
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-10-04",
+                "order": "16",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-11-26",
+                "order": "14",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-12-10",
+                "order": "20",
+                "to_date": "",
+                "description": "Østlandets Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-02-05",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Gula Tidend",
+                "authors": [
+                    "Endresen, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "1",
+                "reference": "s. 262",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982",
+                "order": "12",
+                "reference": "nr. 9 s. 39 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-10-09",
+                "order": "18",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "7",
+                "reference": "s. 173",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "5",
+                "reference": "s. 131, 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "3",
+                "reference": "s. 67, 194",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Hans Østeng",
+    "url": "https://nkl.snl.no/Hans_%C3%98steng",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Ø. arbeider med blyant-, penn- og tusjtegninger, ofte sammen med tempera i en begrenset fargeskala av blå, gule eller røde valører. Motivene er stort sett hentet fra storbyens gateliv og miljø. Formspråket har utviklet seg fra en detaljrik naturalisme i en tynnstreket eller tettskravert teknikk i 1950-årene, til et mer impresjonistisk og mangfoldig uttrykk i bilder fra 1970-80-årene. Arbeidene fra disse årene preges av en utstrakt bruk av lysvirkninger over geometrisk stramme interiører og bymiljøer i kontrast til dynamikken og bevegelsen i menneskemylder og sykkelhjul. Ø. arbeider også med litografi. Han har flere ganger stilt ut sammen med sin kone Berit Ø.</p></div>",
+    "created_at": "2015-01-13T10:16:15.151+01:00",
+    "changed_at": "2024-06-18T23:28:30.218+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab124\",\"https://digitaltmuseum.no/5a550e46-c384-4c94-955d-96d2202fb421\",\"http://kulturnav.org/5a550e46-c384-4c94-955d-96d2202fb421\"]",
+        "lastname": "Østeng",
+        "firstname": "Hans",
+        "birth_date": "27.5.1928",
+        "birthplace": "Lillehammer",
+        "death_date": "0.0.1995",
+        "external_id": "person_8736ab124",
+        "kulturnav_id": "5a550e46-c384-4c94-955d-96d2202fb421",
+        "alternative_names": "Østeng, Hans Marius"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        },
+        {
+            "full_name": "Einar Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

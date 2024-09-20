@@ -1,0 +1,217 @@
+{
+    "id": 417312,
+    "headword": "Odd Einarson",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "karikaturtegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101863",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sigrid",
+                "lastname": "Einarson",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101861",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Petrus Johan",
+                "lastname": "Einarson",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101862",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Oline",
+                "lastname": "Olsen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Kragerø"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Søren Onsager 1940",
+                "order": "1"
+            },
+            {
+                "comment": "Akademie der bildenden Künste, München, under Olaf Gulbransson 1932",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studieopphold i Tyskland 1932"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Premie for beste reklametegning i Bergen, tidlig i 1930-årene"
+            },
+            {
+                "order": "2",
+                "description": "premie for beste karikatur av Maurice Chevalier, Tidens Tegn"
+            },
+            {
+                "order": "1",
+                "description": "premie for beste tegning av Henrik Ibsen, Bergens Aftenblad"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1927",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1931",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hanfstängel, München",
+                "from_date": "1932",
+                "order": "2",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1980-06-25",
+                "order": "5",
+                "to_date": "",
+                "description": "Hardanger",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-22",
+                "order": "4",
+                "to_date": "",
+                "description": "i Østlendingen",
+                "authors": [
+                    "Grønoset, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-20",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Hamar Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-06-23",
+                "order": "1",
+                "to_date": "",
+                "description": "Farsunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-06-28",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Agderposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-28",
+                "order": "6",
+                "to_date": "",
+                "description": "Hordaland",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-05",
+                "order": "0",
+                "to_date": "",
+                "description": "i Varden",
+                "authors": [
+                    "Stølan, A.H."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Odd Einarson",
+    "url": "https://nkl.snl.no/Odd_Einarson",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Alt tidlig i 1930-årene gjorde E. seg bemerket gjennom sine akvareller og postkort med samfunnssatirisk brodd. Han har videre vært utgiver og redaktør av de satiriske tidsskriftene Trollspeilet og Vartegn, samt utgiver av bladet Paragraf 100. I mer enn 50 år har han reist rundt i Norge og tegnet utallige karikaturer.</p></div>",
+    "created_at": "2013-07-03T20:44:08.377+02:00",
+    "changed_at": "2024-06-18T23:26:04.735+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab899\",\"https://digitaltmuseum.no/c18a3693-816e-4e54-a37b-22005df03cb4\",\"http://kulturnav.org/c18a3693-816e-4e54-a37b-22005df03cb4\"]",
+        "lastname": "Einarson",
+        "firstname": "Odd",
+        "birth_date": "21.6.1910",
+        "birthplace": "Bergen",
+        "death_date": "6.10.1991",
+        "external_id": "person_8736ab899",
+        "kulturnav_id": "c18a3693-816e-4e54-a37b-22005df03cb4",
+        "place_of_death": "Kragerø"
+    },
+    "authors": [
+        {
+            "full_name": "Astri Wright"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "karikaturtegner"
+        }
+    ]
+}

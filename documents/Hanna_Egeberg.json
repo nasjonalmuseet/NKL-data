@@ -1,0 +1,131 @@
+{
+    "id": 417264,
+    "headword": "Hanna Egeberg",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "pastellmaler"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101815",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sophie Cathrine",
+                "lastname": "Hesselberg",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101814",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Christian Fredrik",
+                "lastname": "Scheel",
+                "professions": [
+                    "visekonsul",
+                    "skipsreder"
+                ]
+            },
+            {
+                "from_date": "1837",
+                "type": "Gift med",
+                "external_id": "person_8736ab101816",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Peder Cappelen",
+                "lastname": "Egeberg",
+                "professions": [
+                    "rittmester"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [],
+        "travels": [],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1866",
+                "order": "0",
+                "to_date": "",
+                "title": "Skandinavisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1879",
+                "order": "1",
+                "to_date": "",
+                "title": "Kunstnerforeningens utstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1910",
+                "order": "0",
+                "reference": "s. 38",
+                "to_date": "",
+                "description": "Westye Egebergs slægt",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thomle, E.A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Hanna Egeberg",
+    "url": "https://nkl.snl.no/Hanna_Egeberg",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>E. har utført portretter i tegning og pastell.</p></div>",
+    "created_at": "2013-07-03T20:26:50.886+02:00",
+    "changed_at": "2024-06-18T23:26:03.552+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab874\",\"https://digitaltmuseum.no/3ab06188-33a3-48f9-b5da-995c11d9acd0\",\"http://kulturnav.org/3ab06188-33a3-48f9-b5da-995c11d9acd0\"]",
+        "lastname": "Egeberg",
+        "firstname": "Hanna",
+        "birth_date": "3.12.1813",
+        "birthplace": "Moss",
+        "death_date": "29.12.1874",
+        "external_id": "person_8736ab874",
+        "kulturnav_id": "3ab06188-33a3-48f9-b5da-995c11d9acd0",
+        "place_of_death": "Christiania",
+        "alternative_names": "Egeberg, Hanna Wilhelmine"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Wichstrøm"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "pastellmaler"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

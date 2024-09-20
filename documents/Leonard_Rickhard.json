@@ -1,0 +1,585 @@
+{
+    "id": 430155,
+    "headword": "Leonard Rickhard",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106570",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Birgit",
+                "lastname": "Andreassen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab106571",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Berit",
+                "lastname": "Sundby",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106569",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Leif",
+                "lastname": "Rickhard",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Arendal"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks og Kunstindustriskole, Oslo 1966–67",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo 1967–71",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Ragnhild Keysers legat 1976"
+            },
+            {
+                "order": "1",
+                "description": "Statens 3-årige arbeidsstipend 1978"
+            },
+            {
+                "order": "3",
+                "description": "Studieopphold i Paris 1972, foruten studiereiser til flere europeiske byer"
+            },
+            {
+                "order": "2",
+                "description": "Kunstnerforbundet, Oslos jub.stipend 1981"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre, jurymedlem 1980"
+            },
+            {
+                "order": "1",
+                "description": "medlem Den faste Jury 1979–82"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Statens Konstråd, Sverige"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Moderna Museet, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Landslaget Kunst i Skolen"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Den Norske Industribank"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Stavanger Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Christianssand Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Aust-Agder Museum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1983",
+                "order": "21",
+                "to_date": "",
+                "title": "Festspillutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo, Oslo",
+                "from_date": "1983",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1981",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1981",
+                "order": "19",
+                "to_date": "",
+                "title": "27 unge malere"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1977",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1974",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Zink",
+                "from_date": "1983",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1979",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsingfors konsthall",
+                "from_date": "1981",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Doktor Glas, Stockholm",
+                "from_date": "1983",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dobloug, Oslo",
+                "from_date": "1982",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "15",
+                "to_date": "",
+                "title": "Østersjø-biennalen i Rostock"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1972",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "6",
+                "to_date": "",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Fredrikstad Kunstforening",
+                "from_date": "1981",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Zink",
+                "from_date": "1981",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv/Separat",
+                "from_date": "1970",
+                "order": "5",
+                "to_date": "1972",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København, Cagnes-sur-Mer",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk kunst gjennom 60 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F15, Moss",
+                "from_date": "1970",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Fredrikstad Kunstforening",
+                "from_date": "1971",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Strømmen, Trondheim",
+                "from_date": "1972",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1970",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liljevalchs Konsthall, Stockholm",
+                "from_date": "1970",
+                "order": "8",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1972",
+                "order": "0",
+                "reference": "s. 61, 116",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "1",
+                "reference": "s. 128, 143",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-31",
+                "order": "16",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-07",
+                "order": "15",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-26",
+                "order": "14",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "3",
+                "reference": "s. 55–56",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "2",
+                "reference": "s. 114",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-09-02",
+                "order": "9",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "6",
+                "reference": "s. 46 (ill.)",
+                "to_date": "",
+                "description": "i Norsk maleri 70-tallet",
+                "place": "Oslo",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "5",
+                "reference": "nr. 4 s. 14–24 (ill.)",
+                "to_date": "",
+                "description": "i Kunst",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "4",
+                "reference": "s. 119",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "7",
+                "reference": "bd. 7, s. 233–35 (ill.)",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-11-11",
+                "order": "19",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-24",
+                "order": "13",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-09-09",
+                "order": "10",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Dæhlin, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-09-09",
+                "order": "11",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "8",
+                "to_date": "",
+                "description": "Gruppe Zink",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [
+                    "katalog Bergens Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977-09-26",
+                "order": "12",
+                "to_date": "",
+                "description": "i Fædrelandsvennen",
+                "authors": [
+                    "Opstad, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-31",
+                "order": "17",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Rostad, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-11-19",
+                "order": "18",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Rostad, B."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Leonard Rickhard",
+    "url": "https://nkl.snl.no/Leonard_Rickhard",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Ved debututstillingen i 1974 arbeidet R. hovedsakelig innenfor rammen av det nyrealistiske maleri. Hans særpreg bestod i en tilsynelatende objektiv og distansert holdning til motivene. Forut for dette lå imidlertid en rekke eksperimenter med virkemidlene, som en tid hadde gått i retning av abstrakt ekspresjonisme. Til tross for det tilbakeholdne og noe statiske i uttrykksformen eide de stille interiørene og landskapene en viss poesi. Men motivene kunne også tolkes som stillingstagen mot naturforsøpling, militærmakt og voldsbruk. Kraftlinjer og veier kunne bryte inn i landskapene, og Sørlands-skildringer ble tidvis preget av skepsis til idyllenes uforanderlighet. Figurer i interiører kunne virke isolerte, og uten følelse av kontakt med omgivelser og gjenstander fungerte de både som billedelementer og symboler. Ofte inngikk skrap og maskindeler i R.s landskaper, kanskje som symboler for en livsfiendtlig teknologi eller som visjoner av situasjonen etter en total krig. Det konkrete utgangspunktet kunne være barndomsinntrykk av landskap hvor tysk militær-materiell og konstruksjoner ennå kunne sees. En antimilitaristisk holdning gjorde seg etter hvert sterkere gjeldende, bl.a. i billedmessige redegjørelser for kaserner og leire, hvor grunnplaner og avtegninger av våpen og utstyr inngikk. Særlig på den første tegneutstillingen i 1982 gjorde slike motiver seg gjeldende. De eventuelt politiske holdningene i R.s bilder er likevel så diskrete og integrerte i helhetsvirkningen at han ikke kan betegnes som noen samfunnskritisk kunstner. Hans uttalte hensikt har vært konsentrasjon om formale og særlig koloristiske virkemidler. Tidligere fantes gjerne forholdsvis diffuse gjenstander og figurer i maleriene, men etter hvert er pregnant gjengitte scener med en nærmest statisk komposisjon blitt blant hans mest karakteristiske virkemidler. Fargebruken kan synes kraftig, men har ofte en tilsynelatende bevisst klangløshet. Med årene er bildenes stofflighet økt, og penselskriftens uttrykksbærende funksjon virker mer bevisst.</p>\n<p>R. benyttet tidligere gjerne smale, utpreget vertikale formater. Etter hvert har han søkt mot svært langstrakte billedflater som understreker virkningen av motivenes lave brakker, motorveier eller flate marker. Nøytrale felter omkring scenene og brede, mørke rammer skaper distanse til virkeligheten. R.s arbeider syntes tidligere preget av inntrykk fra Roger Bacon, Larry Rivers og John Salt. Senere er det særlig impulser fra Nicolas de Staël som gjør seg sterkest gjeldende. Fra 1981 har R. flere ganger stilt ut sammen med Bjørn Carlsen, Bjørg Holene og Ulf Nilsen i Gruppe Zink. Noe dypere fellesskap kan ikke alltid spores, men de fire arbeider alle i en figurativ form, gjerne med hovedvekten på koloritten. R.s bilder synes noe mindre utadvendte og fabulerende enn de øvriges.</p>\n</div>",
+    "created_at": "2014-11-20T11:33:40.774+01:00",
+    "changed_at": "2024-06-18T23:27:50.703+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3229\",\"https://digitaltmuseum.no/9198e81f-727a-4ae7-b623-3c5766deab5f\",\"http://kulturnav.org/9198e81f-727a-4ae7-b623-3c5766deab5f\"]",
+        "lastname": "Rickhard",
+        "firstname": "Leonard",
+        "birth_date": "12.5.1945",
+        "birthplace": "Tvedestrand",
+        "death_date": "7.1.2024",
+        "external_id": "person_8736ab3229",
+        "kulturnav_id": "9198e81f-727a-4ae7-b623-3c5766deab5f",
+        "place_of_death": "Arendal"
+    },
+    "authors": [
+        {
+            "full_name": "Gunnar Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

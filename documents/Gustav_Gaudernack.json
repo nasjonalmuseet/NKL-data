@@ -1,0 +1,480 @@
+{
+    "id": 415903,
+    "headword": "Gustav Gaudernack",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "gullsmed"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102437",
+                "birth_date": "1836",
+                "death_date": "1894",
+                "firstname": "Florian",
+                "lastname": "Gaudernack",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102438",
+                "birth_date": "1837",
+                "death_date": "1911",
+                "firstname": "Anna Marie",
+                "lastname": "Dietrich",
+                "professions": []
+            },
+            {
+                "from_date": "1895",
+                "type": "Gift med",
+                "external_id": "person_8736ab102439",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna Kristine Holmstrøm",
+                "lastname": "Gaudernack",
+                "professions": [],
+                "place": "(Kristiania"
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Norge"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "svenneprøve som gullsmed 1910",
+                "order": "4"
+            },
+            {
+                "comment": "Kunst- og Håndverksskolen i Wien 1888–91",
+                "order": "3"
+            },
+            {
+                "comment": "Eksamen fra Borgerskolen i Tetschen 1880",
+                "order": "0"
+            },
+            {
+                "comment": "avdelingen for industriell tegning på fagskolen for glass- og metallindustri i Steinschönau 1880-81",
+                "order": "1"
+            },
+            {
+                "comment": "keramikkfagskolen i Tetschen 1885/86-87",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statsstipend 1907 for å studere undervisningsmetoder ved de ledende europeiske fagskoler i Tyskland, Paris (3 md.) og London. Reise til Paris 1900 for å besøke Verdensutstillingen"
+            },
+            {
+                "order": "1",
+                "description": "reise til Paris, via København, Berlin, Hanau og Pforzheim 1906"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "7",
+                "description": "overlærer ved den nyopprettede gullsmedklassen ved Den kgl. Tegneskole 1912-14"
+            },
+            {
+                "order": "2",
+                "description": "vikariat som lærer ved skolen for glassindustri i Haida 1889"
+            },
+            {
+                "order": "3",
+                "description": "knyttet til glassfirmaet Lobmeyr i Wien som tegner ca. 1890–1891"
+            },
+            {
+                "order": "4",
+                "description": "tegner ved Christiania Glasmagasin 1891 - ca. 1898"
+            },
+            {
+                "order": "5",
+                "description": "tegner og modellør hos David-Andersen 1892–1910"
+            },
+            {
+                "order": "0",
+                "description": "Ansatt hos A.T. Frenzel, glassraffineri og lampefabrikk i Steinschönau 1880–84"
+            },
+            {
+                "order": "6",
+                "description": "undervisningsassistent i håndverksklassen Den kgl. Tegneskoles aftenskole fra 1897"
+            },
+            {
+                "order": "1",
+                "description": "tegner hos Gustav Miller, Bodenbach 1886–87"
+            }
+        ],
+        "awards": [
+            {
+                "order": "3",
+                "description": "gullmedalje på Jubileumsutstillingen i 1914, Kristiania"
+            },
+            {
+                "order": "2",
+                "description": "Grand Prize på Verdensutstillingen i St. Louis 1904"
+            },
+            {
+                "order": "0",
+                "description": "Medarbeiderdiplom på Stockholmsutstillingen 1897"
+            },
+            {
+                "order": "1",
+                "description": "sølvmedalje på Verdensutstillingen i Paris 1900;"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Det Kgl. Slott, Oslo"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1898",
+                "order": "1",
+                "to_date": "",
+                "title": "Landsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1897",
+                "order": "0",
+                "to_date": "",
+                "title": "Allmänna Konst- och Industriutställningen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "St. Louis",
+                "from_date": "1904",
+                "order": "3",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "2",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1907",
+                "order": "4",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1910",
+                "order": "5",
+                "to_date": "",
+                "title": "Landsutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1897",
+                "order": "10",
+                "reference": "s. 32",
+                "to_date": "",
+                "description": "Norsk tidsskrift for haandverk og industri",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "9",
+                "reference": "s. 40–52 (ill.)",
+                "to_date": "",
+                "description": "Norsk Art Nouveau",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "15",
+                "reference": "s. 139",
+                "to_date": "",
+                "description": "Gullsmedkunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "13",
+                "reference": "s. 266",
+                "to_date": "",
+                "description": "Norsk tidsskrift for haandverk og industri",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "14",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Norsk tidsskrift for haandverk og industri",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1898",
+                "order": "11",
+                "reference": "s. 113",
+                "to_date": "",
+                "description": "Norsk tidsskrift for haandverk og industri",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "16",
+                "reference": "s. 72-73",
+                "to_date": "",
+                "description": "Gullsmedkunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "12",
+                "reference": "s. 384",
+                "to_date": "",
+                "description": "Norsk tidsskrift for haandverk og industri",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "6",
+                "reference": "s. 62 (ill.), s. 68–70 (ill.)",
+                "to_date": "",
+                "description": "Hadelandsglass 1850–1900",
+                "place": "Oslo",
+                "authors": [
+                    "Lie, I.-M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "5",
+                "reference": "register",
+                "to_date": "",
+                "description": "David-Andersen - 100 år i norsk gullsmedkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "4",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo - En kavalkade av aktuell kunstindustri gjennom hundre år",
+                "title": "Libelleskålen 1909",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "1",
+                "reference": "fig. 8, 9, 11, 12, 14, 18, 19, 20, 21, 22, 24",
+                "to_date": "",
+                "description": "David-Andersen 1876–1951",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "7",
+                "to_date": "",
+                "description": "Gustav Gaudernack - en europeer i norsk jugend",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "8",
+                "to_date": "",
+                "description": "Oslo-sølv i 400 år",
+                "title": "Bare se, men ikke røre, og Jubileumsår og jobbetid",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "2",
+                "to_date": "",
+                "description": "Årbok for Kunstindustrimuseet i Oslo 1959–62",
+                "title": "Gustav Gaudernack. Tegninger og utførte arbeider",
+                "place": "Oslo",
+                "authors": [
+                    "Bøe, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "3",
+                "reference": "register",
+                "to_date": "",
+                "description": "Gullsmedkunsten i Norge før og nå",
+                "place": "Oslo",
+                "authors": [
+                    "Polak, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "0",
+                "reference": "s. 154–55",
+                "to_date": "",
+                "description": "Gullsmedmestre i Oslo i de siste hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Prytz, E.K."
+                ],
+                "comments": [
+                    "m.fl"
+                ],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1978",
+                "order": "17",
+                "reference": "s. 15–16, 42, 80–83, 116, 130–134, 146–162",
+                "to_date": "",
+                "title": "Norsk Emaljekunst 1880–1914",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Gustav Gaudernack",
+    "url": "https://nkl.snl.no/Gustav_Gaudernack",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>G. må kalles en av Norges aller første designere, i ordets moderne betydning. Hans utdannelse var sterkt spesialisert nettopp på formgiving innen håndverksbedrifter og industri. Etter å ha arbeidet som tegner hos glassfirmaet Lobmeyr i Wien, kom han i 1891 til Norge som tegner på Christiania Glasmagasin. Hans oppgaver der var todelt. Han skulle dels tegne finere glassarbeider for Hadelands Glasverk, dels komme med utkast til lampemodeller for Høvik Verk. Hans glass er tydelig inspirert av østerriksk glasskunst, mens lampene er utført i dragestil. G. er mest kjent for sitt virke som designer hos David-Andersen i tidsrommet 1892–1910. Han tilførte firmaet internasjonale impulser. Hans modeller var moderne og av høy kunstnerisk kvalitet. Han la for dagen en stor allsidighet og tegnet de forskjelligste gjenstandstyper. Selv om han var spesielt opptatt av emalje, var han like fortrolig med rene sølvgjenstander.</p>\n<p>I G.s nesten tjue-årige produksjon hos David-Andersen kan vi se klart atskilte stilperioder. I 1890-årene arbeidet han i historismens formspråk, nyrokokko, nyrenessanse og nyempire. Formene er sikkert tegnet, og dekoren er aldri så rik og dominerende at den ødelegger formen. Allerede i 1895 var G. fullt fortrolig med dragestilen. I sine mange dragestilsarbeider unngikk han de banale nasjonale dekorasjonsdetaljene som man finner så mye av fra denne tiden. Hans arbeider i dragestil har noe mektig og staselig over seg. Både drager og romanske bladranker er stilisert i så sterkt personlig grad, at dekoren får et helt individuelt preg. Dekoren virker aldri overveldende og er fullstendig underlagt formen. G. står som en av de fremste representanter for dragestilen i Norge. Rundt 1900 gikk G. over til å arbeide i art nouveau-stilen. Blomster- og insektmotiver og den mykt bølgende linjeføringen passet utmerket til hans kunstneriske legning. Og det var som art nouveau-kunstner G. fikk sitt internasjonale gjennombrudd. Hans vindusemaljearbeider står som et av Norges viktigste bidrag til den europeiske art nouveau-stil. <em>Libelleskålen</em> (Kunstindustrimuseet i Oslo), er G.s kanskje best kjente arbeide. Mellom 1901 og 1908 tegnet han en lang rekke vaser og lamper i vindusemalje. Fordi han selv var teknisk interessert, utarbeidet han nye fremgangsmåter som satte David-Andersens emaljeverksted i stand til å utføre hans tegninger.</p>\n<p>I tillegg til emaljearbeidene tegnet G. også en rekke karakteristiske sølvarbeider i art nouveau-stil. I 1910 startet han sitt eget emaljeverksted. Her konsentrerte han produksjonen hovedsakelig om arbeider i speilemalje og maleremalje. Dekorer og gjenstandsformer var inspirert av art nouveau-stilen, men de var strammet noe opp og hadde et visst Louis-seize-preg. G. viste en stor kolleksjon på Jub.utstillingen på Frogner i 1914. For denne oppnådde han gullmedalje. G. gjorde også en viktig innsats i arbeidet for å opprette en egen fagundervisning for gullsmeder i Norge. Med dette for øyet la han ut på en lengre studiereise i 1907. I 1912 ble det så opprettet en gullsmedklasse på Den kgl. Tegneskole der undervisningen var lagt opp etter de mest moderne prinsipper. G. ble klassens første overlærer.</p>\n</div>",
+    "created_at": "2013-07-03T13:25:51.206+02:00",
+    "changed_at": "2024-06-18T23:25:27.169+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1181\",\"https://digitaltmuseum.no/a54bdc2a-74f8-453d-a9c3-e2d9802c3295\",\"http://kulturnav.org/a54bdc2a-74f8-453d-a9c3-e2d9802c3295\"]",
+        "lastname": "Gaudernack",
+        "firstname": "Gustav",
+        "birth_date": "9.10.1865",
+        "birthplace": "Binsdorf, Böhmen (den gang Østerrike)",
+        "death_date": "31.7.1914",
+        "external_id": "person_8736ab1181",
+        "kulturnav_id": "a54bdc2a-74f8-453d-a9c3-e2d9802c3295",
+        "place_of_death": "Christiania",
+        "alternative_names": "Gaudernack, Florian Gustav"
+    },
+    "authors": [
+        {
+            "full_name": "Jan-Lauritz Opstad"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15837/standard_NMK-D_OK-0739920130725-13675-osxqtu.jpg",
+            "full_size_url": "https://media.snl.no/media/15837/NMK-D_OK-0739920130725-13675-osxqtu.jpg",
+            "xhtml": "<div>\r\n<p>Pokal, 1898. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Gustav Gaudernack",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "gullsmed"
+        }
+    ]
+}

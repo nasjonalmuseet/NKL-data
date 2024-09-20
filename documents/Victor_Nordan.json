@@ -1,0 +1,910 @@
+{
+    "id": 430156,
+    "headword": "Victor Nordan",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab2922",
+                "birth_date": "25.02.1826",
+                "death_date": "24.11.1903",
+                "firstname": "Henriette Dorothea Henius",
+                "lastname": "Nordan",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab2923",
+                "birth_date": "23.02.1824",
+                "death_date": "10.04.1892",
+                "firstname": "Jacob Wilhelm",
+                "lastname": "Nordan",
+                "professions": [
+                    "arkitekt"
+                ]
+            },
+            {
+                "from_date": "1897",
+                "to_date": "1933",
+                "type": "Gift med",
+                "external_id": "person_8736ab105941",
+                "birth_date": "1875",
+                "death_date": "1933",
+                "firstname": "Emilie Marie",
+                "lastname": "Kjos-Hanssen",
+                "professions": [],
+                "place": "Spydeberg"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "assistent ved farens arkitektkontor, samtidig elev ved Den kgl. Tegneskole 1881–84",
+                "order": "2"
+            },
+            {
+                "comment": "examen philosophicum 1881",
+                "order": "1"
+            },
+            {
+                "comment": "assistent ved arkitektkontor i London, samtidig egne studier ved South Kensington (nå Victoria and Albert) Museum 1884–85",
+                "order": "3"
+            },
+            {
+                "comment": "Examen artium 1880",
+                "order": "0"
+            },
+            {
+                "comment": "Königlich Technische Hochschule, Charlottenburg, Berlin to semestre 1886–87",
+                "order": "4"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "reise til Tyskland 1914"
+            },
+            {
+                "order": "3",
+                "description": "og i England og USA 1899"
+            },
+            {
+                "order": "1",
+                "description": "studerte sykehus i Sverige, Danmark, Tyskland og Østerrike 1895"
+            },
+            {
+                "order": "0",
+                "description": "Reise til Finland og St. Petersburg 1892"
+            },
+            {
+                "order": "2",
+                "description": "studerte bankbygninger i Tyskland, Frankrike og Belgia 1898"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "6",
+                "description": "formann arrangementskomitéen for kongeinntoget 1905"
+            },
+            {
+                "order": "0",
+                "description": "Medlem Polyteknisk Forening fra 1888"
+            },
+            {
+                "order": "4",
+                "description": "medlem Kristiania formannskap 1899–1901 og bystyret 1901–07"
+            },
+            {
+                "order": "2",
+                "description": "viseformann Den norske Ingeniør- og Arkitektforening og formann arkitektgruppen samme sted 1897"
+            },
+            {
+                "order": "9",
+                "description": "jurymedlem ved en rekke større arkitektkonkurranser"
+            },
+            {
+                "order": "7",
+                "description": "formann den sakkyndige kommisjon for Akershus Slotts gjenreisning 1907–21"
+            },
+            {
+                "order": "3",
+                "description": "medlem Den norske Ingeniør- og Arkitektforenings komité for utarbeidelse av arkitektkonkurranseregler 1900–02"
+            },
+            {
+                "order": "5",
+                "description": "medlem Kristiania kommunes komité for reform av den tekniske administrasjon 1904"
+            },
+            {
+                "order": "8",
+                "description": "finansråd i Norske Arkitekters Landsforbund 1930–33"
+            },
+            {
+                "order": "1",
+                "description": "sekretær Den norske Ingeniør- og Arkitektforening arkitektgruppen 1891–92"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Kongens fortjenstmedalje i gull 1922"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Sykehus: Diakonissehuset, Lovisenberggt. 15 (1894)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Norges Bank, Fredrikstad (1914–16)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Larvik (1908–09)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Rikshospitalets kvinneklinikk (1914, sammen med I. O. Hjorth)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "leiegård, Skovvn. 18 (1890-årene)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Dikemark i Asker (ferdig 1905), vaktavd. for urolige kvinner (1936, sammen med Per Nordan)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Rogaland fylkessykehus, Stavanger (1920–27)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Hedmark fylkessykehus, Elverum (ca. 1920)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "I Oslo når annet ikke er nevnt. Større om- og tilbygning for generalkonsul Butenschøn, Øvre Skøyen i Vestre Aker (1894–95)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Stavanger (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Martina Hansens hospital, Bærum (1931–36) sammen med Per Nordan"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Haukeland i Bergen (1907–11), statens kvinneklinikk samme sted (ca. 1920, sammen med arkitekt Davidsen)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Lykling, Moster (1916)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Plassen, Trysil (1907)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Evenstad, Stor-Elvdal (1904)"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Kroken, Drangedal (1910)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Einar Lindboes privatklinikk, senere Oslo komm. kvinneklinikk, Josefines gt. 30 (1915)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Ullevål sykehus (1897–1926)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "egne villaer for pasienter ved Gaustad og Dikemark sykehus"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Aker (1910–14, 1919–25), kirurgisk avd. (1924)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Kirker: Grymyr, Gran (1899)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Norges Bank, Hamar (1901)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "støperibygning, Schweigaards gt. 16–17 (1898)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Stensby i Eidsvoll (ca. 1920)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Haugesund (ca. 1920)"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Hæstad, Dønna (1913)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Holøydal, Tolga (1908)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Heskestad, Dalane (1904)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Bjordal, Sogn (1906)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Karikaturtegning gjengitt i Byggekunst 1956 s. 118"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1916",
+                "order": "3",
+                "reference": "s. 137",
+                "to_date": "",
+                "description": "Norske ingeniører og arkitekter",
+                "place": "Kr.",
+                "authors": [
+                    "Fougner, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-02-24",
+                "order": "6",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "27",
+                "reference": "s. 155, 280 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "21",
+                "reference": "register s. 232 (ill.)",
+                "to_date": "",
+                "description": "Oslo. En arkitekturguide",
+                "place": "Oslo",
+                "authors": [
+                    "Gunnarsjaa, A.",
+                    "Engh, P. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890",
+                "order": "37",
+                "reference": "s. 65",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "register s. 269",
+                "to_date": "",
+                "description": "Norske kyrkjer",
+                "place": "Oslo",
+                "authors": [
+                    "Muri, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "1",
+                "reference": "s. 226-28",
+                "to_date": "",
+                "description": "Studentene fra 1880",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "23",
+                "reference": "s. 110",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "8",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932-05-12",
+                "order": "9",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "25",
+                "reference": "s. 89",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "35",
+                "reference": "s. 52",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "44",
+                "reference": "arkitektavdelingen s. 52",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "30",
+                "reference": "s. 104–10 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "14",
+                "reference": "bd. 10, s. 190",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "46",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [
+                    "s 293, 384, 560"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "18",
+                "reference": "s. 177–90",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "32",
+                "reference": "s. 118",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "16",
+                "reference": "register s. 687",
+                "to_date": "",
+                "description": "Skiens historie",
+                "place": "(Skien",
+                "authors": [
+                    "Seierstad, I.",
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "42",
+                "reference": "s. 151–53, 300, 450",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "40",
+                "reference": "s. 313, 424",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "12",
+                "reference": "bd. 4, register s. 418",
+                "to_date": "",
+                "description": "Aker 1837-1937",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "34",
+                "reference": "s. 201",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "28",
+                "reference": "s. 33, 70, tillegg s. 70",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "2",
+                "reference": "bd. 1, s. 514–15 (ill.)",
+                "to_date": "",
+                "description": "Bergen 1814-1914",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889",
+                "order": "36",
+                "reference": "s. 55",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-05-11",
+                "order": "5",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "0",
+                "reference": "bilag s. 3, 10",
+                "to_date": "",
+                "description": "Norsk Teknisk Tidsskrift",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1895",
+                "order": "38",
+                "reference": "s. 199–200 (ill.)",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "7",
+                "reference": "bd. 17, s. 1079",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "24",
+                "reference": "s. 32, 57–63, 86 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "20",
+                "reference": "s. 89",
+                "to_date": "",
+                "description": "Bidrag til Stavangers arkitekturhistorie mellom 1880 og 1930, Stavanger Museum årbok",
+                "authors": [
+                    "Sørby, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "22",
+                "reference": "s. 188",
+                "to_date": "1920",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "10",
+                "reference": "s. 11–29 (ill.)",
+                "to_date": "",
+                "description": "Ullevål sykehus 1887-1937",
+                "place": "Oslo",
+                "authors": [
+                    "Klaveness, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "26",
+                "reference": "s. 143",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "43",
+                "reference": "s. 287",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "29",
+                "reference": "s. 96, tillegg s. 12",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "45",
+                "reference": "s. 40, 47, 70, 114, 308, arkitektavdelingen s. 16",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "41",
+                "reference": "s. 230",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "13",
+                "reference": "s. 584",
+                "to_date": "",
+                "description": "Hamars historie",
+                "place": "Hamar",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "reference": "s. 49–60 (ill.)",
+                "to_date": "",
+                "description": "Dikemark sykehus 1905-1955",
+                "authors": [
+                    "Mamen, H. C. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "4",
+                "reference": "s. 669",
+                "to_date": "",
+                "description": "Illustrert biografisk leksikon",
+                "place": "(Kristiania",
+                "authors": [
+                    "With, N."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "31",
+                "reference": "s. 66 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "17",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "11",
+                "reference": "s. 132–35 (ill.)",
+                "to_date": "",
+                "description": "Rogaland fylke gjennom 100 år",
+                "place": "Stavanger",
+                "authors": [
+                    "Aurenes, O. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "33",
+                "reference": "s. 121, tillegg s. 21",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1897",
+                "order": "39",
+                "reference": "s. 71, 302__-;03",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1974",
+                "order": "47",
+                "to_date": "",
+                "description": "Bevaringsplan for Kristiania",
+                "authors": [],
+                "comments": [
+                    "Forening til Norske Fortidsminners Bevaring, Oslo og Akershus avd. (utg.)mangfoldiggjort manuskriptbd. 1–2"
+                ],
+                "archives": []
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Victor Nordan",
+    "url": "https://nkl.snl.no/Victor_Nordan",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>N. ble kompanjong ved farens arkitektkontor i Kristiania 1887 og overtok firmaet ved dennes død i 1892, fra 1926 med sønnen Per N. som kompanjong. Han var lærer i frihåndstegning ved Kristiania tekniske aftenskole 1889–95 og ved Den kgl. Tegneskole.</p>\n<p>Det er vanskelig å skille ut N.s tidlige arbeider fordi de gjerne ble signert av faren, men det later til at firmaets arbeider fikk en ny form- og materialrikdom mer i pakt med 1880- og 1890-årenes idealer etter at han gikk inn i firmaet, f.eks. i den store tomannsvillaen <em>Uranienborgvn. 2</em> (1886–87), <em>Oslo tekniske skole</em> (1888-89) og varemagasinet <em>Kongens gt. 22</em> (1891–93). Ved om- og tilbyggingen av den herskapelige hovedbygningen på <em>Øvre Skøyen</em> i Aker (1894–95) benyttet han hele marmorblokker i stedet for de tynnere stenplatene man vanligvis benyttet til fasadekledning. N.s store spesialitet ble ganske snart sykehus. Blant de større og mer kjente er den store utbyggingen av <em>Ullevål</em></p>\n<p> i Oslo (1897–1926), <em>Haukeland</em> i Bergen  (1907–11) og <em>Dikemark</em> i Asker (ferdig 1905, utvidet 1920-årene). Ullevål sykehus er markant med sine fasader i gul og rød tegl og for øvrig utført i forholdsvis enkle former, mens porttårnet med tilstøtende administrasjons- og apotekbygning, oppført i 1920-årene, røper en konservatisme i formspråket som ofte kjennetegner N.s arbeider. Det siste skyldes nok ofte lang planleggings- og byggetid for disse store anleggene.</p>\n</div>",
+    "created_at": "2014-11-20T11:33:53.980+01:00",
+    "changed_at": "2024-06-18T23:27:50.730+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2926\",\"https://digitaltmuseum.no/f67bdaab-d485-47d8-9a6b-515554fc75cc\",\"http://kulturnav.org/f67bdaab-d485-47d8-9a6b-515554fc75cc\"]",
+        "lastname": "Nordan",
+        "firstname": "Victor",
+        "birth_date": "13.5.1862",
+        "birthplace": "Christiania",
+        "death_date": "8.5.1933",
+        "external_id": "person_8736ab2926",
+        "kulturnav_id": "f67bdaab-d485-47d8-9a6b-515554fc75cc",
+        "place_of_death": "Oslo",
+        "alternative_names": "Nordan, Victor"
+    },
+    "authors": [
+        {
+            "full_name": "Jens Christian Eldal"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20342/standard_NMK-A_NMK.2009.0053.001.00120151204-26003-ckdpi8.jpg",
+            "full_size_url": "https://media.snl.no/media/20342/NMK-A_NMK.2009.0053.001.00120151204-26003-ckdpi8.jpg",
+            "xhtml": "<div><p><i>Ullevåls sykehusanlegg – Medisinsk avdeling og rekonvalesenshjem. Detaljtegning, fasade og snitt</i>. Victor Nordan. <a href=\"http://digitaltmuseum.no/011072539783\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Victor Nordan",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20343/standard_NMK-A_NMK.2009.0053.001.00220151204-26003-1pxcqrq.jpg",
+            "full_size_url": "https://media.snl.no/media/20343/NMK-A_NMK.2009.0053.001.00220151204-26003-1pxcqrq.jpg",
+            "xhtml": "<div><p><i>Ullevåls sykehusanlegg – Medisinsk avdeling og rekonvalesenshjem. Fasade og snitt</i>. Victor Nordan. <a href=\"http://digitaltmuseum.no/011072539784\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Victor Nordan",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20344/standard_NMK-A_NMK.2009.0053.002.00120151204-26003-dc9vp7.jpg",
+            "full_size_url": "https://media.snl.no/media/20344/NMK-A_NMK.2009.0053.002.00120151204-26003-dc9vp7.jpg",
+            "xhtml": "<div><p><i>Tyssefaldene kraftstasjon</i>. Victor Nordan. <a href=\"http://digitaltmuseum.no/011072539786\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Victor Nordan",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

@@ -1,0 +1,591 @@
+{
+    "id": 416229,
+    "headword": "Dagfinn Bakke",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100483",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ågot",
+                "lastname": "Bakke",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100484",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Oskar",
+                "lastname": "Bakke",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Svolvær"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Selvlært",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens garantiinntekt fra 1977"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "3",
+                "description": "Nord-Norske Bildende Kunstnere"
+            },
+            {
+                "order": "5",
+                "description": "medlem av juryen samme sted 1973"
+            },
+            {
+                "order": "1",
+                "description": "Medlem av Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "6",
+                "description": "Tidligere styremedlem i Atelier Lofoten, Svolvær og formann i utstillingkomiteen samme sted"
+            },
+            {
+                "order": "4",
+                "description": "Tidligere medlem av Nord-Norske Bildende Kunstneres valgkomité og kontrollkomité"
+            },
+            {
+                "order": "2",
+                "description": "Tegnerforbundet"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Harstad sykehus"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Nordland sentralsykehus, Bodø"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Norrbottens län, Luleå"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Harstad Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Norsk Rikskringkasting, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Lofoten Nordic Hotel og Størmers konditori, Svolvær"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "TV-serien bygd over R. Normanns eventyrsamling Ringelihorn"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "en rekke bøker, deriblant bøkene om Oluf i Rallkattlia"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1977",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Harstad",
+                "from_date": "1976",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bodø",
+                "from_date": "1972",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "",
+                "from_date": "1957",
+                "order": "12",
+                "to_date": "",
+                "title": "N-n.utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1966",
+                "order": "14",
+                "to_date": "",
+                "title": "Tegnerforbundet Juleutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Torneå, Finland",
+                "from_date": "1970",
+                "order": "16",
+                "to_date": "1971",
+                "title": "Nordkalottutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "10",
+                "to_date": "1972",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Svolvær",
+                "from_date": "1968",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nord-Norge, Harstad",
+                "from_date": "1975",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Seljord",
+                "from_date": "1977",
+                "order": "26",
+                "to_date": "",
+                "title": "Sommerutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norrbottens Museum, Luleå, Sverige",
+                "from_date": "1977",
+                "order": "24",
+                "to_date": "",
+                "title": "Sex Lofoten-konstnärer"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "",
+                "from_date": "1972",
+                "order": "18",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "",
+                "from_date": "1977",
+                "order": "25",
+                "to_date": "",
+                "title": "Sortland Kunstforenings Jubileumsutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sør-Varanger Kunstforening",
+                "from_date": "1977",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Melbu",
+                "from_date": "1973",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Svolvær",
+                "from_date": "1970",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tromsø Kunstforening",
+                "from_date": "1978",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "",
+                "from_date": "1966",
+                "order": "13",
+                "to_date": "",
+                "title": "Tegnerforbundet Vår- og vandreutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Montreal, Canada",
+                "from_date": "1969",
+                "order": "15",
+                "to_date": "",
+                "title": "International Salon of Cartoons"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Athen og Vest-Berlin",
+                "from_date": "1975",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Svolvær",
+                "from_date": "1966",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "11",
+                "to_date": "1978",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bildende Kunstneres Styre",
+                "from_date": "1971",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Svolvær, Målselv og Bodø",
+                "from_date": "1979",
+                "order": "27",
+                "to_date": "",
+                "title": "Nord-norske eventyrtegninger"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1977",
+                "order": "23",
+                "to_date": "",
+                "title": "Nord-Norske Bildende Kunstnere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "",
+                "from_date": "1974",
+                "order": "19",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1978",
+                "order": "2",
+                "reference": "s. 13–22",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Ole Juul",
+                "authors": [
+                    "Bakke, Dagfinn"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenposten, Lofotposten",
+                "authors": [
+                    "Bakke, Dagfinn"
+                ],
+                "comments": [
+                    "og artikler i andre aviser"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "0",
+                "to_date": "",
+                "description": "Du verden",
+                "place": "Tromsø",
+                "authors": [
+                    "Bakke, Dagfinn"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "1",
+                "reference": "s. 322–336",
+                "to_date": "",
+                "description": "Nordland",
+                "title": "Lofoten i billedkunsten",
+                "place": "Oslo",
+                "authors": [
+                    "Bakke, Dagfinn"
+                ],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1972",
+                "order": "4",
+                "reference": "s. 116",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-08",
+                "order": "16",
+                "to_date": "",
+                "description": "Nordlandsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-05-18",
+                "order": "8",
+                "to_date": "",
+                "description": "Finnmarken",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "7",
+                "reference": "s. 196",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-03-15",
+                "order": "5",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Fjørtoft, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-29",
+                "order": "17",
+                "to_date": "",
+                "description": "Nye Troms",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-11-24",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F.",
+                    "Gaup, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-12-06",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Nordlys",
+                "authors": [
+                    "Pollestad, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-06-17",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nordlands Framtid",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-26",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Lofotposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "14",
+                "reference": "s. 55, 57 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-10",
+                "order": "11",
+                "to_date": "",
+                "description": "i Lofotposten",
+                "authors": [
+                    "Jenssen, F.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-12-01",
+                "order": "10",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-12-02",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tromsø",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Dagfinn Bakke",
+    "url": "https://nkl.snl.no/Dagfinn_Bakke",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>B. begynte i 19-årsalderen å tegne for Magasinet for alle, som han var knyttet til i en årrekke. Han har også illustrert andre blader, bøker og TV-programmer, og fra 1956 har han vært fast tegner i Lofotposten. B. har ellers redigert bøker og gjennom mange år skrevet artikler i dagspressen, fortrinnsvis om kunst og kunstnere i nord-norsk sammenheng.</p>\n<p>I sine tusjmalerier, akvareller og tegninger henter B. motiver fra nord-norsk natur og dagligliv, som han skildrer i et naturalistisk formspråk.</p>\n</div>",
+    "created_at": "2013-07-03T14:42:54.188+02:00",
+    "changed_at": "2024-06-18T23:25:36.066+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab231\",\"https://digitaltmuseum.no/b744640e-e27d-4b0c-996e-2324dc2eb18a\",\"http://kulturnav.org/b744640e-e27d-4b0c-996e-2324dc2eb18a\"]",
+        "lastname": "Bakke",
+        "firstname": "Dagfinn",
+        "birth_date": "16.8.1933",
+        "birthplace": "Lødingen",
+        "external_id": "person_8736ab231",
+        "kulturnav_id": "b744640e-e27d-4b0c-996e-2324dc2eb18a",
+        "alternative_names": "Bakke, Dagfinn Ingolf"
+    },
+    "authors": [
+        {
+            "full_name": "Bodil Sørensen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

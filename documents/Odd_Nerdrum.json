@@ -1,0 +1,1940 @@
+{
+    "id": 429933,
+    "headword": "Odd Nerdrum",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105781",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johan",
+                "lastname": "Nerdrum",
+                "professions": null
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105782",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Edith Marie",
+                "lastname": "Biørnstad",
+                "professions": null
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein 1962–63 og Alexander Schultz 1963–65",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole radér- og litografklassen 1963",
+                "order": "1"
+            },
+            {
+                "comment": "Staatliche Kunstakademie, Düsseldorf under Joseph Beuys 1965",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens kunstfond 1967"
+            },
+            {
+                "order": "1",
+                "description": "Dr. H. Evensens legat 1968"
+            },
+            {
+                "order": "2",
+                "description": "3%-fondets stipend 1970"
+            },
+            {
+                "order": "3",
+                "description": "Statens reisestipend 1972"
+            },
+            {
+                "order": "4",
+                "description": "Statens 3-årige arbeidsstipend 1976"
+            },
+            {
+                "order": "5",
+                "description": "Studiereiser til en rekke europeiske land, særlig Italia"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Universitetet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Århus kommune"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Hessisches Landesmuseum, Hessen"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Tønsberg Kunstforening"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Odd Nerdrum. Kulltegninger, Oslo 1978"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1967",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1970",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1973",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1976",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1980",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1984",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "SAS-galleri, 5. Avenue, New York",
+                "from_date": "1968",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 1, Bergen",
+                "from_date": "1971",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Hav og himmel, Gall. 27, Oslo",
+                "from_date": "1972",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Tanum, Oslo",
+                "from_date": "1977",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Tanum, Oslo",
+                "from_date": "1979",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Tanum, Oslo",
+                "from_date": "1980",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandnes, Rælingen og Lillestrøm kunstforeninger",
+                "from_date": "1982",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bedford Way Galleri, London",
+                "from_date": "1982",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Sølvberg, Arendal",
+                "from_date": "1982",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lills kunstbod, Kongsberg",
+                "from_date": "1982",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Eidsvoll Kunstforening",
+                "from_date": "1982",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Atelier Lofoten, Svolvær",
+                "from_date": "1982",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Moss Kunstgalleri",
+                "from_date": "1983",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Bjørn, Skien",
+                "from_date": "1983",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Norway",
+                "from_date": "",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "In the Romantic Tradition, Gall. Bellman, New York",
+                "from_date": "1983",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Engen, Brandbu",
+                "from_date": "1983",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Ismene, Trondheim",
+                "from_date": "1983",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "24",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "25",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "26",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "27",
+                "to_date": "1975",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "28",
+                "to_date": "1980",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vårutstilling",
+                "from_date": "1966",
+                "order": "29",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vårutstilling",
+                "from_date": "1968",
+                "order": "30",
+                "to_date": "1969",
+                "title": "Unge Kunstneres Samfunn"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vårutstilling",
+                "from_date": "1978",
+                "order": "31",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1964",
+                "order": "32",
+                "to_date": "",
+                "title": "juniutstilling 7 yngre malere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk ungdomsbiennale, Kunstnernes Hus",
+                "from_date": "1970",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening 1970",
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "title": "Romantikk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1971",
+                "order": "35",
+                "to_date": "",
+                "title": "Romantik. Realisme"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tema medmennesker, Oslo Kunstforening",
+                "from_date": "1974",
+                "order": "36",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ungt Norge, Södertälje Konsthall",
+                "from_date": "1974",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Realisme och Romantik, Norrköping",
+                "from_date": "1974",
+                "order": "38",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "39",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ny nordisk romantik?, Lunds Konsthall",
+                "from_date": "1975",
+                "order": "40",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ungt norsk uttrykk, Gall. F 15, Moss",
+                "from_date": "1976",
+                "order": "41",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "",
+                "from_date": "",
+                "order": "42",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1978",
+                "order": "43",
+                "to_date": "",
+                "title": "Romantikk. Realisme"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling Riksgalleriet",
+                "from_date": "1978",
+                "order": "44",
+                "to_date": "",
+                "title": "Hva vil de unge?"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1979",
+                "order": "45",
+                "to_date": "",
+                "title": "Romantik - og realisme"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Norskt 70-tal tendenser, Kulturhuset, Stockholm",
+                "from_date": "1979",
+                "order": "46",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Romantikk og realisme 1981, Blomqvists Kunsthandel, Oslo",
+                "from_date": "1981",
+                "order": "47",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "sommer- og juleutstilling, Gall. Acanthus, Oslo",
+                "from_date": "1981",
+                "order": "48",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Heute Norwegen heute, Kiel og Darmstadt",
+                "from_date": "1981",
+                "order": "49",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerringen, Oslo",
+                "from_date": "1982",
+                "order": "50",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Reitan, Trondheim",
+                "from_date": "1982",
+                "order": "51",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1982",
+                "order": "52",
+                "to_date": "",
+                "title": "Romantikk - og realisme 1982"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Medina, Harstad",
+                "from_date": "1982",
+                "order": "53",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. T3, Lillestrøm",
+                "from_date": "1983",
+                "order": "54",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Tallrike selvportretter bl.a. Selvportrett med rødt skjerf (olje 1972) gjengitt i Haaland, A. (red.): Odd Nerdrum. Bilder, Oslo 1983, s. 102"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Selvportrett, profil (kull 1972) gjengitt samme sted s. 125"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Selvportrett (olje 1974–76) gjengitt i Norges kunsthistorie, Oslo 1983, bd. 7, s. 191"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "I solen (olje 1976) gjengitt i Haaland, A. (red.): Odd Nerdrum. Malerier, Oslo 1983, s. 21"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Hermafroditt (olje 1976–81) gjengitt samme sted s. 86"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Selvportrett i slåbrok (olje 1977) gjengitt samme sted s. 60"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Selvportrett i aftensolen (olje 1977–79) gjengitt samme sted s. 61, 130 (studie)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Selvportrett med hatt (olje 1979) gjengitt samme sted omslag"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "selvportretter utstilling Galleri Tanum, Oslo 1980"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Byste utført av Joseph Grimeland (bronse 1967, Nasjonalgalleriet, Oslo)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1968",
+                "order": "0",
+                "reference": "nr. 4 s. 6",
+                "to_date": "",
+                "description": "Om Bjørn Ransve, Bildende Kunstneres Styre meddelelsesblad til norske kunstnere",
+                "authors": [
+                    "NERDRUM, Odd"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972-04-29",
+                "order": "1",
+                "to_date": "",
+                "description": "Det nye i kunsten, kronikk Aftenposten",
+                "authors": [
+                    "NERDRUM, Odd"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972-06-10",
+                "order": "2",
+                "to_date": "",
+                "description": "Det rasjonelle i kunsten, Aftenposten",
+                "authors": [
+                    "NERDRUM, Odd"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "3",
+                "reference": "med egne ill.",
+                "to_date": "",
+                "description": "Havfuglen, en fortelling av Odd Nerdrum",
+                "place": "Oslo",
+                "authors": [
+                    "NERDRUM, Odd"
+                ],
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1965",
+                "order": "4",
+                "reference": "hefte 71 s. 45",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967",
+                "order": "5",
+                "reference": "nr. 4, 1968 nr. 1 s.12–15",
+                "to_date": "",
+                "description": "Bildende Kunstneres Styre meddelelsesbl. til norske kunstnere",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967",
+                "order": "6",
+                "reference": "nr. 5–6 s. XXXIX",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1970",
+                "order": "7",
+                "reference": "s. 142–45",
+                "to_date": "",
+                "description": "Konstrevy",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968",
+                "order": "8",
+                "reference": "s. 32",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1970",
+                "order": "9",
+                "reference": "s. 193–94",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "10",
+                "reference": "s. 60",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972",
+                "order": "11",
+                "reference": "s. 123",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1973",
+                "order": "12",
+                "reference": "s. 138",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1974",
+                "order": "13",
+                "reference": "s. 117, 124",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1975",
+                "order": "14",
+                "reference": "s. 121",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976",
+                "order": "15",
+                "reference": "s. 132",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "16",
+                "reference": "s. 57, 166",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "17",
+                "reference": "s. 49",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979",
+                "order": "18",
+                "reference": "s. 45–46, 259",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "19",
+                "reference": "s. 120",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "20",
+                "reference": "s.120–25",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982",
+                "order": "21",
+                "reference": "s. 59, 218, 256 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983",
+                "order": "22",
+                "reference": "s. 146–56, 181, 283 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1975",
+                "order": "23",
+                "to_date": "",
+                "description": "i Ny nordisk romantik?",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [
+                    "katalog Lunds Konsthall"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1976",
+                "order": "24",
+                "reference": "nr. 10–11 (ill.)",
+                "to_date": "",
+                "description": "F 15 Kontakt",
+                "place": "Moss",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "25",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "26",
+                "reference": "bd. 1, s. 140 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunst i bilder",
+                "place": "Oslo",
+                "authors": [
+                    "Simonnæs, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "27",
+                "to_date": "",
+                "description": "i Odd Nerdrum. Kulltegninger",
+                "place": "Oslo",
+                "authors": [
+                    "Grimeland, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "28",
+                "reference": "s. 27, 30, 45",
+                "to_date": "",
+                "description": "Frans Widerberg",
+                "place": "Oslo",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "29",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "i Norsk maleri 70-tallet",
+                "place": "Oslo",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "30",
+                "reference": "bd. 8, s. 527",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "31",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk malerkunst. Hovedlinjer gjennom 200 år",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "32",
+                "reference": "hefte 1 s. 6–11 (ill.)",
+                "to_date": "",
+                "description": "i Fotoforum. Tidsskrift for fotografi og billedkunst",
+                "authors": [
+                    "Evensen, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "33",
+                "to_date": "",
+                "description": "i katalog Heute Norwegen heute",
+                "place": "Kiel und Darmstadt",
+                "authors": [
+                    "Brochmann, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983",
+                "order": "34",
+                "reference": "bd. 7, s. 190–95 (ill.)",
+                "to_date": "",
+                "description": "i Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983",
+                "order": "35",
+                "to_date": "",
+                "description": "Odd Nerdrum. Bilder",
+                "place": "Oslo",
+                "authors": [
+                    "Haaland, A. (red.)"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1964-06-09",
+                "order": "36",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Refsum, T."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1964-06-10",
+                "order": "37",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967-11-15",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967-11-20",
+                "order": "39",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1967-11-24",
+                "order": "40",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Hougen, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-05-11",
+                "order": "41",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1968-11-27",
+                "order": "42",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1970-03-11",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1970-11-20",
+                "order": "44",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Harr, K. E.",
+                    "Brun, H.-J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971-06-01",
+                "order": "45",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Breivik, T."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971-06-04",
+                "order": "46",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971-06-11",
+                "order": "47",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Lauhn, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971-06-12",
+                "order": "48",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971-06-12",
+                "order": "49",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971-10-21",
+                "order": "50",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972-11-17",
+                "order": "51",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972-11-28",
+                "order": "52",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1973-10-31",
+                "order": "53",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Dæhlin, E. O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1973-11-01",
+                "order": "54",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1975-10-23",
+                "order": "55",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Grimeland, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976-10-04",
+                "order": "56",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976-10-05",
+                "order": "57",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976-10-11",
+                "order": "58",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976-10-25",
+                "order": "59",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976-10-07",
+                "order": "60",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Norvin, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976-10-12",
+                "order": "61",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Blehr, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1976-11-22",
+                "order": "62",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977-01-03",
+                "order": "63",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977-01-13",
+                "order": "64",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977-01-15",
+                "order": "65",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Pierstorff, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977-01-18",
+                "order": "66",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Information",
+                "place": "København",
+                "authors": [
+                    "Wivel, M."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977-01-28",
+                "order": "67",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978-07-06",
+                "order": "68",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-02",
+                "order": "69",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-07",
+                "order": "70",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Haaland, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-10",
+                "order": "71",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-14",
+                "order": "72",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-15",
+                "order": "73",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Rostad, B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-20",
+                "order": "74",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Sveen, D."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-24",
+                "order": "75",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-12-01",
+                "order": "76",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Grøtvedt, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-24",
+                "order": "77",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-12-05",
+                "order": "78",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-11-29",
+                "order": "79",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-12-05",
+                "order": "80",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979-12-06",
+                "order": "81",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Fiksdal, J. B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-01-10",
+                "order": "82",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Nord, R. W."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-02-20",
+                "order": "83",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Storaas, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-02-22",
+                "order": "84",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-11-10",
+                "order": "85",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-11-13",
+                "order": "86",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Egeland, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-11-15",
+                "order": "87",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Hopstock, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-11-20",
+                "order": "88",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Falck, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-11-19",
+                "order": "89",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-11-25",
+                "order": "90",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Holen, O. J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980-12-01",
+                "order": "91",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Schmedling, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "92",
+                "to_date": "",
+                "description": "Karl Johan",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "nr. 5"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1981-02-05",
+                "order": "93",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Larsen, P."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981-06-05",
+                "order": "94",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Torp, O."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981-09-17",
+                "order": "95",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Stemland, J. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981-09-22",
+                "order": "96",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Stemland, J. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982-04-26",
+                "order": "97",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Agderposten",
+                "authors": [
+                    "Grimsgaard, D."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982-10-26",
+                "order": "98",
+                "to_date": "",
+                "description": "Nordlandsposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-03-04",
+                "order": "99",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Moss Avis",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-04-11",
+                "order": "100",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Varden",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-05-21",
+                "order": "101",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-05-25",
+                "order": "102",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Ny Tid",
+                "authors": [
+                    "Blehr, K."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-05-26",
+                "order": "103",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Mørstad, E."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-05-28",
+                "order": "104",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-06-08",
+                "order": "105",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Werenskiold, M."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-06-28",
+                "order": "106",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haaland, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-10-11",
+                "order": "107",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-10-29",
+                "order": "108",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1983-10-31",
+                "order": "109",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977-01-21",
+                "order": "110",
+                "to_date": "",
+                "description": "TV-program Norsk rikskringkasting Fjernsynet: Ung kunstner i dag",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978-02-24",
+                "order": "111",
+                "to_date": "",
+                "description": "Musikk og bilde",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981-01-08",
+                "order": "112",
+                "to_date": "",
+                "description": "Musikk og bilde",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981-01-08",
+                "order": "113",
+                "to_date": "",
+                "description": "Lengsel, lidelse og håp",
+                "authors": [
+                    ""
+                ],
+                "comments": [
+                    "Møte med Nerdrum ved Holger Koefoed"
+                ],
+                "archives": null
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Odd Nerdrum",
+    "url": "https://nkl.snl.no/Odd_Nerdrum",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Blant de 7 unge malere som i 1964 var invitert til juniutstillingen i Kunstnerforbundet, ble den tyve år gamle N. oppfattet som mest særpreget, med sine gammelmesterlig figurative, mørke malerier. Det var likevel da han i 1967 for første gang deltok på Høstutstillingen med bildet <em>Ikaros</em> (1967), at hans kunst og person ble betraktet med mer enn alminnelig oppmerksomhet. Da N. straks etter avholdt sin første separatutstilling i Kunstnerforbundets store sal, var debatten omkring ham igang, en debatt med atskillige forgreninger som gjennom 60- og 70-årene har nedfelt seg i media. N.s store, mørkstemte lerreter og sterkt følelsesladede komposisjoner griper tilbake til 1500- og 1600-tallets portretter, allegorier og kirkekunst. Han henter komposisjoner fra Caravaggio og Rembrandt, benytter barokkens kraftige punktbelysning (chiaroscuro) og en mørk koloritt med enkelte innslag av sterke lokalfarger. N.s kunst ble av mange betraktet som et særegent norsk fenomen; en romantisk-realistisk protest mot en aldri fullt akseptert nonfigurativ modernisme, eller den kunne sees som en særpreget stil-romantisk ytring innenfor en internasjonal ny-realisme-trend. For N. selv har imidlertid den eldre kunstens motivmessige og maleriske muligheter vært det vesentlige for tolkning av kunstnerens samtid. På utstillingen Romantikk, som presenterte figurativ kunst fra 1960-årene i Oslo Kunstforening 1970, var han den sentrale og fikk stor publisitet med maleriet <em>Amputasjon</em>  (1968, ny versjon 1972–75). N. profilerte seg her markant i forhold til \"ny-romantikerne\" med deres lyriske naturstemninger, de han fra først av ble sammenlignet med. I <em>Amputasjon</em> skildres nitid og med understrekning av det makabre, et offer for trafikkdøden, med tydelige allusjoner til 1600-tallets martyrfremstillinger. Som motiv for sine store lerreter velger N. ofte en sosialt engasjert realisme med temaer som isolasjon, overgrep og maktmisbruk. I <em>Trygd</em> (1973, Nasjonalgalleriet, Oslo) avbildes mange eldres trøstesløse tilværelse; det sosiale oppbud ved et nervøst sammenbrudd vises i <em>Innleggelsen</em> (1975). Nitid malte rekvisitter gir tidskoloritt og betoner det objektivt registrerende.</p>\n<p>N.s intensjon om å fremstille allmenngyldige menneskelige situasjoner, helst i maksimale uttrykk, har gjennom 70-årene ført ham nærmere de historiske forbildenes patos og drama. <em>Arrestasjon</em> (1976, utlånt Chateau Neuf) fremstiller en arrestasjon og fastholder selve arrestasjonsøyeblikket. Valg av komposisjon og lyssetting henspeiler på et tradisjonelt motiv i kristen billedtradisjon: Kristi pågripelse. Realismen i fremstillingen står her i lite samsvar med det objektivt situasjonsbeskrivende. N.s interesse for og fremstilling av selve menneskekonflikten - løsrevet fra hendelsenes videre moralske eller politiske sammenheng - har utløst heftige avisdebatter, fortrinnsvis når motivene tolker kontroversielle samtidshendelser som i det 9m2 store maleriet <em>Mordet på Andreas Baader</em> (1977–78). Figurgruppen er her komponert over et andreaskors med offerets desperate ansikt i skjæringspunktet. Det nesten nakne legemet belyses skarpt i en stummende mørk fengselscelle, som i en komposisjon av Caravaggio; 15- og 1600-tallets martyrskildring med alle dens dramatiske virkemidler er benyttet til å formidle kunstnerens versjon av en samtidshendelse. N. betrakter selv som sitt foreløpige hovedverk <em>Flyktninger på havet</em> (1979–80, Hessisches Landesmuseum). Det over 5 x 3 meter store atelierbildet fremstiller vietnamesiske båtflyktninger som et scenetablå, med minimale referanser til tid og sted. I lysstråler fra en begynnende soloppgang eksponeres mennesker i forskjellige aldre, positurer og forfatninger. Temaet er flyktningproblemet som evig menneskekonflikt, her utført i en billedtradisjon fra Géricaults Medusas flåte (1819). I sitt stilhistoriske maleri har N. gjennom 70-årene fått flere etterfølgere, og man kan i en viss utstrekning tale om en Nerdrumskole.</p>\n<p>Parallelt med de store figurkomposisjonene har N. utført landskapsbilder, flere med motiv fra Stavern. Disse synes inspirert av 1800-tallets friluftsmaleri, og skiller seg ut fra figurkomposisjonene i fargebruk og stemningsinnhold. En viktig del av N.s produksjon er portretter, der han ofte har nådd sine mest vellykkede resultater. Klesdrakten fremstilles gjerne som tidløse gevanter f.eks. i det sterkt Rembrandt-inspirerte <em>Portrett av Klodvig</em> (1978). Figuren står i mørke, men ansiktet og en fremstikkende del av pelsvesten er skarpt belyst. N. har utført en rekke selvportretter som følger i Rembrandts tradisjon med geniets ensomme selvavsløringer gjennom sitt speilbilde. <em>Selvportrett med slåbrok</em> (1977) i trekvartfigur formidler også noe av forbildets storhet og drama. En kavalkade av selvportretter ble vist i Galleri Tanum, Oslo i 1980. Mange akt- og portrettstudier foruten figurkomposisjoner har N. dessuten utført i kulltegning. Figurscener er også utført som litografier.</p>\n</div>",
+    "created_at": "2014-11-20T09:59:39.591+01:00",
+    "changed_at": "2024-06-18T23:27:45.063+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2855\",\"https://digitaltmuseum.no/de05ad82-395d-477a-a66d-b2cf50261905\",\"http://kulturnav.org/de05ad82-395d-477a-a66d-b2cf50261905\"]",
+        "lastname": "Nerdrum",
+        "firstname": "Odd",
+        "birth_date": "8.4.1944",
+        "birthplace": "Helsingborg, Sverige",
+        "external_id": "person_8736ab2855",
+        "kulturnav_id": "de05ad82-395d-477a-a66d-b2cf50261905"
+    },
+    "authors": [
+        {
+            "full_name": "Inger Hjørdis Uberg"
+        },
+        {
+            "full_name": "Einar Sørensen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20304/standard_NMK-B_MS-00312-198820151204-26003-ja7gix.jpg",
+            "full_size_url": "https://media.snl.no/media/20304/NMK-B_MS-00312-198820151204-26003-ja7gix.jpg",
+            "xhtml": "<div><p><i>Morgen</i>. 1973. <a href=\"http://digitaltmuseum.no/011042423691\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Odd Nerdrum",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20305/standard_NMK-B_MS-02672-198820151204-26003-nozzbj.jpg",
+            "full_size_url": "https://media.snl.no/media/20305/NMK-B_MS-02672-198820151204-26003-nozzbj.jpg",
+            "xhtml": "<div><p><i>Trygd</i>. 1973. <a href=\"http://digitaltmuseum.no/011044111433\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Odd Nerdrum",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20306/standard_NMK-B_NMK.2006.002920151204-26003-1gzr0xj.jpg",
+            "full_size_url": "https://media.snl.no/media/20306/NMK-B_NMK.2006.002920151204-26003-1gzr0xj.jpg",
+            "xhtml": "<div><p><i>Selvportrett</i>. <a href=\"http://digitaltmuseum.no/011044113496\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Odd Nerdrum",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        }
+    ]
+}

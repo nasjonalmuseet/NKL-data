@@ -1,0 +1,944 @@
+{
+    "id": 416145,
+    "headword": "Thorvald Astrup",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100361",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Harald",
+                "lastname": "Astrup",
+                "professions": [
+                    "stadshauptmann"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100362",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johanne Emilie",
+                "lastname": "Smith",
+                "professions": []
+            },
+            {
+                "from_date": "1903",
+                "type": "Gift med",
+                "external_id": "person_8736ab100374",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Alfhild",
+                "lastname": "Ebbesen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Den kgl. Tegneskole 1892-93 (bygningsfaget)",
+                "order": "1"
+            },
+            {
+                "comment": "Königlich Technische Hochschule, Berlin 1896-97",
+                "order": "2"
+            },
+            {
+                "comment": "De første klasser ved Kristiania Tekniske Skole 1891-1892",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereise med statens reisestipendium for kunstnere til Frankrike og England hvor A. også arbeidet en tid hos arkitekt Carol 1900-1901"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Norske Arkitekters Landsforbund styremedlem 1914-1920, viseformann 1930-33"
+            },
+            {
+                "order": "1",
+                "description": "viseformann i Oslo Arkitektforening 1920-22"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "posthuset på Rjukan (1921)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Fabrikkanlegg: Hydrogenfabrikken på Notodden (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Møglestuen armaturfabrik, Lørenv., Oslo (ca. 1937-38)"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Emaljeverket A/S, Lørenv. 51, Oslo (ca. 1937-38)"
+            },
+            {
+                "from_date": "",
+                "order": "58",
+                "to_date": "",
+                "description": "hovedbygning og stall på Solheim i Lunner (1905)"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "sommerhus på Larkollen for E.W. Engeberg"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "skistua Løvliseter, Krokskogen, Ringerike sammen med arkitekt Alf Pettersen (1936)"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Udis konfeksjonsfabrikk, Ulvenv. 87, Oslo (1936-37)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Vittingfoss ved Drammenslågen i Sandsvær"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Larviks privatbank (1904)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "fire fabrikkhaller på Rjukan (1929)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "villa i Folkestadgt. 73, Hamar (1914)"
+            },
+            {
+                "from_date": "",
+                "order": "64",
+                "to_date": "",
+                "description": "3. premie for kino og administrasjonsbygning i Stavanger sammen med Henning Thv. A. (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Lienfoss ved Tinnelva (1911)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Sammen med Henning Thv. A.: forsamlingshus på Grønvold, Oslo for Bryn, Halden & Nittedals Tændstikfabrik A/S, (1932-33)"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Kikutstua i Nordmarka, Oslo for Foreningen til skiidrettens fremme (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "leiegård Vogts gt. 68–70 (1929), begge for fabrikkeier Wilhelm Arnt Blystad"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Fabrikk øst I for Bryn, Halden & Nittedal Tændstikfabrik på Grønvold, Oslo (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "kommunebygningen på Nøtterøy (1921)"
+            },
+            {
+                "from_date": "",
+                "order": "57",
+                "to_date": "",
+                "description": "Prosjekter: 1. premie i konkurransen om Norges Tekniske Høyskole (1902)"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "hytte på Golå, Fron (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Ferie- og fritidshus: Skjennungstua i Nordmarka, Oslo (1910)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Høgefoss i Nissedal"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Theodor Henriksens sjømannshjem, Karlsborgveien 5, Oslo (1903-05)"
+            },
+            {
+                "from_date": "",
+                "order": "63",
+                "to_date": "",
+                "description": "Statens hus i Narvik 3. premie sammen med Henning Thv. A. og Ole Berger Asnes (1938)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "villa Lagaasen ved Lysaker (1920)"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "Sammen med Henning Thv. A.: Sommerhus på Nøtterøy for kaptein Damm (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Ammoniakkforbrenningsanlegget på Herøya"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Rjukan II (Såheim) sammen med arkitekt Olaf Nordhagen (1912-15)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Det Norske Medicinske Selskab, Drammensv. 44, Oslo (1934-35)"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "sportsstue ved Jovde i Gudbrandsdalen for Hartwig Johannsson (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Lambertseter Radio, Ekeberg, Oslo (1929)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Nomeland og Kistefoss"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "dagligstue (1925) utført av snekkermester Haraldstad"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "og Vogtsgt. 66, Oslo (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Vamma ved Glomma (1920)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Peter Møllers Tranfabrikk, Løren Oslo (1937-38)"
+            },
+            {
+                "from_date": "",
+                "order": "61",
+                "to_date": "",
+                "description": "Aker Sparebank, hjørnet Grubbegt./Grensen (1920/21)"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "hytte i Børkedalen, Fron (ca. 1935-36)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "sommerhus på Larkollen for von der Lippe"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Sammen med Henning Thv.A.: Natronsalpeterfabrikk for Norsk Hydro i Eidanger (1935)"
+            },
+            {
+                "from_date": "",
+                "order": "60",
+                "to_date": "",
+                "description": "delt 1. premie i konkurransen om Ris kirke sammen med arkitekt Eric Ericson (1919)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "administrasjonbygning ved Såheim for A/S Rjukanfos (1908)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "leiegård Sandakerv. 68–70, Oslo (1929)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "leiegård Fearnleys gt. 10, Oslo (1935-36)"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "industribygg, garasje og bensinstasjon, Sandakervn. 35"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Sammen med Henning Thv. A.: Grønvollfoss ved Tinnelva (1931-33)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Soria Moria, Vogts gt. 64, Oslo (1928)"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "Møbler: Spisestue (1911), dagligstue (1912) begge utført av snekker B.B. Svenberg"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "støperibygning for Tinfos Jernverk, Notodden (1937)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Kastellet automatsentral på Nordstrand, Oslo (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Nore (1925)"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "sommerhus på Ostøya for grosserer Hartwig Johanson"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "hytte for F.G. klubben, Lillevann, Oslo (1934-35)"
+            },
+            {
+                "from_date": "",
+                "order": "62",
+                "to_date": "",
+                "description": "byvåpen for Haugesund (1925)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "kommunehuset i Våler, Hedmark (1910)"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "utvidelsen av Myren mekaniske versted, Bentsebrugt. 20, Oslo (1935-36)"
+            },
+            {
+                "from_date": "",
+                "order": "59",
+                "to_date": "",
+                "description": "stasjoner på Dovrebanen mellom Dombås og Otta (1912)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "leiegård, Sorgenfrigt. 1, Oslo (1932)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Svelgfoss II (reservestasjonen) (1909-13)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "leiegård, Majorstuvn. 18, Oslo (ca. 1935)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "forretningsgård, Torggt. 10, Oslo.Kraftstasjoner: Tysso I (1906-08)"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "Østmarkseteren, Oslo (1926, brent 1927, gjenoppbygd 1928)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Vannstoffabrikken på Vemork, Rjukan for Norsk Hydro (1928-29, revet 1974)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Høstutstillingen",
+                "from_date": "1907",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Høstutstillingen",
+                "from_date": "1905",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Haandverks- og industriforeningens utstilling",
+                "from_date": "1912",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Haandverks- og industriforeningens utstilling",
+                "from_date": "1911",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Haandverks- og industriforeningens utstilling",
+                "from_date": "1925",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "from_date": "1912",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Høstutstillingen",
+                "from_date": "1909",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Haandverks- og industriforeningens utstilling",
+                "from_date": "1906",
+                "order": "3",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1931",
+                "order": "0",
+                "reference": "s.34–38",
+                "to_date": "",
+                "description": "Byggekunst",
+                "title": "Fabrikker og industrianlegg",
+                "authors": [
+                    "ASTRUP, Thorvald"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1902",
+                "order": "10",
+                "reference": "s. 274, 402",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "34",
+                "reference": "s. 35 - 58 (ill.)",
+                "to_date": "",
+                "description": "FNFB årbok",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "12",
+                "reference": "s. 339",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "8",
+                "reference": "s. 143–168",
+                "to_date": "",
+                "description": "Ekskursjonsbok for Oslo og omegn",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "31",
+                "reference": "s. 179–180 (ill.)",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "23",
+                "reference": "s. 117–118 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "33",
+                "reference": "s. 212–226 (ill.)",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "18",
+                "reference": "s.114–120 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "25",
+                "reference": "s.18–19, 51,115 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "1",
+                "reference": "bd. 2, s. 208",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme–Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "16",
+                "reference": "s. 161–162 (ill.)",
+                "to_date": "1920",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908",
+                "order": "14",
+                "reference": "arkitekt avdelingen s.47",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "reference": "s. 19, 54, 95, 125–126, 199–200, 203, 265, 279, 288, 317, 346–47 (ill.), 364",
+                "to_date": "",
+                "description": "Oslo gårdkalender, nybygg 1925-1945",
+                "place": "Oslo u å ",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "5",
+                "to_date": "1938",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "19",
+                "reference": "s.128, 156, 171–173, 185 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "29",
+                "reference": "s.66–67, 173–178, 183 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "27",
+                "reference": "tillegg s. 43 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "3",
+                "reference": "bd. 1, s. 306-307",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Kristiania (1877-1924)",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "7",
+                "reference": "s. 274 (ill.), 352 (ill.), 404 (ill.)",
+                "to_date": "",
+                "description": "Norsk hus",
+                "place": "Oslo",
+                "authors": [
+                    "Alnæs, Eyvind"
+                ],
+                "comments": [
+                    "m.fl"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "9",
+                "reference": "s.75",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "20",
+                "reference": "s. 57–59 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "11",
+                "reference": "s. 409",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "13",
+                "reference": "s. 352, arkitekt avdelingen s.53–59, 98",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "30",
+                "reference": "s. 171–175, 198–199 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "22",
+                "reference": "s.113–117 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "24",
+                "reference": "s.257 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "17",
+                "reference": "bilag s. 2,6 (ill.)",
+                "to_date": "1921",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "32",
+                "reference": "s. 83–86",
+                "to_date": "",
+                "description": "St. Hallvard",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "reference": "s. 136 (ill.). 207",
+                "to_date": "",
+                "description": "Katalog for jubileumsutstillinger, Norges kunst 1814-1914",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "15",
+                "reference": "s. 145, 148-150 (ill.)",
+                "to_date": "1912",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "21",
+                "reference": "s.118–122 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "6",
+                "reference": "s. 592",
+                "to_date": "",
+                "description": "Hamar historie",
+                "place": "Hamar",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "28",
+                "reference": "s.75, 81 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "4",
+                "reference": "bd.2, s. 278",
+                "to_date": "",
+                "description": "Norsk Kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "26",
+                "reference": "s.93–94, 211–214, tillegg s. 48 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Thorvald Astrup",
+    "url": "https://nkl.snl.no/Thorvald_Astrup",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>I semesterferiene og etter avgang fra Den kgl. Tegneskolen arbeidet A. hos arkitekt Henrik Nissen. Sommerferien 1897 arbeidet han hos arkitekt Henrik Bull og 1898-mai 1899 var han første-assistent hos H. Nissen. Arkitekt for Frölichpassagensprosjekterte store om- og nybygning mai 1899-mai 1900. Egen arkitektpraksis fra 1901; sammen med sin sønn Henning Thorvaldssøn A. fra 1934. Den nasjonale nyromantiske retning gjenspeilet seg i A.s første arbeider, hvor en samtidig finner påvirkning fra arkitekt H. Bull og art nouveau-inspirerte detaljer. A. ble tidlig knyttet til industrien som arkitektkonsulent, og fikk her en rekke oppdrag ved utformingen av større kraft- og transformatorstasjoner, fabrikk- og dambygninger. Så vel den nyklassisistiske retning som funksjonalismen kom til uttrykk i de egenartede monumentaloppgaver som utviklingen av storindustrien førte med seg. Bygningenes ofte dominerende plassering og utforming gav meget godt uttrykk for den fremtredende plassen industrien fikk i samfunnet. A. var også i hele sin praksis opptatt av den tradisjonelle norske trearkitekturen, med Gudbrandsdalens brune laftehus som forbilde for fjellbebyggelsen og sørlandshuset som type for sommerhuset ved sjøen. Original nyskapende var A. ved utformingen av <em>Soria Moria</em>, et \"kulturhus\" som inneholdt Oslos første moderne kino, et bibliotek, forretninger, kontorer, restaurant og boliger.</p></div>",
+    "created_at": "2013-07-03T14:15:41.976+02:00",
+    "changed_at": "2024-06-18T23:25:32.978+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab188\",\"https://digitaltmuseum.no/331fef5d-765e-44c7-801b-c936c0f0ade3\",\"http://kulturnav.org/331fef5d-765e-44c7-801b-c936c0f0ade3\"]",
+        "lastname": "Astrup",
+        "firstname": "Thorvald",
+        "birth_date": "18.5.1876",
+        "birthplace": "Kristiania",
+        "death_date": "12.8.1940",
+        "external_id": "person_8736ab188",
+        "kulturnav_id": "331fef5d-765e-44c7-801b-c936c0f0ade3",
+        "place_of_death": "Oslo",
+        "alternative_names": "Astrup, Thorvald"
+    },
+    "authors": [
+        {
+            "full_name": "Julius Malling"
+        },
+        {
+            "full_name": "Axel Chr. Mykleby"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

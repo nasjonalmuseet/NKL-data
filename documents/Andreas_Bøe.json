@@ -1,0 +1,807 @@
+{
+    "id": 416854,
+    "headword": "Andreas Bøe",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101267",
+                "birth_date": "0001",
+                "death_date": "",
+                "firstname": "Karen",
+                "lastname": "Jacobsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101265",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sivert",
+                "lastname": "Bøe",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101266",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kristi",
+                "lastname": "Kirkhus",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Stavanger"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "hospitert hos professor Signorini ved Accademia di Belle Arti i Ravenna 1956",
+                "order": "3"
+            },
+            {
+                "comment": "Elev av Georg Backer Berg 1935–36",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Per Krohg 1937–38",
+                "order": "1"
+            },
+            {
+                "comment": "flere semestre ved Studieatelieret i Stavanger",
+                "order": "4"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Jean Heiberg og Aage Storstein 1945–46",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "Flere studieopphold i Paris, bl.a. i 1947 og 1950"
+            },
+            {
+                "order": "1",
+                "description": "Aftenbladets kulturpris 1955"
+            },
+            {
+                "order": "2",
+                "description": "Statens stipend 1957"
+            },
+            {
+                "order": "6",
+                "description": "Spania 1960"
+            },
+            {
+                "order": "7",
+                "description": "Bretagne 1963"
+            },
+            {
+                "order": "5",
+                "description": "Italia 1950 og 1956"
+            },
+            {
+                "order": "0",
+                "description": "Stavanger bys stipend 1947"
+            },
+            {
+                "order": "3",
+                "description": "stipend for eldre fortjente kunstnere fra 1977"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Styremedelem i Stavanger Kunstforening 1950–65"
+            },
+            {
+                "order": "2",
+                "description": "medlem av innkjøpskomiteen for Stavanger Kunstforening Faste Galleri"
+            },
+            {
+                "order": "6",
+                "description": "Rogaland Bildende Kunstnere"
+            },
+            {
+                "order": "1",
+                "description": "Studieaterlieret, Stavanger"
+            },
+            {
+                "order": "3",
+                "description": "formann i Vestlandsutstillingens råd fra starten og jurymedlem samme sted"
+            },
+            {
+                "order": "5",
+                "description": "medlem av Landsforeningen Norske Malere"
+            },
+            {
+                "order": "4",
+                "description": "stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "3. premie i konkurransen om utsmykning av Stavanger krematorium i 1939"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Stavanger posthus (1978)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Electric Furnance Product Company LDT., Sauda (mosaikk og fresco, utført sammen med Kalle Orstad 1951)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Stavanger politikammer, (muralmaleri, 1968)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Trones skole, Sandnes, (mosaikk, 1967)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Stavanger Kunstforenings foyer, (muralmaleri, 1965)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Posthuset i Koppervik, (mosaikk, 1964)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Høyland Forbruksforening, Sandnes, (utvendig muralmaleri, 1967)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Stavanger Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Bryne Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Nordjyllands Kunstmuseum, Aalborg"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Sandes Dampskipsselskap, Sandnes (mosaikk, 1959)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Folkets Hus, Stavanger, (mosaikk, 1962)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bøndenes Hus, Stavanger (mosaikk, 1957)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bryne mek. Verksted (mosaikk, 1954)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "New Vision Gallery, London",
+                "from_date": "",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1956",
+                "order": "17",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "20",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "19",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "15",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1955",
+                "order": "16",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1965",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1945",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1955",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1953",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1957",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "18",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1967",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1948",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger kunstforening",
+                "from_date": "1971",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1972",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen kunstforening",
+                "from_date": "1971",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1951",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Jær-Galleri, Klepp",
+                "from_date": "1979",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Koloritten, Stavanger",
+                "from_date": "1976",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1968",
+                "order": "21",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nordjyllands Kunstmuseum, Ålborg",
+                "from_date": "1973",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. RA, Stavanger",
+                "from_date": "1973",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Skandinavia",
+                "from_date": "",
+                "order": "22",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "et av Boye Givskov er gjengitt i G.S. Hidle: Profiler og paletter i Rogalands kunst, Stavanger 1965, s. 254"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Et tegnet selvportrett er gjengitt i Stavanger Aftenbl. 3.9.1955"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1972",
+                "order": "18",
+                "reference": "s. 179",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-08",
+                "order": "22",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-05-07",
+                "order": "24",
+                "to_date": "",
+                "description": "i Stavanger Aftenbl.",
+                "authors": [
+                    "Molaug, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-01-28",
+                "order": "20",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-27",
+                "order": "9",
+                "to_date": "",
+                "description": "i Stavanger Aftenbl.",
+                "authors": [
+                    "Remfeldt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "28",
+                "reference": "bd. 2, s. 565",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-04-27",
+                "order": "30",
+                "to_date": "",
+                "description": "Jærbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-10-24",
+                "order": "26",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-21",
+                "order": "7",
+                "to_date": "",
+                "description": "Stavanger Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "16",
+                "to_date": "",
+                "description": "i katalog til Stavanger og Bergen Kunstforeninger",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-13",
+                "order": "14",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-10-21",
+                "order": "0",
+                "to_date": "",
+                "description": "Haugesunds Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-04",
+                "order": "21",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-30",
+                "order": "10",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Borten, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-06-18",
+                "order": "3",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-11",
+                "order": "12",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "5",
+                "reference": "s. 253 og 254",
+                "to_date": "",
+                "description": "Profiler og paletter i Rogalands kunst",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G.S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "25",
+                "reference": "s. 3, 7 og 23 (ill.)",
+                "to_date": "",
+                "description": "Stavanger sett med kunstnerøyne",
+                "authors": [],
+                "comments": [
+                    "katalog Stavanger Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1972-02-08",
+                "order": "23",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-09-05",
+                "order": "1",
+                "to_date": "",
+                "description": "i Stavanger Aftenbl.",
+                "authors": [
+                    "Berg, G. Backer"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-01-27",
+                "order": "19",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-04-24",
+                "order": "29",
+                "to_date": "",
+                "description": "Stavanger Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-03",
+                "order": "31",
+                "to_date": "",
+                "description": "Rogaland Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "27",
+                "reference": "s. 33, 174–76 (ill.)",
+                "to_date": "",
+                "description": "Stavanger - Byen i billedkunsten",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G.S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "32",
+                "reference": "register s. 531",
+                "to_date": "",
+                "description": "Rogaland",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971-09-25",
+                "order": "6",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "17",
+                "to_date": "",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [
+                    "Kunstnernes Hus"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-26",
+                "order": "15",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-10-21",
+                "order": "8",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-03",
+                "order": "11",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-06-28",
+                "order": "4",
+                "to_date": "",
+                "description": "Stavanger Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-12-31",
+                "order": "2",
+                "to_date": "",
+                "description": "Stavanger Aftenbl.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-11",
+                "order": "13",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Andreas Bøe",
+    "url": "https://nkl.snl.no/Andreas_B%C3%B8e",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. debuterte på Vestlandsgruppen i 1939. Motivene i hans tidligste malerier er fra Jæren og er stillferdige beskrivelser av de nære ting. Gjennom sine lærere ble B. kjent med den franske kunst, og han ble sterkt opptatt av det konstruktive og komposisjonelle. Allerede de dekorative utkast han laget i 40-årene røper ambisjoner og anlegg for monumentale oppgaver. Studieoppholdet i Ravenna i 1956 ble et vendepunkt i B.s kunstneriske utvikling. Hans fargeskala ble fra nå av sterkere og formspråket mer presist. Fra midten av 50-årene arbeidet B. med en rekke større romutsmykninger, hovedsakelig i fargesterke stein- og glassmosaikker. Hans arbeider fra denne tiden er i en moderat figurativ stil, ofte med fortellende innhold. Formspråket i maleriene forenkles i takt med det han utfører i de store dekorasjonsoppgavene, som stilte strenge krav til form og komposisjon. Disse større oppgavene tok det meste av kunstnerens tid. Mot slutten av 60-årene og utover i 70-årene viste B. en friere malerisk utfoldelse i staffelimaleriet, vekk fra formstrengheten mot et friere og mer abstrakt formspråk. Hans malerier fra de senere år viser ofte sterkt abstraherte naturinntrykk, der billedflaten er bygd opp av mindre fargeflater som smelter sammen til et større hele. Hans abstrakte malerier røper impulser fra Cobra og Spontanismen, i tillegg til fransk tradisjon, særlig Bazaine.</p></div>",
+    "created_at": "2013-07-03T17:50:15.723+02:00",
+    "changed_at": "2024-06-18T23:25:51.966+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab618\",\"https://digitaltmuseum.no/5d72bf2a-cb66-4945-a1fc-805965cc8d32\",\"http://kulturnav.org/5d72bf2a-cb66-4945-a1fc-805965cc8d32\"]",
+        "lastname": "Bøe",
+        "firstname": "Andreas",
+        "birth_date": "22.3.1916",
+        "birthplace": "Forus på Jæren",
+        "death_date": "12.9.2001",
+        "external_id": "person_8736ab618",
+        "kulturnav_id": "5d72bf2a-cb66-4945-a1fc-805965cc8d32"
+    },
+    "authors": [
+        {
+            "full_name": "Tone Skedsmo"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

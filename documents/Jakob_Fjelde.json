@@ -1,0 +1,321 @@
+{
+    "id": 417582,
+    "headword": "Jakob Fjelde",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102154",
+                "birth_date": "",
+                "death_date": "1873",
+                "firstname": "Paul",
+                "lastname": "Fjelde",
+                "professions": [
+                    "snekker",
+                    "treskjærer"
+                ]
+            },
+            {
+                "from_date": "1888",
+                "type": "Gift med",
+                "external_id": "person_8736ab102155",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Margrethe",
+                "lastname": "Madsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kunstakademiet i København, modellskolens forberedelsesklasse og modellskolen A under Christian Carl Peters 1879–81",
+                "order": "2"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 1876–78",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Brynjulf Bergslien 1876-78",
+                "order": "1"
+            },
+            {
+                "comment": "elev av prof. Vilhelm Bissen, København 1880–82",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Opphold i Roma 1882–84"
+            },
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1887"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Wahpeton, N. Dakota, USA (byste Henrik Ibsen, bronse, 1885?)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Skien Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Minneapolis, USA (Gettysburgh Monument, bronse, 1894)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Bergen kommune (1 byste)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "4",
+                "to_date": "",
+                "title": "Chicago utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "5",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1886",
+                "order": "1",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1884",
+                "order": "0",
+                "to_date": "1886",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1887",
+                "order": "2",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1883",
+                "order": "3",
+                "to_date": "",
+                "title": "Den nordiske kunstutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1915",
+                "order": "10",
+                "reference": "bd. 11 s. 540",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "7",
+                "reference": "bd. 2, s. 325",
+                "to_date": "",
+                "description": "i Norsk Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Nygård-Nilssen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896-05-08",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergens Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-05-22",
+                "order": "8",
+                "to_date": "",
+                "description": "i Sunnmørsposten",
+                "authors": [
+                    "Loland, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896-05-30",
+                "order": "4",
+                "to_date": "",
+                "description": "Bergens Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890-04-24",
+                "order": "2",
+                "to_date": "",
+                "description": "Kristiania Intelligentssedler",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1880-11-21",
+                "order": "1",
+                "to_date": "",
+                "description": "Ny Illustreret Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896-05-17",
+                "order": "6",
+                "to_date": "",
+                "description": "Revyen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1879-09-20",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896-05-08",
+                "order": "5",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "9",
+                "reference": "bd. 20 s. 305 (ill.)",
+                "to_date": "",
+                "description": "Samlede verker",
+                "place": "Oslo",
+                "authors": [
+                    "Ibsen, H."
+                ],
+                "comments": [
+                    "Ibsen-portretter samlet av K. Lassen"
+                ],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jakob Fjelde",
+    "url": "https://nkl.snl.no/Jakob_Fjelde",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>F. begynte med å utdanne seg til snekker og treskjærer, men valgte snart skulpturen og fikk i Bergslien, Peters og Bissen lærere som alle representerte den etterklassisistiske, naturalistiske skole. Hans første arbeid, utstilt i Kunstforeningen i Kristiania 1879, var den tidstypiske, idylliske genreskulptur <em>Gutt med kattefamilie</em> (terrakotta): \"Den ene Katunge, som Gutten har paa Fanget, holder netop paa at sætte sig i Frihed ved at krybe over hans venstre Arm, medens den anden Katunge nede paa Gulvet gjør seg til gode med en Skaal Mælk. Moderen stryger sig kjælent op mod Guttens Ben og hæver sig paa Kattemaner op\" (Aftenbladet 20.9.1879). Etter at F. hadde avsluttet studiene i København, oppholdt han seg en tid i Ålesund og Bergen, hvor han kom i forbindelse med storkjøpmannen C. Sundt, som støttet ham. Bystene av Sundt og frue ble hugd i marmor i Roma 1882 og har illusjonistiske effekter som utborede øye-epler med stavformede pupiller. Den naturalistiske formgivningen preges ellers av måteholden detaljering i overflaten (Bergen Billedgalleri). Fra samme år er også den nakne kvinnefigur <em>Primavera</em> for C. Sundt (gips, Bergen Billedgalleri).</p>\n<p>Fra 1884 bodde F. i Bergen, avbrutt av enkelte opphold i Ålesund og Molde. Han utførte en rekke portretter av fremtredende borgere og av skuespillere. En byste i bronse av <em>Henrik Ibsen</em> i Wahpeton, North Dakota, USA skal være utført i 1885. Den s.k. bysten av Ibsen i Bergen Billedgalleri (gips, 1886) gjengir imidlertid en annen skjegget person. Selv om den lille genreskulptur <em>Gutten med Kringlen</em> ble solgt i mange avstøpninger, var forholdene likevel trange, og i 1887 reiste han til USA, hvor han snart slo seg ned for godt i Minneapolis. Han deltok derfra i konkurransene om Holberg- og Tordenskioldmonumentene, men uten resultat; hans Holberg skal ha lignet \"en skinmager Seminarist fra Sundmøre\" (Revyen 17.5.1896). I USA modellerte han ellers for det meste byster, inntil han seiret i konkurransen om <em>Gettysburgh Monument</em> for Minneapolis i 1894. Foruten dette monument over Minnesotas soldater som falt i borgerkrigen, rakk han nesten å få ferdig en statue av <em>Ole Bull</em> før sin tidlige død. Statuen ble fullført av hans elev Frank Berger.</p>\n<p>Under et besøk i Ålesund ca. 1895 ytret F. ønske om å skjenke fødebyen modellene til alle sine arbeider. Tanken ble etter hans død realisert av broren, den norsk-amerikanske lege Herman O. Fjelde. Den 14. okt. 1903 ble samlingen mottatt i Arbeiderforeningen i Ålesund. Alt gikk til grunne ved byens brann 23. januar 1904.</p>\n</div>",
+    "created_at": "2013-07-03T22:27:13.245+02:00",
+    "changed_at": "2024-06-18T23:26:11.750+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1052\",\"https://digitaltmuseum.no/275a4f9c-e7ae-40d6-a066-906d4beab62e\",\"http://kulturnav.org/275a4f9c-e7ae-40d6-a066-906d4beab62e\"]",
+        "lastname": "Fjelde",
+        "firstname": "Jakob",
+        "birth_date": "10.4.1859",
+        "birthplace": "Ålesund",
+        "death_date": "5.5.1896",
+        "external_id": "person_8736ab1052",
+        "kulturnav_id": "275a4f9c-e7ae-40d6-a066-906d4beab62e",
+        "place_of_death": "Minneapolis, USA",
+        "alternative_names": "Fjelde, Jakob Henrik Gerhard"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

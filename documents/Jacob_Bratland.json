@@ -1,0 +1,466 @@
+{
+    "id": 416668,
+    "headword": "Jacob Bratland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101016",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ole",
+                "lastname": "Bratland",
+                "professions": [
+                    "malermester"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101018",
+                "birth_date": "1871",
+                "death_date": "",
+                "firstname": "Kristine Bergliot",
+                "lastname": "Vangen",
+                "professions": [],
+                "place": "(Kristiania"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101017",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karen Marie",
+                "lastname": "Michelsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "elev av Adolph Bouguereau og Tony-Robert Fleury i Paris 1887–88",
+                "order": "1"
+            },
+            {
+                "comment": "Akademiet i München bl.a. under prof. Ludwig von Løfftz 1883–86",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1888"
+            },
+            {
+                "order": "4",
+                "description": "Paris 1887"
+            },
+            {
+                "order": "1",
+                "description": "Schäffers legat 1889"
+            },
+            {
+                "order": "2",
+                "description": "Statens stipend 1897"
+            },
+            {
+                "order": "3",
+                "description": "Studieopphold i München 1883-86"
+            },
+            {
+                "order": "5",
+                "description": "Italia 1898"
+            },
+            {
+                "order": "6",
+                "description": "dessuten kortere studiereiser til Paris"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Sølvmedalje på Verdensutstillingen i Paris 1889"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Representert i Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Drammens Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1894",
+                "order": "2",
+                "to_date": "1895",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Glasspalast, München",
+                "from_date": "1901",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1891",
+                "order": "1",
+                "to_date": "1892",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1887",
+                "order": "0",
+                "to_date": "1888",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kungliga Akademien för de Fria Konsterna, Stockholm",
+                "from_date": "1904",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1897",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Chicago",
+                "from_date": "1893",
+                "order": "10",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1889",
+                "order": "9",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "15",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1886",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1903",
+                "order": "6",
+                "to_date": "1904",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1888",
+                "order": "8",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1900",
+                "order": "12",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1896",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1899",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1900",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Malt selvportrett (gjengitt i J. Thiis.: Norske malere og billedhuggere, Bergen 1904 bd. 2, s. 358)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1977",
+                "order": "10",
+                "reference": "s. 182 (ill.)",
+                "to_date": "",
+                "description": "Agder",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "2",
+                "reference": "s. 88",
+                "to_date": "",
+                "description": "Det nye Norges malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "4",
+                "reference": "bd. 4, s. 544",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "5",
+                "reference": "bd. 3, s. 884",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "3",
+                "reference": "bd. 1, s. 310, bd. 2, s. 154, 358",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "1",
+                "reference": "s. 33–37",
+                "to_date": "",
+                "description": "Kunstnere I",
+                "place": "Christiania",
+                "authors": [
+                    "Krohg, Chr."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "6",
+                "reference": "bd. 2, s. 147–48",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "9",
+                "reference": "s. 182",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "0",
+                "reference": "s. 90–91",
+                "to_date": "",
+                "description": "Bergens Kunstforening i femti aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "7",
+                "reference": "bd. 1, s. 249, 355 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H.",
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "8",
+                "reference": "bd. 3, spalte 352",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jacob Bratland",
+    "url": "https://nkl.snl.no/Jacob_Bratland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Etter skolegangen ble B. ansatt som bokholder og kasserer på et handelskontor. Men hans interesse for teater, musikk og billedkunst var sterk, og etter en tid å ha overveiet om han skulle bli skuespiller, sluttet han i sitt arbeide for å vie seg til malerkunsten. Etter hjemkomsten fra München oppholdt han seg en kortere tid i Hardanger og deretter i Bergen. Her sluttet han kontakt med de yngre franskpåvirkede kunstnerne og malte natur- og figurstudier i tidens stil. Etter sitt første Parisopphold slo han i 1888 gjennom på Høstutstillingen med <em>Etter en våkenatt</em> (1888, privat eie, Bergen). Bildet, som fremstiller en mor og far våkende ved barnets sykeleie, er typisk for tidens smak. B. oppholdt seg de følgende årene mest i Bergen, i Sogn og på Stord, og han ble ansett som en av de mest lovende vestlandske realister. Men han følte stadig at miljøet i Bergen var for snevert, og etter en vellykket deltakelse og salg på Høstutstillingen i 1891, flyttet han til Kristiania hvor han senere oppholdt seg, avbrutt av kortere utenlandsopphold. I de nærmeste årene spilte han en fremtredende rolle i Kristianias kunstliv. Blant hans teknisk sett dyktige malerier må nevnes <em>Søndag</em> (1891, Nasjonalgalleriet, Oslo) der en keitet bondegutt i søndagsklær sitter på vollen og prøver å innlede samtale med en ung, sky jente. Som så ofte ellers i B.s produksjon utgjør det anekdotiske et vesentlig poeng. Kunstneren tilstreber sjelden dyptloddende karakterstudier, men legger hovedvekten på rammende situasjonsskildringer gjengitt i en kjølig, grønnlig koloritt. På Høstutstillingen i 1891 var B. godt representert og vakte særlig oppmerksomhet med <em>Ung moder</em>. Bildet forestiller en kone med sin førstefødte liggende i sengen, og scenen er gjenskapt med både dyktighet og følelse, noe som skaffet det stor popularitet. Av andre malerier fra denne tiden må nevnes <em>En ligningskommisjon</em> fra 1890 og portrettet av <em>Komponisten Chr. Sinding</em>, et av B.s relativt få portretter. </p>\n<p>Omkring midten av nittiårene ble B. påvirket av nyromantikken uten at han maktet å omsmelte impulsene til en personlig uttrykksform. I denne forbindelse kan nevnes <em>Vaar</em> (1893, Trøndelag Kunstgalleri) med en ekstatisk kvinne som skrider gjennom landskapet. Hverken det eksalterte følelsesinnholdet eller stiliseringen virker her kunstnerisk nødvendig. I det hele sank hans produksjon både i kvalitet og kvantitet utover i nittiårene, og i tiden før sin plutselige død var B. ofte plaget av sviktende tillit til egne evner. Han maktet heller ikke å nå fram til en kunstnerisk avklaring eller nyorientering.</p>\n</div>",
+    "created_at": "2013-07-03T16:51:54.472+02:00",
+    "changed_at": "2024-06-18T23:25:47.406+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab495\",\"https://digitaltmuseum.no/267c459d-0d87-4b1c-a6b4-36f04515562e\",\"http://kulturnav.org/267c459d-0d87-4b1c-a6b4-36f04515562e\"]",
+        "lastname": "Bratland",
+        "firstname": "Jacob",
+        "birth_date": "7.4.1859",
+        "birthplace": "Bergen",
+        "death_date": "11.6.1906",
+        "external_id": "person_8736ab495",
+        "kulturnav_id": "267c459d-0d87-4b1c-a6b4-36f04515562e",
+        "place_of_death": "Kristiania"
+    },
+    "authors": [
+        {
+            "full_name": "Gunnar Sørensen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15634/standard_NMK-B_NG.M.0039220130725-13675-sd4m1b.jpg",
+            "full_size_url": "https://media.snl.no/media/15634/NMK-B_NG.M.0039220130725-13675-sd4m1b.jpg",
+            "xhtml": "<div>\r\n<p><em>Søndag</em>, 1891. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Jacob Bratland",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15733/standard_NMK-B_NG.M.0301520130725-13675-t823s3.jpg",
+            "full_size_url": "https://media.snl.no/media/15733/NMK-B_NG.M.0301520130725-13675-t823s3.jpg",
+            "xhtml": "<div>\r\n<p><em>Fru Henriette Diriks, f. Munch</em>, 1897. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Jacob Bratland",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

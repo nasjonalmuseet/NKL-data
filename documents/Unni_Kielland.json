@@ -1,0 +1,606 @@
+{
+    "id": 417713,
+    "headword": "Unni Kielland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104269",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anton Monrad",
+                "lastname": "Kielland",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab104270",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Alvilde Harrislef",
+                "lastname": "Hovland",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Lillehammer"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "studier i Paris fra 1933",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Axel Revold og Halvdan Strøm 1929–30/31, og elev av Jean Heiberg ca. 1930 (?)",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Bosatt i Paris 1933–47"
+            },
+            {
+                "order": "3",
+                "description": "New York og Washington 1952–58"
+            },
+            {
+                "order": "1",
+                "description": "til Paris og Spania"
+            },
+            {
+                "order": "4",
+                "description": "København 1960–81"
+            },
+            {
+                "order": "0",
+                "description": "Studiereiser i Skandinavia"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Unge Kunstneres Samfunn"
+            },
+            {
+                "order": "2",
+                "description": "Bildende Kunstnere Oppland"
+            },
+            {
+                "order": "0",
+                "description": "Medlem Landsforeningen Norske Malere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Modum og Larvik kunstforeninger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Kongsberg Kunstforening",
+                "from_date": "1964",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Vikersund Kunstforening",
+                "from_date": "1964",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Larvik Kunstforening",
+                "from_date": "1964",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Billedgalleri",
+                "from_date": "1947",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Stavanger Kunstforening",
+                "from_date": "1964",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1967",
+                "order": "21",
+                "to_date": "",
+                "title": "Den Frie Udstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "American Student and Artist Center, Paris",
+                "from_date": "1937",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Røros Kunstforening",
+                "from_date": "1964",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Grand Central Palace, New York",
+                "from_date": "1958",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Haugesund Kunstforening",
+                "from_date": "1964",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1970",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Molde Kunstforening",
+                "from_date": "1964",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1973",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Billedgalleri",
+                "from_date": "1963",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "28",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1968",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1952",
+                "order": "31",
+                "to_date": "",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "29",
+                "to_date": "1939",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1946",
+                "order": "26",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Sandefjord Kunstforening",
+                "from_date": "1964",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Hamar Kunstforening",
+                "from_date": "1964",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Modum Kunstforening",
+                "from_date": "1964",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1938",
+                "order": "32",
+                "to_date": "",
+                "title": "Norsk kunst idag"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1949",
+                "order": "3",
+                "to_date": "",
+                "title": "Form og Färg"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "St. Erics Mässan, Stockholm",
+                "from_date": "1946",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Trondheim Kunstforening",
+                "from_date": "1964",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Kristiansand Kunstforening",
+                "from_date": "1964",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "M/S Oslofjord",
+                "from_date": "1962",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "De Sandvigske Samlinger, Lillehammer",
+                "from_date": "1970",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. D. A. Bergen",
+                "from_date": "1963",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "vandreutstilling Ålesund Kunstforening",
+                "from_date": "1964",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1946",
+                "order": "33",
+                "to_date": "",
+                "title": "den franske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1948",
+                "order": "27",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "30",
+                "to_date": "1948",
+                "title": "Vestlandsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1935",
+                "order": "25",
+                "to_date": "1936",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1963-02-20",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [
+                    "Kielland, Unni"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-05-13",
+                "order": "1",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [
+                    "Kielland, Unni"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1970",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "katalog Blomqvists Kunsthandel, Oslo",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-22",
+                "order": "12",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-11-05",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "katalog Bergens Kunstforening",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-11-15",
+                "order": "2",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-02-22",
+                "order": "20",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-12-03",
+                "order": "17",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-11-04",
+                "order": "16",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-06-19",
+                "order": "22",
+                "to_date": "",
+                "description": "Dagningen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-28",
+                "order": "14",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-31",
+                "order": "15",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-11-22",
+                "order": "4",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-20",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "18",
+                "reference": "s. 57",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "5",
+                "reference": "s. 137",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-02-15",
+                "order": "8",
+                "to_date": "",
+                "description": "Larvik Morgenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-03-02",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-11-17",
+                "order": "3",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-22",
+                "order": "7",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Simonnæs, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-04-01",
+                "order": "10",
+                "to_date": "",
+                "description": "Sandefjords Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-03-01",
+                "order": "9",
+                "to_date": "",
+                "description": "Fremtiden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Unni Kielland",
+    "url": "https://nkl.snl.no/Unni_Kielland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>K. vokste opp i Bergen og drev selvstudium fra 15-års alderen. Et møte med Harriet Backer gav henne mot til å satse på kunstnerkarriere. Hennes produksjon omfatter arbeider i olje og pastell, og i 1930–40 årene malte hun på stoff. K.s omflakkende tilværelse har nødvendigvis preget hennes kunstneriske uttrykksmåte. Maleriene viser en utvikling fra en stilisert naturalisme til det helt abstrakte og fra kraftig fargebruk til lysere, mer gjennomskinnelig koloritt.</p></div>",
+    "created_at": "2013-07-03T23:30:08.730+02:00",
+    "changed_at": "2024-06-18T23:26:16.218+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2068\",\"https://digitaltmuseum.no/5f3ee608-6d40-490e-b936-c4babb44b374\",\"http://kulturnav.org/5f3ee608-6d40-490e-b936-c4babb44b374\"]",
+        "lastname": "Kielland",
+        "firstname": "Unni",
+        "birth_date": "10.1.1911",
+        "birthplace": "New York",
+        "death_date": "25.1.1994",
+        "external_id": "person_8736ab2068",
+        "kulturnav_id": "5f3ee608-6d40-490e-b936-c4babb44b374",
+        "place_of_death": "Lillehammer",
+        "alternative_names": "Kielland, Unni Elinor"
+    },
+    "authors": [
+        {
+            "full_name": "Nina Hagen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

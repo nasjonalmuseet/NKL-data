@@ -1,0 +1,653 @@
+{
+    "id": 429967,
+    "headword": "Anton Rasmussen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106419",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Jørgen Fredrik Møldrup",
+                "lastname": "Rasmussen",
+                "professions": [
+                    "skreddermester",
+                    "buntmaker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106420",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anne Elisabeth",
+                "lastname": "Ommundsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "korreksjon av Johan Ludvig Losting og Anders Askevold, Bergen",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Frederik Rohde, København vinteren 1863",
+                "order": "2"
+            },
+            {
+                "comment": "frekventerte samtidig Kunstakademiet samme sted",
+                "order": "3"
+            },
+            {
+                "comment": "Bergen offentlige tegneskole",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstakademiet i Düsseldorf under Oswald Achenbach januar-oktober 1864, nov. 1864 - august 1865, nov. 1866 - mai 1867",
+                "order": "4"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "i Berlin fra 1899"
+            },
+            {
+                "order": "1",
+                "description": "Bosatt i Düsseldorf fra 1863"
+            },
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1866"
+            },
+            {
+                "order": "3",
+                "description": "flere studiereiser til Norge"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "1",
+                "description": "R1 St. Olavs Orden 1911"
+            },
+            {
+                "order": "0",
+                "description": "Gullmedalje, London 1878"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Stavanger Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Staatliche Gemälde-Gallerie (Neue Gallerie), Dresden"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Historisk museum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Östergötlands museum, Linköping"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Kaliningrad museum, USSR"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Städtische Museum, Karl-Marx-Stadt, øst-Tyskland"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Norske kunsthåndverkere"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Gdansk museum, Polen"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Landesmuseum, Mainz, Vest-Tyskland"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Düsseldorf",
+                "from_date": "1963",
+                "order": "33",
+                "to_date": "",
+                "title": "Nordisk kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "28",
+                "to_date": "",
+                "title": "Verdensutstillingen i Antwerpen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1908",
+                "order": "31",
+                "to_date": "",
+                "title": "Norsk maleri, Keller und Reiner"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1873",
+                "order": "3",
+                "to_date": "",
+                "title": "Verdensutstillingen i Wien"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1888",
+                "order": "21",
+                "to_date": "",
+                "title": "jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1891",
+                "order": "24",
+                "to_date": "",
+                "title": "internasjonal kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1894",
+                "order": "29",
+                "to_date": "",
+                "title": "internasjonal kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Berlin",
+                "from_date": "1879",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Dresden",
+                "from_date": "1875",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Dresden",
+                "from_date": "1884",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "26",
+                "to_date": "",
+                "title": "Grosse Berliner Kunstausstellung"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1867",
+                "order": "1",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Dresden",
+                "from_date": "1881",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Düsseldorf allgemeine Kunstausstellung",
+                "from_date": "1880",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1882",
+                "order": "15",
+                "to_date": "",
+                "title": "internasjonal kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1883",
+                "order": "17",
+                "to_date": "",
+                "title": "Nordisk Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1878",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1920",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1893",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1896",
+                "order": "30",
+                "to_date": "",
+                "title": "internasjonal kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "27",
+                "to_date": "",
+                "title": "Grosse Berliner Kunstausstellung"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1879",
+                "order": "8",
+                "to_date": "",
+                "title": "internasjonal kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "22",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1872",
+                "order": "2",
+                "to_date": "",
+                "title": "Nordisk Industri- og Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Berlin",
+                "from_date": "1888",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hannover",
+                "from_date": "1880",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1873",
+                "order": "4",
+                "to_date": "",
+                "title": "Nordisk Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "(Bergen)",
+                "from_date": "1886",
+                "order": "0",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bremen",
+                "from_date": "1880",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1879",
+                "order": "9",
+                "to_date": "",
+                "title": "Wiener Jahresausstellung"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bremen",
+                "from_date": "1890",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1881",
+                "order": "14",
+                "to_date": "",
+                "title": "Nordisk kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstakademiet i Berlin",
+                "from_date": "1884",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1883",
+                "order": "16",
+                "to_date": "",
+                "title": "internasjonal kunstutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1879",
+                "order": "0",
+                "reference": "bd. 2, s. 103",
+                "to_date": "",
+                "description": "Adolph Tidemand, hans liv og verker",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "9",
+                "reference": "bd. 28, s. 23",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "11",
+                "reference": "s. 149",
+                "to_date": "",
+                "description": "For den bildende kunst. Bergens kunstforening ved 125-års-jubileet",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "10",
+                "reference": "register s. 197",
+                "to_date": "",
+                "description": "Bergens kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "7",
+                "reference": "bd. 19, s. 940–41",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "16",
+                "reference": "s. 46–47 (ill.)",
+                "to_date": "",
+                "description": "Kunsten i Norges Rederiforbund",
+                "place": "Oslo",
+                "authors": [
+                    "Haverkamp, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "12",
+                "reference": "s. 60–61",
+                "to_date": "",
+                "description": "Profiler og paletter i Rogalands kunst",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "13",
+                "reference": "bd. 8, s. 611",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "8",
+                "reference": "s. 236",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "14",
+                "reference": "register s. 535",
+                "to_date": "",
+                "description": "Rogaland, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "15",
+                "reference": "katalog Düsseldorf Kunstmuseums. 147",
+                "to_date": "",
+                "description": "Die Düsseldorfer Malerschule",
+                "place": "Mainz",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "2",
+                "reference": "bd. 2, s. 358",
+                "to_date": "",
+                "description": "Malerwerke des 19. Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Boetticher, F.v."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1899",
+                "order": "3",
+                "reference": "s. 236",
+                "to_date": "",
+                "description": "Svundne Tider",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "4",
+                "reference": "bd. 1, s. 263",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "1",
+                "reference": "s. 113",
+                "to_date": "",
+                "description": "Bergens Kunstforening i 50 aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-05-22",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-05-14",
+                "order": "5",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Anton Rasmussen",
+    "url": "https://nkl.snl.no/Anton_Rasmussen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter læreår i Bergen og København drog R. til Düsseldorf høsten 1863 for å begynne på akademiet. Ved ankomsten til Düsseldorf omtalte Adolph Tidemand ham som meget talentfull. Under Oswald Achenbach utdannet R. seg til landskapsmaler. R.s arbeider fra de første årene i Düsseldorf vitner om sterk påvirkning fra lærerens, men også fra Hans Gudes landskapskunst. R.s fargesyn ble omtalt som en vesentlig del av det lovende og originale ved ham i elevtiden. R. var bosatt i Tyskland etter endt utdannelse, men foretok mange studieturer til Norge og var en flittig utstiller i de hjemlige kunstforeninger. I perioden 1863–79 ble hele 13 malerier av ham innkjøpt til utlodding i Bergens Kunstforening. R.s malerier, oftest med motiv fra norske vestlandsfjorder, ble raskt meget populære hos det tyske publikum, og kunstneren nød velstand og anseelse i Düsseldorf så vel som i Berlin, hvor han var bosatt fra 1899 til sin død. R.s beste arbeider er fra 1870- og 80-årene. Hans landskapsoppfatning slutter seg til Düsseldorf-skolens, men hans fargebruk var personligere og noe kraftigere enn man vanligvis forbinder med skolen. R. forble upåvirket av nye retninger innen kunsten. Som følge av den store etterspørsel og popularitet ble hans produksjon svært stor, og det fins mange rutinepregede arbeider fra de siste tyve år av hans virksomhet.</p></div>",
+    "created_at": "2014-11-20T10:14:29.536+01:00",
+    "changed_at": "2024-06-18T23:27:45.908+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3169\",\"https://digitaltmuseum.no/dc2800c7-6b76-483c-954a-94e2e34fe547\",\"http://kulturnav.org/dc2800c7-6b76-483c-954a-94e2e34fe547\"]",
+        "lastname": "Rasmussen",
+        "firstname": "Anton",
+        "birth_date": "7.8.1842",
+        "birthplace": "Stavanger",
+        "death_date": "24.10.1914",
+        "external_id": "person_8736ab3169",
+        "kulturnav_id": "dc2800c7-6b76-483c-954a-94e2e34fe547",
+        "place_of_death": "Berlin",
+        "alternative_names": "Rasmussen, Georg Anton"
+    },
+    "authors": [
+        {
+            "full_name": "Tone Skedsmo"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

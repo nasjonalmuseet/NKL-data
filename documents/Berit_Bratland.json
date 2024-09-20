@@ -1,0 +1,612 @@
+{
+    "id": 416666,
+    "headword": "Berit Bratland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101014",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Katsy",
+                "lastname": "Horgen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab3035",
+                "birth_date": "03.08.1919",
+                "death_date": "1995",
+                "firstname": "Kalle",
+                "lastname": "Orstad",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab101013",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Trygve",
+                "lastname": "Bratland",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Jean Heiberg og Axel Revold 1941–45",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Kai Fjell, Karl Høgberg og Per Krohg 1936–40",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "3% fondets stipend 1956, -59, -61"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "5",
+                "description": "Studieopphold i Paris 1947"
+            },
+            {
+                "order": "3",
+                "description": "Statens 3-årige arbeidsstipend 1963–65"
+            },
+            {
+                "order": "6",
+                "description": "Italia og Frankrike 1950"
+            },
+            {
+                "order": "0",
+                "description": "Lorch-Schives legat 1955"
+            },
+            {
+                "order": "2",
+                "description": "Statens kunstnerstipend 1957"
+            },
+            {
+                "order": "8",
+                "description": "København 1969"
+            },
+            {
+                "order": "7",
+                "description": "København og Amsterdam 1963"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "komité for professoransettelse ved Statens Kunstakademi, Oslo"
+            },
+            {
+                "order": "1",
+                "description": "Kulturrådets innkjøpskomité 1974–75"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Den faste Jury 1967–70"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Tuborg og Bryne kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Tuborg Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Rostock Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Norsk Hydro"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Utenriksdepartementet"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Bryne Kunstforening"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1978",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstgalleri",
+                "from_date": "1973",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1965",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1972",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1973",
+                "order": "13",
+                "to_date": "1975",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Värmland",
+                "from_date": "1957",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk Konst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Kunstnernes Hus",
+                "from_date": "1963",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Porsgrunn Kunstforening",
+                "from_date": "1964",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Permanenten, Kunstnernes Hus",
+                "from_date": "1971",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1969",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1946",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Koloritten, Stavanger",
+                "from_date": "1979",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1965",
+                "order": "11",
+                "to_date": "1966",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1954",
+                "order": "9",
+                "to_date": "1957",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1959",
+                "order": "10",
+                "to_date": "1962",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1978-11-03",
+                "order": "20",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960-08-03",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-28",
+                "order": "7",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "1",
+                "reference": "s. 114",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "12",
+                "reference": "hefte 63, s. 51",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "3",
+                "reference": "s. 118",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-07",
+                "order": "22",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-12",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogaland Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-13",
+                "order": "16",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Steen-Johnsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-10-24",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-09",
+                "order": "10",
+                "to_date": "",
+                "description": "Friheten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-06",
+                "order": "8",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-17",
+                "order": "18",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Harr, K.E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-06",
+                "order": "21",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Norvin, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "4",
+                "reference": "s. 49",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-02-27",
+                "order": "6",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-02",
+                "order": "19",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "2",
+                "reference": "s. 118",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "0",
+                "reference": "s. 182",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-11-11",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-13",
+                "order": "17",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-09",
+                "order": "15",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-11-16",
+                "order": "23",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-05",
+                "order": "25",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Sørby, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-09",
+                "order": "11",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-03-07",
+                "order": "9",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Berit Bratland",
+    "url": "https://nkl.snl.no/Berit_Bratland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. maler landskap, som oftest fra Jæren, i en utpreget fargelyrisk, forenklet uttrykksform, med høy himmel og impresjonistisk beskrivelse av lysforhold og atmosfære.</p></div>",
+    "created_at": "2013-07-03T16:51:15.943+02:00",
+    "changed_at": "2024-06-18T23:25:47.349+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab494\",\"https://digitaltmuseum.no/3d4e5ffd-4dc1-4f21-ac73-bf2e6c990809\",\"http://kulturnav.org/3d4e5ffd-4dc1-4f21-ac73-bf2e6c990809\"]",
+        "lastname": "Bratland",
+        "firstname": "Berit",
+        "birth_date": "31.10.1919",
+        "birthplace": "Oppegård",
+        "external_id": "person_8736ab494",
+        "kulturnav_id": "3d4e5ffd-4dc1-4f21-ac73-bf2e6c990809"
+    },
+    "authors": [
+        {
+            "full_name": "Even Hebbe Johnsrud"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

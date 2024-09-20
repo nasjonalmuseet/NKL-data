@@ -1,0 +1,758 @@
+{
+    "id": 418119,
+    "headword": "Borghild Røed Lærum",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105195",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "from_date": "1906",
+                "type": "Gift med",
+                "external_id": "person_8736ab2498",
+                "birth_date": "28.07.1877",
+                "death_date": "16.08.1940",
+                "firstname": "Arne",
+                "lastname": "Lærum",
+                "professions": [
+                    "maler"
+                ],
+                "place": "Hvitsten"
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab105194",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lars Olsen",
+                "lastname": "Røed",
+                "professions": [
+                    "skipper",
+                    "reder"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Elev av Harriet Backers malerskole, Kristiania 1900–01",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Fernand Léger og Marie Wasilieva (i Wasilievs atelier), Paris 1912–14",
+                "order": "1"
+            },
+            {
+                "comment": "elev av André Lhote, Paris 1920–21",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studieopphold i Paris 1902, 1912–14, 1919–21 og 1930"
+            },
+            {
+                "order": "1",
+                "description": "Spania 1913"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Valdres og Asker kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Gran, Søndre Land og Vestby kommuner"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Høvik menighetshus"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Altertavle, Hvitsten kapell (olje, 1902) og portrett, sakristiet, Hvitsten kapell"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1936",
+                "order": "22",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1932",
+                "order": "20",
+                "to_date": "",
+                "title": "Bildende kunstnerinners utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gran Kunstforening, Vestoppland folkehøgskule, Brandbu",
+                "from_date": "1977",
+                "order": "0",
+                "to_date": "",
+                "title": "Lærum, A."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon des Indépendants, Grand Palais, Paris",
+                "from_date": "1920",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1934",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1978",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "15",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Slidretun, Vestre Slidre",
+                "from_date": "1979",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "11",
+                "to_date": "1912",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1934",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Asker Kunstforening, Samfunnshuset, Asker",
+                "from_date": "1982",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriets retrospektive utstilling over norsk kunst",
+                "from_date": "1940",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1935",
+                "order": "21",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1928",
+                "order": "13",
+                "to_date": "1929",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "The Royal Society of British Artists' Galleries, London",
+                "from_date": "1928",
+                "order": "19",
+                "to_date": "",
+                "title": "Exhibition of Norwegian Art"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1934",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vestby Kunstforening",
+                "from_date": "1980",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1901",
+                "order": "10",
+                "to_date": "1902",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "14",
+                "to_date": "1933",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gran Kunstforening, Hadeland videregående skole",
+                "from_date": "1978",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1911-05",
+                "order": "16",
+                "to_date": "",
+                "title": "De unges utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1924",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1934",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1940",
+                "order": "24",
+                "to_date": "",
+                "title": "Portrett-utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1923-01",
+                "order": "18",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Permanentutstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Selvportrett (kull, 1904) gjengitt i Arbeiderbladet 10.8.1977 og Aftenposten 17.3.1978"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1979-05-18",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Vestfjellets kunstmalere",
+                "place": "Valdres",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "B. R. Lærum og A. Lærum",
+                "authors": [],
+                "comments": [
+                    "katalog Vestby Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-25",
+                "order": "30",
+                "to_date": "",
+                "description": "Oppland Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-29",
+                "order": "13",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-02",
+                "order": "22",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Oppland Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "B. R. Lærum og A. Lærum",
+                "authors": [],
+                "comments": [
+                    "katalog Gran Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "8",
+                "reference": "bd. 2, s. 18–19, 388",
+                "to_date": "",
+                "description": "Akershus, Norges kirker",
+                "place": "Oslo",
+                "authors": [
+                    "Christie, S.",
+                    "Christie, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-08",
+                "order": "34",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "B. R. Lærum og A. Lærum",
+                "authors": [],
+                "comments": [
+                    "katalog Asker Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1920-01-31",
+                "order": "1",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "3",
+                "reference": "s. 204",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "7",
+                "reference": "s. 234",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-04",
+                "order": "15",
+                "to_date": "",
+                "description": "i Asker og Bærums Budstikke",
+                "authors": [
+                    "Granum, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-21",
+                "order": "12",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-06",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-23",
+                "order": "29",
+                "to_date": "",
+                "description": "Valdres",
+                "authors": [],
+                "comments": [
+                    "(portr. foto)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "0001-04-01",
+                "description": "B. R. Lærum og A. Lærum",
+                "authors": [],
+                "comments": [
+                    "katalog Oslo Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "5",
+                "reference": "s. 214",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J. J.",
+                    "Flønes, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "B. R. Lærum og A. Lærum",
+                "authors": [],
+                "comments": [
+                    "katalog Slidretun"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1980-03-26",
+                "order": "33",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-15",
+                "order": "23",
+                "to_date": "",
+                "description": "Valdres",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-22",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Valdres",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-06-01",
+                "order": "31",
+                "to_date": "",
+                "description": "i Valdres",
+                "authors": [
+                    "Årseth, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-30",
+                "order": "14",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-08-30",
+                "order": "19",
+                "to_date": "",
+                "description": "Samhold-Velgeren",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-09-02",
+                "order": "21",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Hadeland",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-09-27",
+                "order": "2",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Korsvold, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-08",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "B. R. Lærum og A. Lærum",
+                "authors": [],
+                "comments": [
+                    "katalog Brandbu"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1911-10-22",
+                "order": "0",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "6",
+                "reference": "s. 164, 167 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-11",
+                "order": "18",
+                "to_date": "",
+                "description": "Tønsbergs Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-04-11",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Valdres",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-04-05",
+                "order": "16",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-15",
+                "order": "26",
+                "to_date": "",
+                "description": "Valdres",
+                "authors": [],
+                "comments": [
+                    "(ill)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-17",
+                "order": "11",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "4",
+                "reference": "s. 165 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Borghild Røed Lærum",
+    "url": "https://nkl.snl.no/Borghild_R%C3%B8ed_L%C3%A6rum",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>L.s tidligste bilder er ofte lyrisk oppfattede aften- og nattstemninger preget av nyromantikken. Arbeider som <em>Sjøbodene</em> og <em>Bestemors bryggerhus</em>, begge malt i Hvitsten 1900, har følsomme koloristiske kvaliteter. Det samme gjelder <em>Sognsveien</em> (1900), en tussmørkestemning i slekt med Lørdagskveld av Halfdan Egedius. I 1900–01 gikk L. på Harriet Backers malerskole. Selv om hun senere mottok impulser fra mange hold, slapp de kunstneriske prinsipper hun lærte hos Harriet Backer aldri taket i henne. Påvirkningen gjør seg gjeldende i barneportrettet <em>Anne Marie</em> (1908), <em>Veien til Aasen, Eggedal</em> (1911) og spesielt i interiørbildene. Så sent som i slutten av 1930-årene er elevforholdet påtagelig i <em>Bislag, Buskestua</em>, der L. skildrer dagslysets reflekser i et fargerikt landsens interiør. På malerskolen traff L. i 1901 Arne L. som hun giftet seg med fem år senere. Trass i stor temperamentsforskjell mellom dem mottok de som malere sterke impulser av hverandre, noe det pregnant utformede <em>Utsikt fra Hvitsten</em> (1906) vitner om. Gjennom sin mann fikk L. forståelse for Zahrtmannskolens idealer, og hun fikk også god kontakt med flere av de norske Zahrtmann-elevene. Fram til avreisen fra Norge i 1912 har L.s kunst en romantisk grunnholdning, slik de koloristisk saftige landskapene fra Eggedal somrene 1911–12 vitner om. Det mest uttrykksfulle, <em>Eggedal gamle kirkegård</em> (1911), er i slekt med Nikolai Astrups og Michaloff Wigdehls bilder.</p>\n<p>I årene 1912–14 oppholdt L. seg i Paris som elev av Fernand Léger. Under innflytelse fra læreren arbeidet hun noen år i et strengt forenklet formspråk inspirert av kubismen. Hun utførte blant annet noen bevegelsesfylte, koloristisk friske skildringer fra arbeidslivet, <em>Våronn på Ramstad</em> (1916), <em>Banearbeidere på Høvik</em> (1916) og <em>Vestbanebryggen</em> (1917). Bildene kan tolkes som en hyllest til kroppsarbeiderne, samtidig som formspråket gir dem preg av effektive roboter. Både motivene og den halvt kubistiske utformningen leder tanken mot Axel Revolds litt senere utkast til Bergens Børs. Også i <em>Marokkanerinne</em> (1920) gjør impulser fra kubismen seg gjeldende. Men etter elevtiden hos André Lhote i Paris 1920–21 ble den hardhendte forenklingen avløst av et mer finstemt og nyansert formspråk i pakt med nyklassisismens idealer. Koloritten dempes i retning av jordfargene, grått, sølvgrått, grågrønt og gråbrunt. Typiske eksempler er det dypstemte <em>Fra Frigstadseter</em> (1928), <em>Else</em> (1929) og det storlatne <em>Pont Neuf</em> (1930), som vel er det betydeligste av hennes mange Paris-bilder. L.s senere produksjon er noe ujevn. Koloritten blir igjen frodigere og formspråket svinger mellom en impressiv og en mer dekorativt stilisert naturalisme. L. malte også religiøse komposisjoner, bl.a. altertavlen <em>Kristus i Getsemane</em> til <em>Hvitsten kapell</em> (1902), <em>Nattverd</em> (1933, Gran kommune) og <em>Veien til Emmaus</em> (utstilt 1934).</p>\n</div>",
+    "created_at": "2013-07-04T07:35:19.596+02:00",
+    "changed_at": "2024-06-18T23:26:27.241+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2499\",\"https://digitaltmuseum.no/1137486c-4c1a-41bd-b38e-706f7c9098ad\",\"http://kulturnav.org/1137486c-4c1a-41bd-b38e-706f7c9098ad\"]",
+        "lastname": "Lærum",
+        "firstname": "Borghild Røed",
+        "birth_date": "6.11.1877",
+        "birthplace": "Hvitsten",
+        "death_date": "3.9.1959",
+        "external_id": "person_8736ab2499",
+        "kulturnav_id": "1137486c-4c1a-41bd-b38e-706f7c9098ad",
+        "place_of_death": "Bærum",
+        "alternative_names": "Røed, Borghild"
+    },
+    "authors": [
+        {
+            "full_name": "Oscar Thue"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "Lærum, Borghild Røed/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16071/standard_NMK-B_NG.M.0375220130725-13675-s3tpgw.jpg",
+            "full_size_url": "https://media.snl.no/media/16071/NMK-B_NG.M.0375220130725-13675-s3tpgw.jpg",
+            "xhtml": "<div>\r\n<p><em>Banearbeidere på Høvik</em>, 1916. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Borghild Røed Lærum",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Lærum, Borghild Røed/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16099/standard_NMK-B_NG.M.0428120130725-13675-jr07v0.jpg",
+            "full_size_url": "https://media.snl.no/media/16099/NMK-B_NG.M.0428120130725-13675-jr07v0.jpg",
+            "xhtml": "<div>\r\n<p><em>Pont St. Michel</em>, 1930. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Borghild Røed Lærum",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Lærum, Borghild Røed/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16114/standard_NMK-B_NG.M.0436420130725-13675-avk5hv.jpg",
+            "full_size_url": "https://media.snl.no/media/16114/NMK-B_NG.M.0436420130725-13675-avk5hv.jpg",
+            "xhtml": "<div>\r\n<p><em>Selvportrett med blåveis</em>, 1904. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Borghild Røed Lærum",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "Lærum, Borghild Røed/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/16115/standard_NMK-B_NG.M.0436520130725-13675-15i90a2.jpg",
+            "full_size_url": "https://media.snl.no/media/16115/NMK-B_NG.M.0436520130725-13675-15i90a2.jpg",
+            "xhtml": "<div>\r\n<p><em>Stilleben med mandolin</em>, 1927. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Borghild Røed Lærum",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

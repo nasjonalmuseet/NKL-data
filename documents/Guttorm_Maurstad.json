@@ -1,0 +1,418 @@
+{
+    "id": 418198,
+    "headword": "Guttorm Maurstad",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105352",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lars Guttormsen",
+                "lastname": "Maurstad",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105353",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie Berthea",
+                "lastname": "Furnes",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab105354",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Annill Petry Mildrid",
+                "lastname": "Albrigtsen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Laksevåg"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Ole B. Eydes malerskole, Bergen 1939–43",
+                "order": "0"
+            },
+            {
+                "comment": "Vestlandets kunstakademi, under Alexander Klingspor, Poul Christensen og Alf-Jørgen Aas 1952–54",
+                "order": "2"
+            },
+            {
+                "comment": "Bergen kunsthåndverkskole 1945–47",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Studiereiser til Italia 1948"
+            },
+            {
+                "order": "3",
+                "description": "Spania og England 1949 og -50"
+            },
+            {
+                "order": "0",
+                "description": "Bergen bys kunstnerstipend 1958 og -71"
+            },
+            {
+                "order": "4",
+                "description": "Portugal 1950"
+            },
+            {
+                "order": "5",
+                "description": "dessuten studiereiser til Sverige og Danmark"
+            },
+            {
+                "order": "2",
+                "description": "Nederland og Frankrike 1948 og -49"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem Bildende Kunstneres Forening Bergen og Hordaland, formann 1963–68"
+            },
+            {
+                "order": "1",
+                "description": "Landsforeningen Norske Malere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergenske rederier"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergen Bank"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergen kommune"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1962",
+                "order": "4",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1958",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Landsforeningen Norske Malere",
+                "from_date": "1979",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1964",
+                "order": "5",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1975",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1967",
+                "order": "7",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. Siverts, Bergen",
+                "from_date": "1981",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tromsø Kunstforening",
+                "from_date": "1973",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1943",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Island",
+                "from_date": "1973",
+                "order": "14",
+                "to_date": "",
+                "title": "internasjonal utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1965",
+                "order": "6",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Harstad Kunstforening",
+                "from_date": "1974",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1958",
+                "order": "3",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1976",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1956",
+                "order": "2",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1977",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes hus, Urdi, Bergen",
+                "from_date": "1963",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "1",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Skövde konsthall",
+                "from_date": "1977",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "8",
+                "to_date": "1973",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1970",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ås Kunstforening",
+                "from_date": "1979",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Færøyene",
+                "from_date": "1971",
+                "order": "12",
+                "to_date": "",
+                "title": "internasjonal utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Førde Kunstlag",
+                "from_date": "1978",
+                "order": "20",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1979",
+                "order": "6",
+                "reference": "s. 195",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-30",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "3",
+                "reference": "s. 144",
+                "to_date": "",
+                "description": "For den bildende kunst. Bergens Kunstforening ved 125-års-jubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O. Rønning"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-29",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-05-05",
+                "order": "7",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Sælen, F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-12-01",
+                "order": "0",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-09-27",
+                "order": "1",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-10-01",
+                "order": "2",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Simonnæs, O."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Guttorm Maurstad",
+    "url": "https://nkl.snl.no/Guttorm_Maurstad",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>M.s formspråk er i hans tidligste arbeider strengt naturalistisk og tradisjonelt. Landskapet han bruker som motiv var ikke det iøynefallende maleriske, men hentet fra nærmeste omegn. Hans koloritt kunne virke noe tørr. Etter hvert endrer han sitt fargebruk mot en mer mettet, noe dyster fargeskala som han benytter i sine motiver av vestlandske fjellandskap og skogsinteriører og i abstrakte komposisjoner. Fra 70-årene begynte M. å lage oljemalerier som minner om pastell med eksotiske motiver som f.eks. dansende harlekiner, karnevalsopptrinn og andre merkverdige figurasjoner. I 80-årene har han vært mest opptatt av å gi en eksotisk tolkning av vestlandsnaturen gjennom særpregete lysvirkninger.</p></div>",
+    "created_at": "2013-07-04T08:48:58.469+02:00",
+    "changed_at": "2024-06-18T23:26:29.368+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2662\",\"https://digitaltmuseum.no/8ce25c1e-1799-4662-a9ce-42fb35dfa230\",\"http://kulturnav.org/8ce25c1e-1799-4662-a9ce-42fb35dfa230\"]",
+        "lastname": "Maurstad",
+        "firstname": "Guttorm",
+        "birth_date": "31.12.1914",
+        "birthplace": "Bergen",
+        "external_id": "person_8736ab2662",
+        "kulturnav_id": "8ce25c1e-1799-4662-a9ce-42fb35dfa230",
+        "alternative_names": "Maurstad, Guttorm Torolf"
+    },
+    "authors": [
+        {
+            "full_name": "Jorunn Sanstøl"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

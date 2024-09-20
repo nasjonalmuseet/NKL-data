@@ -1,0 +1,339 @@
+{
+    "id": 416491,
+    "headword": "Vegard Fusche Hansen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab1461",
+                "birth_date": "27.07.1922",
+                "death_date": "29.05.2004",
+                "firstname": "Rolf",
+                "lastname": "Hansen",
+                "professions": [
+                    "keramiker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102976",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragna",
+                "lastname": "Fusche",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Kongsberg"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo, keramikklinjen under Jens von der Lippe 1965–68",
+                "order": "1"
+            },
+            {
+                "comment": "Verkstedslære hos Rolf H.",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Studiereiser til Italia 1968"
+            },
+            {
+                "order": "3",
+                "description": "Danmark og England 1977"
+            },
+            {
+                "order": "0",
+                "description": "Statens reise- og studiestip. 1977"
+            },
+            {
+                "order": "1",
+                "description": "Buskerud fylkes reisestip. 1981"
+            },
+            {
+                "order": "4",
+                "description": "Frankrike 1982"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "medlem av Riksgalleriets innkjøpskomité for kunsthåndverk 1980–82"
+            },
+            {
+                "order": "1",
+                "description": "medlem av Norske kunsthåndverkere"
+            },
+            {
+                "order": "0",
+                "description": "Medlem av Foreningen Brukskunst 1969–75"
+            },
+            {
+                "order": "3",
+                "description": "styreformann i Vinje handverks- og industrilag 1971–72"
+            },
+            {
+                "order": "4",
+                "description": "formann i Kongsberg Kunstforening 1975"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kongsberg kunstforening",
+                "from_date": "",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1969",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Zürich",
+                "from_date": "1982",
+                "order": "12",
+                "to_date": "",
+                "title": "Modern handicraft from Norway"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Skælsør",
+                "from_date": "1977",
+                "order": "11",
+                "to_date": "",
+                "title": "Nordisk kulturuge"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Larvik kunstforening",
+                "from_date": "",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Notodden Kunstforening",
+                "from_date": "1981",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Horten kunstforening",
+                "from_date": "",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "title": "Tendenser 77 og 81"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ås kunstforening",
+                "from_date": "",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "2",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "3",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "5",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Maihaugen",
+                "from_date": "1970",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "7",
+                "to_date": "",
+                "title": "Vinjeutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "4",
+                "to_date": "",
+                "title": "Norsk kunsthåndverk"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gjøvik Kunstforening",
+                "from_date": "1971",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Toronto",
+                "from_date": "1971",
+                "order": "9",
+                "to_date": "",
+                "title": "The First World Crafts Exhibition"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975",
+                "order": "7",
+                "reference": "nr. 2, s. 75 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-07-22",
+                "order": "2",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Andersen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-12-01",
+                "order": "4",
+                "to_date": "",
+                "description": "Telen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-07-10",
+                "order": "3",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Arneberg, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "6",
+                "reference": "nr. 2, s. 38–41 (ill.)",
+                "to_date": "",
+                "description": "Nye Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-07-15",
+                "order": "1",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-12-11",
+                "order": "0",
+                "to_date": "",
+                "description": "Varden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-02-09",
+                "order": "5",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Hennum, G."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Vegard Fusche Hansen",
+    "url": "https://nkl.snl.no/Vegard_Fusche_Hansen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. drev verksted i Vinje 1968–72, deretter i Kongsberg fra 1972. H. har særlig konsentrert seg om utformingen av bruksgjenstander i leirgods. Hans romslige tekanner og elegante tekopper har ikke bare en saklig funksjonell form, men utmerker seg også ved et spenstig og kunstnerisk vellykket formspråk. Gjennom forskjellige begittingsdekorer og glitting av gjenstandenes overflate har han ytterligere understreket blåleirens materialverdier. Formen er det primære ved H.s keramiske gjenstander.</p></div>",
+    "created_at": "2013-07-03T15:57:44.329+02:00",
+    "changed_at": "2024-06-18T23:25:42.573+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1472\",\"https://digitaltmuseum.no/583ee968-ff2f-4059-b367-267975b973a2\",\"http://kulturnav.org/583ee968-ff2f-4059-b367-267975b973a2\"]",
+        "lastname": "Hansen",
+        "firstname": "Vegard Fusche",
+        "birth_date": "15.3.1947",
+        "birthplace": "Drammen",
+        "external_id": "person_8736ab1472",
+        "kulturnav_id": "583ee968-ff2f-4059-b367-267975b973a2"
+    },
+    "authors": [
+        {
+            "full_name": "Ivar Stranger"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        }
+    ]
+}

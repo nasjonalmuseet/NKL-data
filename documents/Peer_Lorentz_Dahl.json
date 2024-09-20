@@ -1,0 +1,937 @@
+{
+    "id": 417038,
+    "headword": "Peer Lorentz Dahl",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab729",
+                "birth_date": "16.02.1889",
+                "death_date": "07.11.1963",
+                "firstname": "Gabriel",
+                "lastname": "Dahl",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101525",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Lilli",
+                "lastname": "Jensen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101495",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ulla",
+                "lastname": "Lorentzen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "Oslo"
+            },
+            {
+                "order": "0",
+                "description": "Danmark"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Elev av faren, Gabriel Dahl",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstakademiet i København under Kræsten Iversen og Elof Risebye 1935–38",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "6",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "5",
+                "description": "Statens reise- og studiestip. 1955, -75"
+            },
+            {
+                "order": "8",
+                "description": "Spania 1936, -78"
+            },
+            {
+                "order": "1",
+                "description": "Nicolay Ulfstens legat 1950"
+            },
+            {
+                "order": "0",
+                "description": "Fridtjof Sundts legat 1939, 1940"
+            },
+            {
+                "order": "2",
+                "description": "Hielmstierne-Rosencrones legat 1952"
+            },
+            {
+                "order": "7",
+                "description": "Studieopphold i Frankrike 1950, -75, -78"
+            },
+            {
+                "order": "4",
+                "description": "stip. fra Fondet for dansk-norsk samarbeid 1954"
+            },
+            {
+                "order": "9",
+                "description": "Italia 1949, -75"
+            },
+            {
+                "order": "3",
+                "description": "Bergen kommunes kunstnerstip. 1950"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "UKS"
+            },
+            {
+                "order": "1",
+                "description": "Medlem av kunstnergruppen Kammeraterne, København"
+            },
+            {
+                "order": "3",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "0",
+                "description": "Styremedlem i Kunst for Varer, København 1954–57"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "1. premie i konkurransen om utsmykning Bergens off. bibliotek 1948"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Ungdomsherberget på Mjølfjell (1947)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Centralbiblioteket, Køge"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Ved Voldene (oppdrag fra København komm.)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Sverre Munck, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Haugesund Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Norges Bank"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "København kommune"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "museet i Rostock og flere danske museer"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Ny-Carlsbergfondet"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Danmarks Nationalbank"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Wallendahl & Søn, Bergen (1949)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "M/S Venus (1948)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergens off. bibliotek (1949)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Aktuell Kunst. Jon Kehler: Piger året rundt, Charlottenlund 1968"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Litografier til Kunst i skolen"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1942",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1949",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "DDR",
+                "from_date": "1960",
+                "order": "44",
+                "to_date": "",
+                "title": "Norsk kunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Koloritten, Stavanger",
+                "from_date": "1978",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1940",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1948",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1940",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1971",
+                "order": "46",
+                "to_date": "",
+                "title": "Visuelt"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Danmark",
+                "from_date": "1946",
+                "order": "41",
+                "to_date": "",
+                "title": "Ung nordisk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1964",
+                "order": "30",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "39",
+                "to_date": "1972",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1954",
+                "order": "28",
+                "to_date": "1955",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Bys malerisamling",
+                "from_date": "1980",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1965",
+                "order": "31",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1974",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1938",
+                "order": "25",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1962",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1957",
+                "order": "42",
+                "to_date": "",
+                "title": "UKS Jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1972",
+                "order": "33",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1938",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "37",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "35",
+                "to_date": "1938",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund Kunstforening",
+                "from_date": "1977",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christianssands Kunstforening",
+                "from_date": "1942",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1951",
+                "order": "27",
+                "to_date": "1952",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1974",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "47",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "København",
+                "from_date": "1945",
+                "order": "19",
+                "to_date": "",
+                "title": "Charlottenborgs Forårsudstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "40",
+                "to_date": "1975",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1970",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Polen",
+                "from_date": "1959",
+                "order": "43",
+                "to_date": "",
+                "title": "Norsk kunst"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1945",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1977",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Dortmund",
+                "from_date": "1967",
+                "order": "45",
+                "to_date": "",
+                "title": "Norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1969",
+                "order": "32",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus",
+                "from_date": "1940",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1958",
+                "order": "29",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1949",
+                "order": "26",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1935",
+                "order": "24",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1967",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1955",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1975",
+                "order": "34",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aalesunds Kunstforening",
+                "from_date": "1977",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1941",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1965",
+                "order": "38",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1941",
+                "order": "36",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1977",
+                "order": "22",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1948",
+                "order": "10",
+                "reference": "s. 248",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "11",
+                "reference": "s. 190",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "13",
+                "reference": "s. 258",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "20",
+                "reference": "s. 49",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "12",
+                "reference": "s. 50",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "21",
+                "reference": "s. 52",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-01-19",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "22",
+                "reference": "reg. s. 561",
+                "to_date": "",
+                "description": "Hordaland og Bergen",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1950-06-26",
+                "order": "4",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-03-05",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "9",
+                "reference": "s. 65",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-01-08",
+                "order": "6",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-11-08",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "17",
+                "reference": "s. 178",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-01-08",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961-08-08",
+                "order": "7",
+                "to_date": "",
+                "description": "Kragerø Blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-03-18",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Remfeldt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-20",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "16",
+                "reference": "s. 51",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "18",
+                "reference": "s. 130",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "19",
+                "reference": "s. 128",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "15",
+                "reference": "s. 47, 62, 184",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "14",
+                "reference": "s. 151",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Peer Lorentz Dahl",
+    "url": "https://nkl.snl.no/Peer_Lorentz_Dahl",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>D. debuterte på Statens Høstutstilling i 1935. Hans tidlige arbeider viser i noen grad påvirkning fra de norske freskomalerne, særlig Axel Revold. Det gjelder f.eks. utsmykningen i Mjølfjell ungdomsherberge (1947) med scener fra Fridtjof Nansens liv. I staffelimaleriet dominerer den danske tradisjon som bl.a. Vilhelm Lundstrøm, Harald Giersing og Niels Lergaard stod for. D. arbeidet i 1940-årene med store enhetlige flater i mettede og varme farger med kraftige omriss. Motivkretsen er hovedsakelig landskap, interiører og personer. 1950-talls bildene er preget av forenkling i formen og innskrenkning av fargene til to-tre dominerende valører. I 1960- og -70-årene blir romkonstruksjonen i bildene stadig viktigere. Disse bildene er oppbygd omkring et klart markert geometrisk sentrum, og konturer oppdeler flaten i en rekke anaturalistiske plan av stor dybdevirkning. Samtidig arbeider D. her med gjengivelse av atmosfæriske romvirkninger innen grensene av forsiktige variasjoner i en lys fargeskala og et jevnt fordelt lys. Tilløp til abstraksjon er sprunget ut av D.s systematiske undersøkelser av forholdet mellom den geometriske oppbygning av rommet og den atmosfæriske gjengivelse. Ved å gjennomarbeide de maleriske problemer, har D. her skapt en personlig og markert stil.</p></div>",
+    "created_at": "2013-07-03T19:10:30.886+02:00",
+    "changed_at": "2024-06-18T23:25:56.845+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab738\",\"https://digitaltmuseum.no/36211933-9e1f-41eb-90d5-35cc7a467cb1\",\"http://kulturnav.org/36211933-9e1f-41eb-90d5-35cc7a467cb1\"]",
+        "lastname": "Dahl",
+        "firstname": "Peer Lorentz",
+        "birth_date": "7.11.1915",
+        "birthplace": "Bergen",
+        "death_date": "26.1.2005",
+        "external_id": "person_8736ab738",
+        "kulturnav_id": "36211933-9e1f-41eb-90d5-35cc7a467cb1"
+    },
+    "authors": [
+        {
+            "full_name": "Signe Fuglesang"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "BONO/Dahl, Peer Lorentz",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15740/standard_NMK-B_NG.M.0315820130725-13675-un2419.jpg",
+            "full_size_url": "https://media.snl.no/media/15740/NMK-B_NG.M.0315820130725-13675-un2419.jpg",
+            "xhtml": "<div>\r\n<p><em>Gule stoler i rom</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Peer Lorentz Dahl",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "BONO/Dahl, Peer Lorentz",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15751/standard_NMK-B_NG.M.0340320130725-13675-kcbb8j.jpg",
+            "full_size_url": "https://media.snl.no/media/15751/NMK-B_NG.M.0340320130725-13675-kcbb8j.jpg",
+            "xhtml": "<div>\r\n<p><em>Blå ting</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Peer Lorentz Dahl",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "BONO/Dahl, Peer Lorentz",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15766/standard_NMK-B_NG.M.0400120130725-13675-e3nvy9.jpg",
+            "full_size_url": "https://media.snl.no/media/15766/NMK-B_NG.M.0400120130725-13675-e3nvy9.jpg",
+            "xhtml": "<div>\r\n<p><em>Grå dag i Golf Juan</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Peer Lorentz Dahl",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "BONO/Dahl, Peer Lorentz",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15767/standard_NMK-B_NG.M.0400620130725-13675-7wfuh.jpg",
+            "full_size_url": "https://media.snl.no/media/15767/NMK-B_NG.M.0400620130725-13675-7wfuh.jpg",
+            "xhtml": "<div>\r\n<p><em>Oppstilling II</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Peer Lorentz Dahl",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

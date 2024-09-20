@@ -1,0 +1,275 @@
+{
+    "id": 417457,
+    "headword": "Jens Erland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102000",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anne Margrete",
+                "lastname": "Serigstad",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab985",
+                "birth_date": "12.05.1914",
+                "death_date": "",
+                "firstname": "Johan",
+                "lastname": "Erland",
+                "professions": [
+                    "maler",
+                    "billedhugger"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Jæren"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "siden et år ved Statens lærerskole i forming, Notodden",
+                "order": "1"
+            },
+            {
+                "comment": "Bergen kunsthåndverkskole, keramikklinjen 1968–70",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereiser til København 1970"
+            },
+            {
+                "order": "1",
+                "description": "London 1974"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem Unge Kunstneres Samfunn"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Time kommunes kulturpris 1980"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. I, Bergen",
+                "from_date": "1973",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1972",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. To, Stavanger",
+                "from_date": "1971",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "4",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1969",
+                "order": "0",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergen",
+                "from_date": "1970",
+                "order": "1",
+                "to_date": "",
+                "title": "Ungdomsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1974",
+                "order": "6",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1971-11-21",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-11-07",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "",
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-11-06",
+                "order": "4",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-11-02",
+                "order": "3",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Remfeldt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-02-01",
+                "order": "6",
+                "to_date": "",
+                "description": "Bergen Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-06-13",
+                "order": "8",
+                "to_date": "",
+                "description": "Jærbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-10-31",
+                "order": "2",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-19",
+                "order": "7",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971-11-24",
+                "order": "1",
+                "to_date": "",
+                "description": "Rogalands Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jens Erland",
+    "url": "https://nkl.snl.no/Jens_Erland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>E. var utøvende keramiker i 3 år. Han debuterte på Vestlandsutstillingen i 1969 med <em>Bøffelby</em> (1968, i stein). De fleste av hans skulpturarbeider er i tre, utformet som symboler på forhold som har konkret gyldighet, f.eks. <em>Driftsmodell</em> og <em>Mastene</em>. Et følsomt modellert tenkerhode med tittel <em>Vår inste draum er mild som ordet fred</em> antyder et ønske om å gå utover skulpturens tradisjonelle uttrykksform. Tegninger og malerier er ofte non-figurative.</p></div>",
+    "created_at": "2013-07-03T21:35:45.586+02:00",
+    "changed_at": "2024-06-18T23:26:08.470+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab984\",\"https://digitaltmuseum.no/3d0f1044-ed4d-4c88-bd6d-a63f2e02155c\",\"http://kulturnav.org/3d0f1044-ed4d-4c88-bd6d-a63f2e02155c\"]",
+        "lastname": "Erland",
+        "firstname": "Jens",
+        "birth_date": "13.4.1945",
+        "birthplace": "Bryne på Jæren",
+        "external_id": "person_8736ab984",
+        "kulturnav_id": "3d0f1044-ed4d-4c88-bd6d-a63f2e02155c"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

@@ -1,0 +1,1002 @@
+{
+    "id": 416886,
+    "headword": "Jacob Calmeyer",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101319",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Carl Koch",
+                "lastname": "Calmeyer",
+                "professions": [
+                    "lærer"
+                ]
+            },
+            {
+                "to_date": "1853",
+                "type": "Gift med",
+                "external_id": "person_8736ab101321",
+                "birth_date": "1810",
+                "death_date": "",
+                "firstname": "Anne Berntine Lambrechts",
+                "lastname": "Olsen",
+                "professions": [],
+                "place": "Bergen"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101320",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sebastine",
+                "lastname": "Mechlenburg",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kunstakademiet København under C.W. Eckersberg 1821 (kan dokumenteres fra 1822)-26",
+                "order": "2"
+            },
+            {
+                "comment": "C. kalles i 1819 latinskoledisippel",
+                "order": "0"
+            },
+            {
+                "comment": "elev av J.C. Dahl i Dresden 1830-31 (ankomst 24.6.1830, avreise 26.5.1831)",
+                "order": "3"
+            },
+            {
+                "comment": "elev av Den kgl. Tegneskole 1819–21 (innskrevet elementærklassen under H.A. Grosch 4.1.1819, gipsklassen (frihåndstegning) under H.D.F. Linstow og J. Munch 8.1.1821)",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Bergen juli 1827 - juni 1830 og 1831–33, opptatt i malerlauget der 22.5.1832"
+            },
+            {
+                "order": "8",
+                "description": "antagelig bosatt i Holmestrand fra 1846"
+            },
+            {
+                "order": "5",
+                "description": "Stockholm fra 1835 til 1839 (dokumentert), men antagelig helt til 1842"
+            },
+            {
+                "order": "0",
+                "description": "Studiereise til Norge sommeren 1826"
+            },
+            {
+                "order": "7",
+                "description": "1843–46 muligens i Bergen"
+            },
+            {
+                "order": "10",
+                "description": "i Christiania fra 1859"
+            },
+            {
+                "order": "1",
+                "description": "deretter bosatt i Christiania"
+            },
+            {
+                "order": "3",
+                "description": "København høsten 1833 til 1835"
+            },
+            {
+                "order": "9",
+                "description": "i København 1853–59"
+            },
+            {
+                "order": "6",
+                "description": "deretter slo han seg ned i Christiania"
+            },
+            {
+                "order": "4",
+                "description": "muligens norsk studiereise 1835"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Mottok 100 spd. årlig fra Toldkasserer Schäffers Legat, fra innstiftelsen 1867 til sin død 1883"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Kungliga Biblioteket Stockholm med oljestudie i Konstnärsgillets album"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Bakkehusmuseum i København med en akvarell"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Nationalmuseum Stockholm med 6 studier"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Oslo Bymuseum med selvportrett (eller kopi)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Bergen Billedgalleri med 5 malerier"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo med 3 malerier og 11 tegninger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Dresden",
+                "from_date": "1830",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegneskolen, Kristiania",
+                "from_date": "1827",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charl.borg",
+                "from_date": "1826",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "16",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bremen",
+                "from_date": "1977",
+                "order": "20",
+                "to_date": "",
+                "title": "Norwegische Landschaftsmalerei"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegneskolen, Kristiania",
+                "from_date": "1823",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Liverpool",
+                "from_date": "1976",
+                "order": "19",
+                "to_date": "",
+                "title": "Norwegian Romantic Landskape 1820–1926"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charl.borg.",
+                "from_date": "1835",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1932",
+                "order": "17",
+                "to_date": "",
+                "title": "J.W. Cappelens samling av Christiania-Billeder"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Tegneskolen, Kristiania",
+                "from_date": "1820",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charl.borg.",
+                "from_date": "1854",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charl.borg.",
+                "from_date": "1834",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1938",
+                "order": "18",
+                "to_date": "",
+                "title": "Bergens Kunstforening retrospektive utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charl.borg.",
+                "from_date": "1855",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1855",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1859",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "14",
+                "to_date": "",
+                "title": "Kristiania Kunstforening retrospektive"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "15",
+                "to_date": "",
+                "title": "Bergens Museums portrætudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charl.borg",
+                "from_date": "1823",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1901",
+                "order": "13",
+                "to_date": "",
+                "title": "Bygdøyutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1888",
+                "order": "12",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Oslo Bymuseum (muligens kopi)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "tegnet portrett av G.W. Palm 1833"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Selvportrett i Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "portrett malt av Knud Bergslien 1873, restaurant Blom, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "tegning av Emilius Bærentzen, begge 1830 (Norsk Portrettkatalog, Universitetsbiblioteket, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "stikk av J.Trube"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "annet tegnet portrett i Graaruds Holmestrandhistorie"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1911",
+                "order": "16",
+                "to_date": "",
+                "description": "Christiania Kunstforening 1836–1911",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "7",
+                "reference": "s. 22–23, 42–47, 68, 72, 80",
+                "to_date": "",
+                "description": "Bergens Kunstforening i femti aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "9",
+                "reference": "register s. 403–20",
+                "to_date": "",
+                "description": "Gamle Christiania-Billeder",
+                "place": "(Kristiania",
+                "authors": [
+                    "Collett, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "13",
+                "reference": "s. 16 og 29",
+                "to_date": "",
+                "description": "August Cappelen og hans samtid",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thommesen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-08-25",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "39",
+                "reference": "register s. 216–219",
+                "to_date": "",
+                "description": "Med Kunstnerauge",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "reference": "register s. 195–198",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "23",
+                "reference": "s. 2",
+                "to_date": "",
+                "description": "Harriet Backer",
+                "place": "(Kristiania",
+                "authors": [
+                    "Lone, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "37",
+                "reference": "register s. 275–280",
+                "to_date": "",
+                "description": "Norske Portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "19",
+                "reference": "s. 17 og PI. XXVI",
+                "to_date": "",
+                "description": "Bergenske Malte Portretter 1600–1850",
+                "place": "Bergen",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893",
+                "order": "8",
+                "reference": "s. 264, 391",
+                "to_date": "",
+                "description": "Maleren Johan Christian Dahl",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896",
+                "order": "10",
+                "reference": "s. 26–27, 32–33, 39",
+                "to_date": "",
+                "description": "Kaptein Georg Prahl 1798–1883",
+                "place": "Bergen",
+                "authors": [
+                    "Ross, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883",
+                "order": "4",
+                "reference": "s. 523",
+                "to_date": "",
+                "description": "Skillings-Magazin",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906",
+                "order": "14",
+                "reference": "register III-XXV, for 1. del og register s. 275–280 for 3. del II",
+                "to_date": "1929",
+                "description": "Holmestrand og Omegn",
+                "place": "(Kristiania",
+                "authors": [
+                    "Graarud, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "15",
+                "to_date": "",
+                "title": "Bergens Haandværkere i 300 Aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [
+                    "Vestlandske Kunstindustrimuseum Aarbok"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "40",
+                "to_date": "",
+                "description": "J.C. Dahl og Danmark",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [
+                    "katalog"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1864",
+                "order": "0",
+                "reference": "s. 19–20",
+                "to_date": "",
+                "description": "Kunstforeningen i Kjøbenhavn",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "30",
+                "reference": "s. 14 og 16",
+                "to_date": "",
+                "description": "Bakkehusets Mindestuer, Katalog",
+                "place": "København",
+                "authors": [
+                    "Dumreicher, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "34",
+                "reference": "b 2, s. 109",
+                "to_date": "",
+                "description": "Weilbach Kunstnerleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "29",
+                "reference": "register 121–123",
+                "to_date": "",
+                "description": "Landskabsmaleriet i Danmark 1750–1875",
+                "place": "København",
+                "authors": [
+                    "Bramsen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "24",
+                "reference": "bd. 2, s. 467–68",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "38",
+                "reference": "register s. 389–399",
+                "to_date": "",
+                "description": "Norske Portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "20",
+                "reference": "bd. 4, s. 496",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "18",
+                "reference": "bd. 5, s. 409",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "11",
+                "reference": "bd. 1, s. 62",
+                "to_date": "",
+                "description": "Norske Malere og Billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-08-08",
+                "order": "1",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883",
+                "order": "5",
+                "reference": "s. 82",
+                "to_date": "",
+                "description": "Fortegnelse over Danske Kunstneres Arbejder paa de ved Det Kgl. Akademi for de skjønne Kunster i Aarene 1807–1882 afholdte Charlottenborg-Udstillinger",
+                "place": "København",
+                "authors": [
+                    "Reitzel, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "28",
+                "reference": "s. 19–22",
+                "to_date": "",
+                "description": "Gustaf Wilhelm Palm",
+                "place": "Stockholm",
+                "authors": [
+                    "Lindgren, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "25",
+                "to_date": "1927",
+                "description": "Das Geschlecht Callmeyer oder Calmeyer",
+                "place": "Berlin",
+                "authors": [
+                    "Calmeyer, A.W.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "31",
+                "reference": "register s. 216–223",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "21",
+                "reference": "nr. 3, s. 142–144",
+                "to_date": "",
+                "description": "Nordisk Tidsskrift för Bok- og Biblioteksväsen",
+                "title": "Prahl's Plancheverker over Norske Folkedragter",
+                "authors": [
+                    "Lexow, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "35",
+                "reference": "bd. 1, s. 104–104",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Alsvik, H.",
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "17",
+                "reference": "s. 335, 362, 366",
+                "to_date": "",
+                "description": "Slægten fra 1814",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-08-08",
+                "order": "2",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "41",
+                "reference": "s. 69 og 184",
+                "to_date": "",
+                "description": "Kunst og Kultur, register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "27",
+                "reference": "register s. 274–78",
+                "to_date": "",
+                "description": "Maleren Thomas Fearnley",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "12",
+                "reference": "register s. 182–86",
+                "to_date": "",
+                "description": "Norsk Billedkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Thommesen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1884",
+                "order": "6",
+                "to_date": "1886",
+                "description": "Katalog over malede Portræter i Norge",
+                "place": "(Kristiania",
+                "authors": [
+                    "Huitfeldt-Kaas, H.J.",
+                    "Anker, C.J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "26",
+                "reference": "bd. 2, register s. 673–79",
+                "to_date": "",
+                "description": "Norsk Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "32",
+                "reference": "s. 58, 176",
+                "to_date": "",
+                "description": "Nasjonalgalleriet gjennem hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "22",
+                "reference": "s. 55, 56, 67, 68, 119",
+                "to_date": "",
+                "description": "Fra den gamle tegneskole",
+                "place": "(Kristiania",
+                "authors": [
+                    "Krogvig, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "36",
+                "reference": "bd. 1, s. 177 (om L.T. Billing)",
+                "to_date": "",
+                "description": "Svenskt Konstärlexikon",
+                "place": "Malmö",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Schäffers legats papirer i"
+                ],
+                "archives": [
+                    "Riksarkivet"
+                ]
+            },
+            {
+                "from_date": "1945",
+                "order": "45",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "liste over solgte bilder"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "1945",
+                "order": "48",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Kristiania kunstnerforenings Forhandlings-Protocol 1860–67 på"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "brev fra C. til Losting, og diverse brev fra ham til Kristiania Kunstforening"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket Bergen"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "om C.s portretter opplysninger samlet i"
+                ],
+                "archives": [
+                    "Norsk Portrettarkiv"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "brev fra C. (til J.S. Welhaven i brevsamling (58) og til Kamma Rahbek og til Kunstforeningen i Kjøbenhavn"
+                ],
+                "archives": [
+                    "Kongelige Bibliotek, København"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "henvisninger til C., spesielt nevnes Dahls brev til Aug. Konow (brevsamling 205) og kopibok Manuskript 8° 1001"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Etterlatt brevsamling, brevsamling 55 med brev fra J.C. Dahl, Lyder Sagen, Kamma Rahbek (fra 1826) og fra enkelte andre norske, danske og tyske venner"
+                ],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jacob Calmeyer",
+    "url": "https://nkl.snl.no/Jacob_Calmeyer",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>C. står som kunstner ved innledningen til den norske landskapsskole på 1800-tallet i J.C. Dahls kjølvann. Han kom til kunsten i unge år og fikk den beste utdannelse som tidens noe begrensete muligheter tillot. Noen produktiv og utviklingsdyktig ånd var han imidlertid ikke. Hans arbeider fra perioden ca. 1825 til ca. 1835 er interessante i den grad de dokumenterer et tysk-romantisk landskapsideal anvendt på norske motiver, samtidig som hans portrettmaleri reflekterer dansk romantikk slik den ble praktisert av C.W. Eckersbergs elever. C.s senere produksjon er lite kjent, og etter alt å dømme lite interessant. Den lider av mangel på impulser og virkelig naturstudium og av at han i lange perioder ikke hadde anledning til å dyrke kunsten. Salgsmulighetene var begrenset i Norge, og forsøkene på å skape et marked i Danmark, Sverige og Tyskland førte ikke fram. Københavnertiden var naturligvis grunnleggende. Det er noe uklart hva Eckersberg selv kan ha betydd for ham, men formstudiet og en lys og kjølig koloritt ble dyrket blant hans elever, og dette må ha virket inn på C. Hans første kjente landskap er den store akvarell <em>Norsk Vandfald</em> (1826, Bakkehusets Mindestuer), et storladent norsk landskap med en bred foss, i J.C. Dahls stil, som går langt ut over hva han kan ha lært hos Eckersberg. Et personlig møte med Dahl under dennes besøk i København i 1926 inspirerte ham til et mer inngående naturstudium. Portrettet av <em>Dikteren J.S. Welhaven</em> (1827, Nasjonalgalleriet, Oslo) er mykt og levende og med romantisk sjarm, men koloritten og formstrukturen gir ingen full støtte til malerens intensjon. Det må nevnes at C. under København oppholdet ble opptatt i Kamma og Knud Lyne Rahbeks Bakkehus-krets og dermed hadde en direkte kontakt med det unge, romantiske, litterære Danmark. I Norge formidlet dette en kontakt med Lyder Sagen og J.S. Welhaven i Christiania (1624-1877). I Bergen leverte han tegninger til G.C.W. Prahls Norske National Dragter (1827–32), og i 1830 utgav han 12 blad til <em>Anvisning til Landskabstegning</em>. Etter Dresden-oppholdet malte han <em>Svartediket ved Bergen</em> (1831, Nasjonalgalleriet), hans mest karakterfulle bilde, med en markert kontrast mellom fjellmassivet i bakgrunnen og det mørke vannet i mellomgrunnen med en miniatyraktig staffasje. Motiv og komposisjon er her inspirert av Dahl. I det mindre inspirerte <em>Gårdstun</em> (1834, Bergen Billedgalleri) inntrer en større hardhet og glassaktighet, som minner om Flintoe. I Bergen drev C. en privat malerskole som ikke riktig ville gå, han assisterte de tyske malere Gustav Adolf Boenisch og Wilhelm Krause på deres Norgesreise 1831 og hadde kontakt med den svenske maler Gustaf Wilhelm Palm i Bergen 1833. Sverige-oppholdet i slutten av 1830-årene må tilkjennes en viss betydning, ettersom han var i kontakt med Carl Johan Fahlcrantz og kunne lære av dennes effektfulle komposisjonsteknikk. Hans senere store <em>Prospekt av Samuelskleven ved Holmestrand</em> (ca. 1844) drog nytte av det. C. hadde også en svensk elev, Lars Theodor Billing. Som forbilde representerer riktignok Fahlcrantz i forhold til Dahl et tilbakeskritt. Etter opprettelsen av Christiania Kunstforening 1836 foretok man bestillinger hos C., og han ble invitert til å levere et arbeide til Den kgl. Tegneskole. I Holmestrand fikk Harriet Backer sin første tegneundervisning hos ham, og han leverte tegninger til Chr. Tønsbergs Norge fremstillet i Tegninger (1848, 1855). Fra 1860-årene stammer <em>Lysakerfossen</em> (Nasjonalgalleriet), som er summarisk malt og svakt i koloritten. En rekke mindre bilder fra Lysaker og Sandvika ble solgt i Christiania Kunstforening i denne tid. Langt større betydning fikk C. som initiativtaker (sammen med Boll) til Christiania Kunstnerforening 8. desember 1860. Han ledet forhandlingene da foreningen ble konstituert 15. desember og anbefalte å utarbeide lover. I en bestemmelse om at foreningen skulle være et forum for estetiske foredrag osv. synes man å merke den gamle Dahl-elevens ånd. </p>\n<p>C.s portretter er i likhet med landskapene mest interessante fra tiden omkring 1830. Portrettet av <em>Jens Berle Gran</em> (ca. 1828) viser en inntrengende og åndfull oppfattelse sammen med en transparent og fin grålig farge. <em>Selvportrettet</em> i Bergen Billedgalleri er fornemt, men litt stivt. Stort sett kan man si at han, i motsetning til Mathias Stoltenberg, ikke maktet å omsette København-lærdommene til en personlig preget kunst av varig betydning. Mer i kraft av rollen som tradisjonsbærer fra Dahl enn ved sine verker bevarer C. en plass, om enn beskjeden, i norsk kunsthistorie.</p>\n</div>",
+    "created_at": "2013-07-03T18:00:28.992+02:00",
+    "changed_at": "2024-06-18T23:25:52.765+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab649\",\"https://digitaltmuseum.no/9c486491-4f53-48a3-b524-327da626a97e\",\"http://kulturnav.org/9c486491-4f53-48a3-b524-327da626a97e\"]",
+        "lastname": "Calmeyer",
+        "firstname": "Jacob",
+        "birth_date": "30.10.1802",
+        "birthplace": "Fredrikshald (Halden)",
+        "death_date": "3.8.1883",
+        "external_id": "person_8736ab649",
+        "kulturnav_id": "9c486491-4f53-48a3-b524-327da626a97e",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Calmeyer, Jacob Mathias"
+    },
+    "authors": [
+        {
+            "full_name": "Vidar Poulsson"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

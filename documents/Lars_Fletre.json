@@ -1,0 +1,467 @@
+{
+    "id": 417632,
+    "headword": "Lars Fletre",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "treskjærer"
+            },
+            {
+                "description": "formgiver"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102210",
+                "birth_date": "1853",
+                "death_date": "1924",
+                "firstname": "Olav",
+                "lastname": "Fletre",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102211",
+                "birth_date": "1865",
+                "death_date": "1947",
+                "firstname": "Kristina",
+                "lastname": "Kvarme",
+                "professions": []
+            },
+            {
+                "from_date": "1934",
+                "type": "Gift med",
+                "external_id": "person_8736ab102212",
+                "birth_date": "1909",
+                "death_date": "",
+                "firstname": "Helen",
+                "lastname": "Svensson",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Chicago Painting School 1924–25",
+                "order": "0"
+            },
+            {
+                "comment": "The Art Institute of Chicago 1925–31.",
+                "order": "1"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Medlem av Norsk Billedhuggerforening"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "0",
+                "description": "Formgiver og dekoratør Hadeland Glassverk 1941–50"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Honorable mention i konkurranse om Abraham Lincoln-monument, Chicago 1955"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "The Woodcutter, New Albany, Indiana (tre)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Minnesmerke over falne fra Fjordane regiment, Bømoen, Voss (stein, 1948)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Altertavle Jesus leger de syke, Mjølfjell sportskapell (tre, 1967)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Byste Johan Enger, Gjøvik (bronse, 1947)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Monument over Lars Osa, Ulvik, Hardanger (relieff i bronse på stein, 1967)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Homo Novus, Chicago 1966"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Fiat lux Norvegia, Oslo 1946"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1937",
+                "order": "5",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1940",
+                "order": "6",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1933",
+                "order": "4",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1952",
+                "order": "9",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Voss",
+                "from_date": "1954",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Art Institute of Chicago",
+                "from_date": "1930",
+                "order": "11",
+                "to_date": "1931",
+                "title": "The 43. Annual Exhibition of American Painting and Sculpture"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1934",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1954",
+                "order": "10",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1936",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1954",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1934",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk skulptur"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Brooklyn Museum",
+                "from_date": "1932",
+                "order": "13",
+                "to_date": "",
+                "title": "Exhibition of Painting and Sculpture by Scandinavian Artists"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1946",
+                "order": "7",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Art Institute of Chicago",
+                "from_date": "1930",
+                "order": "12",
+                "to_date": "1933",
+                "title": "The Annual Exhibition by Artists of Chicago and Vicinity"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1949",
+                "order": "8",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1946",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fiat lux Norvegia",
+                "place": "Oslo",
+                "authors": [
+                    "Fletre, Lars"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Homo Novus",
+                "place": "Chicago",
+                "authors": [
+                    "Fletre, Lars"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1956",
+                "order": "15",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954",
+                "order": "2",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Katalog separatutstilling Bergens Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1954-04-29",
+                "order": "5",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "14",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-04-30",
+                "order": "4",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [
+                    "Intervju"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1952-03-27",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [
+                    "Intervju"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1967-08-24",
+                "order": "12",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "13",
+                "reference": "s. 70",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-08-15",
+                "order": "11",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-04-30",
+                "order": "6",
+                "to_date": "",
+                "description": "Dagen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-05-04",
+                "order": "7",
+                "to_date": "",
+                "description": "i Bergens Arbeiderblad",
+                "authors": [
+                    "Anker, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-05-05",
+                "order": "9",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Glambek, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-05-05",
+                "order": "8",
+                "to_date": "",
+                "description": "i Morgenavisen",
+                "authors": [
+                    "Breivik, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967-08-05",
+                "order": "10",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Lars Fletre",
+    "url": "https://nkl.snl.no/Lars_Fletre",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>F. drog til USA i 1923 og arbeidet i Chicago for arkitektfirmaer med dekorativ treskjæring, bl.a. i ny-renessansestil, samtidig som han tok undervisning ved kunstinstitusjoner der. Han debuterte 1930 på The Annual Exhibition of American Painting and Sculpture i Chicago med den realistiske genreskulptur <em>Labour</em> (mahogny), senere kalt <em>Neger med trillebør</em>. I 1933 vendte F. tilbake til Norge. Han deltok på Høstutstillingen samme år med to genremessige skulpturer i tre og utstilte også beslektede arbeider der fram til 1937, bortsett fra 1935. Fra 1941 til 1950 virket han som formgiver og dekoratør for Hadelands Glassverk, hvor arbeidene i sandblåst glass viser en utpreget evne til å utnytte mulighetene i det nye materiale. Mot slutten av denne periode tok F. opp skulpturen igjen i en fastere, forenklet stil, særlig med stein som materiale, og utførte minnesmerket over de falne fra Fjordane regiment, Bømoen, Voss (1948, stein). På Høstutstillingen 1949 viste han en granittgruppe av to liggende lam, ment som gravmonument, med forenklede former i lukket komposisjon; samme karakter har gruppe <em>Tre mennesker</em> (granitt), mens <em>Hovud i elvestein</em> bevarer steinens opprinnelige, avrundede form. </p>\n<p>I 1950 flyttet F. til Voss og startet Vossevangen Steinhoggeri, som leverte kunstnerisk utformede gravstøtter, og det ble utført monumenter med rundskulptur i stein eller med små forsenkede relieffer i støtten. F. deltok i konkurransen om Rallarmonument på Rjukan 1953 med en sylinderaktig uregelmessig blokk med tre episoder fra anleggsarbeidernes liv i dypt relieff. Etter oppdrag av Sivlenemndi i 1952 modellerte han utkastet <em>Merkesmannen</em> for dikterens monument på Voss: en skikkelse i sterk bevegelse planter den høye, skråttstilte merkesstangen i bakken. Utkastet ble anbefalt av Norsk Billedhuggerforenings representant Hans Jacob Meyer og godtatt av Sivlenemndi, men motstand fra herredsstyret fremtvang en engere konkurranse, vunnet 1955 av Ottar Espeland, som også utførte monumentet over Sivle. Etter separatutstilling i Bergen og på Voss i 1954 slo F. seg på ny ned i Chicago, hvor han 1962–77 drev Vossing Art Studio. Han avla kortere besøk i Norge og døde mens han utførte en skulptur i Oslo.</p>\n</div>",
+    "created_at": "2013-07-03T22:51:14.351+02:00",
+    "changed_at": "2024-06-18T23:26:14.138+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1079\",\"https://digitaltmuseum.no/87cd0b0b-9a25-4b15-9501-d3700807bb52\",\"http://kulturnav.org/87cd0b0b-9a25-4b15-9501-d3700807bb52\"]",
+        "lastname": "Fletre",
+        "firstname": "Lars",
+        "birth_date": "22.6.1904",
+        "birthplace": "Voss",
+        "death_date": "9.9.1977",
+        "external_id": "person_8736ab1079",
+        "kulturnav_id": "87cd0b0b-9a25-4b15-9501-d3700807bb52",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "treskjærer"
+        },
+        {
+            "description": "formgiver"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

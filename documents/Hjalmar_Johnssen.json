@@ -1,0 +1,603 @@
+{
+    "id": 418480,
+    "headword": "Hjalmar Johnssen",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "bokillustratør"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": {},
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab104087",
+                "birth_date": "1848",
+                "death_date": "",
+                "firstname": "Lydia Eugenie",
+                "lastname": "Olsen",
+                "professions": [],
+                "place": "(Kristiania"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104086",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Margrethe Petrea Blankenborg Prydtz",
+                "lastname": "Bang",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104085",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Konrad",
+                "lastname": "Johnssen",
+                "professions": [
+                    "havnefogd"
+                ]
+            }
+        ],
+        "residences": {},
+        "educations": [
+            {
+                "comment": "elev av Den kgl. Tegneskole, radérklassen under Johan Nordhagen 1899-1900",
+                "order": "2"
+            },
+            {
+                "comment": "Privatelev av Peder Cappelen Thurmann august-september 1877 og marinemaleren Carl Wilhelm Barth, Christiania",
+                "order": "0"
+            },
+            {
+                "comment": "elev av marinemaler Johan Jacob Bennetter, Stavanger vinteren 1880 og Frits Thaulow, Kragerø februar-juli 1882",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1880 og -81"
+            },
+            {
+                "order": "1",
+                "description": "Studiereise til Paris mai 1886 (3 ukers opphold)"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Formann Bildende kunstneres fagforening en periode i 1890-årene"
+            }
+        ],
+        "awards": {},
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Haugesund Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Skiens Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Drammens Kunstforening Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            }
+        ],
+        "performed_productions": {},
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Folkebladet, Kristiania 1889, nr. 16, 1890 julenr., 1891 nr. 19 og julenr., 1892 nr. 4"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Illustrerte Tidende for Børn, Kristiania oktober 1890, 1891 nr. 17/18 og nr. 23/24"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "A. Erbe: Skipperløgne og andre Historier fra Skjærgaarden, Kristiania 1892"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Medillustratør i en rekke verk, bl.a. Nordahl Rolfsen: Lesebok for folkeskolen, Kristiania 1892-95"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1899",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1975",
+                "order": "11",
+                "to_date": "",
+                "title": "Stavanger sett med kunstnerøyne"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1934",
+                "order": "0",
+                "to_date": "",
+                "title": "Minneutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1882",
+                "order": "1",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "5",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1901",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "6",
+                "to_date": "",
+                "title": "verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1893",
+                "order": "8",
+                "to_date": "",
+                "title": "Sort- og hvidtutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "7",
+                "to_date": "",
+                "title": "verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1884",
+                "order": "2",
+                "to_date": "1897",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1952",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Maleri utført av Fredrik Kolstø, gjengitt i J. Thiis: Norske malere og billedhuggere, Bergen 1907, bd. 2, s. 163"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1879",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Lidt om roning i engelske kaproningsbåde",
+                "place": "(Kristiania",
+                "authors": [
+                    "JOHNSSEN, Hjalmar"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1970",
+                "order": "19",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 10, spalte 418"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "16",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "optional_reference": "s. 198",
+                "order": "6",
+                "to_date": "",
+                "description": "Norges kunst",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [
+                    "katalog Jubileumsutstillingen i"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "8",
+                "reference": "bd. 13, s. 135",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "13",
+                "reference": "s. 55-56",
+                "to_date": "",
+                "description": "Frits Thaulow. Mannen og verket",
+                "place": "Oslo",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "15",
+                "reference": "s. 116",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845 - 1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Flønes, O.",
+                    "Grimelund, J. J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "21",
+                "reference": "s. 91 (ill.)",
+                "to_date": "",
+                "description": "Stavanger. Byen i billedkunsten",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. S. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "2",
+                "reference": "bd. 3, s.162",
+                "to_date": "",
+                "description": "Norsk forfatter-lexikon",
+                "place": "(Kristiania",
+                "authors": [
+                    "Halvorsens, J.B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "11",
+                "reference": "s. 115 (ill.), 117-18",
+                "to_date": "",
+                "description": "Kragerø og kunstnere, Kunst og Kultur",
+                "authors": [
+                    "Schjølberg, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "17",
+                "reference": "s. 173-74",
+                "to_date": "",
+                "description": "Profiler og paletter i Rogalands kunst",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "9",
+                "reference": "bd. 19, s. 82",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B.",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902",
+                "order": "4",
+                "to_date": "",
+                "description": "Folkebladet",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [
+                    "nr. 1"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "12",
+                "reference": "register s. 196",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838-1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10",
+                "order": "7",
+                "to_date": "",
+                "description": "Stavangeren",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "5",
+                "reference": "bd. 2, s. 329, 331",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "22",
+                "reference": "s. 179 (ill.), 358",
+                "to_date": "",
+                "description": "Rogaland, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "20",
+                "reference": "s. 18",
+                "to_date": "",
+                "description": "Stavanger sett med kunstnerøyne",
+                "place": "Stavanger",
+                "authors": [],
+                "comments": [
+                    "katalog Stavanger Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "1",
+                "reference": "s. 105-106",
+                "to_date": "",
+                "description": "Bergens Kunstforening i femti aar",
+                "place": "Bergen",
+                "authors": [
+                    "Bøgh J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "14",
+                "reference": "s. 82",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850 - 1950",
+                "place": "Oslo",
+                "authors": [
+                    "Melhus, A. C.",
+                    "Sundseth, A. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "10",
+                "to_date": "",
+                "description": "Fra naturalisme til nyromantikk",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "18",
+                "reference": "s. 9-19 (ill.)",
+                "to_date": "",
+                "description": "Kunstnerliv i Kragerø",
+                "place": "Kragerø",
+                "authors": [
+                    "Sandberg, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1900",
+                "order": "3",
+                "reference": "s. 312",
+                "to_date": "",
+                "description": "katalog Exposition décennaire des Beaux-Arts",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1882-10-29",
+                "order": "23",
+                "to_date": "",
+                "description": "brev og dagbok",
+                "authors": [],
+                "comments": [
+                    "dat."
+                ],
+                "archives": [
+                    "Universitetsbiblioteket Håndskriftsamlingen"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Hjalmar Johnssen",
+    "url": "https://nkl.snl.no/Hjalmar_Johnssen",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>J. vokste opp i Bergen. Etter latinskolen tilbrakte han 9 år til sjøs, og i disse årene tilegnet han seg ferdigheter som tegner av skips- og havnemotiver. Som styrmann gav han i 1875 opp sjølivet og bosatte seg i Christiania, der han en tid var i arbeid hos en skipsmegler. J. hadde fått noe veiledning i marinemaleri. Fra året 1879 forsøkte han å livnære seg som kunstner, men han var familieforsørger og dermed henvist til å søke veiledning hos norske marinemalere. Den videre utdannelsen skulle, slik han hadde planlagt, finne sted hos professor Vilhelm Melbye i København, Nordens ledende marinemaler, som imidlertid døde på denne tiden. Uten økonomisk støtte ble et kort besøk i Paris J.s eneste studiereise. Fra februar til midten av juli 1882 oppholdt han seg i Kragerø som elev av Frits Thaulow, og dagboken han skrev i denne tiden gir interessante innblikk i Thaulows arbeidsmetoder. Den dokumenterer også at J. undermalte flere av Thaulows bilder, bl.a. det berømte gatepartiet fra Bjørnborgbakken med kjelkeakende barn (Nasjonalgalleriet, Oslo). Blant J.s egenhendig utførte landskapsmalerier fra Kragerø kan nevnes vinterbildet <em>Kirkebukten</em> (1882, privat eie). Han malte også et portrett av Frits Thaulow (1882, Kragerø rådhus). J. var bosatt og hentet sine motiver en rekke steder langs kysten. Fredriksvern (Stavern) var hans tilholdssted flere somre, bl.a. 1891 og 1892. Etter tradisjonen var det J. som oppdaget de motivmessige muligheter i Skudeneshavn, der han i 1893 malte flere gatepartier. En tid arbeidet J. i Stavanger. Foruten landskaper utførte han her en fane for Stavanger Håndverks- og industriforening. J.s naturalistisk oppfattede motiver veksler mellom seil- og dampskipsscener, skjærgårds- og havnemiljøer. Han gjorde seg også gjeldende som illustratør, bl.a. med flere tegninger i Folkebladet. Rett før sin død forsøkte han å supplere sin utdannelse på dette felt ved den nyopprettede radérklassen på Den kgl. Tegneskole. J. tok initiativet til Sort- og hvidt utstillingene i Kristiania 1893 og 1895.</p></div>",
+    "created_at": "2013-07-05T15:04:14.568+02:00",
+    "changed_at": "2024-06-18T23:26:35.945+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1985\",\"https://digitaltmuseum.no/1d8e5e81-3ba1-4d27-acea-fecd93c8f677\",\"http://kulturnav.org/1d8e5e81-3ba1-4d27-acea-fecd93c8f677\"]",
+        "lastname": "Johnssen",
+        "firstname": "Hjalmar",
+        "birth_date": "25.6.1852",
+        "birthplace": "Stavanger",
+        "death_date": "28.11.1901",
+        "external_id": "person_8736ab1985",
+        "kulturnav_id": "1d8e5e81-3ba1-4d27-acea-fecd93c8f677",
+        "place_of_death": "Haugesund",
+        "alternative_names": "Johnsen, Hjalmar"
+    },
+    "authors": [
+        {
+            "full_name": "Sonja Hagemann"
+        },
+        {
+            "full_name": "Einar Sørensen"
+        },
+        {
+            "full_name": "Oscar Thue"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "bokillustratør"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

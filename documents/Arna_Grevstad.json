@@ -1,0 +1,296 @@
+{
+    "id": 416070,
+    "headword": "Arna Grevstad",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab108297",
+                "birth_date": "1872",
+                "death_date": "1941",
+                "firstname": "K.j. Eide",
+                "lastname": "Hans",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab108298",
+                "birth_date": "1873",
+                "death_date": "1943",
+                "firstname": "Karoline Paulsen",
+                "lastname": "Theodora",
+                "professions": []
+            },
+            {
+                "from_date": "1942",
+                "type": "Gift med",
+                "external_id": "person_8736ab102595",
+                "birth_date": "1916",
+                "death_date": "",
+                "firstname": "Olai Grevstad",
+                "lastname": "Anders",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "Straume Bergen"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Gabriel Dahls malerskole, Bergen 1950–52",
+                "order": "0"
+            },
+            {
+                "comment": "Vestlandets kunstak. under Hugo Wathne 1969–72",
+                "order": "4"
+            },
+            {
+                "comment": "Sommerskolen, Voss 1966–68, -70, -71",
+                "order": "3"
+            },
+            {
+                "comment": "Waldemar Stabells malerskole, Bergen 1966–68",
+                "order": "2"
+            },
+            {
+                "comment": "teknisk kurs i sveising ved Norgas, Bergen 1968",
+                "order": "5"
+            },
+            {
+                "comment": "Vestlandets kunstak. under Hugo Arne Buch 1965",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "8",
+                "description": "Madrid 1978"
+            },
+            {
+                "order": "5",
+                "description": "Finland 1966, -75"
+            },
+            {
+                "order": "4",
+                "description": "Hellas 1962"
+            },
+            {
+                "order": "0",
+                "description": "Studiereiser til England 1952–53, -65, -70"
+            },
+            {
+                "order": "3",
+                "description": "Frankrike 1960, -76"
+            },
+            {
+                "order": "6",
+                "description": "Island 1972"
+            },
+            {
+                "order": "7",
+                "description": "Belgia 1973"
+            },
+            {
+                "order": "1",
+                "description": "Italia 1955, -71"
+            },
+            {
+                "order": "2",
+                "description": "USA 1957–58, -69"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem av styret i Bergens Kunstforening fra 1974"
+            },
+            {
+                "order": "0",
+                "description": "Bildende Kunstneres Forening Bergen"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Premiert for utkast til skulptur for Stord yrkesskole, Leirvik, Hordaland"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Veien til livet (stål, 1975), Bergen kommune"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Tiur og ugle (stål, 1978–79), Askøy videregående skole, Askøy"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Tid og bevegelse (bronse, 1977), Stord yrkesskole, Leirvik"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "0",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1971",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1969",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1975",
+                "order": "7",
+                "to_date": "",
+                "title": "Kvinnen og Kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1969",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1968",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "2",
+                "to_date": "",
+                "title": "Nord-norske kunstutstillinger"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "1",
+                "to_date": "",
+                "title": "Nord-norske kunstutstillinger"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975-02-21",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-02-19",
+                "order": "2",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-05-26",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Arna Grevstad",
+    "url": "https://nkl.snl.no/Arna_Grevstad",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>G. siktet seg først inn på maleriet og hadde sin debut 1968 i The Reading Gallery, England. Etter hvert ble interessen for skulptur sterkere, og et teknisk kursus i sveising ble forutsetningen for en rekke mindre stålskulpturer. Hun kan holde seg nær naturformene som ved hegren i <em>Stressless</em> (1976, Bergen Billedgalleri), mens <em>Hysj Hysj</em> og <em>Dame med hatt</em> (1977) er mer ekspressivt abstrakte. Skulpturene har ofte en humoristisk karakter som sykkelrytteren i <em>Sirkus</em> (1974) og hanen, hønen og egget i <em>Veien til livet</em> (1975). Et arbeide i stort format er <em>Tid og bevegelse</em> utenfor Stord yrkesskole, Leirvik, med to tynne, rørlignende menneskeskikkelser omgitt av sirkler (bronse, 1977).</p></div>",
+    "created_at": "2013-07-03T13:54:24.851+02:00",
+    "changed_at": "2024-06-18T23:25:31.301+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1264\",\"https://digitaltmuseum.no/095ab506-d2ce-4c16-b368-b881c36bf832\",\"http://kulturnav.org/095ab506-d2ce-4c16-b368-b881c36bf832\"]",
+        "lastname": "Grevstad",
+        "firstname": "Arna",
+        "birth_date": "29.8.1916",
+        "birthplace": "Andøy, Vesterålen",
+        "external_id": "person_8736ab1264",
+        "kulturnav_id": "095ab506-d2ce-4c16-b368-b881c36bf832",
+        "alternative_names": "Grevstad, Arna Liv"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

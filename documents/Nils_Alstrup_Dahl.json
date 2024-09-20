@@ -1,0 +1,529 @@
+{
+    "id": 417031,
+    "headword": "Nils Alstrup Dahl",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101517",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ludvig Wilhelm",
+                "lastname": "Dahl",
+                "professions": [
+                    "medisinaldirektør"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101518",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anne Cathrine Lyders",
+                "lastname": "Bonnevie",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Harriet Backers malerskole, Kristiania 1895–97",
+                "order": "0"
+            },
+            {
+                "comment": "studerte i København i 1897",
+                "order": "1"
+            },
+            {
+                "comment": "Académie Colarossi i Paris 1911",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Hielmstierne-Rosencrones legat 1902 eller -03"
+            },
+            {
+                "order": "3",
+                "description": "Ole Evenstads legat 1911 og -12"
+            },
+            {
+                "order": "5",
+                "description": "Opphold i Paris 1911–14 og 1918–19"
+            },
+            {
+                "order": "2",
+                "description": "Henrichsens legat 1910"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1900 og -01"
+            },
+            {
+                "order": "4",
+                "description": "Statens stip. 1918 og -19"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Honorable Mention på Verdensutstillingen i San Francisco 1915"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1906",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1899",
+                "order": "6",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1897",
+                "order": "5",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1903",
+                "order": "7",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1932",
+                "order": "14",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "K. Hus, Oslo",
+                "from_date": "1932",
+                "order": "23",
+                "to_date": "",
+                "title": "Høstutstillingen 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1905",
+                "order": "8",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1927",
+                "order": "13",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Helsinki",
+                "from_date": "1911",
+                "order": "18",
+                "to_date": "",
+                "title": "Den norske utstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1908",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1901",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiania Kunstforening",
+                "from_date": "1910",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1937",
+                "order": "15",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1955",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kung. Akademien för de Fria konsterna",
+                "from_date": "1904",
+                "order": "17",
+                "to_date": "",
+                "title": "Norska Konstnärers arbeten"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1918",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1918",
+                "order": "11",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1924",
+                "order": "12",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1913",
+                "order": "10",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1907",
+                "order": "9",
+                "to_date": "1911",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1927",
+                "order": "21",
+                "to_date": "",
+                "title": "Kunstnerforbundets juleutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "San Francisco",
+                "from_date": "1915",
+                "order": "20",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frogner, Kristiania",
+                "from_date": "1914",
+                "order": "19",
+                "to_date": "",
+                "title": "Jub.utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim",
+                "from_date": "1930",
+                "order": "22",
+                "to_date": "",
+                "title": "Landsutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1926",
+                "order": "5",
+                "reference": "bd. 3, s. 233",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-01-26",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929-03-09",
+                "order": "6",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Øks, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-22",
+                "order": "4",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "7",
+                "reference": "bd. 1, s. 435",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L.",
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913",
+                "order": "2",
+                "reference": "bd. 8, s. 274",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "8",
+                "reference": "s. 191–93 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "En ukjent maler",
+                "authors": [
+                    "Refsum, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-09-20",
+                "order": "3",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-04-20",
+                "order": "1",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-01-21",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-02-02",
+                "order": "11",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-02-04",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J.F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901-09-04",
+                "order": "0",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "14",
+                "reference": "s. 74, 189",
+                "to_date": "",
+                "description": "Kunst og Kultur reg. 1910-67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955-02-05",
+                "order": "12",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Universitetsbiblioteket, Oslo"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Nils Alstrup Dahl",
+    "url": "https://nkl.snl.no/Nils_Alstrup_Dahl",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>D. debuterte på Høstutstillingen i 1897 med maleriet <em>Aften</em>. D.s motiver var landskaper og bypartier, av og til portretter og stilleben. Han malte i Telemark, rundt Oslofjorden, Gamlebyen i Fredrikstad, i strøket rundt barndomshjemmet i Professor Dahls gate i Oslo og i de senere år på Skåtøy. </p>\n<p>Nasjonalgalleriets bilde <em>Solnedgang</em> (antagelig omkring 1900) er et stemningsmettet maleri, hvor en rødmende sol speiles i en stille elv. D.s malerier kan ha et visst dekorativt preg. Billedelementene blir ofte samlet i større flater med klare konturer. En sløret atmosfære hviler over landskapene og visker ut detaljene. Det er verken sol eller regn i bildene, men et mildt og diffust lys.</p>\n</div>",
+    "created_at": "2013-07-03T19:07:47.768+02:00",
+    "changed_at": "2024-06-18T23:25:56.531+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab735\",\"https://digitaltmuseum.no/3850f757-f3fe-4c3b-932f-a7c0d56efb26\",\"http://kulturnav.org/3850f757-f3fe-4c3b-932f-a7c0d56efb26\"]",
+        "lastname": "Dahl",
+        "firstname": "Nils Alstrup",
+        "birth_date": "19.11.1876",
+        "birthplace": "Christiania",
+        "death_date": "3.1.1940",
+        "external_id": "person_8736ab735",
+        "kulturnav_id": "3850f757-f3fe-4c3b-932f-a7c0d56efb26",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Randi Gaustad"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15655/standard_NMK-B_NG.M.0068520130725-13675-5x7iv.jpg",
+            "full_size_url": "https://media.snl.no/media/15655/NMK-B_NG.M.0068520130725-13675-5x7iv.jpg",
+            "xhtml": "<div>\r\n<p><em>Ettermiddag i september</em>, 1906. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Nils Alstrup Dahl",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15662/standard_NMK-B_NG.M.0089020130725-13675-j42yim.jpg",
+            "full_size_url": "https://media.snl.no/media/15662/NMK-B_NG.M.0089020130725-13675-j42yim.jpg",
+            "xhtml": "<div>\r\n<p><em>Solnedgang</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Nils Alstrup Dahl",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

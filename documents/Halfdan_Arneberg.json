@@ -1,0 +1,377 @@
+{
+    "id": 416086,
+    "headword": "Halfdan Arneberg",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "bokkunstner"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "interiørarkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100325",
+                "birth_date": "1831",
+                "death_date": "1893",
+                "firstname": "Andreas Schaff",
+                "lastname": "Arneberg",
+                "professions": [
+                    "grosserer"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab100326",
+                "birth_date": "1855",
+                "death_date": "1932",
+                "firstname": "Karoline Mathilde",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "from_date": "1917",
+                "type": "Gift med",
+                "external_id": "person_8736ab100327",
+                "birth_date": "1889",
+                "death_date": "",
+                "firstname": "Astrid",
+                "lastname": "Danielsen",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo",
+                "order": "0"
+            },
+            {
+                "comment": "utenlandske tekniske skoler",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statsstøtte til reiser for avtegning av norsk folkekunst 1918–25"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Stiftet i 1929 Norsk prydkunstnerlag og var dets første formann"
+            },
+            {
+                "order": "1",
+                "description": "Lærer ved Fagskole for boktrykkere 1918–25"
+            },
+            {
+                "order": "2",
+                "description": "lærer ved Statens Håndverks- og Kunstindustriskole, Oslo (før 1911: Den kgl. Tegneskole) fra 1928, overlærer 1938–49"
+            },
+            {
+                "order": "4",
+                "description": "opprettet tidsskriftet Prydkunst, redaktør 1929"
+            },
+            {
+                "order": "5",
+                "description": "redaktør av tidsskriftet Folkekunst 1950–51"
+            },
+            {
+                "order": "6",
+                "description": "tegner og formgiver hos J.W. Cappelens Forlag"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Kongens Fortjenstmedalje i gull"
+            },
+            {
+                "order": "1",
+                "description": "H. Arneberg: Norsk prydsøm, med blant Årets vakreste bøker 1948"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Har utgitt og illustrert en rekke bøker om folkekunst (se litteraturliste), bl.a. plansjeverket Norsk prydkunst 1918–25"
+            }
+        ],
+        "exhibitions": [],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "tegning av Arne Vold (gjengitt i Nationen 10.3.1954)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Tegning av Øyvind Sørensen (1949)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1954",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Folkekunst fra Buskerud fylke",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "1953",
+                "description": "Ornament og mønstertegning med stillære 1–7",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norsk Prydkunst. Ornamenter fra norsk folkekunst samlet og tegnet til praktisk bruk.",
+                "place": "(Kristiania",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [
+                    "Utg. under medvirkn. av H. Bull og K. Visted"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Folkekunst fra Buskerud fylke",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norsk Folkekunst. Mannsarbeid",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [
+                    "(eng. utg. 1951)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "7",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norsk folkekunst. Kvinnearbeid",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [
+                    "(eng. utg. 1952)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Hardangersaum",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [
+                    "Retting og mønstersamling av Gudrun Skaltveit-Stuland og H. Arneberg"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "5",
+                "reference": "s. 1–3, (ill.)",
+                "to_date": "",
+                "description": "Prydkunst",
+                "title": "Sandvig og Maihaugen",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Litt om Telemarks prydkunst i gammel tid",
+                "place": "Porsgrund",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Norsk prydsøm. Enkle border og motiver fra norsk folke kunst og efter originaltegninger av norske kunstnere",
+                "place": "Oslo",
+                "authors": [
+                    "ARNEBERG, Halfdan"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1927",
+                "order": "10",
+                "reference": "bd. 2, s. 630",
+                "to_date": "",
+                "description": "Norsk Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Aars, H."
+                ],
+                "comments": [
+                    "m.fl."
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "15",
+                "reference": "bd. 1, s. 417",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "12",
+                "publisher": "Arbeidskomiteen for nordisk bokkunst",
+                "reference": "s. 66, (ill.)",
+                "to_date": "",
+                "description": "Norsk Bokkunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "14",
+                "reference": "bd. 1, s. 760",
+                "to_date": "",
+                "description": "AKL",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "13",
+                "reference": "s. 29",
+                "to_date": "",
+                "description": "Hvem er Hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Halfdan Arneberg",
+    "url": "https://nkl.snl.no/Halfdan_Arneberg",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>A. var en allsidig kunstner og pedagog og må dertil ha hatt en sjelden arbeidskraft. Herom vitner både hans lange tid som lærer og hans mange publikasjoner.</p>\n<p>Lærergjerningen strakk seg over årene 1918–49. Han var anerkjent som en dyktig bokkunstner og laget bl.a. en rekke bokomslag. Hans største innsats er imidlertid det omfattende arbeid han gjorde for å vekke interessen for norsk prydkunst og folkekunst. Han satte seg som mål å knytte båndene med vår prydkunsts storhetstid, og begynte å oppspore og samle det som ennå eksisterte. Våren 1916 begynte han å avtegne et utvalg av ornamenter i de forskjellige teknikker. Han foretok årlige studie- og samlereiser i Norge, Sverige og Danmark. Til disse reiser hadde han statsstøtte fra 1918 til 1925. I en rekke større og mindre publikasjoner gjengav han dels i tegninger, dels i fargelagte plansjer sitt store materiale. Siktemålet var å gjøre vår folkekunst tilgjengelig for folk som arbeidet med kunsthåndverk, kunstindustri og husflid, slik at de kunne omsette denne verdifulle arv i praksis.</p>\n<p>Blant hans hovedarbeider kan nevnes tobindsverket <em>Norsk Folkekunst</em>. Første bind omfattet <em>Kvinnearbeid</em> (1949) og annet bind <em>Mannsarbeid</em> (1951). Verket kom også ut på engelsk. De to bind inneholder til sammen henimot 200 plansjer, hvorav mange i farger. Dette praktverket viser at han ikke bare eide omfattende teoretiske kunnskaper og inngående kjennskap til de forskjellige teknikker innen dekorativ kunst, men at han også selv var en skapende kunstner.</p>\n<p>Allerede i 1929 stiftet han Norsk prydkunstnerlag og var dets første formann. Laget gav ut tidsskriftet Prydkunst som A. redigerte i 1929. Målet var å imøtekomme kravet om gode, norske former, farger og mønstre. Hverken laget eller tidsskriftet fikk lang levetid. Men i 1950–51 påtok A. seg å redigere Folkekunst, Tidsskrift for Norsk Bygdekunstlag. Redaktøren måtte i stor utstrekning selv skaffe stoff. Det finnes fra hans hånd en rekke nitide tegninger og atskillige artikler om forskjellige emner innen norsk folkekunst. Bl.a. skrev han mye om malerfargene, deres opprinnelse, fremstilling og bruk, deres historie, karakter og symbolikk.</p>\n</div>",
+    "created_at": "2013-07-03T13:59:54.946+02:00",
+    "changed_at": "2024-06-18T23:25:31.683+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab160\",\"https://digitaltmuseum.no/df379424-46e3-48e7-8b95-7fd628bafa4e\",\"http://kulturnav.org/df379424-46e3-48e7-8b95-7fd628bafa4e\"]",
+        "lastname": "Arneberg",
+        "firstname": "Halfdan",
+        "birth_date": "10.3.1879",
+        "birthplace": "Kristiania",
+        "death_date": "0.0.1961",
+        "external_id": "person_8736ab160",
+        "kulturnav_id": "df379424-46e3-48e7-8b95-7fd628bafa4e",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Sonja Hagemann"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "bokkunstner"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "interiørarkitekt"
+        }
+    ]
+}

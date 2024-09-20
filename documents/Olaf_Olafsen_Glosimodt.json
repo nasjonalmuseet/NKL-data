@@ -1,0 +1,590 @@
+{
+    "id": 415997,
+    "headword": "Olaf Olafsen Glosimodt",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102544",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Olaf",
+                "lastname": "Olafsen",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "from_date": "1863",
+                "to_date": "1911",
+                "type": "Gift med",
+                "external_id": "person_8736ab102546",
+                "birth_date": "1830",
+                "death_date": "",
+                "firstname": "Agnete",
+                "lastname": "Larsdatter",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102545",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sigrid Kjetilsdatter",
+                "lastname": "Austerdal",
+                "professions": [
+                    "skredder",
+                    "snekker"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Bakgrunn som bygdesnekker og treskjærer. Den kgl. Tegneskole i Christiania 1849–51",
+                "order": "0"
+            },
+            {
+                "comment": "Kunstakademiet i København 1851–61",
+                "order": "2"
+            },
+            {
+                "comment": "assistent i prof. Hermann Wilhelm Bissens atelier 1851-68",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Opphold i Roma 9 md. 1861"
+            },
+            {
+                "order": "0",
+                "description": "Statens stipend 1861"
+            },
+            {
+                "order": "2",
+                "description": "Studiereise Paris 1877 og Russland 1878, begge bekostet av Thomas Heftye"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "5",
+                "description": "fortjenstmedalje på verdensutstillingen i Wien 1873"
+            },
+            {
+                "order": "4",
+                "description": "sølvmedalje på den nordiske utstillingen i København 1872"
+            },
+            {
+                "order": "6",
+                "description": "sølvmedalje på landbruks- og husflidutstillingen i Christiania 1877"
+            },
+            {
+                "order": "0",
+                "description": "Sølvmedalje på industriutstillingen i Christiania 1851"
+            },
+            {
+                "order": "2",
+                "description": "den store sølvmedalje på Charlottenborgutstillingen, København i 1857"
+            },
+            {
+                "order": "3",
+                "description": "bronsemedalje på den nordiske utstillingen i Stockholm 1866"
+            },
+            {
+                "order": "1",
+                "description": "den lille sølvmedalje på Charlottenborgutstillingen, København i 1854"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Teaterhistorisk museum, København"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Islands Kunstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Fredriksborg Slot, Danmark"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Jægerpris Slot, Danmark"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1855",
+                "order": "4",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "London",
+                "from_date": "1862",
+                "order": "6",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1866",
+                "order": "7",
+                "to_date": "",
+                "title": "Den nordiske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1857",
+                "order": "5",
+                "to_date": "",
+                "title": "Den nordiske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1867",
+                "order": "8",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "13",
+                "to_date": "",
+                "title": "Den nordiske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1878",
+                "order": "12",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1877",
+                "order": "11",
+                "to_date": "",
+                "title": "Landbruks- og husflidutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1854",
+                "order": "14",
+                "to_date": "1883",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1872",
+                "order": "9",
+                "to_date": "",
+                "title": "Den nordiske utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1884",
+                "order": "0",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1851",
+                "order": "1",
+                "to_date": "",
+                "title": "Den tekniske Forenings utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1873",
+                "order": "10",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1854",
+                "order": "3",
+                "to_date": "",
+                "title": "Industriutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1853",
+                "order": "2",
+                "to_date": "",
+                "title": "Kunstutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1907",
+                "order": "10",
+                "reference": "bd. 3, s. 9",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "11",
+                "reference": "s. 25",
+                "to_date": "",
+                "description": "Erindringer fra et langt liv",
+                "place": "(Kristiania",
+                "authors": [
+                    "Balling, O.P. Hansen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1854",
+                "order": "0",
+                "reference": "nr. 37 (ill.)",
+                "to_date": "",
+                "description": "Skilling-Magazin",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883",
+                "order": "9",
+                "to_date": "",
+                "description": "Fortegnelse over danske Kunstneres Arbejde",
+                "place": "København",
+                "authors": [
+                    "Reitzel, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "19",
+                "reference": "bd. 1, s. 384",
+                "to_date": "",
+                "description": "Weilbach",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "17",
+                "reference": "s. 507–508",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "16",
+                "reference": "bd. 2, s. 296-97, 303-305 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1858",
+                "order": "1",
+                "reference": "nr. 5",
+                "to_date": "",
+                "description": "Dølen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "14",
+                "reference": "s. 19–22, 69 (ill.)",
+                "to_date": "",
+                "description": "Norsk Folkekultur",
+                "title": "Billedhugger Olaf Glosimodt",
+                "place": "Risør",
+                "authors": [
+                    "Heggtveit, H.G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "13",
+                "reference": "bd. 9, s. 807",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "12",
+                "reference": "bd. 14, s. 265",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1858",
+                "order": "2",
+                "reference": "nr. 22 (ill.), 34 (ill.), 45 (ill.), 46 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Nyhedsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "15",
+                "reference": "s. 65",
+                "to_date": "",
+                "description": "Fra Ulriken til Alperne",
+                "place": "Oslo",
+                "authors": [
+                    "Grønvold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1873",
+                "order": "7",
+                "reference": "s. 377",
+                "to_date": "",
+                "description": "Nutidskunst",
+                "place": "København",
+                "authors": [
+                    "Lange, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1878",
+                "order": "8",
+                "reference": "s. 91",
+                "to_date": "",
+                "description": "Den norske Treskjærerkunst",
+                "place": "Christiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "20",
+                "reference": "bd. 2, s. 338–340 (ill.)",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "18",
+                "reference": "s. 67–68, 95, 97, 106, 109, 110, 122",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "reference": "u.å., s. 51–68 (ill.)",
+                "to_date": "",
+                "description": "Årbok for Telemark 1955/56",
+                "title": "Olav Glosimodt",
+                "place": "(Skien",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1866",
+                "order": "6",
+                "reference": "s. 91",
+                "to_date": "",
+                "description": "Skandinaviske Konst-Expositionen i Stockholm 1866",
+                "place": "Stockholm",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1862",
+                "order": "3",
+                "reference": "nr. 18 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Nyhedsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1858",
+                "order": "4",
+                "reference": "nr. 294",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "reference": "u.å., s. 28–47 (ill.)",
+                "to_date": "",
+                "description": "Telemark i norsk billedhuggerkunst",
+                "place": "(Skien",
+                "authors": [
+                    "Østvedt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1859",
+                "order": "5",
+                "reference": "nr. 157",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Olaf Olafsen Glosimodt",
+    "url": "https://nkl.snl.no/Olaf_Olafsen_Glosimodt",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>G. lærte som ung treskjærer-, snekker- og sølvarbeid, og livnærte seg tidlig ved hjelp av dette. Mange arbeider fra denne tiden er ennå bevart i Seljord, bl.a. døpefonten i Seljord kirke som han laget i 1844. I 1847 reiste han til Christiania og arbeidet som møbeltreskjærer, og fikk i 1849 treskjæreroppdrag på Oscarshall. Samme år begynte han på Den kgl. Tegneskole i Christiania og gikk der til 1851 da han reiste til København. Her fikk han arbeid som assistent i prof. Bissens atelier, og arbeidet der til Bissens død i 1868. I 1851 ble han elev ved Kunstakademiet i København, og i 1861 fikk han kunstnerstipend på 400 Spd. for å reise til Roma. Her var han i 9 måneder og møtte den danske forfatter Jørgen W. Bergsøe, som i sin roman \"Fra Piazza del Popolo\" (1866) har brukt G. som modell til hovedpersonen Ole Malm. I 1862 vendte G. tilbake til København og ble boende der resten av sitt liv. Siste gang han besøkte Seljord var i 1896.</p>\n<p>G. er en av de mange bygdegutter med bakgrunn i treskjæring som på 1800-tallet ble rekruttert til billedhuggerkunsten i Norge. Selv om det meste av det han laget var typiske billedhuggerarbeider, så fortsatte G. hele sitt liv også produksjon av tradisjonelle treskjærerarbeider, og han laget bl.a. den store kroningsstolen til Oscar 2. i 1872. Men ved siden av sitt arbeid i Bissens atelier livnærte G. seg først og fremst ved å lage portretter av berømte kvinner og menn. Ved siden av større marmor- og gipsbyster laget han mindre portrettmedaljonger. Dessuten utførte han ofte mindre kopier av de store portrettbystene, mange ganger i flere eksemplarer, og i ulike materialer som bl.a. elfenben, buksbom, terrakotta, gips og stearingips. Han utførte også, særlig tidlig i 1850-årene miniatyrkopier av andre kunstneres arbeider (f.eks. <em>Amor med lyren</em> etter Bertel Thorvaldsen, 1854), men også selvstendige miniatyrskulpturer, ofte i elfenben. Markedet for skulptur var lite i Norge på den tiden, og hans mange miniatyrarbeider var et forsøk på å nå et bredere publikum gjennom overkommelige priser. </p>\n<p>G.s selvstendige arbeider, utenom portrettene, har både klassiske og nasjonale motiver. At G. ble en av de første billedhuggere som tok opp motiver fra vår bygdekultur i sin kunst, kan ha noe med hans spesielle bakgrunn å gjøre. Faren, som tidligere var skolestyrer, var levende interessert i vår folkekultur, og både M.B. Landstad og Ivar Aasen bodde derfor på gården Glosimot under sine reiser (Aasen i 1845/46). Mange av G.s portretter står i den idealiserende, klassiske tradisjon, men flere har også karakter av nøktern realisme. Hans øvrige arbeider bærer oftest preg av en lett idyllisk senklassisisme. Alt han har gjort bærer preg av dyktig håndverk. Av større portrettbyster, i marmor eller gips, kan nevnes portrettene av <em>prof. Chr. Hansteen</em>, (1856); <em>grev Wedel-Jarlsberg</em>, (1857); <em>grosserer Jacob Meyer</em> (1858); <em>prof. A.M. Schweigaard</em> (1858, 1874–76); <em>Adolph Tidemand</em> (1859); <em>Hans Gude</em> (1859); <em>Andreas Munch</em> (1860); <em>Statsminister G. Sibbern</em> (1866); <em>universitetsbibliotekar W. Keyser</em> (1867); <em>rektor F. Vibe</em>, (1881); <em>verkseier H.Chr. Mathiessen</em> (1884). I Danmark laget han også en rekke portretter. Av portrettmedaljonger kan nevnes portrett av <em>statsråd P.Chr. Holst</em>, (gips, 1860, terrakotta, 1877); <em>Bjørnstjerne Bjørnson</em>, (elfenben, 1862); <em>Johan Nordahl Brun</em>, (elfenben, 1864); <em>J.L. Heiberg og Runeberg</em>, (utstilt i Christiania Kunstforening, 1868); <em>Oscar 2.s sønner</em>, (elfenben, 1869); <em>prof. A.M. Schweigaard</em>, (1870); <em>Henrik Ibsen</em>, (marmor, 1872). Av miniatyrutgaver av portretter laget av andre kunstnere kan nevnes portrett av <em>Martin Luther</em> på lokket av en dåse, (buksbom, 1850); av <em>Eugène Beaubarnais</em>, også på dåselokk, (1850); byste av <em>Thorvaldsen</em>, (buksbom, 1850); statuett av <em>Christian 4.</em> etter Thorvaldsen, (utstilling i Christiania Kunstforening 1858). Som eksempler på miniatyrkopier av egne portretter er portrett av <em>Chr. Hansteen</em> (elfenben, 1859 og i stearingips, utstilling i Christiania Kunstforening 1861). Av andre arbeider kan nevnes <em>Amor skjuler en pil i blomster</em>  (utstilling Christiania Kunstforening 1856); <em>Sørgende Merkur</em>, terrakotta (utstilling Christiania Kunstforening 1858); <em>Peter og Paulus</em> (buksbom, ant. 1858), for Trefoldighetskirken; <em>Venus og Amor</em> (utstilling Christiania Kunstforening 1859); <em>Gjeterjente</em> (buksbom, 1861, solgt til Carl 15), samme motiv i marmor (1862), og <em>Gjetergutt</em> (marmor, 1864) (begge etter bestilling av Carl 15); <em>Peter og Paulus</em> (marmor, 1874) for Slottskapellet i Oslo. Gipsavstøpninger av de samme gav han til Seljord kirke i 1896.</p>\n</div>",
+    "created_at": "2013-07-03T13:42:12.214+02:00",
+    "changed_at": "2024-06-18T23:25:29.504+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1228\",\"https://digitaltmuseum.no/65f2a745-c8d3-469f-a260-f67421f1bcb2\",\"http://kulturnav.org/65f2a745-c8d3-469f-a260-f67421f1bcb2\"]",
+        "lastname": "Glosimodt",
+        "firstname": "Olaf Olafsen",
+        "birth_date": "13.7.1821",
+        "birthplace": "Seljord i Telemark",
+        "death_date": "12.12.1901",
+        "external_id": "person_8736ab1228",
+        "kulturnav_id": "65f2a745-c8d3-469f-a260-f67421f1bcb2",
+        "place_of_death": "København"
+    },
+    "authors": [
+        {
+            "full_name": "Dag Sveen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

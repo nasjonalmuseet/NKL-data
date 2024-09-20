@@ -1,0 +1,695 @@
+{
+    "id": 429955,
+    "headword": "Tulla Ranslet",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "keramiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106407",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Selig",
+                "lastname": "Blomberg",
+                "professions": []
+            },
+            {
+                "from_date": "1955",
+                "type": "Gift med",
+                "external_id": "person_8736ab106409",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Arne Mathias",
+                "lastname": "Ranslet",
+                "professions": [
+                    "keramiker"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab106408",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anna",
+                "lastname": "Sack",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bornholm, Danmark"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "grafisk skole, København under Holger J. Jensen og Billedhuggerskolen (keramisk avd.), København 1953–54",
+                "order": "4"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Per Krohg 1947–50, samtidig aftenundervisning hos Chrix Dahl",
+                "order": "1"
+            },
+            {
+                "comment": "senere kurs på Kunstakademiet i København under bl.a. Dan Sterup-Hansen og bronsestøpingskurs samme sted",
+                "order": "5"
+            },
+            {
+                "comment": "Isaac Grünewald-skolen, Stockholm 1946",
+                "order": "0"
+            },
+            {
+                "comment": "Art Student League, New York og Art Institute, Chicago, 1950",
+                "order": "2"
+            },
+            {
+                "comment": "Kunstakademiet i København under Kræsten Iversen 1951-54",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "6",
+                "description": "Tyskland"
+            },
+            {
+                "order": "1",
+                "description": "USA 1950"
+            },
+            {
+                "order": "3",
+                "description": "København 1951–54"
+            },
+            {
+                "order": "8",
+                "description": "Italia"
+            },
+            {
+                "order": "9",
+                "description": "Frankrike"
+            },
+            {
+                "order": "7",
+                "description": "Nederland"
+            },
+            {
+                "order": "2",
+                "description": "Spania 1951"
+            },
+            {
+                "order": "0",
+                "description": "Studieopphold i Stockholm 1946"
+            },
+            {
+                "order": "5",
+                "description": "reiser til USA"
+            },
+            {
+                "order": "4",
+                "description": "bosatt i Danmark fra 1954"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Billedkunstnerforbundet og Billedhuggerforbundet, Danmark"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "To premierte utkast Oslo kommunes skoleutsmykkingskonkurranse 1968, premiert utkast 1976"
+            },
+            {
+                "order": "1",
+                "description": "1. premie konkurranse om utsmykking av Iseling skole, Vordingborg, Danmark 1979"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "St. Görans Barnehospital, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "veggrelieff Store Tuna skole, Dalarne-Borlänge, Sverige"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Örebro rådhus, Sverige"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Frökenskolan, Kristianstad, Sverige"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "veggrelieff Danmarks Radio, København"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "veggrelieff Deichmanske bibliotek, Oslo (1973)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "veggrelieff Iseling skole, Vordingborg, Danmark (1979)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "veggrelieff Sandvig borgerskole, Allinge, Bornholm (1974)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "veggrelieff Sønder Jyllandskolen, København (1980)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Madseløkke, Allinge, Bornholm"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Dansk folkeferies kantine, Sandvig, Bornholm (1980)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "veggrelieff Åbenråhallen, Åbenrå, Danmark"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Simrishamn pleiehjem, Sverige (1977)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "ICA-bolagets restauranter i Stockholm, Malmö og Göteborg"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Värmlands museet, Karlstad"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Skjønnhaug skole, Oslo (1981)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Örebro museum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bornholmutstilling, Ötterndorf, Vest-Tyskland",
+                "from_date": "1982",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. im Parterre, Bremen, Vest-Tyskland",
+                "from_date": "1982",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kalmar museum",
+                "from_date": "1980",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "comment": "alle før",
+                "category": "Separat",
+                "exhibition_organizer": "Kleine Gal., Hamburg",
+                "from_date": "1973",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gymnasium Hittfeldt, Hamburg",
+                "from_date": "1980",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1978",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "comment": "alle før",
+                "category": "Separat",
+                "exhibition_organizer": "Jönköping Länsmuseum",
+                "from_date": "1973",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstindustrimuseet i Oslo",
+                "from_date": "1964",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "comment": "alle før",
+                "category": "Separat",
+                "exhibition_organizer": "Bosjö Kloster, Sverige",
+                "from_date": "1973",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ung norsk kunst, Sverige",
+                "from_date": "1951",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. 5 sekler, Stockholm",
+                "from_date": "1965",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Konsthallen, Kristinehamn, Sverige",
+                "from_date": "1980",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Waldorfschule, Bremen, Vest-Tyskland",
+                "from_date": "1968",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Linköping museum",
+                "from_date": "1968",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstindustrimuseum, København",
+                "from_date": "1977",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Rathaus Ötterndorf, Vest-Tyskland",
+                "from_date": "1981",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Musenstall, Blankenese, Hamburg",
+                "from_date": "1983",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "comment": "alle før",
+                "category": "Separat",
+                "exhibition_organizer": "Värmlands museum Karlstad",
+                "from_date": "1973",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "kunstindustriutstilling Charlottenborgutstillingen, København",
+                "from_date": "1981",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Efteraarsudst., Charlottenborgutstillingen, København",
+                "from_date": "1976",
+                "order": "27",
+                "to_date": "1978"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Form, Malmö",
+                "from_date": "1965",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Dr. Glas, Stockholm",
+                "from_date": "1968",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "comment": "alle før",
+                "category": "Separat",
+                "exhibition_organizer": "Örebro Länsmuseum",
+                "from_date": "1973",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1968",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skandinavisches Festival, Ratzeburg, Vest-Tyskland",
+                "from_date": "1973",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1975",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Norrköping museum",
+                "from_date": "1968",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Röhsska Konstslöjdmuseum",
+                "from_date": "1963",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Konsthallen, Kristinehamn, Sverige",
+                "from_date": "1973",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bornholms museum, Rønne",
+                "from_date": "1976",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristianstad Länsmuseum",
+                "from_date": "1968",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bornholms museum, Rønne",
+                "from_date": "1965",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. W., Simrishamn, Sverige",
+                "from_date": "1977",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lunds konsthall",
+                "from_date": "1978",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gal. Dr. Fritz Vehring, Syke, Vest-Tyskland",
+                "from_date": "1968",
+                "order": "8",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975-06-23",
+                "order": "6",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-06-24",
+                "order": "7",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-13",
+                "order": "5",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-01-13",
+                "order": "4",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "1",
+                "reference": "hefte 104 s. 30 (ill.)",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "0",
+                "reference": "s. 206, 251",
+                "to_date": "",
+                "description": "Bonytt",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "13",
+                "to_date": "",
+                "description": "Tulla Blomberg Ranslet - Ein Porträt",
+                "place": "Hamburg",
+                "authors": [
+                    "Eckhardt, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-01-03",
+                "order": "2",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Bøggild, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-02-07",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983-06-05",
+                "order": "14",
+                "reference": "s. 19",
+                "to_date": "",
+                "description": "Nyt Synspunkt",
+                "place": "Hellerup",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "12",
+                "to_date": "",
+                "description": "Kvinner og Klær",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "nr. 50"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1975-06-26",
+                "order": "8",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "9",
+                "reference": "s. 193",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-02-16",
+                "order": "10",
+                "to_date": "",
+                "description": "Stern",
+                "place": "Hamburg",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "11",
+                "to_date": "",
+                "description": "Dansk kunsthaandværkerleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Tulla Ranslet",
+    "url": "https://nkl.snl.no/Tulla_Ranslet",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div></div>",
+    "created_at": "2014-11-20T10:09:55.255+01:00",
+    "changed_at": "2024-06-18T23:27:45.629+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3164\",\"https://digitaltmuseum.no/13678c03-6d85-42df-9b13-5bca38c7ebc8\",\"http://kulturnav.org/13678c03-6d85-42df-9b13-5bca38c7ebc8\"]",
+        "lastname": "Ranslet",
+        "firstname": "Tulla",
+        "birth_date": "15.5.1929",
+        "birthplace": "Oslo",
+        "external_id": "person_8736ab3164",
+        "kulturnav_id": "13678c03-6d85-42df-9b13-5bca38c7ebc8",
+        "alternative_names": "Ranslet, Tulla Rakel Bella Blomberg"
+    },
+    "authors": [
+        {
+            "full_name": " Norsk kunstnerleksikon"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "keramiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

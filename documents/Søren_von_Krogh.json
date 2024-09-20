@@ -1,0 +1,588 @@
+{
+    "id": 417885,
+    "headword": "Søren von Krogh",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab104613",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hilda",
+                "lastname": "Buttedal",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104611",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Christian von",
+                "lastname": "Krogh",
+                "professions": [
+                    "møbelsnekker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104612",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Inger Sofie",
+                "lastname": "Berg",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Stavanger"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Elev av Thoralf Gjesdal 1942–43",
+                "order": "0"
+            },
+            {
+                "comment": "Stavanger tegneskole under Asbjørn Holm og Henry Imsland 1943–45",
+                "order": "1"
+            },
+            {
+                "comment": "hospitant Statens Håndverks- og Kunstindustriskole, Oslo under Chrix Dahl 1947",
+                "order": "2"
+            },
+            {
+                "comment": "Studieatelieret i Stavanger under Eystein Sigurdsson og Ellen Iden 1960–61",
+                "order": "4"
+            },
+            {
+                "comment": "elev av Sigurd Bærheim 1959",
+                "order": "3"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereiser til København, Hamburg, Berlin, Dresden og Nürnberg 1938–39"
+            },
+            {
+                "order": "1",
+                "description": "besøkt de fleste større byer i Europa i 1970-årene"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Timelærer i grafikk ved Stavanger yrkesskole 1969–75"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Bildende Kunstneres Forening Rogaland, revisor 1968-77"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bryne Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Utenriksdep."
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Stavanger kommune"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bildende Kunstneres Forening Rogalands vandreutstilling",
+                "from_date": "1978",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstgalleri",
+                "from_date": "1975",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Farsund Kunstforening",
+                "from_date": "1972",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1980",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandsutstilling",
+                "from_date": "1954",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Koloritten, Stavanger",
+                "from_date": "1977",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Gruppeutstilling Oslo Kunstforening",
+                "from_date": "1947",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1975",
+                "order": "23",
+                "to_date": "",
+                "title": "Stavanger sett med kunstnerøyne"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bryne Kunstforening",
+                "from_date": "1955",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. RA, Stavanger",
+                "from_date": "1978",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Høstutstillingen",
+                "from_date": "1945",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandnes Kunstforening",
+                "from_date": "1963",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandsutstilling",
+                "from_date": "1948",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "Haugesunds Kunstforening",
+                "from_date": "1950",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstgalleri",
+                "from_date": "1972",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Haugesund Billedgalleri",
+                "from_date": "1980",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Gruppeutstilling Oslo Kunstforening",
+                "from_date": "1946",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "",
+                "order": "5",
+                "to_date": "1980"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vennskapsbyutstilling i Jyväskylä, Finland",
+                "from_date": "1970",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bildende Kunstneres Forening Rogalands vandreutstilling",
+                "from_date": "1974",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Rudolph, Stavanger",
+                "from_date": "1975",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Tendelands galleri, Kopervik",
+                "from_date": "1981",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Esbjerg Kunstforening",
+                "from_date": "1967",
+                "order": "21",
+                "to_date": "",
+                "title": "Kunst fra Stavanger"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandsutstilling",
+                "from_date": "1951",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Flekkefjord Kunstforening",
+                "from_date": "1951",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vestlandsutstilling",
+                "from_date": "1945",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1948",
+                "order": "0",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1975-10-28",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "",
+                    "Joner, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "1",
+                "reference": "nr. 4, s. 12 (ill.)",
+                "to_date": "",
+                "description": "Smeltedigelen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "0001-10-22",
+                "order": "2",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-10-28",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "0001-03-13",
+                "order": "12",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1948-06-02",
+                "order": "0",
+                "to_date": "",
+                "description": "i Nidaros",
+                "authors": [
+                    "Sandal, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "16",
+                "reference": "s. 33 og s. 181 (ill.)",
+                "to_date": "",
+                "description": "Stavanger, byen i billedkunsten",
+                "place": "Stavanger",
+                "authors": [
+                    "Hidle, G. S. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-01-12",
+                "order": "17",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-03-13",
+                "order": "14",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977-01-12",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Joner, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-11-04",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "0001-03-07",
+                "order": "7",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-11-07",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-04-06",
+                "order": "20",
+                "to_date": "",
+                "description": "i Haugesunds Avis",
+                "authors": [
+                    "Borgen, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-22",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-07",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-10-03",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Farsund Avis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-11-04",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Jutrem, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-16",
+                "order": "9",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [
+                    "Remfeldt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-03-24",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-24",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Søren von Krogh",
+    "url": "https://nkl.snl.no/S%C3%B8ren_von_Krogh",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>På middelskolen hadde K. maleren Carl Røstvig som inspirerende tegnelærer. Parallelt med kunstnerutdannelsen utdannet K. seg til tollkasserer, et yrke han hadde helt fram til pensjonsalder. På sine første separatutstillinger i 1940- og 50-årene viste K. grafikk. I 1960-årene fikk maleriet stadig større plass i hans produksjon. K. er først og fremst landskapsmaler. Han forsøker å gjengi naturen som han ser og opplever den og bare i liten grad som utgangspunkt for å løse maleriske problemer. Motivene er malt og skissert på stedet. Han holder seg til det beskjedne format og uttrykker seg innenfor et naturalistisk formspråk hvor han bygger opp sine lyriske og romantiske stemninger ved hjelp av fargenyanser og kontraster. Han maler gjerne med kraftige, brede penselstrøk og sterke, ublandede farger. K. har også malt abstrakte arbeider, inspirert av Kandinsky og Klee, og viser i disse en større personlig frihet og dynamikk. K.s senere arbeider er mer preget av en forenklet naturalisme, med redusert fargestyrke basert på valører.</p></div>",
+    "created_at": "2013-07-04T01:59:05.851+02:00",
+    "changed_at": "2024-06-18T23:26:20.724+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2222\",\"https://digitaltmuseum.no/2c420b0b-3880-47b8-8bc2-49172e871b9b\",\"http://kulturnav.org/2c420b0b-3880-47b8-8bc2-49172e871b9b\"]",
+        "lastname": "Krogh",
+        "firstname": "Søren von",
+        "birth_date": "23.1.1910",
+        "birthplace": "Stamford, Connecticut, USA",
+        "external_id": "person_8736ab2222",
+        "kulturnav_id": "2c420b0b-3880-47b8-8bc2-49172e871b9b"
+    },
+    "authors": [
+        {
+            "full_name": "Berit Wathne"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

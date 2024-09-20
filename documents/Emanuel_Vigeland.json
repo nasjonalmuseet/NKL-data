@@ -1,0 +1,497 @@
+{
+    "id": 431164,
+    "headword": "Emanuel Vigeland",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107941",
+                "birth_date": "1835",
+                "death_date": "1886",
+                "firstname": "Elesæus",
+                "lastname": "Thorsen",
+                "professions": [
+                    "møbelsnekker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108964",
+                "birth_date": "1835",
+                "death_date": "1907",
+                "firstname": "Anne",
+                "lastname": "Aanensdatter",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab3919",
+                "birth_date": "25.01.1879",
+                "death_date": "01.01.1951",
+                "firstname": "Valborg Kristine Madsen",
+                "lastname": "Vigeland",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Bror av",
+                "external_id": "person_8736ab3914",
+                "birth_date": "11.04.1869",
+                "death_date": "12.03.1943",
+                "firstname": "Gustav",
+                "lastname": "Vigeland",
+                "professions": [
+                    "grafiker",
+                    "kunsthåndverker",
+                    "billedhugger"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Den kgl. Tegneskole 1894-97",
+                "order": "0"
+            },
+            {
+                "comment": "P. S. Krøyers malerskole, Kbh. 1898-99",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Fernand Cormon, Paris 1899-1900",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "4",
+                "description": "Egypt, Jerusalem, Italia 1905-06"
+            },
+            {
+                "order": "5",
+                "description": "studier av glassmalerier i Nord-Frankrike (særlig Le Mans, Chartres og Tours) 1907-10"
+            },
+            {
+                "order": "2",
+                "description": "Benneches leg. 1905"
+            },
+            {
+                "order": "3",
+                "description": "Studiereiser til Italia, Spania, England 1900-02"
+            },
+            {
+                "order": "1",
+                "description": "Houens leg. 1899, 1900 og -01"
+            },
+            {
+                "order": "0",
+                "description": "Finnes leg. 1897 og -98"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Egen statsstøttet skole i glassmaleri 1919-22"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "Glassmaleirer til 24 vinduer, Borgestad kapell, Porsgrunn (1917 - 19)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Glassmalerier til absidens fem vinduer (1911), Kråkerøy kirke, Fredrikstad"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Olaf E. Moe og Sigurd Odland, Menighetsfakultetet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Glassmalerier til vindu, Bispekapellet, Stavanger (1926 - 27)"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Glassmalerier til tre vinduer i koret (tidlig i 1940-årene) og til to vinduer i skipet (1947), Aurland kirke"
+            },
+            {
+                "from_date": "",
+                "order": "59",
+                "to_date": "",
+                "description": "Stvg. kommune"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Altertavle i fresko (1903), Tøyen småkirke, Oslo (1907)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Fontenegruppe, Nygårdsparken, Bergen (Jomfruen og enhjørningen ca. 1918 - 20)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Glassmalerier til et stort korvindu (Den fortapte sønns hjemkomst), åtte store vinduer i skipet (nordre vegg: Forutsigelsen i Det gamle testamentet om Kristi komme, søndre vegg: Dømmedag), 24 mindre vinduer i skipet (gammeltestamentlige motiver på nordre vegg, nytestamentlige på søndre), et rosevindu i gravkapellet (engler som tar hånd om de døde), Oscarskyrkan, Sthm. (1919 - 22, 1927 - 29)"
+            },
+            {
+                "from_date": "",
+                "order": "54",
+                "to_date": "",
+                "description": "Nationalmuseum, Sthm."
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Glassmalerier til korets fem vinduer, utskåret prekestol (fjernet), alterbord og altertavle med korsfestet Kristus og fire englefigurer (fjernet) i forgyldt bronse, vegglamper og alterduk (1911 - 14), Bryn kirke, Bærum"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Glassmalerier til fem korvinduer, Fredrikstad domkirke (1916 - 17)"
+            },
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "description": "OK"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Lysekrone formet som et kors under en skulptur (engel med barn), Trefoldighetskirken, Oslo (1923)"
+            },
+            {
+                "from_date": "",
+                "order": "49",
+                "to_date": "",
+                "description": "Anders Henrich Julius Bruun, Jens G. Gleditsch, Henrik Hille, Gustav Jensen, Otto Jensen, James Maroni, Frederik Rode, Jørgen Johan Tandberg og Wilhelm Andreas Wexels, alle Oslo domkirke"
+            },
+            {
+                "from_date": "",
+                "order": "50",
+                "to_date": "",
+                "description": "Emanuel Vigelands museum, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Glassmalerier til tre doble vinduer i koret (Kristi liv, den korsfestede og oppstandne Kristus, 1918 - 37), altertavle i mosaikk (Kristus på himmeltronen 1933), glassmalerier til ti doble vinduer i skipet (Den fortapte sønn og De fire slags sædejord, fra 1941, mesteparten utført etter kunstnerens død av hans barn Per og Maria V. etter farens kartonger), Uranienborg kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Altertavle i fresko, Vaterland småkirke, Oslo (1907, ødelagt 1960)"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Mosaikkbilde i apsis (Den fortapte sønns hjemkomst 4 x 4,5 m), altertavle, prekestol og døpefont, alle med bronserelieffer, krusifiks, alterduk, klokkerstol, lysekroner (tre) og lamper (tre, smijern og bronse), nummertavler, dører med ornamenterte beslag, ornamenter på benkene (forskjellige korstyper), to glassmalerier og messehakel, Gjerpen kirke, Skien (1919 - 21)"
+            },
+            {
+                "from_date": "",
+                "order": "55",
+                "to_date": "",
+                "description": "Waldemarsudde, Sthm."
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "Freskomaleri, Paulus menighetshus, Oslo (Den gode hyrde, 1916)"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "Cathinka Guldberg, Diakonissehuset, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Freske i gamle søndre sakristi (1907 - 08, fjernet 1949) og lysekrone (1908, senere fjernet), åtte vinduer med glassmalerier i koret og nordre tverrskip (1909 - 16, ett fjernet i 1949), Vår frelsers kirke, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Freskomalerier Vita på alle vegger og tønnehvelvet tak i V.s kirkelignende mausoleum, Grimelundsv. 8, Oslo (1926 - 47, fra 1959 Emmanuel Vigelands museum), huset med ornamenter er tegnet av V. og inneholder dessuten en samling av V.s oljemalerier, kartonger til fresker, glassmalerier og portretter, skulpturer og lamper"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Glassmaleri til to korvinduer (1926 - 28, senere fjernet), Vor Frue kirke, Kalundborg"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Lysekroner (forgyldt smijern, formet som kors, hjerte, anker og krone), nummertavler og ornamenter på benkene (forskjellige korstyper), Immanuelskirken, Halden (1921 - 22, lysekroner og nummertavler senere fjernet)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Maleri til altertavler, Holm og Rødven kirke, Møre og Romsdal (begge 1907)"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Mindre kalkmalerier og glassmalerier til fire vinduer, Nordlandets kirke, Kristiansund (1919)"
+            },
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "description": "Arkivmuseum, Lund"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "Nathan Söderblom, Uppsala slott"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Glassmaleri, Grefsenåsen kapell (Den gode hyrde, 1916, senere overført til Tøyen småkirke))"
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "description": "OB"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Freskomalerier til nisjen bak katafalken, kuppelen og taket i østre sidekapell (engler og livsfrise 1913 - 23), 3 glassmalerier til østre sidekapell (1915), ornamenter i gullmosaikk, lamper og lysekroner, Det gamle kapell, Vestre gravlund, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Freskomalerier i Borgertrappen Kbh. rådhus (1904 - 05) sm.m. Jens Möller Jensen"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Glassmalerier til fem vinduer i tverrskipet (1930) og til tre vinduer i apsis (1935 - 36), Lund domkirke"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "Ole Chr. Hallesby, Indremisjonsselskapet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Glassmaleri til midtre vindu i apsis (13,6 x 2,6 m, Kristi himmelfart, korsfestelse og gravleggelse, 1925 - 26), Århus domkirke"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Glassmalerier til fire korvinduer, Olberg kirke, Krødsherad (1917)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Tre smijernslysekroner formet som brennende tornebusker med skulpturer (i koret), fem formet som vinranker (i midskipet), åtte vegglamper (engler med lamper, i sideskipene), Stvg. domkirke (1922 - 24)"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Glassmaleri til rosevinduet, Olavshallen, Akershus slott (ca. 1920, ødelagt av eksplosjon 1943)"
+            },
+            {
+                "from_date": "",
+                "order": "57",
+                "to_date": "",
+                "description": "Brooklyn Museum of Art, New York"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Dekorativ utsmykking i kalkmaleri av vestibyle og forhall, Universitetsbibliotek i Oslo (1913)"
+            },
+            {
+                "from_date": "",
+                "order": "58",
+                "to_date": "",
+                "description": "OKK"
+            },
+            {
+                "from_date": "",
+                "order": "53",
+                "to_date": "",
+                "description": "Skiens FG"
+            },
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Einar Billing, Sigtuna-stiftelsen"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Freskomalerier på korets vegger og tak (Korsfestelsen, Nadverden, engler og evangelistsymboler, 1906 - 09), lysekrone (1909), glassmaleri (1915), Vålerengen kirke Oslo (alt tapt ved brann 1979)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1897",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1898",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1926",
+                "order": "8",
+                "to_date": "",
+                "title": "Nyere norsk kirkelig kunsthaandverk"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "60",
+                "to_date": "",
+                "description": "Malt selvportrett (1895, Emanuel Vigelands museum, Oslo)"
+            },
+            {
+                "from_date": "",
+                "order": "61",
+                "to_date": "",
+                "description": "gipsbyste utført av Gustav Vigeland (Vig.Museum, bronse NG og Statens Museum for Kunst, København)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Emanuel Vigeland",
+    "url": "https://nkl.snl.no/Emanuel_Vigeland",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>V. kom til Kra. i 1894, og gjennomgikk 1894-97 Den kgl. Tegneskole, samtidig som han arbeidet på egen hånd. Han utstilte sitt første maleri <em>Adam og Eva</em> på Høstutstillingen i 1897. I 1898 hadde han med tre bilder, <em>Kamp om kvinden</em>, <em>Et menneskepar</em> og en skisse til en påtenkt veggdekorasjon. Samme år reiste han til Kbh. og ble elev ved P. S. Krøyers malerskole. Her kom V. også i kontakt med Kristian Zahrtmann, men uten direkte å bli hans elev. V. fikk så Houens legat i tre år på rad og reiste til Paris, hvor han 1899-1900 var elev av salongmaleren Fernand Cormon. I de to påfølgende år foretok han en studiereise til Italia, Spania og England. I løpet av det tre år lange utenlandsoppholdet malte han de fleste bildene til sin separatutstilling i Kra. i 1902, som også ble vist samme år i Kbh. Bildene hadde titler som <em>Dommedag</em>, <em>Vita</em>, <em>Kyss</em>, <em>Kamp om kvinden</em>, og er tidstypiske så vel ved sin dystre fargeholdning som ved sin symbolsk/livsfilosoferende motivkrets. </p>\n<p>Det var imidlertid som monumentalkunstner at V. skulle komme til å gjøre seg mest gjeldende. Etter å ha malt et par større, men temmelig upersonlige fresker i Kbh. nye rådhus (1904-05) under Jens Møller-Jensens ledelse, satt han inne med de nødvendige tekniske kunnskaper til sitt første selvstendige arbeid, freskene på korets vegger og tak i Vålerengen kirke i Kra. (1906-09, ødelagt ved brann 1979), bestilt av byggets arkitekt Holger Sinding-Larsen, og bekostet ved en privat donasjon. Her hadde V. latt seg inspirere av den italienske ungrenessansens monumentalmaleri, og han foretok også en reise til Italia i 1905 med Benneches legat for å studere italiensk fresko. Et mer direkte forbilde hadde han likevel i Joakim Skovgaards fresker i Viborg domkirke (1895-1906), som han var meget opptatt av. I den ellers strengt stiliserte flatekomposisjon har V. satt inn enkelte naturalistiske trekk. Således var figurhodene i de to hovedbildene, <em>Nadverden</em> og <em>Korsfestelsen</em>, portretter, vesentlig av samtidige Kra.-prester. På bakgrunn av dette arbeidet ble V. i 1909 innbudt til å delta i konkurransen om utsmykkingen av Universitetets aula, hvor han tilslutt kom til å stå mot Edvard Munch. Men bortsett fra noen mindre takdekorasjoner i vestibylen i Universitetsbiblioteket (1913) fikk han ikke noen utsmykning av profan art. </p>\n<p>Derimot fikk det stor betydning for V. som kirkekunstner at han tidlig kom i kontakt med en gruppe prester i Kra. som gikk inn for en rikere kirkeutsmykning. De fremste var biskop Jens Tandberg, stiftsprost Gustav Jensen og presten Mikael Hertzberg. I V. så de mannen som kunne realisere deres ideer. Rundt 1907 hadde V. begynt å arbeide med glassmaleri, og på dette området gjorde han sin kanskje mest bemerkelsesverdige innsats. Sammen med Gabriel Kielland står han her som pioner i Norge, men hans produksjon har et langt mer personlig og originalt preg enn Kiellands. Dette var også grunnen til at han i 1908 ble holdt utenfor konkurransen om glassmaleriene til Trondh. domkirke. Han var ikke \"gotisk\" nok. Stilistisk er V.s glassmaleri sterkt beslektet med de engelske prerafaelittenes vinduer, blandet med art-nouveau-stilens linjeføring. Han valgte derfor gjerne motiver der han kunne trekke inn planter og trær, f.eks. lignelsene om vingårdsmannen og om den gode og dårlige sæd. Også i glassmaleriene er figurenes ansikter ofte portretter, gjerne selvportretter, i en ellers sterkt stilisert komposisjon. Når det gjelder selve teknikken, som han skulle ha tilegnet seg ved grundige studier av de franske katedralenes glassmalerier (Le Mans, Chartres og Tours), arbeidet han bevisst med en viss håndverksmessig grovhet og primitiviserende detaljer, som f.eks. mange og tilfeldige oppdelinger av ordene i bibelsitatene som han malte rundt bildene. For øvrig utmerker V.s glassmalerier seg ved sin virtuose håndverksmessige utførelse. Dette kommer tydelig fram ved å sammenligne hans første utsmykningsarbeid, glassmaleriene til korvinduene i Vår Frelsers kirke, Kra. (1909-11), med hans øvrige produksjon. Her tegnet han kartongene, mens utførelsen ble overlatt til et kunstglassmesterverksted. Disse glassmaleriene mangler fullstendig den mørke, men intense fargeglød som ellers er så typisk for V.s arbeider.</p>\n<p>I årene 1911-14 arbeidet V. med utsmykningen av koret i Bryn kirke, Bærum, bekostet av Harriet Wedel-Jarlsberg. Her stod han for utformingen av hele korets inventar. Han utførte selv glassmalerier og skulpturer i forgylt bronse, lysestaker, engler og en Kristusfigur til alteret. Dessuten tegnet han prekestolen og alteret med altertavle. I de følgende år fikk V. oppdrag i en rekke kirker, vesentlig glassmalerier, hvorav det betydeligste var glassmaleriene til alle de 24 vinduene i Borgestad kirke (1917-19) etter oppdrag av statsminister Gunnar Knudsen. Ved restaureringen av Gjerpen kirke (1919-21), utført i samarbeid med arkitekt Harald Bødtker og bekostet av kammerherre Leopold Løvenskiold, stod V. som ved Bryn kirke for utsmykningen av hele kirkens interiør. Men oppgaven var langt mer omfattende. Han gav her form til bl.a. alter, døpefont, prekestol, lysekroner, benker, dører, dørbeslag, alterduk og messehakel. Dessuten laget han til kirkens apsis landets første mosaikk, med den fortapte sønns hjemkomst som motiv. Restaureringen møtte kritikk fra antikvarisk hold på grunn av sin omfattende inngripen i den opprinnelige middelalderkirken. V. arbeidet i 1920-årene med lignende planer for Immanuelskirken i Halden, Stvg. domkirke og Stvg. bispekapell, men grunnet motstand fra antikvariske myndigheter ble disse prosjektene bare realisert i sterkt redusert form.</p>\n<p>I disse omfattende og mangeartede kirkeutsmykningene er lysekronene særlig interessante. Allerede til Vålerengen kirke hadde V. laget en korsformet, perforert taklampe med innvendig lys, en modell han senere gjentok i en rekke variasjoner. I Gjerpen kirke plasserte han lyspærene utenpå lampene, som dermed står frem som lysende kors, hjerte og anker. Denne typen nådde sitt høydepunkt i den over ett tonn tunge korsformede lysekronen til Trefoldighetskirken i Kra. (1924), med en stor engel hengende over selve lampen. I lysekronene til Stvg. domkirke (1924) er også store figurer trukket inn i komposisjonen. Det nye her er de tre lysekronene til koret, utformet som brennende tornebusker, og tett besatt med lyspærer innsatt i gjennombrutte metallkapsler. Gjennom biskop Tandberg var V. i 1916 blitt kjent med Sveriges erkebiskop Nathan Söderblom, som førte ham inn i miljøet omkring den svenske \"Folkkyrkorörelsen\", hvor hans kunst ble mottatt med stor entusiasme, og han ble etter hvert sterkt knyttet til dette svenske kirkemiljøet. Våren 1919 utstilte V. et utvalg av sine glassmalerier i Svenska Slöjdföreningen (samme år vist i Kbh.). Glassmaleriene vakte begeistring i Sthm.-pressen, og utstillingen var den direkte foranledning til at V. fikk i oppdrag å lage glassmalerier til alle de 33 vinduene i Oscarskyrkan, Sthm. med tilhørende gravkapell, hans hovedverk som glassmaler. Han stod her helt fritt i valg av billedprogram. I nordveggens fire store vinduer er Det gamle testamentets forutsigelser om Messias fremstilt i tekst og bilder. På motsatt side er Det nye testamentets dommedagsbeskrivelser og Kristi seier over djevelen behandlet på samme måte. I det store korvinduet er menneskets vei til frelse anskueliggjort ved bildet av den fortapte sønns hjemkomst. Under skipets galleri viser 24 små vinduer scener fra Det gamle og Det nye testamentet. </p>\n<p>Ønsket om å skape en syntese av det kristne budskap kommer også til uttrykk i Vestre krematorium i Oslo. Utsmykningen av dette med fresker, glassmalerier og lamper hadde begynt allerede i 1910, men ble på grunn av finansierings-vanskeligheter ikke avsluttet før i 1923. I de første freskene, hvor engler utgjør hovedmotivet, er stilen den samme som i Vålerengen kirke. Men i kuppelen (1916-23) tok V. opp motiver fra sine ungdomsbilder, og malte i en mer naturalistisk stil i alt åtte felter med fellestittelen <em>Menneskelivet i troens lys</em>. Med seg og sin familie som modeller fremstiller han et menneskepars liv fra møtet mellom de to til de etter døden blir mottatt i Guds favn. </p>\n<p>V. hadde alt i 1890-årene drømt om å utføre en livsfrise basert på motivkretsen i de bilder han da malte. Skissene til kuppelfreskene i Vestre krematorium ligger også motivmessig mye nærmere hans nittiårskunst enn de endelige utførte bildene, hvor han måtte presse motivene innenfor en kristen kontekst. Derimot peker skissene fram mot <em>Vita</em>, V.s største arbeid som freskomaler. I 1926 reiste V. en mursteinsbygning på Slemdal i Oslo (bygningen er V.s mausoleum) bestående av et eneste stort rom uten vinduer og med en meget lav dør. Tak og vegger i dette rommet ble i årene 1927-47 fylt med et mylder av figurer malt i få og mørke farger. Under arbeidet ble det gang på gang gjort omfattende forandringer. På fondveggen skildres forholdet mellom mann og kvinne i et stort livshjul med en fødselsscene fremstilt som en av mannen utført skaperakt som det sentrale motiv. Den ene langveggen dekkes av kopulerende par, mens motstående vegg er viet mor-barn-motiver og har åpenbart kvinnelig fruktbarhet som sitt tema. På inngangsveggen er en foster/spedbarnsmonolitt satt inn over et skjelettpar, under hvilken kunstnerens urne befinner seg. Det er tydelig at <em>Vita</em> er å oppfatte som en parafrase over kunstnerens skapende situasjon. </p>\n<p>De offentlige oppdrag V. fikk de siste tyve år av sitt liv var for det meste glassmalerier. Det mest spektakulære var et 13,5 meter høyt glassmaleri til et korvindu i Århus domkirke (1925-26), med Kristus korsfestet til livets tre og den seirende Kristus som motiv. I løpet av første halvdel av 1930-årene laget V. glassmalerier til i alt åtte vinduer i Lund domkirke. De tre siste (1935, i koret) er holdt i varme, søtlige farger, en tendens som går igjen i hans senere arbeider. Motivene er hentet fra historien om Adam og Eva, men bildene er med sin erotiske undertone sterkt beslektet med freskene i Vestre krematorium, og enda mer med <em>Vita</em>. Det forelå også planer for flere av kirkens vinduer, men disse ble det aldri noe av på grunn av motstand fra forskjellig hold. Det mest omfattende oppdrag V. fikk på sine eldre dager var glassmaleriene til Uranienborg kirke, Oslo, hvor V. imidlertid ikke selv rakk å utføre alle vinduene. Til denne kirken leverte han også en altertavle i mosaikk. V. arbeidet også med omfattende planer for Uppsala domkirke på erkebiskop Söderbloms initiativ, men disse ble avbrutt på et forberedende stadium ved Söderbloms død i 1931. </p>\n<p>Skulptur inngikk ofte i V.s større utsmykningsoppdrag. Disse skulpturer ligger i form så vel som i motivvalg tett opp til hans glassmaleri. Hans største skulpturarbeid er fontenen til Nygårdsparken, Bergen (oppsatt 1920) med jomfruen og enhjørningen som motiv. Et unntak danner de naturalistiske skulpturgruppene til mausoleet, der både form og motivvalg er nært beslektet med freskene på veggene. Her har åpenbart broren Gustavs arbeid til Frognerparken vært det store forbildet. Ved siden av sine monumentale arbeider har V. laget mange glimrende portretter, vesentlig av svenske og norske prester. Mest kjent er hans store maleri av <em>Nathan Söderblom</em> i fullt erkebiskoplig skrud, tegningen av stiftsprost <em>Gustav Jensen</em> på vei opp til prekestolen og de to portrettene av statsminister <em>Gunnar Knudsen</em> til rors. </p>\n<p>V.s produksjon kan deles i to hovedgrupper både motivmessig og stilistisk, en naturalistisk med vitalistisk livs-syntetiserende motivkrets, som i hans nittiårs-bilder samt kuppelfreskene i Krematoriet og <em>Vita</em>, og en annen med religiøse motiver, hvor stilen er inspirert av kristen middelalderkunst, ungrenessanse og prerafaelisme. Den førstnevnte utvikler seg fra en tysk jugend-påvirket stil (nittiårs-maleri og kuppelfreskene i krematoriet) mot kraftigere former i <em>Vita</em>s fresker og skulpturer, skjønt uten å gi slipp på nittiårs-symbolismens motivkrets. De religiøse arbeidene derimot fikk sin endelige form på et tidlig tidspunkt og videreutvikles i hovedsaken ikke. Viktig er det også å merke seg at alle hans monumentalmalerier, på glass så vel som på mur, tenderer mot flatekunst, der romskapende virkemidler brukes i liten utstrekning eller er helt utelatt. Altså en bevisst vilje til å underordne maleriet den arkitektur det befinner seg i. V. gjorde en pionér-innsats i Norge innenfor freskomaleri, glassmaleri og mosaikk. Hans glassmaleri vakte internasjonal oppsikt i sin samtid, og er utvilsomt blant det beste som er frembrakt på området.</p>\n</div>",
+    "created_at": "2014-12-21T14:32:05.914+01:00",
+    "changed_at": "2024-06-18T23:28:17.569+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3913\",\"https://digitaltmuseum.no/57bb80f6-f694-4873-bc35-17e804e666f4\",\"http://kulturnav.org/57bb80f6-f694-4873-bc35-17e804e666f4\"]",
+        "lastname": "Vigeland",
+        "firstname": "Emanuel",
+        "birth_date": "2.12.1875",
+        "birthplace": "Halse ved Mandal",
+        "death_date": "22.12.1948",
+        "external_id": "person_8736ab3913",
+        "kulturnav_id": "57bb80f6-f694-4873-bc35-17e804e666f4",
+        "place_of_death": "Oslo",
+        "alternative_names": "Vigeland, Emanuel August"
+    },
+    "authors": [
+        {
+            "full_name": "Lau Albrektsen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20706/standard_NMK-B_NG.M.0421220151204-26003-8b9cbt.jpg",
+            "full_size_url": "https://media.snl.no/media/20706/NMK-B_NG.M.0421220151204-26003-8b9cbt.jpg",
+            "xhtml": "<div><p><i>Pike i apotek</i>. <a href=\"http://digitaltmuseum.no/011041109163\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Emanuel Vigeland",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20707/standard_NMK-B_NMK.2004.002720151204-26003-1xjp9n6.jpg",
+            "full_size_url": "https://media.snl.no/media/20707/NMK-B_NMK.2004.002720151204-26003-1xjp9n6.jpg",
+            "xhtml": "<div><p><i>Elskende par</i>. <a href=\"http://digitaltmuseum.no/011041474215\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Emanuel Vigeland",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20708/standard_NMK-B_NMK.2004.002820151204-26003-u140k5.jpg",
+            "full_size_url": "https://media.snl.no/media/20708/NMK-B_NMK.2004.002820151204-26003-u140k5.jpg",
+            "xhtml": "<div><p><i>Elskende par</i>. <a href=\"http://digitaltmuseum.no/011041474219\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Emanuel Vigeland",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

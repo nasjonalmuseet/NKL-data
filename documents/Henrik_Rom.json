@@ -1,0 +1,1285 @@
+{
+    "id": 430275,
+    "headword": "Henrik Rom",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Bror av",
+                "external_id": "person_8736ab3278",
+                "birth_date": "27.11.1903",
+                "death_date": "01.10.1985",
+                "firstname": "Per",
+                "lastname": "Rom",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106679",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Peder Hans",
+                "lastname": "Rom",
+                "professions": [
+                    "kjøpmann"
+                ]
+            },
+            {
+                "from_date": "1916",
+                "to_date": "1962",
+                "type": "Gift med",
+                "external_id": "person_8736ab106681",
+                "birth_date": "1888",
+                "death_date": "",
+                "firstname": "Margit",
+                "lastname": "Aarberg",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106680",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karoline",
+                "lastname": "Bogstad",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Oslo under Chr. Krohg 1912–13",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Kristiania under Wilhelm Holter, Johan Nordhagen og Eivind Nielsen 1911–12",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "3",
+                "description": "Opphold i København, Tyskland og England 1907–10"
+            },
+            {
+                "order": "0",
+                "description": "Finnes legat 1914"
+            },
+            {
+                "order": "1",
+                "description": "Schäffers legat 1916"
+            },
+            {
+                "order": "2",
+                "description": "Conrad Mohrs stipend 1918"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Skien Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Bodø Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Christianssand Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1918",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1919",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "11",
+                "to_date": "",
+                "title": "Jubileumsutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1915",
+                "order": "12",
+                "to_date": "",
+                "title": "norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "4",
+                "to_date": "1917",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1912",
+                "order": "5",
+                "to_date": "",
+                "title": "De unge"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1913",
+                "order": "6",
+                "to_date": "",
+                "title": "De unge"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1970",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1916",
+                "order": "10",
+                "to_date": "",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1914",
+                "order": "7",
+                "to_date": "",
+                "title": "De frie unge"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1915",
+                "order": "9",
+                "to_date": "",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1914",
+                "order": "8",
+                "to_date": "",
+                "title": "Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1915",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "San Francisco",
+                "from_date": "1915",
+                "order": "13",
+                "to_date": "",
+                "title": "norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nasjonalgalleriet, Oslo",
+                "from_date": "1947",
+                "order": "16",
+                "to_date": "",
+                "title": "Oslo sett med malerøyne"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1916",
+                "order": "15",
+                "to_date": "",
+                "title": "Juleutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Valand Göteborg",
+                "from_date": "1915",
+                "order": "14",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Byste utført av Astrid Kraft (1912)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "tegning utført av øyvind Sørensen (1916) gjengitt i Verdens Gang12.10.1916"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Kunstnerforbundet, Oslo 1970"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "selvportrett gjengitt i Revold, R.: Norges billedkunst, Oslo 1953, bd. 2, s. 61"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "selvportrett gjengitt i katalog minneutstilling"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "selvportrett (privat eie)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1918",
+                "order": "1",
+                "reference": "s. 18 (ill.)",
+                "to_date": "",
+                "description": "Tegneforbundets Aarshefte",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "9",
+                "reference": "s. 49, 57",
+                "to_date": "",
+                "description": "På arbeid",
+                "place": "Oslo",
+                "authors": [
+                    "Nygård-Nilssen, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "14",
+                "reference": "s. 97, 103 (ill.)",
+                "to_date": "",
+                "description": "Byen vår i kunsten, Kunst og Kultur",
+                "authors": [
+                    "Gran, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "23",
+                "reference": "s. 179",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-23",
+                "order": "39",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Ukens Revy",
+                "place": "(Kristiania",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-03-12",
+                "order": "70",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": [
+                    "Lone, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-12-08",
+                "order": "33",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-10-17",
+                "order": "42",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "18",
+                "reference": "bd. 2, register (ill.)",
+                "to_date": "",
+                "description": "Molde byhistorie",
+                "place": "Molde",
+                "authors": [
+                    "Seve, N. de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-11",
+                "order": "37",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-15",
+                "order": "74",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-05",
+                "order": "66",
+                "to_date": "",
+                "description": "iTidens Tegn",
+                "authors": [
+                    "Abrahamsson, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "5",
+                "reference": "nr. 3 s. 5–9 (ill.)",
+                "to_date": "",
+                "description": "Henrik Rom, Tegneforbundets Aarshefte",
+                "place": "(Kristiania",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-10-12",
+                "order": "47",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-04",
+                "order": "63",
+                "to_date": "",
+                "description": "i Romsdalspalte",
+                "authors": [
+                    "Holm, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-11-01",
+                "order": "57",
+                "to_date": "",
+                "description": "i Ukens Revy",
+                "place": "(Kristiania",
+                "authors": [
+                    "Norup-Eliasen, Th."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-10-15",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Social-Demokraten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-03",
+                "order": "59",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912-06-18",
+                "order": "27",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [
+                    "Aviser"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "10",
+                "reference": "bd. 28, s. 539",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "6",
+                "reference": "s. 29",
+                "to_date": "",
+                "description": "Nordisk konstbibliografi",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-15",
+                "order": "49",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "15",
+                "reference": "bd. 11, s. 533–34",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "22",
+                "reference": "bd. 9, s. 59",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-10-12",
+                "order": "41",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-03-10",
+                "order": "69",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-11-04",
+                "order": "32",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-10-10",
+                "order": "40",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-13",
+                "order": "73",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i katalog minneutstilling Christiania Kunstforening",
+                "authors": [
+                    "Lone, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-12-21",
+                "order": "36",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Harbitz, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-05",
+                "order": "65",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-10",
+                "order": "67",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Fangen, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-10-03",
+                "order": "46",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-10-25",
+                "order": "56",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-04",
+                "order": "64",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen, B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-03",
+                "order": "60",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-10-19",
+                "order": "31",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-10-22",
+                "order": "50",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1984",
+                "order": "26",
+                "reference": "s. 469, 551",
+                "to_date": "",
+                "description": "Oslo. Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "0",
+                "reference": "s. 5 (ill.)",
+                "to_date": "",
+                "description": "Tegneforbundets Aarshefte",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "7",
+                "reference": "bd. 2, s. 350, 570",
+                "to_date": "",
+                "description": "i Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1945",
+                "order": "11",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Kvinneportretter i norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Gran, H.",
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "25",
+                "reference": "bd. 6, s. 146–47 (ill.)",
+                "to_date": "",
+                "description": "i Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Nergaard, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-19",
+                "order": "78",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Brun, H.-J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "16",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-03-23",
+                "order": "72",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-10-07",
+                "order": "35",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Wentzel, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "21",
+                "reference": "s. 119 (ill.)",
+                "to_date": "",
+                "description": "R. E. Stenersens gave til Oslo by",
+                "place": "Oslo",
+                "authors": [
+                    "Eggum, A."
+                ],
+                "comments": [
+                    "Akerssamlingen"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-10",
+                "order": "68",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Ukens Revy",
+                "place": "(Kristiania",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "3",
+                "reference": "s. 89, 128",
+                "to_date": "",
+                "description": "Tidskrift för konstvetenskap",
+                "place": "Stockholm",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-04",
+                "order": "61",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-04",
+                "order": "55",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "20",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-15",
+                "order": "77",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Michelet, J. F."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "8",
+                "reference": "s. 331–33",
+                "to_date": "",
+                "description": "Studentene fra 1907",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Oslo sett med malerøyne",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "katalog Nasjonalgalleriet"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-27",
+                "order": "51",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Onsager, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-10-06",
+                "order": "45",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Ukens Revy",
+                "place": "(Kristiania",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-03-07",
+                "order": "30",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-03-22",
+                "order": "71",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Urd",
+                "place": "(Kristiania",
+                "authors": [
+                    "Ring, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "24",
+                "reference": "bd. 10, s. 67",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "17",
+                "reference": "s. 45, 143–44",
+                "to_date": "",
+                "description": "Streiftog og glimt",
+                "place": "Oslo",
+                "authors": [
+                    "Mæhle, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-03-03",
+                "order": "34",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Wentzel, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Kristiania",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-10-20",
+                "order": "53",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-15",
+                "order": "75",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-15",
+                "order": "76",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Refsum, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "s. 124, 240-41",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-03",
+                "order": "48",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-10-22",
+                "order": "54",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": [
+                    "Gauguin, Pola"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-04",
+                "order": "62",
+                "to_date": "",
+                "description": "i Romsdals Budstikke",
+                "authors": [
+                    "Sand, A. O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-18",
+                "order": "38",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "13",
+                "reference": "s. 26 (ill.)",
+                "to_date": "",
+                "description": "Oslo Bymuseum. Fra dets samlinger 2",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-06-15",
+                "order": "28",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-10-19",
+                "order": "52",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Bang, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-10-09",
+                "order": "29",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-01-03",
+                "order": "58",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Abrahamsson, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-10-22",
+                "order": "44",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Ukens Revy",
+                "place": "(Kristiania",
+                "authors": [
+                    "Øverland, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Henrik Rom",
+    "url": "https://nkl.snl.no/Henrik_Rom",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter artium 1907 ble R. sendt til utlandet for å lære skotøyfabrikasjon, men brøt over tvert og reiste hjem for å utdanne seg som maler. På Kunstakademiet mottok han sterke inntrykk av Chr. Krohg. Han viste sitt første bilde, en 17. mai-skisse fra Stortorvet, på utstillingen De unge i Kunstforeningen 1912. Fra samme år er portrettet av søsteren, billedhuggeren Astrid Kraft. I 1912 ble R. innlagt på Reknes sanatorium, Molde og her begynte han for alvor å male, dels landskaper og partier fra Molde og omegn, dels studier av medpasienter. Et bilde av en mann ved en sykeseng (1912) har atskillig av Krohgs maleriske stil og vitner samtidig om evne til menneskelig innføling. <em>Syk pike</em> (Nasjonalgalleriet, Oslo) og <em>Tæringssyk</em> (utstilling 1913) er fra samme tid. Dette siste bildet var han også representert med på Jubileumsutstillingen 1914, og Thiis, J. skrev ved hans død: \"det er ikke vanskelig at se paa dette billede med det voksgule ansigt i puterne og uldteppet med den cinoberrøde rand, hvem som havde været hans lærer\". R. debuterte på Høstutstillingen 1913 med <em>Clara</em>, et dameportrett i blått. Stor oppmerksomhet vakte han med sine 6 bilder på De frie unge hos Blomqvists Kunsthandel, Oslo i mars 1914, deriblant <em>Syk gutt</em>. Han kom om høsten dette året tilbake til Kristiania, og i sine fire siste leveår hadde han en stor og lettflytende produksjon av ujevn kvalitet, lysere og lettere i tonen enn i de tidlige bildene. I sin bredt antydende, litt løse stil nærmet han seg senimpresjonistene, først og fremst Henrik Lund. Men særlig i utkast og skisser kunne han vise ekspresjonistiske drag. R. malte nå vesentlig portretter, landskaper og bybilder. Vi merker oss bilder av diktere og litterater som <em>Sigurd Bødtker</em> (1915, Nasjonalgalleriet), <em>Arnulf Øverland</em> (1914–15), <em>Herman Wildenvey</em> (1917–18) og <em>På solsiden</em> (Herman og Gisken W. på gaten), av skuespillere som <em>Erna Schøyen</em> og <em>Stub Wiberg</em> i rollebilde som Erasmus Montanus, og av den finske pianistinne <em>Pia Ravenna</em> (1918), et staselig helfigursportrett. Gruppen med de to unge bohemer, <em>So lebt man</em> (Trøndelag Kunstgalleri), er et hovedverk i sin fint samstemte koloritt. I sine landskapsbilder hentet han nå mest sine emner fra Østlandet, særlig Aurdal i Valdres der han eide et hus. Men vi finner også motiver fra bl.a. Oslofjorden, Vestfold, Gudbrandsdalen. Helst malte han likevel sin fødeby i tallrike bilder fra Karl Johan og Stortingsgaten, Jernbanetorget (to slike bilder i Oslo Bymuseum), Piperviken og Tøyen, Slottsparken og Drammensveien. Han hadde stor suksess med sine separatutstillinger i Kunstnerforbundet, Oslo 1915 og -18 og planla å reise til Paris med Mohrs stipend da han bukket under for spanskesyken.</p></div>",
+    "created_at": "2014-11-20T12:27:50.928+01:00",
+    "changed_at": "2024-06-18T23:27:53.866+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3277\",\"https://digitaltmuseum.no/f00e2fec-5ccf-4eff-a336-c98c5904fbd6\",\"http://kulturnav.org/f00e2fec-5ccf-4eff-a336-c98c5904fbd6\"]",
+        "lastname": "Rom",
+        "firstname": "Henrik",
+        "birth_date": "28.10.1887",
+        "birthplace": "Kristiania",
+        "death_date": "2.1.1919",
+        "external_id": "person_8736ab3277",
+        "kulturnav_id": "f00e2fec-5ccf-4eff-a336-c98c5904fbd6",
+        "place_of_death": "Kristiania"
+    },
+    "authors": [
+        {
+            "full_name": "Leif Østby"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20455/standard_NMK-B_NG.M.0121020151204-26003-1jvvhz8.jpg",
+            "full_size_url": "https://media.snl.no/media/20455/NMK-B_NG.M.0121020151204-26003-1jvvhz8.jpg",
+            "xhtml": "<div><p><i>Syk pike</i>. Henrik Rom. <a href=\"http://digitaltmuseum.no/011041107916\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Henrik Rom",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20456/standard_NMK-B_NG.M.0121120151204-26003-162ek8b.jpg",
+            "full_size_url": "https://media.snl.no/media/20456/NMK-B_NG.M.0121120151204-26003-162ek8b.jpg",
+            "xhtml": "<div><p><i>Vinter i fjellet</i>. Henrik Rom. 1915. <a href=\"http://digitaltmuseum.no/011041107917\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Henrik Rom",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20457/standard_NMK-B_NG.M.0229520151204-26003-1qtg0gy.jpg",
+            "full_size_url": "https://media.snl.no/media/20457/NMK-B_NG.M.0229520151204-26003-1qtg0gy.jpg",
+            "xhtml": "<div><p><i>Sigurd Bødtker</i>. Henrik Rom. 1915. <a href=\"http://digitaltmuseum.no/011041108470\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Henrik Rom",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

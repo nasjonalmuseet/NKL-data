@@ -1,0 +1,112 @@
+{
+    "id": 430935,
+    "headword": "Erna Thue",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107825",
+                "birth_date": "1873",
+                "death_date": "1968",
+                "firstname": "Lydia",
+                "lastname": "Bautler",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab107826",
+                "birth_date": "1874",
+                "death_date": "1959",
+                "firstname": "Frithjof",
+                "lastname": "Thue",
+                "professions": [
+                    "tannlege"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107824",
+                "birth_date": "1860",
+                "death_date": "1935",
+                "firstname": "Thorvald",
+                "lastname": "Holm",
+                "professions": [
+                    "hattemaker"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo",
+                "order": "0"
+            },
+            {
+                "comment": "elev av Anders C. Svarstad og Torstein Torsteinson",
+                "order": "1"
+            }
+        ],
+        "travels": [],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "0",
+                "to_date": "1939",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Erna Thue",
+    "url": "https://nkl.snl.no/Erna_Thue",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div></div>",
+    "created_at": "2014-12-19T16:00:33.490+01:00",
+    "changed_at": "2024-06-18T23:28:10.588+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3857\",\"https://digitaltmuseum.no/9f724fdf-6747-4475-b225-21cea57eb152\",\"http://kulturnav.org/9f724fdf-6747-4475-b225-21cea57eb152\"]",
+        "lastname": "Thue",
+        "firstname": "Erna",
+        "birth_date": "5.8.1909",
+        "birthplace": "Kristiania",
+        "external_id": "person_8736ab3857",
+        "kulturnav_id": "9f724fdf-6747-4475-b225-21cea57eb152",
+        "alternative_names": "Thue, Erna"
+    },
+    "authors": [
+        {
+            "full_name": " Norsk kunstnerleksikon"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

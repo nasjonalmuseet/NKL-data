@@ -1,0 +1,427 @@
+{
+    "id": 430317,
+    "headword": "Edvard Rosén",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab108764",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bodil",
+                "lastname": "Bore",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106696",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragna",
+                "lastname": "Olsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106695",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Axel",
+                "lastname": "Rosén",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Nøtterøy"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Arkitekthøyskolen i Oslo 1964-70",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Halvdan Ljøsne og Ludvig Eikaas 1973-77",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "1",
+                "description": "Bildende Kunstneres Styre materialstipend 1982"
+            },
+            {
+                "order": "4",
+                "description": "Mexico 1979"
+            },
+            {
+                "order": "3",
+                "description": "Frankrike 1972, -73, -77"
+            },
+            {
+                "order": "0",
+                "description": "Houens legat 1979"
+            },
+            {
+                "order": "2",
+                "description": "Studiereiser i Italia 1966, -73, -76, -82"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "4",
+                "description": "Vestfold Bildende Kunstnere"
+            },
+            {
+                "order": "3",
+                "description": "Landsforeningen Norske Malere"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Unge Kunstneres Samfunn, nestformann 1973-74"
+            },
+            {
+                "order": "0",
+                "description": "NAVF vit. ass. stipend Statens Kunstakademi, Oslo 1980-81"
+            },
+            {
+                "order": "1",
+                "description": "NAVF høgskolestipend ved Statens Håndverks og Kunstindustriskole, Oslo 1983"
+            }
+        ],
+        "awards": [
+            {
+                "order": "2",
+                "description": "Ellingsrudåsen T-banestasjon 1978"
+            },
+            {
+                "order": "0",
+                "description": "Premiert i konkurranser om utsmykning av lokket ved Regjeringsbygget 1972"
+            },
+            {
+                "order": "3",
+                "description": "Sande skole i Vestfold 1980"
+            },
+            {
+                "order": "1",
+                "description": "Osloskolene 1976"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Utsmykning i Haugen skole, Oslo (1981)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1984",
+                "order": "16",
+                "to_date": "",
+                "title": "Vestfoldutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1982",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1976",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Frederikshavn Kunstnerhus",
+                "from_date": "1980",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Ås Kunstforening",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Antika, Tønsberg",
+                "from_date": "1979",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Antika, Tønsberg",
+                "from_date": "1982",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "12",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Landsforeningen Norske Malere",
+                "from_date": "1979",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drøbak Kunstforening",
+                "from_date": "1975",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Unge Kunstneres Samfunn",
+                "from_date": "1970",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "9",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1971",
+                "order": "7",
+                "to_date": "1972",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1972",
+                "order": "10",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1983",
+                "order": "8",
+                "to_date": "",
+                "title": "Sørlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "11",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfunn Vårutstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1981",
+                "order": "8",
+                "to_date": "",
+                "description": "Norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "7",
+                "reference": "s. 30",
+                "to_date": "",
+                "description": "Norsk maleri 70-tallet",
+                "place": "Oslo",
+                "authors": [
+                    "Johnsrud, E. H. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-20",
+                "order": "1",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Kyllingstad, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "4",
+                "reference": "s. 188",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-24",
+                "order": "3",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": [
+                    "Woll, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-22",
+                "order": "2",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Eggum, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "5",
+                "reference": "s. 120",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-09-14",
+                "order": "10",
+                "to_date": "",
+                "description": "i Tønsbergs Blad",
+                "authors": [
+                    "Øydvin, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-01-07",
+                "order": "0",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-01-17",
+                "order": "6",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-03-12",
+                "order": "9",
+                "to_date": "",
+                "description": "i østlandspalte",
+                "authors": [
+                    "Hansen, K. R."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Edvard Rosén",
+    "url": "https://nkl.snl.no/Edvard_Ros%C3%A9n",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>R.s kunst er preget av søken innen flere retninger i samtidskunsten. I 60-årene malte han nonfigurative geometriske komposisjoner, bygd på erfaringer som arkitekt. Etter hvert gjorde også en innflytelse fra pop-art seg gjeldende. På sin debututstilling i Unge Kunstneres Samfunn 1970 viste R. foruten opmalerier og assemblager et bilde der navnet Karl Marx var skrevet i små, røde bokstaver på et hvitt lerret. I 70-årene malte R. i et enkelt, sosialrealistisk formspråk. Forslaget til utsmykking av Ellingsrudåsen T-banestasjon, De som bygde T-banen (1978), viser arbeidere i silhuett på marsj. R. malte også akvareller med landskapsmotiver og portretter av arbeidere. I 80-årene har han videreført sine formeksperimenter og utført shaped-canvases med ekspressiv bemaling og malerier preget av den italienske trans-avantgardisme.</p></div>",
+    "created_at": "2014-11-20T12:50:28.035+01:00",
+    "changed_at": "2024-06-18T23:27:54.910+02:00",
+    "license_name": "fri",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3282\",\"https://digitaltmuseum.no/873a1007-257f-42ba-9ffe-0fc3dc723a6d\",\"http://kulturnav.org/873a1007-257f-42ba-9ffe-0fc3dc723a6d\"]",
+        "lastname": "Rosén",
+        "firstname": "Edvard",
+        "birth_date": "11.6.1942",
+        "birthplace": "Kristiansand",
+        "external_id": "person_8736ab3282",
+        "kulturnav_id": "873a1007-257f-42ba-9ffe-0fc3dc723a6d"
+    },
+    "authors": [
+        {
+            "full_name": "Øivind Storm Bjerke"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

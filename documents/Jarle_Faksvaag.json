@@ -1,0 +1,397 @@
+{
+    "id": 414538,
+    "headword": "Jarle Faksvaag",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102060",
+                "birth_date": "1902",
+                "death_date": "",
+                "firstname": "Karl",
+                "lastname": "Faksvåg",
+                "professions": [
+                    "båtbygger"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102061",
+                "birth_date": "1907",
+                "death_date": "",
+                "firstname": "Hanna",
+                "lastname": "Johansen",
+                "professions": []
+            },
+            {
+                "from_date": "1975",
+                "type": "Gift med",
+                "external_id": "person_8736ab102062",
+                "birth_date": "1952",
+                "death_date": "",
+                "firstname": "Bjørg",
+                "lastname": "Stemre",
+                "professions": [],
+                "place": "Oslo"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens lærerskole i forming, Notodden tegnelinjen 1964-65 og metallinjen 1967–68 under grafikeren Atle Færøy, stipendiat samme sted 1968–69",
+                "order": "1"
+            },
+            {
+                "comment": "studier i kunsthistorie i 2 år ved Folkeuniversitetet på Notodden",
+                "order": "2"
+            },
+            {
+                "comment": "kortere sommerkurs i forming i Holbæk, Danmark",
+                "order": "3"
+            },
+            {
+                "comment": "Nesna Lærerskole 1963",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "6",
+                "description": "Hellas 1978"
+            },
+            {
+                "order": "1",
+                "description": "Finland 1970"
+            },
+            {
+                "order": "0",
+                "description": "Studiereiser i sommerferiene til Italia 1965 og -69"
+            },
+            {
+                "order": "3",
+                "description": "Nederland 1972"
+            },
+            {
+                "order": "4",
+                "description": "Spania 1973"
+            },
+            {
+                "order": "5",
+                "description": "England 1976"
+            },
+            {
+                "order": "2",
+                "description": "Finland, Sverige og Danmark 1971"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "3",
+                "description": "Lærer i Askim og Bergen"
+            },
+            {
+                "order": "4",
+                "description": "lektor ved Statens lærerskole i forming, Notodden 1969–72 og ved Halden lærerskole fra 1972"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Gruppe 10, Halden"
+            },
+            {
+                "order": "1",
+                "description": "Medlem av Unge Kunstneres Samfund"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Lærerhøgskolen, Reykjavik"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Østfold fylke og Moss kulturstyre"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Halden politikammer"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Halden Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Nesna lærerskole"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiansand",
+                "from_date": "1975",
+                "order": "10",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfund Vårutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Halden Kunstforening",
+                "from_date": "1973",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Fredrikstad og Moss",
+                "from_date": "1977",
+                "order": "12",
+                "to_date": "",
+                "title": "Østfold Bildende Kunstneres utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1976",
+                "order": "11",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfund Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Halden",
+                "from_date": "1973",
+                "order": "7",
+                "to_date": "",
+                "title": "Østfoldkunst"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Moss Kunstgalleri",
+                "from_date": "1974",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1975",
+                "order": "5",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Notodden Kunstforening",
+                "from_date": "1979",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Halden Kunstforening",
+                "from_date": "1978",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "title": "Telemark Vårutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Årjäng Konstförening, Sverige",
+                "from_date": "1978",
+                "order": "15",
+                "to_date": "",
+                "title": "Østfold Bildende Kunstneres utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Moss og Fredrikstad",
+                "from_date": "1979",
+                "order": "16",
+                "to_date": "",
+                "title": "Østfoldutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sarpsborg Kunstforening",
+                "from_date": "1975",
+                "order": "1",
+                "to_date": "",
+                "title": "Unge Kunstneres Samfund"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Modum Kunstforening",
+                "from_date": "1976",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1974",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "(Sarpsborg)",
+                "from_date": "1977",
+                "order": "14",
+                "to_date": "1978"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "F. har laget seks selvportretter: et i steingods (1974–75), tre i olje (hvorav to fra 1978), en tegning og en streketsing"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1963",
+                "order": "0",
+                "to_date": "",
+                "description": "Mosaikk",
+                "place": "Oslo",
+                "authors": [
+                    "Faksvåg, Jarle Margido"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1975-10-16",
+                "order": "1",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-11-01",
+                "order": "4",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "5",
+                "reference": "s. 57",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-11-01",
+                "order": "3",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975-10-28",
+                "order": "2",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Jarle Faksvaag",
+    "url": "https://nkl.snl.no/Jarle_Faksvaag",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>F. betegner seg selv som selvlært kunstner. Først under Færøy begynte han med metalltrykk. F. flyttet til Halden i 1972 og stilte alt neste år ut grafikk, skulptur og maleri. Utstillingen var preget av hans tekniske allsidighet og en stadig bearbeidelse av et hovedtema i serier, eks. <em>Suite Poetica</em> (1973) og <em>Forvandlinger</em> (1972–75). I den sistnevnte brukes teknikker som linoleumssnitt, litografi, steingods og brent leire. F. er her tematisk fasinert av stadiet der formen blir til \"på en måte midt mellom egget og fuglen\". I serien <em>Om å skjule seg</em> (1974–75) viser F. seg som satirisk surrealist, med røtter tilbake til Magritte og Chagall, foruten innflytelse fra de svenske surrealister Endre Nemes og Max Walter Svanberg. Som en egen gruppe står oljemaleriene i lasurteknikk, mange med temperagrundering, f.eks. <em>Bilder fra poetens magiske liv</em> (1977–78). Bildene er minutiøse, tette og holdt i en egen drømmeblå tone. Enkelte av bildene er i miniatyrformat og meget dekorative i sin emaljevirkning. Landskapsopplevelser får komme fram i F.s akvareller, mens han i tegning og høytrykk avbilder pittoreske sider ved Halden by (1975 og -79). F. har beveget seg fra en strengere, mer abstrakt formgivning i begynnelsen av 1970-tallet over i det utpreget figurative med surrealistiske trekk. Han må karakteriseres som allsidig både teknisk og når det gjelder valg av motiv. Ofte bearbeider han temaene parallelt, og veksler fra de detaljerte og tidkrevende tegninger, grafiske blad og malerier til raske akvareller og skulpturenes og relieffenes tre dimensjoner.</p></div>",
+    "created_at": "2013-06-09T16:40:15.482+02:00",
+    "changed_at": "2024-06-18T23:25:20.351+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1011\",\"https://digitaltmuseum.no/c9f5bfea-18c7-4daa-bde5-c4edbc07c6e6\",\"http://kulturnav.org/c9f5bfea-18c7-4daa-bde5-c4edbc07c6e6\"]",
+        "lastname": "Faksvaag",
+        "firstname": "Jarle",
+        "birth_date": "22.8.1935",
+        "birthplace": "Tingvoll, Møre og Romsdal",
+        "death_date": "0.0.2008",
+        "external_id": "person_8736ab1011",
+        "kulturnav_id": "c9f5bfea-18c7-4daa-bde5-c4edbc07c6e6",
+        "alternative_names": "Faksvaag, Jarle Margido"
+    },
+    "authors": [
+        {
+            "full_name": "Unni Nøding"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

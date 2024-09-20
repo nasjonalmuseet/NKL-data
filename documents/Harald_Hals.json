@@ -1,0 +1,917 @@
+{
+    "id": 416344,
+    "headword": "Harald Hals",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab102834",
+                "birth_date": "1878",
+                "death_date": "1948",
+                "firstname": "Elsa Margaretha",
+                "lastname": "Ørbom",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102832",
+                "birth_date": "1841",
+                "death_date": "1920",
+                "firstname": "Olaf Nicolai",
+                "lastname": "Hals",
+                "professions": [
+                    "sorenskriver"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102833",
+                "birth_date": "1849",
+                "death_date": "1932",
+                "firstname": "Emilie",
+                "lastname": "Sandberg",
+                "professions": []
+            },
+            {
+                "from_date": "1949",
+                "type": "Gift med",
+                "external_id": "person_8736ab102835",
+                "birth_date": "1883",
+                "death_date": "",
+                "firstname": "Ingeborg",
+                "lastname": "Welhaven",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "licenseksamen fra statsuniversitetet i Champain, Illinois USA 1906",
+                "order": "3"
+            },
+            {
+                "comment": "Kungl. tekniska Högskolan i Stockholm 1900",
+                "order": "2"
+            },
+            {
+                "comment": "Königlich Technische Hochschule, Berlin-Charlottenburg 1898",
+                "order": "1"
+            },
+            {
+                "comment": "Den kgl. Tegneskole",
+                "order": "0"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "En rekke tillitsverv i Oslo Arkitektforening og Norske Arkitekters Landsforbund, bl.a. formann Oslo Arkitektforening 1927-29 og 1935-36 og formann Norske Arkitekters Landsforbund 1938-46"
+            },
+            {
+                "order": "7",
+                "description": "medlem av en rekke andre komiteer og konkurransejuryer"
+            },
+            {
+                "order": "2",
+                "description": "formann i Norsk Forening for Boligreformer fra 1929"
+            },
+            {
+                "order": "5",
+                "description": "formann Norske bygningstekniske komité i Stockholm 1944-45"
+            },
+            {
+                "order": "3",
+                "description": "formann i Norsk Avdeling av Nordisk Bygningsdags permanente Komité i Stockholm 1933-46"
+            },
+            {
+                "order": "6",
+                "description": "formann i Sambandet Norge-Sovjetunionen 1945-48, deretter æresmedlem"
+            },
+            {
+                "order": "4",
+                "description": "korresponderende medlem av Dansk Akademisk Arkitektforening fra 1939"
+            },
+            {
+                "order": "1",
+                "description": "formann i Oslo reguleringsråd 1928-47"
+            }
+        ],
+        "awards": [
+            {
+                "order": "2",
+                "description": "R. svenske Nordstjerneorden"
+            },
+            {
+                "order": "1",
+                "description": "R1 svenske Vasaorden"
+            },
+            {
+                "order": "0",
+                "description": "R1 St. Olavs Orden"
+            }
+        ],
+        "public_productions": [],
+        "performed_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Gimlekomplekset, Bygdøy allé 34 og 38 sammen med Harald Aars (1915-18)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Ila I, Fougstads gt. 24-34 og Herman Foss gt. 21-29 (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Ila II a, Fougstads gt. 27-51 (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Gimle terrasse 2-4, 6-8 (1912)"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "byplan for Brevik (1952)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Ila III, Colletts gt. 53-79 (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Kirkevn. 159, 175-183 (1910-20)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Ullevål Hageby sm.m. Oscar Hoff (1917-20)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "regionalplan for Eidanger (1948)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Ila II b, Uelands gt. 26-52 (1927)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Nordre Åsen, omfatter Brettevilles gt. 18-24 og 29-33, Hans Nielsen Hauges gt. 32-42, Knud Graahs gt. 1-8, Kyrre Grepps gt. 2-14, Thygesons gt. 1-17 (1925–27)"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Uelands gt. 56-60 (1928). Prosjekter: Generalplan for Oslo, Fra Christiania til Stor-Oslo (1929)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Ila V, Colletts gt. 56-60, Diriks gt. 1-7 og Uelands gt. 54-56 (1928)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "A/S Ila VI, Colletts gt. 51 b-f, 55 b-f, Geitmyrsvn. 37, 37 b (1931) og Gustav Jensens gt. 2-10 (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Thurmanns gt. 3-13 (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Waldemar Thranes gt. 21-23 (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Grensevn. 75-81 (1920)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Leiegårder for Oslo kommune: (Tilskrevet H). Bjerregaards gt. 28-30 (1926)"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "A/S Ila IV, Evald Ryghs gt. 4-14 (1931)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Halvdan Svartes gt. 12, 14, 22-26, 28-30, 40, 42, 48 (1911–14)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Alle i Oslo: Fritzners gt. 7-11 (1909-10)"
+            }
+        ],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1924",
+                "order": "3",
+                "to_date": "",
+                "description": "The Housing Question, The Norway Year Book 1924",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "7",
+                "to_date": "",
+                "description": "Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [
+                    "Norge vårt land"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1920",
+                "order": "2",
+                "to_date": "",
+                "description": "Ti aars boligarbeid i Kristiania",
+                "place": "(Kristiania",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [
+                    "Et utdrag av indberetning om det kommunale boligraads virksomhet og Kristiania. kommunes tiltak i boligsaken 1910-20"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "6",
+                "to_date": "",
+                "description": "Generalplan for Oslo, Aker og Bærum",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "10",
+                "reference": "s. 163-221",
+                "to_date": "",
+                "description": "En bok om Moskva igår, idag og imorgen",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald",
+                    "Edvard Heiberg"
+                ],
+                "comments": [
+                    "Sammen med"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1917",
+                "order": "1",
+                "to_date": "",
+                "description": "Byggeselskaper og boligforeninger. Eksemplet fra Danmark",
+                "place": "(Kristiania",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [
+                    "(artikkel, aktstykker)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo internasjonale idrettssentrum",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "5",
+                "to_date": "",
+                "description": "Byen lever. Drømmen om en storstad",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "8",
+                "reference": "s. 13-35",
+                "to_date": "",
+                "description": "Oslo byplan, Bygningskalender Oslo",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916",
+                "order": "0",
+                "to_date": "",
+                "description": "Stockholms kommunes anlæg ved Enskede og Bromma",
+                "place": "(Kristiania",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [
+                    "En indberetning til Kristiania kommunale boligtilsyn fra arkitekter"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "11",
+                "to_date": "",
+                "description": "Plan og planlegging",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "12",
+                "to_date": "",
+                "description": "Oslofjorden og landet omkring den",
+                "place": "Oslo",
+                "authors": [
+                    "HALS, Harald"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "4",
+                "to_date": "",
+                "description": "Fra Christiania til Stor-Oslo",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1945",
+                "order": "50",
+                "reference": "s. 12, 14",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "31",
+                "reference": "s. 15-192",
+                "to_date": "",
+                "description": "Gatens arkitekturhistorie, Akersgaten",
+                "place": "Oslo",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1937",
+                "order": "45",
+                "reference": "s. 187",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "25",
+                "reference": "s. 57",
+                "to_date": "",
+                "description": "St. H",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "register bd"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "55",
+                "reference": "tillegget s. 16",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "15",
+                "reference": "s. 239, 420, 456",
+                "to_date": "",
+                "description": "TU",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "22",
+                "reference": "s. 287 (ill.)",
+                "to_date": "",
+                "description": "Norske Hus",
+                "place": "Oslo",
+                "authors": [
+                    "Eliassen, G. (red.)"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1932",
+                "order": "40",
+                "reference": "s. 36-38, 110-13 (ill.), 121, tillegget s. 6, 7, 15",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "reference": "s. 118",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "32",
+                "reference": "bd. 8, s. 467",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "44",
+                "reference": "s. 76-85 (ill.), 131-32, tillegget s. 7, 18, 19",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-09",
+                "order": "24",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959",
+                "order": "54",
+                "reference": "tillegget s. 5",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "49",
+                "reference": "s. 3",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "14",
+                "reference": "s. 132-33, 384, 588",
+                "to_date": "",
+                "description": "TU",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "18",
+                "reference": "bd. 15, s. 534",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler-B",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "28",
+                "reference": "s. 287",
+                "to_date": "",
+                "description": "Byborgernes hus i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956-05-08",
+                "order": "23",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931",
+                "order": "39",
+                "reference": "s. 91-92 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1929",
+                "order": "37",
+                "reference": "s. 177-79 (ill.)",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "53",
+                "reference": "tillegget s. 9",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "33",
+                "reference": "bd. 5, s. 445",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-02-23",
+                "order": "27",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939",
+                "order": "47",
+                "reference": "s. 1, 51-52, 123",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "17",
+                "reference": "s. 110",
+                "to_date": "",
+                "description": "TU",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "13",
+                "reference": "s. 286",
+                "to_date": "",
+                "description": "TU",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926-01-21",
+                "order": "19",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "43",
+                "reference": "s. 11-17 (ill.), tillegget s. 3-4, 7",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "29",
+                "reference": "s. 190-208",
+                "to_date": "",
+                "description": "Oslo i byplanhistorisk perspektiv, St.H",
+                "authors": [
+                    "Pedersen, B. S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "42",
+                "reference": "tillegget s. 7-8, 13, 25",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1940",
+                "order": "48",
+                "reference": "s. 33, 56, tillegget s. 6",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "34",
+                "to_date": "",
+                "description": "Moderne norsk byplanlegging blir til",
+                "place": "Trondheim",
+                "authors": [
+                    "Jensen, R. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930",
+                "order": "38",
+                "reference": "s. 48",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949",
+                "order": "52",
+                "reference": "tillegget s. 19",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-02-21",
+                "order": "26",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913",
+                "order": "16",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "TU",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "46",
+                "reference": "s. 49, 69, 244, tillegget s. 12, 37",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1941",
+                "order": "20",
+                "reference": "bd. 5, s. 277-78",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "30",
+                "reference": "s. 77, 123, 134",
+                "to_date": "",
+                "description": "Oslo Byleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "41",
+                "reference": "tillegget s. 10, 42",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946-05-10",
+                "order": "21",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "optional_reference": "[u.å.] register s. 366, 369",
+                "order": "35",
+                "to_date": "",
+                "description": "Oslo gårdkalender. Nybygg 1925-45",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "51",
+                "reference": "s. 25, tillegget s. 24",
+                "to_date": "",
+                "description": "Byggekunst 1919/20",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "56",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "Opplysninger fra kunstneren"
+                ],
+                "archives": [
+                    "Antikvarisk arkiv, Riksantikvaren"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Harald Hals",
+    "url": "https://nkl.snl.no/Harald_Hals",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>H. praktiserte som arkitekt i London og USA fram til 1911. Han åpnet egen arkitektpraksis i Kristiania. i 1912 og drev denne fram til 1914, da han ble sekretær i Kristiania kommunale boligtilsyn. I 1918 ble han Kristiania. kommunes boligdirektør, i 1920 Statens boligdirektør og i perioden 1926-47 var han reguleringssjef i Oslo. Både som boligdirektør og som reguleringssjef fikk han planlagt, tegnet og oppført store boligkomplekser i kommunal regi. Han var dessuten en aktiv skribent, foredragsholder og debattant såvel i dagspressen som i fagtidsskrifter, særlig innenfor problemene om den moderne storbyutvikling. Han tok opp spørsmål som høyhus som boliger, hagebyprinsippet, soneoppdeling av byene, trafikksanering og trafikkregulering. Allerede i 1929 fremla han en generalplan for Oslo, <em>Fra Christiania til Stor-Oslo</em> . Det var en fullt utarbeidet hoveddisposisjon for byggesonene med en gjennomført trafikkplan med et logisk sammenhengende og vel disponert gatenett. Dette skulle gjennomføres ved et system av ringveier utenfor hverandre, forbundet ved radierende gater, og med store grøntarealer som lunger innen hver sone. Han foreslo en åpning mot fjorden ved å rive kvartalene mellom Rosenkrantz gate og Tordenskiolds gate, han ville åpne Gyldenløves gate mot vest, bygge ut Grønlands torg, gjøre Tullinløkka til festplass og hadde planer for Eidsvolls plass og Rosenkrantz plass. Hans forutsetninger var at myndighetenes regulering skulle legge til rette, uten å pådytte ettertiden sin egen stiloppfatning og smak. I tillegg til de praktiske løsninger innen en moderne storby viser hans utførte arbeider en sikker disponering av masser og volumer. De store boligkompleksene på <em>Ila, Nordre og Søndre Åsen</em> m.fl. er bygninger symmetrisk gruppert rundt rommelige gårdsplasser i et aksesystem. Her er de sanitære hensyn til luft og lys i leilighetene imøtekommet, mens den estetiske utformingen er i 1920-årenes klassisistiske formspråk. <em>Ullevål Hageby</em>, i samarbeid med Oscar Hoff (1916–22), viser derimot nær tilknytning til den engelske hagebytradisjonen. H.s store innsats i boligbyggingen i Oslo er likevel den enorme forbedringen av standard for de mindre bemidlede innbyggere i byen, og antallet slike leiligheter nærmer seg 8 000. H.s planer for Oslo sentrum ble ikke utført, dels på grunn av manglende økonomi, dels på grunn av manglende politisk vilje. H. står som en av de store byplanleggerne i Oslos historie med evne til å se både de naturgitte og byens egne strukturer. Hans generalplan ble stående fram til ca. 1960 som grunnlaget for all fortsatt planlegging. Hans byplan var en syntese av en funksjonell og formal planlegging og et forsøk på å se byplanen som et monumentalt arkitekturverk som samtidig kunne fungere etter tidens krav og muligheter.</p></div>",
+    "created_at": "2013-07-03T15:17:29.671+02:00",
+    "changed_at": "2024-06-18T23:25:38.863+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1396\",\"https://digitaltmuseum.no/cc6c4807-e0a9-451b-92bf-be6b4aeef90f\",\"http://kulturnav.org/cc6c4807-e0a9-451b-92bf-be6b4aeef90f\"]",
+        "lastname": "Hals",
+        "firstname": "Harald",
+        "birth_date": "10.5.1876",
+        "birthplace": "Kristiania",
+        "death_date": "20.2.1959",
+        "external_id": "person_8736ab1396",
+        "kulturnav_id": "cc6c4807-e0a9-451b-92bf-be6b4aeef90f",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Ingvild Pharo"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

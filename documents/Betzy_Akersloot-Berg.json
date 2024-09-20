@@ -1,0 +1,829 @@
+{
+    "id": 415899,
+    "headword": "Betzy Akersloot-Berg",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1893",
+                "type": "Gift med",
+                "external_id": "person_8736ab100039",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gooswenius Gerardus",
+                "lastname": "Akersloot",
+                "professions": [
+                    "visekonsul"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100037",
+                "birth_date": "1828",
+                "death_date": "1914",
+                "firstname": "Caspar",
+                "lastname": "Berg",
+                "professions": []
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab100038",
+                "birth_date": "1829",
+                "death_date": "1912",
+                "firstname": "Bærtha",
+                "lastname": "Nordbye",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "øya Vlieland"
+            },
+            {
+                "order": "0",
+                "description": "Nederland"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "kopiert under Peder Cappelen Thurmann",
+                "order": "3"
+            },
+            {
+                "comment": "elev av Puvis de Chavannes i Paris to måneder våren 1890",
+                "order": "6"
+            },
+            {
+                "comment": "elev av Otto Sinding i München 1881–83",
+                "order": "4"
+            },
+            {
+                "comment": "fått tegneundervisning av arkitekt Andreas Friedrich Wilhelm von Hanno",
+                "order": "1"
+            },
+            {
+                "comment": "elev av Hendrik Wilhelm Mesdag i Scheveningen 1885–88",
+                "order": "5"
+            },
+            {
+                "comment": "Før 1880 hadde A.-B. gått flere semestre på Den kgl. Tegneskole",
+                "order": "0"
+            },
+            {
+                "comment": "vært elev av Otto Sinding",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1887"
+            },
+            {
+                "order": "1",
+                "description": "München 1881–83"
+            },
+            {
+                "order": "6",
+                "description": "England, Frankrike 1907"
+            },
+            {
+                "order": "3",
+                "description": "Nederland 1885–88"
+            },
+            {
+                "order": "7",
+                "description": "Italia 1908 og 1921"
+            },
+            {
+                "order": "5",
+                "description": "deltok i studieøyemed på hvalfangst i Nordishavet i 1892"
+            },
+            {
+                "order": "4",
+                "description": "Paris 1889–90"
+            },
+            {
+                "order": "2",
+                "description": "under München-oppholdet en kort studietur til Wien"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Medlem av Arti et Amicitiae, Amsterdam"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Helge Væringsaasens samling, Elverum"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nationalmuseum Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Museum Tromp's Huys, Vlieland (182 arbeider)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Frans Hals Museum, Haarlem"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1889",
+                "order": "8",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1898",
+                "order": "6",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1913",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1902",
+                "order": "11",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1889",
+                "order": "17",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "comment": "bl.a.",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Rotterdam",
+                "from_date": "1888",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "15",
+                "to_date": "",
+                "title": "Den Nordiske Udst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Zandvoort",
+                "from_date": "1893",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1884",
+                "order": "4",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Amsterdam",
+                "from_date": "1895",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Leeuwarden",
+                "from_date": "1903",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Haag",
+                "from_date": "1898",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1904",
+                "order": "12",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arti et Amicitiaes regi i Amsterdam",
+                "from_date": "1904",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arti et Amicitiaes regi i Amsterdam",
+                "from_date": "1895",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1901",
+                "order": "10",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1881",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1897",
+                "order": "18",
+                "to_date": "",
+                "title": "Den Internasjonale Utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1891",
+                "order": "5",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Antwerpen",
+                "from_date": "1893",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1891",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Dordrecht Museum",
+                "from_date": "1890",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arnhem",
+                "from_date": "1890",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1919",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Ikke angitt",
+                "exhibition_organizer": "München",
+                "from_date": "1888",
+                "order": "16",
+                "to_date": "",
+                "title": "Jub.utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1882",
+                "order": "3",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arnhem",
+                "from_date": "1897",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1900",
+                "order": "9",
+                "to_date": "",
+                "title": "Salonen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Amsterdam",
+                "from_date": "1899",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arti et Amicitiaes regi i Amsterdam",
+                "from_date": "1905",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Amsterdam",
+                "from_date": "1903",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Haag",
+                "from_date": "1890",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1882",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Arti et Amicitiaes regi i Amsterdam",
+                "from_date": "1901",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Rotterdam Kunstschool",
+                "from_date": "1890",
+                "order": "1",
+                "to_date": ""
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Malt av Sina Mesdag-van Houten (1887, Museum Tromp's Huys, Vlieland)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1896",
+                "order": "4",
+                "reference": "nr. 12, s. 187 (ill.)",
+                "to_date": "",
+                "description": "Folkebladet",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901-05-02",
+                "order": "6",
+                "to_date": "",
+                "description": "Algemeen Handelsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915",
+                "order": "20",
+                "reference": "s. 1–3",
+                "to_date": "",
+                "description": "Folkebladet",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890-03-25",
+                "order": "2",
+                "to_date": "",
+                "description": "Dordrechtsch Nieuwsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-05-12",
+                "order": "12",
+                "to_date": "",
+                "description": "Gazette de France",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-03-17",
+                "order": "30",
+                "to_date": "",
+                "description": "NRC Handelsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-05-01",
+                "order": "8",
+                "to_date": "",
+                "description": "Rappel",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "27",
+                "to_date": "",
+                "description": "Lexicon Nederlandse Beeldende Kunstenaars 1750–1950",
+                "place": "'s-Gravenhage",
+                "authors": [
+                    "Scheen, P.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889-09-17",
+                "order": "0",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-05-01",
+                "order": "9",
+                "to_date": "",
+                "description": "XiX Siècle",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "25",
+                "reference": "bd. 2, register s. 621",
+                "to_date": "",
+                "description": "Tromsø bys historie",
+                "place": "Tromsø",
+                "authors": [
+                    "Ytreberg, N.A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "23",
+                "reference": "s. 22",
+                "to_date": "",
+                "description": "Biographisch Woordenboek van Noord-Nederlandsche Graveurs",
+                "place": "'s-Gravenhage",
+                "authors": [
+                    "Waller, F.G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903-06-23",
+                "order": "14",
+                "to_date": "",
+                "description": "Leeuwarder Courant",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "16",
+                "reference": "nr. 1, s. 10 (ill.) og nr. 5, s. 71 og 72 (ill.)",
+                "to_date": "",
+                "description": "Folkebladet",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1906-03-20",
+                "order": "18",
+                "to_date": "",
+                "description": "De Vrouwen Wereld",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-04-30",
+                "order": "7",
+                "to_date": "",
+                "description": "Journal de Debats",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1898-03-15",
+                "order": "5",
+                "to_date": "",
+                "description": "Christiania Nyheds- og Avertissementsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1893-03-06",
+                "order": "3",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "19",
+                "reference": "bd. 3, s. 385",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme–Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "21",
+                "reference": "bd. 1, s. 438",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "(Kristiania",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-07-20",
+                "order": "13",
+                "to_date": "",
+                "description": "Journal des Artistes",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "26",
+                "reference": "register s. 282",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890-01-21",
+                "order": "1",
+                "to_date": "",
+                "description": "Rotterdamsch Nieuwsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "29",
+                "reference": "bd. 1, s. 649",
+                "to_date": "",
+                "description": "Bénézit",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "28",
+                "reference": "s. 178",
+                "to_date": "",
+                "description": "K. og K. register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-05-06",
+                "order": "11",
+                "to_date": "",
+                "description": "Marseillaise",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "15",
+                "reference": "bd. 2, s. 149 og 331",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "24",
+                "reference": "bd. 5, s 233",
+                "to_date": "",
+                "description": "Vollmer",
+                "place": "Leipzig",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1902-05-05",
+                "order": "10",
+                "to_date": "",
+                "description": "Radical",
+                "place": "Paris",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923",
+                "order": "22",
+                "reference": "s. 6",
+                "to_date": "",
+                "description": "Trondhjems Kunstforenings 5-aarsberetning 1919–1923",
+                "place": "Trondheim",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905",
+                "order": "17",
+                "reference": "s. 194–195 (ill.)",
+                "to_date": "",
+                "description": "Die Künstlerinnen der Neuzeit",
+                "place": "Stuttgart",
+                "authors": [
+                    "Hirsch, A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Betzy Akersloot-Berg",
+    "url": "https://nkl.snl.no/Betzy_Akersloot-Berg",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>A.-B. begynte sin utdannelse ved Den kgl. Tegneskole, tok så tegneundervisning hos ark. Andreas Friedrich Wilhelm von Hanno og kopierte under Peder Cappelen Thurmann. Da disse lærere ikke tilfredsstillet hennes kunstneriske behov, valgte A.-B. å male direkte etter naturen på egen hånd, inntil hun klarte å bli elev hos Otto Sinding. Hun gikk også hos Frits Thaulow i tre uker. Under en studiereise til Wien ble hun meget opptatt av den nederlandske marinemaler Hendrik Wilhelm Mesdags kunst. En tilfeldighet førte A.-B. sammen med familien Mesdag i 1885, og hun reiste til Scheveningen i Nederland samme år hvor hun fikk atelier og korrektur av Mesdag til 1888. Våren 1890 var hun elev av Puvis de Chavannes i Paris, men måtte avbryte studiene der etter to måneder av økonomiske grunner. Etter å ha giftet seg med A. i 1893 bodde hun et par år i Hasselt og deretter på øya Vlieland fra 1895. I 1896 kjøpte ekteparet Tromp's Huys som forble A.-B.s hjem resten av livet. Her hadde hun sitt atelier og dessuten et på øyas nordside. Tromp's Huys, som ble museum i 1955, ble gjenåpnet etter restaurering i 1978, og huser 182 av kunstnerens arbeider.</p>\n<p>Helt fra sine første arbeider har A.-B. skildret havet, særlig langs den dramatiske norskekysten. Hvert eneste år reiste hun til hjemlandet, hvor hun malte kysten fra Lindesnes til Nordkapp. Hun skydde ingen anstrengelser for å søke sine motiver og var ute i allslags vær, som regel iført sydvest og regnslag, så langt utover høsten som været tillot den spinkle skikkelsen å stå ute.</p>\n<p>Under mottoet \"Arbeid er livets lyspunkt\" var A.-B. en meget hardt arbeidende kunstner. Hun hadde en sterk religiøs overbevisning og oppfattet sitt virke som kunstner som et guddommelig oppdrag som rettferdiggjorde hennes liv på jorden. Den dengang ensomme øya Vlieland gav henne den ro og isolasjon hun søkte.</p>\n<p>A.-B. må karakteriseres som naturalist i den forstand at hun var friluftsmaler. Hennes penselføring er tilnærmet impresjonistisk i de eldste maleriene og kan minne om Fritz Thaulows tidlige arbeider, se f.eks. hennes arbeider i Stavanger Faste Galleri og Nationalmuseum Stockholm. Den maler som øvde størst innflydelse på A.-B.s kunstneriske utvikling var H.W. Mesdag med sin djerve penselføring. Hans stil og teknikk gjenfinnes i A.-B.s arbeider fra siste halvpart av 1880-årene. I løpet av 1890-årene utviklet A.-B. imidlertid sitt eget formspråk mot et friere, mer enhetlig malerisk uttrykk, hvor brune og grågrønne farger dominerer dramatiske kystlandskap med og uten skipsvrak, eller glødende farger viser solnedganger over opprørt hav. Hun tilegnet seg ikke tidens nye stilretninger, men malte resten av livet i den stil hun hadde utviklet i 1890-årene. Selv har hun uttalt: \"Ingen stilretning består for mig personlig - kun havet og Norges klippekyst er mit emne\" (brev i NGDK). I tillegg til marinemaleriene, som er blitt kunstnerens varemerke, har hun laget arbeider med motiver fra italienske landskap og antikke ruiner. </p>\n<p>Før 1893 signerte hun sine arbeider B.B., deretter B.A.-B. Hun daterte sjelden sine malerier.</p>\n</div>",
+    "created_at": "2013-07-03T13:25:31.446+02:00",
+    "changed_at": "2024-06-18T23:25:27.078+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab22\",\"https://digitaltmuseum.no/49385dc8-8f33-4d04-91c1-c0b1d585ae24\",\"http://kulturnav.org/49385dc8-8f33-4d04-91c1-c0b1d585ae24\"]",
+        "lastname": "Akersloot-Berg",
+        "firstname": "Betzy",
+        "birth_date": "16.12.1850",
+        "birthplace": "Aurskog",
+        "death_date": "18.12.1922",
+        "external_id": "person_8736ab22",
+        "kulturnav_id": "49385dc8-8f33-4d04-91c1-c0b1d585ae24",
+        "place_of_death": "Vlieland i Nederland",
+        "alternative_names": "Berg, Betzy Rezora"
+    },
+    "authors": [
+        {
+            "full_name": "Tone Skedsmo"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15782/standard_NMK-B_NG.M.0429120130725-13675-x7vr6.jpg",
+            "full_size_url": "https://media.snl.no/media/15782/NMK-B_NG.M.0429120130725-13675-x7vr6.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra Lofoten</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Betzy Akersloot-Berg",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15789/standard_NMK-B_NG.M.0436820130725-13675-1is8xaa.jpg",
+            "full_size_url": "https://media.snl.no/media/15789/NMK-B_NG.M.0436820130725-13675-1is8xaa.jpg",
+            "xhtml": "<div>\r\n<p><em>Kystlandskap, </em>1879. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Betzy Akersloot-Berg",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

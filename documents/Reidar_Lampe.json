@@ -1,0 +1,496 @@
+{
+    "id": 417943,
+    "headword": "Reidar Lampe",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104767",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johannes Marius",
+                "lastname": "Lampe",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab104768",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Gerhardine Lorentze",
+                "lastname": "Gundersen",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab104769",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Solveig",
+                "lastname": "Moss",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Kunstakademi, Kristiania under Chr. Krohg og Halfdan Strøm 1911–12",
+                "order": "0"
+            },
+            {
+                "comment": "Académie Russe, Paris 1912–13",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "studiereise Stockholm 1952"
+            },
+            {
+                "order": "0",
+                "description": "Studieopphold Tyskland"
+            },
+            {
+                "order": "1",
+                "description": "Paris 1912–13"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "kunstkritiker i Drammens Tidende 1938–42"
+            },
+            {
+                "order": "3",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "0",
+                "description": "Tegnelærer ved Drammen kommunale middelskole 1921–57"
+            },
+            {
+                "order": "1",
+                "description": "samtidig en årrekke tegnelærer ved Drammen yrkesskole og Drammen latinskole"
+            },
+            {
+                "order": "4",
+                "description": "Styremedlem i Drammens Kunstforening 1952–55"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Malerier i St. Hallvard skole og i Fløya sykehjem, Drammen"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Drammens Kunstforening Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1914",
+                "order": "15",
+                "to_date": "1916"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1920",
+                "order": "10",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1914",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1915",
+                "order": "16",
+                "to_date": "",
+                "title": "De frie unge"
+            },
+            {
+                "comment": "bl.a.",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1967",
+                "order": "17",
+                "to_date": "",
+                "title": "jubileumsutstilling Drammensmalere fra impresjonismen til ekspresjonismen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1921",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1928",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1965",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1921",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1924",
+                "order": "12",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1923",
+                "order": "11",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1927",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1917",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1915",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammens Kunstforening",
+                "from_date": "1913",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "8",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1916",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1914-12-08",
+                "order": "9",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-04-15",
+                "order": "10",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Bang C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "6",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Drammen. En Østlandsbys utviklingshistorie",
+                "place": "Drammen",
+                "authors": [
+                    "Nøkleby B.",
+                    "Alsvik H.",
+                    "Thorson O."
+                ],
+                "comments": [
+                    "i"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1914-11-05",
+                "order": "7",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Harbitz A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Drammens Kunstforening",
+                "authors": [
+                    "Alsvik H."
+                ],
+                "comments": [
+                    "i katalog"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "5",
+                "reference": "s. 272",
+                "to_date": "",
+                "description": "Buskerud",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "4",
+                "to_date": "",
+                "description": "Gyldendals store og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 3, spalte 3117"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "3",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867–1967",
+                "place": "Drammen",
+                "authors": [
+                    "Alsvik H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-10-26",
+                "order": "15",
+                "to_date": "",
+                "description": "i Drammens Tidende",
+                "authors": [
+                    "Ruud A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-07-31",
+                "order": "16",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-10-30",
+                "order": "18",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Fremtiden",
+                "authors": [
+                    "Raaen A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1944",
+                "order": "0",
+                "reference": "s. 146 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965-10-27",
+                "order": "17",
+                "to_date": "",
+                "description": "i Drammens Tidende",
+                "authors": [
+                    "Alsvik H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "1",
+                "reference": "s. 155, 171 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-11-08",
+                "order": "14",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-11-07",
+                "order": "13",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": [
+                    "Johnsen B. Moss"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-11-02",
+                "order": "11",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Harbitz A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-12-21",
+                "order": "8",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Harbitz A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921-11-05",
+                "order": "12",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Øverland A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Reidar Lampe",
+    "url": "https://nkl.snl.no/Reidar_Lampe",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Etter oppvekst i Bergen og noen år i Kristiania slo L. seg i 1917 ned i Drammen der han bodde til sin død. Han debuterte på Høstutstillingen i 1914 med det følsomme, sikkert komponerte portrettet av sin hustru (Drammens Kunstforening Faste Galleri). Denne stramhet i komposisjonen skulle sammen med en kraftig, karakterfull koloritt og rike maleriske kvaliteter komme til å prege kunstnerens tidlige arbeider. L. må karakteriseres som senimpresjonist. Han var en skildrer av de nære ting. Mens portrettene inntok en sentral plass i hans tidlige produksjon, ble motivkretsen etter hvert utvidet til å omfatte lyrisk oppfattete interiører, og fremfor alt landskaper, gjerne skogsinteriører. Spesielt vil han nok bli husket for sine raske, upretensiøse skildringer av bymotiver fra Drammen. Fra omkring 1940 viet han seg i stor utstrekning til akvarellmaling. Han var også en dyktig tegner og gjorde en stor innsats som pedagog. Men dessverre kom den nesten 40 år lange fulltids lærergjerningen til å ta så meget av hans tid og krefter at han aldri fikk anledning til å komme seg ut og motta fornyende kunstneriske impulser.</p></div>",
+    "created_at": "2013-07-04T03:37:46.898+02:00",
+    "changed_at": "2024-06-18T23:26:22.375+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2291\",\"https://digitaltmuseum.no/b1f8f853-b793-4b97-935f-9863f1d5549e\",\"http://kulturnav.org/b1f8f853-b793-4b97-935f-9863f1d5549e\"]",
+        "lastname": "Lampe",
+        "firstname": "Reidar",
+        "birth_date": "28.10.1887",
+        "birthplace": "Bergen",
+        "death_date": "28.7.1964",
+        "external_id": "person_8736ab2291",
+        "kulturnav_id": "b1f8f853-b793-4b97-935f-9863f1d5549e",
+        "place_of_death": "Drammen"
+    },
+    "authors": [
+        {
+            "full_name": "Sigrid Rømcke Thue"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

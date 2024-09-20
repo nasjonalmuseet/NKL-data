@@ -1,0 +1,125 @@
+{
+    "id": 430179,
+    "headword": "Per Noreger",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "treskjærer"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108720",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bjørn",
+                "lastname": "Noreger",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105966",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Åse Marie",
+                "lastname": "Noreger",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "1",
+                "description": "Stavanger"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev av Peter Lindholm, Oosterhout, Nederland.",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo under Chrix Dahl, Olav Mosebekk og Ernst Magne Johansen",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Flere utenlandsopphold, bl.a. i Pakistan og Nederland."
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Tegner i ukepressen 1970–75"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Per Noreger",
+    "url": "https://nkl.snl.no/Per_Noreger",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div></div>",
+    "created_at": "2014-11-20T11:46:57.868+01:00",
+    "changed_at": "2024-06-18T23:27:51.316+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2939\",\"https://digitaltmuseum.no/d97492b6-b622-498f-b7e4-054d03280873\",\"http://kulturnav.org/d97492b6-b622-498f-b7e4-054d03280873\"]",
+        "lastname": "Noreger",
+        "firstname": "Per",
+        "birth_date": "17.10.1945",
+        "birthplace": "Oslo",
+        "external_id": "person_8736ab2939",
+        "kulturnav_id": "d97492b6-b622-498f-b7e4-054d03280873"
+    },
+    "authors": [
+        {
+            "full_name": " Norsk kunstnerleksikon"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "treskjærer"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

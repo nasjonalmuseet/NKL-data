@@ -1,0 +1,924 @@
+{
+    "id": 418072,
+    "headword": "Bernt Lund",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "offiser"
+            },
+            {
+                "description": "maler"
+            },
+            {
+                "description": "ingeniør"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "from_date": "1847",
+                "type": "Gift med",
+                "external_id": "person_8736ab2449",
+                "birth_date": "11.06.1824",
+                "death_date": "16.03.1888",
+                "firstname": "Hedevig",
+                "lastname": "Lund",
+                "professions": [
+                    "maler"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105065",
+                "birth_date": "1769",
+                "death_date": "1835",
+                "firstname": "Ole Bergersen",
+                "lastname": "Lund",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105066",
+                "birth_date": "1780",
+                "death_date": "1865",
+                "firstname": "Kasi Danielsdatter",
+                "lastname": "Dahl",
+                "professions": null
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Student 1831, annen eksamen 1832",
+                "order": "0"
+            },
+            {
+                "comment": "teologistudier til 1835",
+                "order": "1"
+            },
+            {
+                "comment": "offisersutdannelse med eksamen 1837",
+                "order": "2"
+            },
+            {
+                "comment": "veiledning i maleri av Thomas Fearnley 1839 - 40",
+                "order": "3"
+            },
+            {
+                "comment": "elev kunstakademiet, Düsseldorf under Johann Wilhelm Schirmer høsten 1843 - 45",
+                "order": "4"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Statens stipend 1843"
+            },
+            {
+                "order": "1",
+                "description": "reise Romsdal og antagelig Trøndelag 1841"
+            },
+            {
+                "order": "2",
+                "description": "opphold i Düsseldorf 1843 - 45"
+            },
+            {
+                "order": "3",
+                "description": "besøk i Dresden og München trolig sommeren 1844, da han malte i de bayerske alper, ved Chiemsee, Berchtesgaden, Königssee og Zillerthal i Tirol"
+            },
+            {
+                "order": "4",
+                "description": "studiereise Hallingdal, Lærdal, Sogn, Voss, Hardanger 1849"
+            },
+            {
+                "order": "5",
+                "description": "tur til Vestlandet 1850"
+            },
+            {
+                "order": "6",
+                "description": "besøk i Stockholm og København, uvisst når"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Ingeniør i Veivesenet 1853 - 78."
+            },
+            {
+                "order": "1",
+                "description": "Styremedlem Christiania Kunstforening 1847 - 50"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Jesus i Getsemane, altertavle, Våler kirke (1865, sammen med Hedevig L.)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Mandal Bymuseum"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1927",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "comment": "(16 bilder innkjøpt 1847–52)",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "comment": "(6 bilder innkjøpt 1849–53)",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "comment": "(2 bilder innkjøpt)",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1849",
+                "order": "4",
+                "to_date": "",
+                "title": "Norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1850",
+                "order": "5",
+                "to_date": "",
+                "title": "Skandinavisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1851",
+                "order": "6",
+                "to_date": "",
+                "title": "Skandinavisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania",
+                "from_date": "1857",
+                "order": "7",
+                "to_date": "",
+                "title": "Nordiske kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1898",
+                "order": "8",
+                "to_date": "",
+                "title": "Den retrospektive utstilling (1837–66)"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "title": "Jubileumsutstillingen i 1914"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1936",
+                "order": "10",
+                "to_date": "",
+                "title": "Jubileumsutstilling"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Maleri utført av Hedevig L. (1870, privat eie)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "dobbeltportrett av L. og Hans Gude, utført av Hans Gude (1849, privat eie)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1836",
+                "order": "0",
+                "to_date": "",
+                "description": "Primstaven, Skilling-Magazin II",
+                "place": "Christiania",
+                "authors": [
+                    "Lund, Bernt"
+                ],
+                "comments": [
+                    "nr. 14–18"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1861",
+                "order": "1",
+                "to_date": "",
+                "description": "Trysil-Knud, Ill. Nyhedsblad, Nytaarsgave",
+                "place": "Christiania",
+                "authors": [
+                    "Lund, Bernt"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1862",
+                "order": "2",
+                "to_date": "",
+                "description": "Det arvede Sværd, Ill. Nyhedsblad",
+                "place": "Christiania",
+                "authors": [
+                    "Lund, Bernt"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1882",
+                "order": "3",
+                "to_date": "",
+                "description": "Nogle Digte",
+                "place": "Kristiania",
+                "authors": [
+                    "Lund, Bernt"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1897",
+                "order": "4",
+                "reference": "med ill. av A. Bloch",
+                "to_date": "",
+                "description": "Trysil-Knud",
+                "place": "Kristiania",
+                "authors": [
+                    "Lund, Bernt"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1942",
+                "order": "5",
+                "reference": "med ill. av A. Bloch utg.",
+                "to_date": "",
+                "description": "Trysil-Knud",
+                "place": "Oslo",
+                "authors": [
+                    "Lund, Bernt"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "L.s forfatterskap som ingeniør se J. B. Halvorsens Norsk Forfatter-Lexicon",
+                "authors": null,
+                "comments": [
+                    ""
+                ],
+                "archives": null
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1848",
+                "order": "7",
+                "to_date": "",
+                "description": "Norge fremstillet i Tegninger",
+                "place": "Christiania",
+                "authors": [
+                    "Tønsberg, Chr."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1855",
+                "order": "8",
+                "to_date": "",
+                "description": "Norge fremstillet i Tegninger",
+                "place": "Christiania",
+                "authors": [
+                    "Tønsberg, Chr."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1889",
+                "order": "9",
+                "to_date": "",
+                "description": "Norge fremstillet i Tegninger",
+                "place": "Christiania",
+                "authors": [
+                    "Tønsberg, Chr."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1853",
+                "order": "10",
+                "to_date": "",
+                "description": "Ill. Nyhedsblad",
+                "place": "Christiania",
+                "authors": null,
+                "comments": [
+                    "nr. 17, 27"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1854",
+                "order": "11",
+                "to_date": "",
+                "description": "Ill. Nyhedsblad",
+                "place": "Christiania",
+                "authors": null,
+                "comments": [
+                    "nr. 12, 16, 38(?)"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1862",
+                "order": "12",
+                "to_date": "",
+                "description": "Ill. Nyhedsblad",
+                "place": "Christiania",
+                "authors": null,
+                "comments": [
+                    "nr. 4, 5, 6, 7, 43"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1878",
+                "order": "13",
+                "reference": "bd. 2, s. 42",
+                "to_date": "",
+                "description": "Adolph Tidemand",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1881",
+                "order": "14",
+                "reference": "s. 20–21 (med flere dikt av L.)",
+                "to_date": "",
+                "description": "Studenterne fra Aaret 1831",
+                "place": "(Kristiania",
+                "authors": [
+                    "Lassen, W."
+                ],
+                "comments": [
+                    "Biografiske Efterretninger vedkommende, ved"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1892",
+                "order": "15",
+                "reference": "bd. 3, s. 564–66",
+                "to_date": "",
+                "description": "Norsk forfatter-lexikon-lex.",
+                "place": "(Kristiania",
+                "authors": [
+                    "Halvorsens, J. B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1898",
+                "order": "16",
+                "reference": "s. 19",
+                "to_date": "",
+                "description": "Af Hans Gudes Liv og Værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "Dietrichson, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1904",
+                "order": "17",
+                "reference": "bd. 1, s. 222",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1908",
+                "order": "18",
+                "reference": "s. 109 (ill.)",
+                "to_date": "",
+                "description": "Hjemmets Ven",
+                "place": "(Kristiania",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1915",
+                "order": "19",
+                "to_date": "",
+                "description": "Fra det nationale gjennembruds tid",
+                "place": "(Kristiania",
+                "authors": [
+                    "Krogvig, A. (red.)"
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1915",
+                "order": "20",
+                "reference": "s. 342, 367",
+                "to_date": "",
+                "description": "i Edda",
+                "place": "(Kristiania",
+                "authors": [
+                    "Moe, J."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1917",
+                "order": "21",
+                "reference": "bd. 1, s. 69, 75, 87, 88, 117, 118, 159, 165, 218, 219",
+                "to_date": "",
+                "description": "Halfdan Kjerulf. Av hans efterladte papirer",
+                "place": "(Kristiania",
+                "authors": [
+                    "Moe, W. (red.)"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1919",
+                "order": "22",
+                "reference": "s. 40 (Brev fra Kjerulf, H. til H. Gude)",
+                "to_date": "",
+                "description": "Samtiden",
+                "place": "(Kristiania",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924",
+                "order": "23",
+                "reference": "del 1, s. 161, 167–84, 208, 210, 214, 224, 226–28, 239, 312, 46",
+                "to_date": "",
+                "description": "Hans og Betsy Gudes brevveksling",
+                "place": "(Kristiania",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1929",
+                "order": "24",
+                "reference": "bd. 23, s. 464",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1936",
+                "order": "25",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938",
+                "order": "26",
+                "reference": "bd. 8, s. 469–70",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938",
+                "order": "27",
+                "reference": "s. 178",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1940",
+                "order": "28",
+                "reference": "s. 115 (ill.)",
+                "to_date": "",
+                "description": "Holt. En Bygdebok",
+                "place": "Stavanger",
+                "authors": [
+                    "Svensen, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1941",
+                "order": "29",
+                "reference": "bd. 2, s. 45 (ill.)",
+                "to_date": "",
+                "description": "Kristiansands historie",
+                "place": "Oslo",
+                "authors": [
+                    "Steen, S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950",
+                "order": "30",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Sarpsborg gjennom hundre år, 1839–1939",
+                "place": "Oslo",
+                "authors": [
+                    "Coldevin, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1951",
+                "order": "31",
+                "reference": "bd. 1, s. 116",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L.",
+                    "Alsvik, H."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953",
+                "order": "32",
+                "reference": "bd. 2, s. 444",
+                "to_date": "",
+                "description": "Larviks historie 1814–1885",
+                "place": "Larvik",
+                "authors": [
+                    "Langeland, A. S."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1955",
+                "order": "33",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "Grimelund, J. J.",
+                    "Flønes, O."
+                ],
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1969",
+                "order": "34",
+                "reference": "s. 207",
+                "to_date": "",
+                "description": "Med kunstnarauge",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "35",
+                "reference": "s. 105, 222",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1973",
+                "order": "36",
+                "reference": "s. 33–34 (ill.)",
+                "to_date": "",
+                "description": "Gjennom skiftende tider, Borre og Horten",
+                "place": "Horten",
+                "authors": [
+                    "Baggethun, R."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1973",
+                "order": "37",
+                "reference": "s. 237–42",
+                "to_date": "",
+                "description": "Øvre Solør, alminnelig historie",
+                "place": "Flisa",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1962",
+                "order": "38",
+                "to_date": "",
+                "description": "Årbok for Glåmdalen",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1973",
+                "order": "39",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Årbok for Glåmdalen",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1975",
+                "order": "40",
+                "reference": "s. 34 (ill.)",
+                "to_date": "",
+                "description": "Årbok for Glåmdalen",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1843",
+                "order": "41",
+                "to_date": "",
+                "description": "Den Constitutionelle",
+                "authors": null,
+                "comments": [
+                    "nr. 161"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1927-03-30",
+                "order": "42",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927-04",
+                "order": "43",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Haug, K."
+                ],
+                "comments": [
+                    "nr. 163"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1927-04",
+                "order": "44",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [
+                    "nr. 77"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1927-04",
+                "order": "45",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": [
+                    "Harbitz, A."
+                ],
+                "comments": [
+                    "nr. 104"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1961-02-25",
+                "order": "46",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": [
+                    "(uketillegg)"
+                ],
+                "archives": null
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "authors": null,
+                "comments": null,
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Bernt Lund",
+    "url": "https://nkl.snl.no/Bernt_Lund",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>L. viste tidlig talent og interesse for kunstnerisk virksomhet, særlig for musikk, poesi og tegning, men opprinnelig var det ikke hans mål å bli kunstner. Han fant seg ikke til rette med teologien og mente seg bedre egnet som offiser. Da han likevel søkte utdannelse som kunstner, kom virksomheten som maler til å bli sterkt begrenset av karrieren som offiser og ingeniør. L. ble i 1837 sekondløytnant i kavalleriet, 1850 premierløytnant, i 1855 sekondrittmester og i 1863 rittmester. Samme år tok han avskjed som offiser. Fra 1853 var L. ansatt i Veivesenet som ingeniør og arbeidet der til 1878. Dette førte med seg et urolig reiseliv, som imidlertid gav ham kjennskap til norsk natur. En øyenlidelse hemmet ham alt fra begynnelsen av 1850-årene i hans arbeide som kunstner.</p>\n<p>Da L. i 1878 hadde tatt avskjed som ingeniør bodde han mye på Sem gård i Borre og malte idylliske motiver fra landskapet rundt Borrevannet. I 1839 ble han kjent med Thomas Fearnley som var hjemme i Christiania til sommeren 1840, og fikk veiledning av ham. Flere kopier etter bilder av Fearnley er kjent (bl.a. ett i Nasjonalgalleriet, Oslo). Han kopierte også kunstnere som Gudin og J. C. Dahls Vinter ved Sognefjorden. De første årene var L.s maleri naturlig nok preget av Fearnleys kunst. Men alt før sin store utenlandsreise utførte han personlige arbeider med titler som <em>To Bautastene paa Gaarden Helge i Stod</em>; <em>Utsikt fra Frogner ved Christiania</em> og <em>partie fra Christiania Omegn</em>. Da L. ble tildelt Statens stipend i 1843, innbød han til utlodning av 20 malerier for å styrke sin reisekasse (Den Constitutionelle 1843, nr. 161). I Düsseldorf hadde L. nær kontakt med Hans Gude og Hjalmar Kjerulf. Ved kunstakademiet ble han høsten 1843 straks tatt opp som elev i landskapsklassen der læreren, J. W. Schirmer, kom til å bety mye for hans utvikling. Schirmer uttalte seg anerkjennende om L.s iherdighet og fremgang. I Christiania kom L. inn i toneangivende kretser. Han var venn av Jørgen Moe, ble kjent med familien Kjerulf og satt noen år som medlem av Kunstforeningens styre. Alt i 1844 kjøpte Kunstforeningen et bilde av ham, og stilte i 1845 ut et bilde bestilt av statsminister Frederik Due, utsyn over <em>Christiania sett fra Trondhjemsveien ved Sinsen</em>, med Akershus slott som midtpunkt i en velordnet komposisjon. Denne fremstillingen ble populær og L. gjentok motivet et par ganger (replikk Oslo Bymuseum gjengitt i Tønsberg, Chr.s Norge fremstillet i Tegninger, 1848). Alt før sin utenlandsreise hadde L. vært på studieturer i hjemlandet, i 1841 i Romsdal, og formodentlig samme sommer i Trøndelag. Viktigst var nok studieturen sommeren 1849 da L. drog i følge med Hans Gude, Halfdan Kjerulf og Magnus (Bagge?) fra Hallingdal over Lærdal, Sogn og Voss til Hardanger og, etter et lengre opphold på Rosendal, tilbake til Sogn. Gude har i sine brev gitt inngående skildringer fra reisen. En regnværsdag i Fjærland malte Gude et dobbeltportrett i profil av L. og seg selv. Studieturen gav L. verdifull innsikt og en mengde motiver fra Vestlandsfjordene fra Ulvik, Voss, Vik, Balestrand og Fjærland. Også sommeren 1850 var L. på Vestlandet.</p>\n<p>L. søkte sine motiv ikke bare ved fjordene, han har malt så vel høyfjell som østlandsnatur, og dessuten enkelte motiv fra sine utenlandsreiser. Foruten bilder som alt er nevnt, kan fremheves parti fra <em>Nes Verk</em> og ved <em>Norderhov kirke</em> (begge omtalt av Jørgen Moe) og <em>Boen gård</em> (1874). L. malte for det meste i lite format. De få større maleriene har gjerne iøynefallende motiv, slik det var vanlig i tiden, f.eks. det pompøse hovedverket <em>Fra Ulvik</em> (1851, Nasjonalgalleriet), som ennå er preget av Schirmers stil. Som andre samtidige malere kunne nok L. henfalle til det hyperromantiske, men oftest er hans fremstilling jevnt rolig. Da hans maleri igjen ble kjent ved utstillingen i 1927, ble det karakterisert som stillferdig borgerlig-romantisk (Alf Harbitz) og hans Borre-bilder ble rost for \"de nuanserede, sarte grønne (toner) i sommerlandskapernes forgrund\" (Kristian Haug). L.s maleri hører helt og fullt hjemme i Düsseldorf-periodens smak og form. Noen betydelig rolle kom han ikke til å spille i vår kunst, men han utfoldet sitt talent i den utstrekning hans mange andre gjøremål og hans øyenlidelse gjorde det mulig. Foruten i Tønsbergs billedverk er tegninger av L. (mest veibruer) gjengitt i Ill. Nyhedsblad. L. utgav 1882 en diktsamling. En rekke enkeltdikt av ham ble også offentliggjort.</p>\n</div>",
+    "created_at": "2013-07-04T06:23:43.497+02:00",
+    "changed_at": "2024-06-18T23:26:25.920+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2441\",\"https://digitaltmuseum.no/fe287363-4ffb-4d18-8723-f40b0ecfa79e\",\"http://kulturnav.org/fe287363-4ffb-4d18-8723-f40b0ecfa79e\"]",
+        "lastname": "Lund",
+        "firstname": "Bernt",
+        "birth_date": "14.7.1812",
+        "birthplace": "Våler i Solør",
+        "death_date": "30.10.1885",
+        "external_id": "person_8736ab2441",
+        "kulturnav_id": "fe287363-4ffb-4d18-8723-f40b0ecfa79e",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Lund, Bernt"
+    },
+    "authors": [
+        {
+            "full_name": "Sigurd Willoch"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15983/standard_NMK-B_NG.M.01504a20130725-13675-1yo6yav.jpg",
+            "full_size_url": "https://media.snl.no/media/15983/NMK-B_NG.M.01504a20130725-13675-1yo6yav.jpg",
+            "xhtml": "<div>\r\n<p><em>Landskapsstudie fra Simedalen</em>, 1849. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Bernt Lund",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15984/standard_NMK-B_NG.M.01504b20130725-13675-162avnh.jpg",
+            "full_size_url": "https://media.snl.no/media/15984/NMK-B_NG.M.01504b20130725-13675-162avnh.jpg",
+            "xhtml": "<div>\r\n<p><em>Innsjø med båter. (Kopi etter Fearnley)</em>, 1839. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Bernt Lund",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16003/standard_NMK-B_NG.M.0179020130725-13675-1pqfcof.jpg",
+            "full_size_url": "https://media.snl.no/media/16003/NMK-B_NG.M.0179020130725-13675-1pqfcof.jpg",
+            "xhtml": "<div>\r\n<p><em>Foss</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Bernt Lund",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/16051/standard_NMK-B_NG.M.0337420130725-13675-7sex22.jpg",
+            "full_size_url": "https://media.snl.no/media/16051/NMK-B_NG.M.0337420130725-13675-7sex22.jpg",
+            "xhtml": "<div>\r\n<p><em>Fra Ulvik i Hardanger</em>, 1851. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Bernt Lund",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "offiser"
+        },
+        {
+            "description": "maler"
+        },
+        {
+            "description": "ingeniør"
+        }
+    ]
+}

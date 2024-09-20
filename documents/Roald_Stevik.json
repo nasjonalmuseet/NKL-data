@@ -1,0 +1,461 @@
+{
+    "id": 431166,
+    "headword": "Roald Stevik",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107216",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "William",
+                "lastname": "Stevik",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab107218",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Kjersti",
+                "lastname": "Tilset",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab107217",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Karen",
+                "lastname": "Sørvig",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Trondheim"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Selvlært",
+                "order": "0"
+            }
+        ],
+        "travels": [],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Trøndelag Bildende Kunstnere, jurymedlem 2 perioder"
+            },
+            {
+                "order": "1",
+                "description": "Landsforeningen Norske Malere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Skjetlein jordbruksskole"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Regionsykehuset i Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Brundalen yrkesskole"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Orkdal sykehus"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergen Bank"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Steinkjer og Namsos kunstforeninger"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1968",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Orkdal kunstforening",
+                "from_date": "1982",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Vikna kunstforening",
+                "from_date": "1982",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aalesunds Kunstforening",
+                "from_date": "1971",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Verdal Kunstforening",
+                "from_date": "1981",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1982",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1980",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Steinkjer kunstforening",
+                "from_date": "1979",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Haugesund Kunstforening",
+                "from_date": "1970",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1984",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trøndelag teater",
+                "from_date": "1970",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1972",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fauske Kunstforening",
+                "from_date": "1983",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1976",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1971",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1965",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1977",
+                "order": "19",
+                "to_date": "1981",
+                "title": "Trøndelagsutst."
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos Kunstforening",
+                "from_date": "1979",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Split, Jugoslavia",
+                "from_date": "1966",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Namsos kunstforening",
+                "from_date": "1979",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Levanger Kunstforening",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1975",
+                "order": "22",
+                "to_date": "",
+                "title": "sommerutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1976",
+                "order": "23",
+                "to_date": "",
+                "title": "sommerutst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1973",
+                "order": "21",
+                "to_date": "",
+                "title": "sommerutst."
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1983-08-04",
+                "order": "12",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nordlandsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-09-22",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "0",
+                "reference": "s. 72",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1945–1970",
+                "place": "Trondheim",
+                "authors": [
+                    "Kristiansen, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-06",
+                "order": "9",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-12",
+                "order": "1",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-02-06",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-10-19",
+                "order": "4",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [
+                    "Helland, R. Thiis"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-08-14",
+                "order": "7",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [
+                    "(ill)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1976-10-20",
+                "order": "6",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-09-06",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Trønder-Avisa",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-25",
+                "order": "2",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": [
+                    "Hagen, T. Løvik"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-04-14",
+                "order": "3",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-10-20",
+                "order": "5",
+                "to_date": "",
+                "description": "Arbeider-Avisa",
+                "authors": [],
+                "comments": [
+                    "(ill)"
+                ],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Roald Stevik",
+    "url": "https://nkl.snl.no/Roald_Stevik",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. henter sine motiver fra trøndersk natur og miljø. Landskapene er gjengitt i et forenklet realistisk formspråk med vekt på det dekorative. Naturstemninger med lysets skiftninger og dets virkning på landskapet er det gjennomgående tema i S.' produksjon.</p></div>",
+    "created_at": "2014-12-21T14:34:40.105+01:00",
+    "changed_at": "2024-06-18T23:28:17.628+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3556\",\"https://digitaltmuseum.no/dd8c7918-2828-47fe-a408-6da1aabfdf09\",\"http://kulturnav.org/dd8c7918-2828-47fe-a408-6da1aabfdf09\"]",
+        "lastname": "Stevik",
+        "firstname": "Roald",
+        "birth_date": "22.9.1933",
+        "birthplace": "Trondheim",
+        "external_id": "person_8736ab3556",
+        "kulturnav_id": "dd8c7918-2828-47fe-a408-6da1aabfdf09"
+    },
+    "authors": [
+        {
+            "full_name": "Jorunn Sanstøl"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

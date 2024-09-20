@@ -1,0 +1,694 @@
+{
+    "id": 417377,
+    "headword": "Axel Ender",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab101919",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Helga",
+                "lastname": "Sørenssen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101917",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Bernhard",
+                "lastname": "Ender",
+                "professions": [
+                    "gårdbruker"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101918",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Fredrikke",
+                "lastname": "Smith",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo fra 1867 under Julius Middelthun, en kort tid også elev av J.F. Eckersberg",
+                "order": "0"
+            },
+            {
+                "comment": "Med støtte av Kong Carl 15 studerte han ved kunstak. i Stockholm 1872–74",
+                "order": "1"
+            },
+            {
+                "comment": "senere ved kunstak. i München fra 1875 til ca. 1880",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "München 1875 - ca. 1880"
+            },
+            {
+                "order": "3",
+                "description": "Paris 1878 og -80"
+            },
+            {
+                "order": "1",
+                "description": "Studieopphold Stockholm 1872–74"
+            },
+            {
+                "order": "0",
+                "description": "Statens reisestipend 1879"
+            }
+        ],
+        "memberships": [],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Østre Porsgrunn kirke"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Kampens kirke i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Rasmus Meyers Samlinger, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Sundby kirke"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Malmö museum"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Östergötlands Konstmuseum"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Tordenskiold-statuen i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "altertavler i Molde kirke"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1877",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1875",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1872",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1873",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Blomqvist Kunsthandel, Oslo",
+                "from_date": "1920",
+                "order": "0",
+                "to_date": "",
+                "title": "Minneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "2",
+                "to_date": "",
+                "title": "Nordisk udstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1883",
+                "order": "4",
+                "to_date": "",
+                "title": "Charlottenborgutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1953",
+                "order": "1",
+                "to_date": "",
+                "title": "Minneutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1881",
+                "order": "3",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1886",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1889",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1883",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1880",
+                "order": "9",
+                "to_date": "1881"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1953-11-14",
+                "order": "25",
+                "to_date": "",
+                "description": "Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "6",
+                "to_date": "",
+                "description": "Kunstnere II",
+                "place": "(Kristiania",
+                "authors": [
+                    "Chr. Krohg"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "4",
+                "reference": "s. 42",
+                "to_date": "",
+                "description": "Det nye Norges malerkunst",
+                "place": "(Kristiania",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "23",
+                "reference": "bd. 3, s. 521-522",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1921",
+                "order": "9",
+                "reference": "s. 29",
+                "to_date": "",
+                "description": "En billedhuggers liv",
+                "authors": [
+                    "Sinding, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "1",
+                "reference": "s. 137",
+                "to_date": "",
+                "description": "Folkebladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-09-23",
+                "order": "11",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "8",
+                "reference": "s. 106",
+                "to_date": "",
+                "description": "Fra Ulriken til Alperne",
+                "place": "Oslo",
+                "authors": [
+                    "Grønvold, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "19",
+                "reference": "s. 147",
+                "to_date": "",
+                "description": "For den bildende kunst, Bergens Kunstforening ved 125-årsjubileet 1963",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925",
+                "order": "13",
+                "reference": "bd. 1, s. 313",
+                "to_date": "1927",
+                "description": "Norges Kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "21",
+                "reference": "s. 206",
+                "to_date": "",
+                "description": "Om kunst og kunstnere",
+                "place": "Oslo",
+                "authors": [
+                    "Vigeland, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1959-03-25",
+                "order": "27",
+                "to_date": "",
+                "description": "Porsgrunns Dagblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "31",
+                "reference": "nr. 326",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "15",
+                "reference": "bd. 10",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "17",
+                "reference": "bd. 2, s. 351",
+                "to_date": "1953",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "3",
+                "reference": "bd. 34, s. 215",
+                "to_date": "",
+                "description": "Emporium",
+                "place": "Berlin",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1901",
+                "order": "2",
+                "reference": "s. 73 og 75",
+                "to_date": "",
+                "description": "Illustreret Maanedsblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "reference": "register s. 189",
+                "to_date": "",
+                "description": "Porsgrund 1807–1907",
+                "authors": [
+                    "Lund, C."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "22",
+                "reference": "s. 211",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "Willoch, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "5",
+                "reference": "bd. 1, s. 310, bd. 2, s. 132, bd. 3, s. 32–34",
+                "to_date": "1907",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "0",
+                "reference": "s. 628, 636",
+                "to_date": "",
+                "description": "Skilling-Magazin",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "7",
+                "reference": "s. 23-30",
+                "to_date": "",
+                "description": "Hvad jeg saa og hvem jeg mødte",
+                "place": "(Kristiania",
+                "authors": [
+                    "Peters, W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-09-11",
+                "order": "12",
+                "to_date": "",
+                "description": "Bergens Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919",
+                "order": "10",
+                "reference": "s. 159",
+                "to_date": "",
+                "description": "Minder og Meninger",
+                "place": "(Kristiania",
+                "authors": [
+                    "Munthe, G."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "20",
+                "reference": "s. 225-229",
+                "to_date": "",
+                "description": "Julius Middelthun",
+                "place": "Oslo",
+                "authors": [
+                    "Gran, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "29",
+                "reference": "nr. 266, 271, 309, 312, 313",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "18",
+                "reference": "s. 5",
+                "to_date": "",
+                "description": "Norsk skulptur i femti år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "30",
+                "reference": "nr. 152",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910",
+                "order": "14",
+                "reference": "s. 36",
+                "to_date": "",
+                "description": "Die norwegische Malerei im XIX Jahrhundert",
+                "place": "Leipzig",
+                "authors": [
+                    "Aubert, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1892",
+                "order": "28",
+                "reference": "nr. 269, 271, 276, 282, 291, 271, 296, 306",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953-11-19",
+                "order": "26",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1933",
+                "order": "16",
+                "reference": "s. 17",
+                "to_date": "",
+                "description": "Norsk Kirkekunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Axel Ender",
+    "url": "https://nkl.snl.no/Axel_Ender",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>E. vakte allerede i elevtiden oppmerksomhet ved sin eminente og mangesidige tegnebegavelse. Under kong Carl 15s besøk på Tegneskolen i november 1871 var det fremfor alt E. og Peters som vakte Hans Majestets beundring, og de fikk begge to stipendium for å kunne utdanne seg videre i Stockholm. Det var genremaleriet som ble E.s hovedbeskjeftigelse. Men med sin utpreget elastiske sans fant han seg aldri helt til rette som maler. Hans motiver ble meget populære, og kritikerne hevdet undertiden med rette at hans kunst manglet kunstnerisk alvor og vederheftighet.</p>\n<p>En del av hans produksjon bestod av alterbilder. Han har malt altertavlen til Molde kirke, <em>Kvinnene ved graven</em>, til Kampens kirke i Oslo <em>Oppstandelsen</em> (1884), og til Østre Porsgrund kirke <em>Korsfestelsen</em> (1888). E. var en hyppig utstiller i Christiania Kunstforening, der hans arbeider alltid fikk kjøpere.</p>\n<p>En mer sentral og ekte side av E.s talent var hans plastiske begavelse som gikk i utpreget dekorativ retning. Han har utført et verk som vil bli stående som et av de sentrale i forrige århundres skulptur, <em>Tordenskiold</em>-statuen i Oslo, utført i årene 1891–1901. Den var resultatet av en større konkurranse, og innbragte sin skaper ridderkorset av St. Olav. Også monumentets sokkel utførte E. selv. Det hele gir et festlig preg av rokokko.</p>\n<p>Det ble med dette ene mesterverk. Andre billedhugger-oppdrag bød seg ikke, og da hans atelier på Hammersborg både var kaldt og trekkfullt, foretrakk han maleriene.</p>\n</div>",
+    "created_at": "2013-07-03T21:05:09.410+02:00",
+    "changed_at": "2024-06-18T23:26:06.262+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab935\",\"https://digitaltmuseum.no/76ed70aa-ee6b-421b-9632-7ee0000da92a\",\"http://kulturnav.org/76ed70aa-ee6b-421b-9632-7ee0000da92a\"]",
+        "lastname": "Ender",
+        "firstname": "Axel",
+        "birth_date": "14.9.1853",
+        "birthplace": "Asker",
+        "death_date": "10.9.1920",
+        "external_id": "person_8736ab935",
+        "kulturnav_id": "76ed70aa-ee6b-421b-9632-7ee0000da92a",
+        "place_of_death": "Kristiania",
+        "alternative_names": "Ender, Axel Hjalmar"
+    },
+    "authors": [
+        {
+            "full_name": "Ole Rønning Johannesen"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15692/standard_NMK-B_NG.M.0163720130725-13675-1wt1dlj.jpg",
+            "full_size_url": "https://media.snl.no/media/15692/NMK-B_NG.M.0163720130725-13675-1wt1dlj.jpg",
+            "xhtml": "<div>\r\n<p><em>Italienergutt</em>, 1879. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Axel Ender",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15801/standard_NMK-B_NG.M.0446120130725-13675-1dy26ac.jpg",
+            "full_size_url": "https://media.snl.no/media/15801/NMK-B_NG.M.0446120130725-13675-1dy26ac.jpg",
+            "xhtml": "<div>\r\n<p><em>Pike med grønnsaker</em>, 1878. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Axel Ender",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "billedhugger"
+        }
+    ]
+}

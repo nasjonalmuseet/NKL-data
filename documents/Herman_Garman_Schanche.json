@@ -1,0 +1,480 @@
+{
+    "id": 430421,
+    "headword": "Herman Garman Schanche",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108814",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Cecilia Katharina",
+                "lastname": "Garman",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108813",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Herman Garman",
+                "lastname": "Schanche",
+                "professions": [
+                    "kjøpmann",
+                    "forlikskommissær"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kunstakademiet i Düsseldorf under Hans Gude 1857-ca. 1858",
+                "order": "1"
+            },
+            {
+                "comment": "Bergen offentlige Tegneskole under Franz Wilhelm Schiertz",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "reiser til England, Nederland, Frankrike og Portugal"
+            },
+            {
+                "order": "0",
+                "description": "Bosatt i Düsseldorf fra 1857, besøk i Norge flere år etter hverandre bl.a. 1865, -66. -72, -73, -74, -76, -77"
+            },
+            {
+                "order": "1",
+                "description": "studiereise i Bayern, Pfalz og Berchtesgaden"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "1",
+                "description": "Medalje Verdensutstillingen i Wien 1873"
+            },
+            {
+                "order": "0",
+                "description": "Diplom London 1868"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "National Museum, Stockholm"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Stavanger Kunstforenings Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Gävle Museum"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Uddevalla museum"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1878",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1883",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "München",
+                "from_date": "1879",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Berlin",
+                "from_date": "1881",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1867",
+                "order": "7",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Düsseldorf",
+                "from_date": "1880",
+                "order": "18",
+                "to_date": ""
+            },
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1857",
+                "order": "0",
+                "to_date": "1877"
+            },
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Christiania Kunstforening",
+                "from_date": "1861",
+                "order": "1",
+                "to_date": "1977"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Charlottenborgutstillingen, København",
+                "from_date": "1883",
+                "order": "20",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kungliga Akademien, Stockholm",
+                "from_date": "1866",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1872",
+                "order": "11",
+                "to_date": "",
+                "title": "Nordisk industri- og kunstutst."
+            },
+            {
+                "comment": "i perioden",
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1864",
+                "order": "2",
+                "to_date": "1979"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Göteborg",
+                "from_date": "1881",
+                "order": "19",
+                "to_date": "",
+                "title": "Nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Paris",
+                "from_date": "1878",
+                "order": "10",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Philadelphia",
+                "from_date": "1876",
+                "order": "9",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kungliga Akademien, Stockholm",
+                "from_date": "1975",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Wien",
+                "from_date": "1873",
+                "order": "8",
+                "to_date": "",
+                "title": "Verdensutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kungliga Akademien, Stockholm",
+                "from_date": "1970",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kungliga Akademien, Stockholm",
+                "from_date": "1968",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hamburg Kunstforening",
+                "from_date": "1876",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gävle Kunstforening",
+                "from_date": "1876",
+                "order": "13",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1879",
+                "order": "0",
+                "reference": "bd. 2, s. 48;",
+                "to_date": "",
+                "description": "Adolph Tidemand. Hans liv og værker",
+                "place": "(Kristiania",
+                "authors": [
+                    "L. Dietrichson"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888",
+                "order": "1",
+                "reference": "s. 24, 72, 80, 116",
+                "to_date": "",
+                "description": "Bergens Kunstforening i femti aar",
+                "place": "Bergen",
+                "authors": [
+                    "J. Bøgh"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "9",
+                "reference": "s. 62, 67, 264",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845–1945",
+                "place": "Trondheim",
+                "authors": [
+                    "J.J. Grimelund og O. Flønes"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "10",
+                "reference": "s. 150",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "place": "Bergen",
+                "authors": [
+                    "O. Rønning Johannesen"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1891",
+                "order": "2",
+                "reference": "bd. II, del 2, s. 533",
+                "to_date": "1901",
+                "description": "Malerwerke des neunzehnten Jahrhunderts",
+                "place": "Dresden",
+                "authors": [
+                    "F. von Boetticher"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "5",
+                "reference": "s. 248–49",
+                "to_date": "",
+                "description": "Kungl. Akademiens utställningar 1794–1887",
+                "place": "Stockholm",
+                "authors": [
+                    "E. Hultmark"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "11",
+                "reference": "bd. 9, s. 345",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "E. Bénézit"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "6",
+                "reference": "s. 141, 210",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836–1936",
+                "place": "Oslo",
+                "authors": [
+                    "S. Willoch"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1935",
+                "order": "4",
+                "reference": "bd. 29, s. 578",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "7",
+                "reference": "s. 69",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838–1938",
+                "place": "Bergen",
+                "authors": [
+                    "R. Kloster"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943-11-16",
+                "order": "8",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1926",
+                "order": "3",
+                "reference": "bd. 20, s. 1053;",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "egne biografiske opplysninger fra 1878 m.m., Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "authors": [],
+                "comments": [],
+                "archives": [
+                    "Manuskript 1024, Universitetsbiblioteket, Bergen"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Herman Garman Schanche",
+    "url": "https://nkl.snl.no/Herman_Garman_Schanche",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>S. skulle opprinnelig bli kjøpmann, men gikk samtidig på Bergen offentlige tegneskole under Franz Wilhelm Schiertz. Han bestemte seg for å bli maler og drog i 1857 til Düsseldorf der han ble elev av Hans Gude, som han for øvrig hadde kopiert bilder av på tegneskolen. S. ble boende i Düsseldorf, men reiste mye rundt om i Europa og var også en rekke ganger i Norge. Han var ofte representert på de store verdensutstillingene, og på utstillingen i Wien 1873 fikk han medalje for <em>Innseilingen til Bergen i måneskinn</em>. Bildet ble senere solgt til Nationalmuseet, Stockholm. Han solgte ofte bilder i kunstforeninger, i norske så vel som i utenlandske. S. var først og fremst landskapsmaler og malte gjerne innlandsmotiver i den tidligere fase av sin karriere. I den senere fase konsentrerte han seg mer om kystmotiver i måneskinn.</p></div>",
+    "created_at": "2014-11-20T14:50:47.777+01:00",
+    "changed_at": "2024-06-18T23:27:57.501+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3381\",\"https://digitaltmuseum.no/99d40305-2b8c-461d-8399-1b5c04e2b050\",\"http://kulturnav.org/99d40305-2b8c-461d-8399-1b5c04e2b050\"]",
+        "lastname": "Schanche",
+        "firstname": "Herman Garman",
+        "birth_date": "7.9.1828",
+        "birthplace": "Bergen",
+        "death_date": "21.12.1884",
+        "external_id": "person_8736ab3381",
+        "kulturnav_id": "99d40305-2b8c-461d-8399-1b5c04e2b050",
+        "place_of_death": "Düsseldorf"
+    },
+    "authors": [
+        {
+            "full_name": "Dag Sveen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

@@ -1,0 +1,1639 @@
+{
+    "id": 430880,
+    "headword": "Marie Tannæs",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107479",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Arne Christophersen",
+                "lastname": "Tannæs",
+                "professions": [
+                    "sogneprest"
+                ]
+            },
+            {
+                "type": "Datter av",
+                "external_id": "person_8736ab107480",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Marie",
+                "lastname": "Udnæs",
+                "professions": []
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Knud Bergsliens malerskole, Christiania 1875",
+                "order": "2"
+            },
+            {
+                "comment": "Elev av Erik Werenskiold 1891",
+                "order": "6"
+            },
+            {
+                "comment": "Den kgl. Tegneskole 1872-74",
+                "order": "0"
+            },
+            {
+                "comment": "Elev av Christian Wexelsen periodevis 1876-83",
+                "order": "3"
+            },
+            {
+                "comment": "Elev av Carl Schøyen 2 måneder 1875",
+                "order": "1"
+            },
+            {
+                "comment": "Christian Krohgs, Hans Heyerdahls og Erik Werenskiolds malerskole, Kristiania 1884-87",
+                "order": "4"
+            },
+            {
+                "comment": "Elev av Pierre Puvis de Chavannes, Paris 1892",
+                "order": "7"
+            },
+            {
+                "comment": "Académie Colarossi, Paris 1888-89",
+                "order": "5"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1883, -85"
+            },
+            {
+                "order": "4",
+                "description": "Italia 1898, 1901-02 (Sicilia), -10, -23"
+            },
+            {
+                "order": "2",
+                "description": "Studieopphold i Paris 1888-89, -92"
+            },
+            {
+                "order": "3",
+                "description": "Danmark fra 1890-årene"
+            },
+            {
+                "order": "1",
+                "description": "Hielmstierne Rosencrones legat 1889, -90"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "2",
+                "description": "Styremedlem Christiania Kunstforening 1914-22"
+            },
+            {
+                "order": "0",
+                "description": "Stemmerett Bildende Kunstneres Styre, styremedlem 1913-15"
+            },
+            {
+                "order": "1",
+                "description": "Medlem Den faste Jury 1909-14"
+            }
+        ],
+        "awards": [
+            {
+                "order": "2",
+                "description": "Sølvmedalje San Francisco 1915"
+            },
+            {
+                "order": "0",
+                "description": "Mention honorable Verdensutst. i Paris 1889"
+            },
+            {
+                "order": "1",
+                "description": "Bronsemedalje Verdensutst. i Paris 1900"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Morrisons Galleri, England"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Forening til norske Fortidsminnesmerkers Bevaring"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Det Kgl. Slott"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "25",
+                "to_date": "",
+                "title": "Verdensutst. i Chicago"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1901",
+                "order": "29",
+                "to_date": "",
+                "title": "Charlottenborgudstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "39",
+                "to_date": "",
+                "title": "retrospektiv utst. 1836-1911"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1887",
+                "order": "20",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1941",
+                "order": "56",
+                "to_date": "",
+                "title": "Medlemmenes egen utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1931",
+                "order": "49",
+                "to_date": "",
+                "title": "Kunstnerforbundet gjennem 20 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1901",
+                "order": "32",
+                "to_date": "",
+                "title": "norsk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "59",
+                "to_date": "",
+                "title": "Jubileumsutst. nr. 1"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1886",
+                "order": "13",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "24",
+                "to_date": "",
+                "title": "norsk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1911",
+                "order": "38",
+                "to_date": "",
+                "title": "norsk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1899",
+                "order": "28",
+                "to_date": "",
+                "title": "Charlottenborgudstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1904",
+                "order": "34",
+                "to_date": "",
+                "title": "Norska konstnärers arbeten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1950",
+                "order": "57",
+                "to_date": "",
+                "title": "Kragerø i malerkunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "42",
+                "to_date": "",
+                "title": "Malerindeforbundets utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1888",
+                "order": "21",
+                "to_date": "",
+                "title": "nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1883",
+                "order": "10",
+                "to_date": "1992",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "48",
+                "to_date": "",
+                "title": "Landsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "43",
+                "to_date": "",
+                "title": "Norsk Målarkonst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1902",
+                "order": "33",
+                "to_date": "",
+                "title": "Efterutst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "52",
+                "to_date": "",
+                "title": "Høstutstillingen gjennem de første 25 år"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1887",
+                "order": "14",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1951",
+                "order": "58",
+                "to_date": "",
+                "title": "Jubileumsutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "23",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1905",
+                "order": "37",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1914",
+                "order": "41",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1936",
+                "order": "54",
+                "to_date": "",
+                "title": "Jubileums utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1896",
+                "order": "27",
+                "to_date": "",
+                "title": "Charlottenborgudstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "44",
+                "to_date": "",
+                "title": "Den Norske Kunstudst. Charlottenborgudstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1895",
+                "order": "11",
+                "to_date": "1928",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1898",
+                "order": "31",
+                "to_date": "",
+                "title": "norsk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1982",
+                "order": "61",
+                "to_date": "",
+                "title": "Kvinners bilder"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "22",
+                "to_date": "",
+                "title": "Verdensutst. i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1886",
+                "order": "19",
+                "to_date": "",
+                "title": "nordisk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1894",
+                "order": "26",
+                "to_date": "",
+                "title": "norsk utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "55",
+                "to_date": "",
+                "title": "Mitt første billede på Statens Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1913",
+                "order": "40",
+                "to_date": "",
+                "title": "Brighton-utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "46",
+                "to_date": "",
+                "title": "vårutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1915",
+                "order": "45",
+                "to_date": "",
+                "title": "San Francisco-utst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "60",
+                "to_date": "",
+                "title": "Kvinnen og kunsten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1897",
+                "order": "30",
+                "to_date": "",
+                "title": "Allmänna konst- och industriutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1930",
+                "order": "12",
+                "to_date": "1934",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1931",
+                "order": "50",
+                "to_date": "",
+                "title": "Secession Norwegischer Kunst"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Pastell utført av Signe Scheel (1892, Oslo Bymuseum)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Maleri utført av d.s. (1895, privat eie)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1911-11-25",
+                "order": "0",
+                "to_date": "",
+                "description": "Wienerutstillingen, Tidens Tegn",
+                "authors": [],
+                "comments": [
+                    "(sammen med Krohg, C., H. Strøm)"
+                ],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1884-11-13",
+                "order": "43",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "32",
+                "reference": "bd. 10, s. 70",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922",
+                "order": "7",
+                "reference": "s. 571, 574",
+                "to_date": "",
+                "description": "Scandinavian Art",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-11-02",
+                "order": "72",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-13",
+                "order": "53",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-02-20",
+                "order": "83",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "22",
+                "to_date": "",
+                "description": "Vøienvolden",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-16",
+                "order": "106",
+                "to_date": "",
+                "description": "Ørebl",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923-10-04",
+                "order": "112",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-09-30",
+                "order": "84",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-10-03",
+                "order": "73",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1936",
+                "order": "12",
+                "to_date": "",
+                "description": "Kunstforeningen i Oslo 1836-1936",
+                "authors": [],
+                "comments": [
+                    "register"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1888-06-08",
+                "order": "63",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-04-26",
+                "order": "98",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "33",
+                "reference": "s. 139-40",
+                "to_date": "",
+                "description": "Blant kunstnere i det gamle Asker",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "8",
+                "reference": "s. 145",
+                "to_date": "",
+                "description": "i Urd",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1884-09-12",
+                "order": "42",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887",
+                "order": "61",
+                "to_date": "",
+                "description": "Bergens Adressecontoirs Efterretninger",
+                "authors": [],
+                "comments": [
+                    "nr. 149"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1911-04-12",
+                "order": "71",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "23",
+                "reference": "register s. 291",
+                "to_date": "",
+                "description": "Drammens Kunstforening 1867-1967",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-04",
+                "order": "52",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-03-19",
+                "order": "113",
+                "to_date": "",
+                "description": "Tidens Tegn og Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-06-21",
+                "order": "85",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-10-24",
+                "order": "107",
+                "to_date": "",
+                "description": "Ørebl",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888-10-10",
+                "order": "62",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "13",
+                "reference": "s. 110, 123 (ill.)",
+                "to_date": "",
+                "description": "Bergens Kunstforening 1838-1938",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-15",
+                "order": "99",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-09-16",
+                "order": "60",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "5",
+                "to_date": "",
+                "description": "Hvem er hvem?",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "34",
+                "reference": "s. 17",
+                "to_date": "",
+                "description": "Kunstnernes Hus 1930-80",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-12-22",
+                "order": "41",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "20",
+                "to_date": "1972",
+                "description": "Drammen. En norsk østlandsbys utviklingshistorie",
+                "authors": [],
+                "comments": [
+                    "register bd. 3"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1887-05-01",
+                "order": "55",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-05-11",
+                "order": "75",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-05",
+                "order": "108",
+                "to_date": "",
+                "description": "Social-Demokraten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-10-14",
+                "order": "86",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1922-10-05",
+                "order": "110",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1919-10-11",
+                "order": "100",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-10-20",
+                "order": "90",
+                "to_date": "",
+                "description": "Social-Demokraten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-12-05",
+                "order": "96",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "14",
+                "reference": "bd. 32, s. 431-32",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Kü,nstler-B.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-06-11",
+                "order": "59",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-08-01",
+                "order": "6",
+                "to_date": "",
+                "description": "Husmoderen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-12-19",
+                "order": "40",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "35",
+                "reference": "bd. 5, s. 254",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-11-23",
+                "order": "68",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-14",
+                "order": "54",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "21",
+                "reference": "s. 27, 150",
+                "to_date": "",
+                "description": "For den bildende kunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-04-02",
+                "order": "74",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1943",
+                "order": "15",
+                "reference": "s. 75",
+                "to_date": "",
+                "description": "Norske kvinner, 150 portretter",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972",
+                "order": "28",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "authors": [],
+                "comments": [
+                    "bd. 18, spalte 673"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1915-10-12",
+                "order": "87",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-03-18",
+                "order": "111",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-10-11",
+                "order": "101",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-10-14",
+                "order": "89",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-12-18",
+                "order": "39",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-07",
+                "order": "97",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-01",
+                "order": "48",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951",
+                "order": "17",
+                "reference": "bd. 1, s. 318, 358",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "36",
+                "reference": "bd. 11, s. 505",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "26",
+                "reference": "s. 135, 251",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910-67",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-11-24",
+                "order": "79",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "3",
+                "reference": "bd. 2, s. 357",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-12-06",
+                "order": "92",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-05-05",
+                "order": "57",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-07",
+                "order": "102",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1905-11-19",
+                "order": "67",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-04-03",
+                "order": "77",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1908-11-29",
+                "order": "69",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-09-18",
+                "order": "47",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1913-10-01",
+                "order": "88",
+                "to_date": "",
+                "description": "Norske Intelligenssedler",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1983",
+                "order": "37",
+                "reference": "register s. 176 (ill.)",
+                "to_date": "",
+                "description": "Kvinner ved staffeliet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "27",
+                "reference": "bd. 3, s. 447",
+                "to_date": "",
+                "description": "Tromsø bys historie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1946",
+                "order": "16",
+                "reference": "s. 13",
+                "to_date": "",
+                "description": "Idékamp og stilskifte i norsk malerkunst 1900-1919",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1917-10-27",
+                "order": "103",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "4",
+                "reference": "s. 36 (ill.)",
+                "to_date": "",
+                "description": "Norske malere",
+                "authors": [],
+                "comments": [
+                    "utg. Kunstnerforbundet"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1914-10-28",
+                "order": "91",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1888-07-13",
+                "order": "56",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "19",
+                "reference": "register s. 661 (ill.)",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903",
+                "order": "66",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [
+                    "nr. 550"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1913-04-05",
+                "order": "80",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "9",
+                "reference": "bd. 2, s. 489, 491",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1910-10-19",
+                "order": "70",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-09-14",
+                "order": "46",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914-05-23",
+                "order": "76",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "29",
+                "reference": "bd. 3, s. 536",
+                "to_date": "",
+                "description": "Nord-Odal bygdebok",
+                "authors": [],
+                "comments": [
+                    "[Sand]"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "24",
+                "reference": "s. 45",
+                "to_date": "",
+                "description": "Christian Krohg. En bibliografi",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934-03-19",
+                "order": "114",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1883-12-15",
+                "order": "38",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1918-10-04",
+                "order": "109",
+                "to_date": "",
+                "description": "i Stavanger Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-13",
+                "order": "51",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-05",
+                "order": "95",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-10",
+                "order": "104",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "10",
+                "reference": "bd. 23, s. 83",
+                "to_date": "",
+                "description": "Salmonsens",
+                "authors": [],
+                "comments": [
+                    "Konversationsleksikon"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1914-10-07",
+                "order": "81",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-02-25",
+                "order": "94",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1890-10-19",
+                "order": "65",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1903",
+                "order": "1",
+                "reference": "s. 553-54",
+                "to_date": "",
+                "description": "i Urd",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "30",
+                "reference": "s. 346",
+                "to_date": "",
+                "description": "Gudbrandsdalen",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1886-08-17",
+                "order": "45",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-09-12",
+                "order": "50",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "25",
+                "reference": "bd. 16, s. 99-101",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1939-02-21",
+                "order": "115",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-10",
+                "order": "105",
+                "to_date": "",
+                "description": "Norske Intelligenssedler",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1955",
+                "order": "18",
+                "reference": "register s. 280 (ill.)",
+                "to_date": "",
+                "description": "Trondhjems Kunstforening 1845-1945",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-04-09",
+                "order": "82",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1887-10-18",
+                "order": "58",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1934",
+                "order": "11",
+                "reference": "s. 55",
+                "to_date": "",
+                "description": "Fra naturalisme til nyromantikk",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1889-09-17",
+                "order": "64",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1904",
+                "order": "2",
+                "reference": "s. 88",
+                "to_date": "",
+                "description": "Det nye Norges malerkunst",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1916-03-06",
+                "order": "93",
+                "to_date": "",
+                "description": "Verdens Gang",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "31",
+                "reference": "s. 215",
+                "to_date": "",
+                "description": "Telemark",
+                "authors": [],
+                "comments": [
+                    "Bygd og by i Norge"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1885-10-31",
+                "order": "44",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911-11-23",
+                "order": "78",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1886-11-12",
+                "order": "49",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Marie Tannæs",
+    "url": "https://nkl.snl.no/Marie_Tann%C3%A6s",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>T. ble oppmuntret av farens venn, maleren Christian Wexelsen til å bli kunstner, og skal angivelig ha malt sammen med ham og Carl Schøyen fra hun var 17 år gammel. Wexelsen har nok også bidratt til at hun konsentrerte seg om landskapsmaleriet. Allerede fra tidlig i sin karriere foretrakk T. å male vår- og høstlandskaper, gjerne gråværsstemninger. I sin teknikk og malemåte har hun hentet mye fra Erik Werenskiold. T.s landskapsmotiver er små utsnitt av skoger, fjorder og elveleier, men også vide utsikter, som <em>Hoff ved Skøyen</em> (1887, privat eie), som hun ble belønnet med mention honorable for på Verdensutstillingen i Paris 1889. Bildet er malt med brede, markerte penselstrøk. Med fargene har hun forsøkt å gjengi den jevne belysningen over landskapet en grå høstdag da lys og skygge ikke står klart mot hverandre, men preger naturens elementer i duse, dempede fargeklanger og váre overganger. T. har malt flere steder i landet, bl.a. i Nordland 1885, men mest på Østlandet og især i og omkring hovedstaden, der hun var bosatt. Akerbygdene, Oslofjorden og rene bystrøk, f.eks. langs Akerselva var hyppige motiver i hennes relativt store produksjon gjennom en lang karriere. I 1890-årene malte hun bl.a. i Lillehammer, Vågå, Kragerø og Holmestrand, foruten i Danmark der hun også senere malte en del. T. hadde familie på Vøyenvolden i Oslo, der hun ofte oppholdt seg allerede som barn. Etter århundreskiftet ble tunet på Vøyenvolden hennes hyppigste motiv. Et tidlig eks. er <em>Senhøstes</em> (1896, Nasjonalgalleriet, Oslo). Med bruk av både pensel og palettkniv i en pastos, impressiv teknikk, har hun beskrevet tunet, hønene og husene slik de fremstår i høstlig sollys med markerte kontraster mellom blålige skygger og kraftig opplyste hvite vegger. Interessen for valørenes spill dominerer slik at detaljer i bygninger og vegetasjon viskes ut. Selv gresset i forgrunnen er summarisk gjengitt med hennes karakteristiske frodige farger og korte, brede penselstrøk. T.s produksjon er meget jevn. Hun forble trofast mot en nøktern, impressiv og naturalistisk landskapsstil, men utviklet med årene en lysere palett. Hun var dessuten en flittig utstiller og må være blant dem som har stilt ut flest ganger på Høstutstillingen, nesten årlig i tiden 1883-1934. Størst oppmerksomhet fikk hun naturlig nok ved sine separatutstillinger, særlig da hun i Christiania Kunstforening 1916 viste en rekke landskaper fra hele sin produksjon. Kritikerne roste hennes upretensiøse naturalisme både i motivvalg og teknikk og mente hun hadde en særskilt mandig kraft i bildene sine, i en tid da man tilla kvinnelige kunstnere en spesiell feminin stil.</p></div>",
+    "created_at": "2014-12-19T15:05:48.076+01:00",
+    "changed_at": "2024-06-18T23:28:09.114+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "k",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3692\",\"https://digitaltmuseum.no/2582ed02-b61b-472e-a6ec-9b737fef88fc\",\"http://kulturnav.org/2582ed02-b61b-472e-a6ec-9b737fef88fc\"]",
+        "lastname": "Tannæs",
+        "firstname": "Marie",
+        "birth_date": "19.3.1854",
+        "birthplace": "Christiania",
+        "death_date": "20.2.1939",
+        "external_id": "person_8736ab3692",
+        "kulturnav_id": "2582ed02-b61b-472e-a6ec-9b737fef88fc",
+        "place_of_death": "København",
+        "alternative_names": "Tannæs, Marie Katharine Helene"
+    },
+    "authors": [
+        {
+            "full_name": "Anne Wichstrøm"
+        },
+        {
+            "full_name": "Svein Aamold"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20659/standard_NMK-B_NG.M.0073920151204-26003-104708n.jpg",
+            "full_size_url": "https://media.snl.no/media/20659/NMK-B_NG.M.0073920151204-26003-104708n.jpg",
+            "xhtml": "<div><p><i>Senhøstes, Vøyenvollen i Oslo</i>. Marie Tannæs. 1896. <a href=\"http://digitaltmuseum.no/011041107627\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Marie Tannæs",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

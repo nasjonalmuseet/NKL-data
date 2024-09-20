@@ -1,0 +1,694 @@
+{
+    "id": 418327,
+    "headword": "Rolv Muri",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab105650",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Helga Brøchner",
+                "lastname": "Christiansen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105648",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Emil Alfred",
+                "lastname": "Muri",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105649",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Milda Elina Aletta",
+                "lastname": "Auflem",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Olden i Nordfjord"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole under Karl Høgberg 1945",
+                "order": "1"
+            },
+            {
+                "comment": "Bjarne Engebrets malerskole, Oslo kort tid 1945",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Aage Storstein 1946–47",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Sogn og Fjordane fylkes kunstnerstipend 1964"
+            },
+            {
+                "order": "4",
+                "description": "Statens garantiinntekt fra 1977"
+            },
+            {
+                "order": "5",
+                "description": "Studiereiser i Skandinavia og Mellom-Europa fra 1960"
+            },
+            {
+                "order": "0",
+                "description": "Unge Kunstneres Samfunn arbeidsstipend 1957"
+            },
+            {
+                "order": "3",
+                "description": "Statens 3-årige arbeidsstipend 1965"
+            },
+            {
+                "order": "1",
+                "description": "Lorch-Schives legat 1959"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "6",
+                "description": "jurymedlem Vestlandsutstillingen fra 1981"
+            },
+            {
+                "order": "5",
+                "description": "Biletkunstnarane i Sogn og Fjordane, formann i utsmykkingsutvalget 1980–82"
+            },
+            {
+                "order": "0",
+                "description": "Kunstnerisk konsulent Sentralsykehuset Sogn og Fjordane, Førde fra 1979"
+            },
+            {
+                "order": "2",
+                "description": "Medlem Unge Kunstneres Samfunn 1956–75"
+            },
+            {
+                "order": "4",
+                "description": "Bildende Kunstnere Møre og Romsdal"
+            },
+            {
+                "order": "3",
+                "description": "medlem Landsforeningen Norske Malere"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Norsk kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Aalesunds Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Sentralsykehuset Sogn og Fjordane"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Nasjonalgalleriet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Statens Håndverks- og Kunstindustriskole"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Stryn Kunstlag"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1969",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Aberdeen Art Galleri, Skottland",
+                "from_date": "",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sverige",
+                "from_date": "1979",
+                "order": "22",
+                "to_date": "",
+                "title": "Landsforeningen Norske Malere utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1966",
+                "order": "11",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Aalesunds Kunstforening",
+                "from_date": "1982",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1965",
+                "order": "9",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Landsforeningen Norske Malere, Oslo",
+                "from_date": "1979",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Vancouver, Canada",
+                "from_date": "1962",
+                "order": "14",
+                "to_date": "",
+                "title": "norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1957",
+                "order": "10",
+                "to_date": "1964",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1980",
+                "order": "13",
+                "to_date": "1981",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1978",
+                "order": "12",
+                "to_date": "",
+                "title": "Vestlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Hannover, Vest-Tyskland",
+                "from_date": "1964",
+                "order": "15",
+                "to_date": "",
+                "title": "norsk utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "7",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Riksgalleriets vandreutstilling",
+                "from_date": "1970",
+                "order": "16",
+                "to_date": "",
+                "title": "Abstrakt - nonfigurativt"
+            },
+            {
+                "category": "Gruppe",
+                "exhibition_organizer": "Trondheim Kunstforening",
+                "from_date": "1979",
+                "order": "21",
+                "to_date": "",
+                "title": "Landsforeningen Norske Malere"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1974",
+                "order": "17",
+                "to_date": "",
+                "title": "Visuelt"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1974",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "8",
+                "to_date": "1963",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1969",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandane Kunstlag",
+                "from_date": "1970",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Sverige",
+                "from_date": "1977",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1974",
+                "order": "18",
+                "to_date": "",
+                "title": "Visuelt"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1976",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Gall. F 15, Moss",
+                "from_date": "1977",
+                "order": "19",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1982-02-19",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Sunnmørsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980-11-28",
+                "order": "25",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Muri, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-10-14",
+                "order": "8",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-03",
+                "order": "20",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fjordingen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "17",
+                "reference": "s. 121",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-10-21",
+                "order": "10",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Rogalands Avis",
+                "authors": [
+                    "Riis, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-15",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-14",
+                "order": "13",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-10-11",
+                "order": "7",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-10-01",
+                "order": "5",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Eggum, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "11",
+                "reference": "s. 115, 229",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-09-25",
+                "order": "1",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-09-26",
+                "order": "3",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "23",
+                "reference": "s. 182",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-02-20",
+                "order": "28",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Sunnmørsposten",
+                "authors": [
+                    "Rustøy, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-08-26",
+                "order": "18",
+                "to_date": "",
+                "description": "i Norges Handels og Sjøfartstidende",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-10",
+                "order": "21",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": [
+                    "Rosseland, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981-02-02",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fjordingen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-14",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976-09-02",
+                "order": "19",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E. H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-23",
+                "order": "16",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Bergens Tidende",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-10-16",
+                "order": "9",
+                "to_date": "",
+                "description": "Vårt Land",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-10-07",
+                "order": "6",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Steen-Johnsen, S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1982-02-24",
+                "order": "29",
+                "to_date": "",
+                "description": "i Sunnmørsposten",
+                "authors": [
+                    "Stette, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "12",
+                "reference": "s. 122",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-09-27",
+                "order": "4",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Sunnmørsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "22",
+                "reference": "s. 54",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "0",
+                "reference": "s. 22–23, 24 (ill.)",
+                "to_date": "",
+                "description": "i Norsk kunst i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Malmanger, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-09-25",
+                "order": "2",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-08-26",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i A-magasinet",
+                "authors": [
+                    "Fuhr, B."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Rolv Muri",
+    "url": "https://nkl.snl.no/Rolv_Muri",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>Fra 1948 har M. drevet slektsgården Auflem i Olden i et vekselbruk av tungt gårdsarbeid og virksomhet med pensel og palett. Han deltok på Vestlandsutstillingen fra 1957 og på Høstutstillingen fra 1959, men først i 1969 stilte han ut separat. M.s formspråk er abstrakt, i perioder rent nonfigurativt, men hele tiden inspirert av naturopplevelser fra utsynet over fjorden og fjellene i Nordfjord. Hans tidlige bilder var tunge og mørke i fargen med mye sort, og motivene hadde utgangspunkt i fjell, klipper og stein, som <em>Fjellside</em> (Høstutstillingen 1959). Bildene i Oslo Kunstforening i 1969 viste en lysere og friskere koloritt med en stor variasjon av figurasjoner, ofte med et mylder av symbolbærende tegn over billedflaten. Flere arbeider var collager, bygd opp av tykke lag papir og siden overmalt. Titler som <em>Snøras</em>, <em>Stormkast</em>, <em>Sol på stranden</em>, <em>Jonsoknatt</em> indikerer bakgrunnen for naturopplevelsene. Billedstruktur, komposisjon og pastose penselstrøk er imidlertid underordnet fargen både som billedbyggende og som ekspressivt uttrykksmiddel. Fra midten av 70-årene har en rekke bilder enhetlige fargeklanger av blått, gult, rosa og grønt. Som motvekt mot inntrykkene fra den overveldende naturen, søker M. også motiver i naturformenes mikrokosmos, som <em>Steinens liv</em>, <em>Fjellbris</em> og <em>Bre</em> (alle fra 1974). Cobra-gruppens abstrakte ekspresjonisme har hatt stor betydning for H.s bilder, ved siden av innflytelsen fra fransk nonfigurativt maleri. Hans samlede produksjon fram til 1982 viser også impulser fra norske samtidige malere som Knut Rumohr, Arne Stømne og Jakob Weidemann.</p></div>",
+    "created_at": "2013-07-04T12:16:46.329+02:00",
+    "changed_at": "2024-06-18T23:26:32.503+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2794\",\"https://digitaltmuseum.no/0c6dd50f-ab60-47f1-891c-866455b4a5b2\",\"http://kulturnav.org/0c6dd50f-ab60-47f1-891c-866455b4a5b2\"]",
+        "lastname": "Muri",
+        "firstname": "Rolv",
+        "birth_date": "22.12.1921",
+        "birthplace": "Ålesund",
+        "death_date": "0.0.1992",
+        "external_id": "person_8736ab2794",
+        "kulturnav_id": "0c6dd50f-ab60-47f1-891c-866455b4a5b2",
+        "alternative_names": "Muri, Rolv Lorentz"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

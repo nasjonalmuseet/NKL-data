@@ -1,0 +1,934 @@
+{
+    "id": 431380,
+    "headword": "Herman Willoch",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "tegner"
+            },
+            {
+                "description": "offiser"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108189",
+                "birth_date": "1839",
+                "death_date": "1993",
+                "firstname": "Christian Abel",
+                "lastname": "Isaachsen",
+                "professions": [
+                    "sogneprest"
+                ]
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab108190",
+                "birth_date": "1855",
+                "death_date": "1935",
+                "firstname": "Magdalena Dorothea",
+                "lastname": "Hansen",
+                "professions": null
+            },
+            {
+                "from_date": "1931",
+                "type": "Gift med",
+                "external_id": "person_8736ab108191",
+                "birth_date": "1900",
+                "death_date": "",
+                "firstname": "Kirsten Emilie Emerenze",
+                "lastname": "Biørn",
+                "professions": [
+                    "maler"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Eksamen Krigsskolen 1914",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Christiania under Chr. Krohg 1917–19",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Kristiania raderklasse, aftenskolen 1918–19, dekorasjonsklasse, 3. frihåndsklasse",
+                "order": "2"
+            },
+            {
+                "comment": "elev av Othon Friesz og André Lhote i Paris 1919–20",
+                "order": "3"
+            },
+            {
+                "comment": "Hoffmanns malerskole, München 1921–22",
+                "order": "4"
+            },
+            {
+                "comment": "Gauguin, Polas malerskole, Oslo",
+                "order": "5"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo aftenskole 1924–25 under Olaf Willums",
+                "order": "6"
+            },
+            {
+                "comment": "Goetheanum, Dornach 1927–29",
+                "order": "7"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Finnes legat 1934, -35"
+            },
+            {
+                "order": "1",
+                "description": "Statens stipend 1939"
+            },
+            {
+                "order": "2",
+                "description": "Moss Sparebanks stipend 1948"
+            },
+            {
+                "order": "3",
+                "description": "stipend-opphold Schäffergården, København 1958"
+            },
+            {
+                "order": "4",
+                "description": "Studiereiser Paris 1919-20"
+            },
+            {
+                "order": "5",
+                "description": "Dresden, München 1921–22"
+            },
+            {
+                "order": "6",
+                "description": "Sveits 1927"
+            },
+            {
+                "order": "7",
+                "description": "Paris 1928"
+            },
+            {
+                "order": "8",
+                "description": "Sveits 1929"
+            },
+            {
+                "order": "9",
+                "description": "København 1932"
+            },
+            {
+                "order": "10",
+                "description": "Paris og Italia 1948–49"
+            },
+            {
+                "order": "11",
+                "description": "Paris 1950"
+            },
+            {
+                "order": "12",
+                "description": "Italia ca. 1962"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Premierløytnant i Festningsartilleriet 1914, kaptein fra 1930-årene, midlertidig major og kommandant Vardøhus festning 1955–57"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "Medstifter Unge Kunstneres Samfunn 1921"
+            },
+            {
+                "order": "3",
+                "description": "varamedlem Tilsynsrådet Kunstnernes Hus, Oslo 1934–36"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "1. premie i konkurranse utsmykking av festsal Stabekk husstellærerhøgskole 1934"
+            },
+            {
+                "order": "1",
+                "description": "1. premie i konkurranse utsmykking av Haslum gravkapell 1934"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Veggmalerier (kasein) korridor og vestibyle, Stabekk videregående skole (1932–33)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "veggmaleri (kasein), Bondelagets folkehøgskole, Mysen (1933)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "veggmaleri Stabekk husstellærerhøgskole (1934)"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "veggmaleri (al secco) Haslum gravkapell (1934, revet 1966)"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "freske Sandvika rådhus (1935, fjernet ca. 1955), maleri innkjøpt"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "alterbilde Hasselvika kapell, Rissa, Sør-Trøndelag (1939)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "freske Østre gravlund kapell, Oslo (1946, nytt bygg 1960)"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "freske Moss krematorium (1948)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "freske Heimtun ungdomshus, Rissa, Sør-Trøndelag"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "freske(?) gravkapellet ved Hafslund kirke"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "mosaikk, Nora Mineralvann A/S, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "dekorasjon barnehjem på Kapp, Toten"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Steinkjer Kunstforening"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "K.F. Wolff: Eventyr fra de lyse fjellene, Oslo 1931"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "K. Schiøtz: Eventyret om juleengelen som mistet lysgnisten, Oslo 1945"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "from_date": "1951",
+                "order": "6",
+                "to_date": "",
+                "title": "Kultur og Minne"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1951",
+                "order": "7",
+                "to_date": "",
+                "title": "Kultur og Minne"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1958",
+                "order": "11",
+                "to_date": "",
+                "title": "Permanenten"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1965",
+                "order": "12",
+                "to_date": "",
+                "title": "Permanenten"
+            },
+            {
+                "category": "Separat",
+                "from_date": "1967",
+                "order": "13",
+                "to_date": "",
+                "title": "Permanenten"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1918",
+                "order": "20",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1920",
+                "order": "21",
+                "to_date": "1922",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1927",
+                "order": "22",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1932",
+                "order": "23",
+                "to_date": "1935",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "24",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1945",
+                "order": "25",
+                "to_date": "1951",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1963",
+                "order": "26",
+                "to_date": "1964",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1937",
+                "order": "29",
+                "to_date": "",
+                "title": "Verdensutst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1940",
+                "order": "30",
+                "to_date": "",
+                "title": "Nasjonalgalleriets retrospektive utstilling over norsk kunst"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1947",
+                "order": "33",
+                "to_date": "",
+                "title": "Den Officielle Norske Kunstudst."
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Maleri utført av Kirsten Biørn (olje, 1933)"
+            }
+        ],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1930",
+                "order": "0",
+                "reference": "s. 286–87",
+                "to_date": "",
+                "description": "Norges militære embedsmenn 1929",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1944",
+                "order": "1",
+                "reference": "s. 285 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1956",
+                "order": "2",
+                "reference": "s. 280, 283 (ill.)",
+                "to_date": "",
+                "description": "Illustrert Norsk Kunstnerleksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "3",
+                "reference": "s. 184",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850–1950",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1953",
+                "order": "4",
+                "reference": "bd. 2, s. 198",
+                "to_date": "",
+                "description": "Norges billedkunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1959",
+                "order": "5",
+                "reference": "s. 128",
+                "to_date": "",
+                "description": "I arbeid for Norges hjem. Statens lærerskole i husstell, Stabekk 1909–1959",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "6",
+                "reference": "s. 92, 210, 260",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1972",
+                "order": "7",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "authors": null,
+                "comments": [
+                    "bd. 19, spalte 1040"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1973",
+                "order": "8",
+                "to_date": "",
+                "description": "Trondhjems kunstforening 1945–1970",
+                "authors": null,
+                "comments": [
+                    "register"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "9",
+                "reference": "s. 224",
+                "to_date": "",
+                "description": "Kunstnernes Hus 1930–1980",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "10",
+                "reference": "bd. 12, s. 586",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1920-11-11",
+                "order": "11",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1920-11-15",
+                "order": "12",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924-04-04",
+                "order": "13",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924-10-30",
+                "order": "14",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924-04-08",
+                "order": "15",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924-11-04",
+                "order": "16",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924-11-01",
+                "order": "17",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924-11-01",
+                "order": "18",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1935-11-16",
+                "order": "19",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938-02-09",
+                "order": "20",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938-02-14",
+                "order": "21",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938-02-16",
+                "order": "22",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938-02-22",
+                "order": "23",
+                "to_date": "",
+                "description": "i Tidens Tegn",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1946-11-29",
+                "order": "24",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1946-12-02",
+                "order": "25",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-02-20",
+                "order": "26",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-02-21",
+                "order": "27",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-02-27",
+                "order": "28",
+                "to_date": "",
+                "description": "i Arbeiderbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-02-27",
+                "order": "29",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-03-01",
+                "order": "30",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1948-03-05",
+                "order": "31",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950-05-13",
+                "order": "32",
+                "to_date": "",
+                "description": "Moss Avis",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1950-11-06",
+                "order": "33",
+                "to_date": "",
+                "description": "Øvre Smaalenene",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1951-02-10",
+                "order": "34",
+                "to_date": "",
+                "description": "i Sarpsborg Arbeiderblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1954-10-15",
+                "order": "35",
+                "to_date": "",
+                "description": "i Hamar Stiftstidende",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958-11-22",
+                "order": "36",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958-11-22",
+                "order": "37",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Arbeiderbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958-11-22",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958-11-27",
+                "order": "39",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958-11-29",
+                "order": "40",
+                "to_date": "",
+                "description": "i Morgenbladet",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1958-12-03",
+                "order": "41",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1959-02-07",
+                "order": "42",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Demokraten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1959-02-07",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Fredriksstad Blad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961-09-15",
+                "order": "44",
+                "to_date": "",
+                "description": "i Adresseavisen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961-10-07",
+                "order": "45",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1961-10-14",
+                "order": "46",
+                "to_date": "",
+                "description": "Haugesunds Dagblad",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965-08-31",
+                "order": "47",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965-09-01",
+                "order": "48",
+                "to_date": "",
+                "description": "i Morgenposten",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965-09-01",
+                "order": "49",
+                "to_date": "",
+                "description": "i Vårt Land",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1965-09-03",
+                "order": "50",
+                "to_date": "",
+                "description": "i Nationen",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "51",
+                "to_date": "",
+                "authors": null,
+                "comments": null,
+                "archives": [
+                    "Norsk portrettarkiv, Riksantikvaren"
+                ]
+            },
+            {
+                "from_date": "",
+                "order": "52",
+                "to_date": "",
+                "authors": null,
+                "comments": null,
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Herman Willoch",
+    "url": "https://nkl.snl.no/Herman_Willoch",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>W. flyttet som gutt fra Bergen til Asker og senere til Kristiania Etter eksamen ved Krigsskolen 1914 tjenstgjorde han noen år som offiser før han søkte malerutdannelse. W. debuterte på Høstutstillingen under elevtiden i 1918 med <em>Talatta</em> som viser påvirkning fra Oskar Kokoschka. Senere ses innflytelse fra Henrik Sørensen, Bernt Clüver og Jens F. Willumsen. Hans store forbilde skal ha vært Delacroix. Det ble tidlig klart at det dekorative maleri lå særlig til rette for hans talent, og W. utførte en rekke secco- og freskodekorasjoner som viser teknisk innsikt og billedfantasi. Hans uttrykk bar preg av pendling mellom franskpåvirket senimpresjonisme og ekspressiv, stilisert naturalisme. W. var antroposof, og i mange av dekorasjonene er temaet mennesket som en åndelig kraft i kontakt med det guddommelige, fremstilt gjennom allegorier og motiver fra mytologien. Komposisjonene kan virke overdrevent voldsomme med store fakter i figurfremstillingen, ofte med vekt på diagonale virkninger. W. arbeidet også med landskap og arkitekturmotiver, ofte i pastell, foruten mosaikk, treskjæring og modellering. Han var en stor del av sitt liv bosatt i Bærum, men satt under krigen tre og et halvt år i tysk fangeleir hvor han begynte å tegne portretter. Senere malte han flere, bl.a. av <em>Amalie Christie, Arne Thomas Olsen</em> og <em>Anton Rønneberg</em>. Fra 1955–57 var W. kommandant på Vardøhus festning og malte en rekke naturstudier.</p></div>",
+    "created_at": "2014-12-21T16:35:39.183+01:00",
+    "changed_at": "2024-06-18T23:28:23.150+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab4020\",\"https://digitaltmuseum.no/9af0f9b4-8df7-40a3-881c-e32ff52b745f\",\"http://kulturnav.org/9af0f9b4-8df7-40a3-881c-e32ff52b745f\"]",
+        "lastname": "Willoch",
+        "firstname": "Herman",
+        "birth_date": "27.6.1892",
+        "birthplace": "Alversund ved Bergen",
+        "death_date": "11.2.1968",
+        "external_id": "person_8736ab4020",
+        "kulturnav_id": "9af0f9b4-8df7-40a3-881c-e32ff52b745f",
+        "place_of_death": "Bærum",
+        "alternative_names": "Isaachsen, Herman (til mellom 1939-45)"
+    },
+    "authors": [
+        {
+            "full_name": "Ingeborg Wikborg"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "tegner"
+        },
+        {
+            "description": "offiser"
+        }
+    ]
+}

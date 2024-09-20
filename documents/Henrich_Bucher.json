@@ -1,0 +1,256 @@
+{
+    "id": 416789,
+    "headword": "Henrich Bucher",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "litograf"
+            },
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101182",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Elisabeth Margrete",
+                "lastname": "Ryg",
+                "professions": []
+            },
+            {
+                "from_date": "1875",
+                "type": "Gift med",
+                "external_id": "person_8736ab101184",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ingeborg Sofie Hysing",
+                "lastname": "Reimers",
+                "professions": [],
+                "place": "Bergen"
+            },
+            {
+                "from_date": "1846",
+                "type": "Gift med",
+                "external_id": "person_8736ab101183",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Helene Henriette",
+                "lastname": "Wiinæs",
+                "professions": [],
+                "place": "Bergen"
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101181",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Johan Baltzer Dethloff",
+                "lastname": "Bucher",
+                "professions": [
+                    "gullsmed"
+                ]
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "B. gikk i lære i kaptein G.C.W. Prahls litografiske anstalt i Bergen 1833–44",
+                "order": "0"
+            },
+            {
+                "comment": "dessuten arbeidet en tid i Braunsdorffs litografiske verksted",
+                "order": "2"
+            },
+            {
+                "comment": "Studiereise til Dresden 1844, hvor han fikk veiledning av prof. J.C. Dahl",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Studiereiser i Tyskland 1844, 1851, 1853 og 1854"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "1",
+                "description": "Medlem av Kunstforeningen og Haandverkerforeningen, samt styremedlem gjennom flere år"
+            },
+            {
+                "order": "0",
+                "description": "Lærer ved Bergens offentlige tegneskole 1844–95"
+            }
+        ],
+        "awards": [],
+        "public_productions": [],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1914",
+                "order": "1",
+                "to_date": "",
+                "title": "Jubileumsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1888",
+                "order": "0",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1895-08-02",
+                "order": "1",
+                "to_date": "",
+                "description": "i Bergens Tidende",
+                "authors": [
+                    "Bøgh, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1911",
+                "order": "4",
+                "reference": "s. 367",
+                "to_date": "",
+                "description": "Slægten fra 1814",
+                "place": "(Kristiania",
+                "authors": [
+                    "Schnitler, C.W."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1895",
+                "order": "2",
+                "reference": "s. 136, 180,188",
+                "to_date": "",
+                "description": "Norsk Tidsskrift for Haandverk og Industri",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "reference": "bd. 18, s. 155",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1895-05-30",
+                "order": "0",
+                "to_date": "",
+                "description": "Bergens Aftenblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1914",
+                "order": "5",
+                "reference": "bd. 2, s. 515, 518 og bd. 3, s. 253",
+                "to_date": "",
+                "description": "Bergen 1814–1914",
+                "place": "Bergen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "reference": "bd. 2, s. 318–19",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "8",
+                "reference": "s. 29",
+                "to_date": "",
+                "description": "Norsk Illustrasjonskunst 1850-1950",
+                "place": "Oslo",
+                "authors": [
+                    "Melhus, A.C.",
+                    "Sundseth, A.B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1896",
+                "order": "3",
+                "reference": "s. 39, 42, 54, 55, 61",
+                "to_date": "",
+                "description": "Kaptein G.C.W. Prahl",
+                "place": "Bergen",
+                "authors": [
+                    "Ross, I."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Henrich Bucher",
+    "url": "https://nkl.snl.no/Henrich_Bucher",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>B. grunnla 31. mai 1845 i Bergen sitt eget litografiske verksted som ble et av Nordens ledende. Følgende store plansjeverk utgjør kjernen i B.s virksomhet: C.W. Boeck og D.C. Danielssen: Om Spedalskhed, Christiania 1847 med litografier etter maleren Lostings akvareller og Samling af Iagttagelser over Hudens Sygdomme, I-III Christiania 1855–62, siste hefte 1891, med alle plansjer av B.: likeledes D.C. Danielssen, J. Koren og M. Sars: Fauna littoralis Norvegiæ, II og III, Bergen 1856 og 1877; C.J. Schive: Norges Mynter i Middelalderen, Christiania 1865. Ved siden av en mengde mindre arbeider som trykk til poliser, aksjebrev, diplomer o.l. laget B. også flere portretter bl.a. av Kong Oscar 1. (1844), stiftsprost Daae, major Gill m.fl.</p></div>",
+    "created_at": "2013-07-03T17:27:54.504+02:00",
+    "changed_at": "2024-06-18T23:25:50.360+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab574\",\"https://digitaltmuseum.no/068b2e95-f7c1-419d-9df5-cc4784d73892\",\"http://kulturnav.org/068b2e95-f7c1-419d-9df5-cc4784d73892\"]",
+        "lastname": "Bucher",
+        "firstname": "Henrich",
+        "birth_date": "24.3.1823",
+        "birthplace": "Bergen",
+        "death_date": "28.7.1895",
+        "external_id": "person_8736ab574",
+        "kulturnav_id": "068b2e95-f7c1-419d-9df5-cc4784d73892",
+        "place_of_death": "Ulvik",
+        "alternative_names": "Bucher, Henrich Peter"
+    },
+    "authors": [
+        {
+            "full_name": "Glenny Alfsen"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "litograf"
+        },
+        {
+            "description": "maler"
+        }
+    ]
+}

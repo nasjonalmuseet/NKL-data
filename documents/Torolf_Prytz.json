@@ -1,0 +1,782 @@
+{
+    "id": 430145,
+    "headword": "Torolf Prytz",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "gullsmed"
+            },
+            {
+                "description": "arkitekt"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106366",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Eiler Hagerup Krog",
+                "lastname": "Prytz",
+                "professions": null
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab106367",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Anne Margrethe",
+                "lastname": "Thomessen",
+                "professions": null
+            },
+            {
+                "from_date": "1884",
+                "type": "Gift med",
+                "external_id": "person_8736ab106368",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Hilda Nicoline Marie",
+                "lastname": "Tostrup",
+                "professions": null,
+                "place": "(Kristiania"
+            }
+        ],
+        "residences": [],
+        "educations": [
+            {
+                "comment": "Kristiania tekniske skole",
+                "order": "0"
+            },
+            {
+                "comment": "Polytechnicum, Hannover under Conrad Wilhelm Hase til 1881",
+                "order": "1"
+            },
+            {
+                "comment": "mesterbrev som gullsmed 1884",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Opphold i Hannover til 1881"
+            },
+            {
+                "order": "1",
+                "description": "studiereise til Tyskland, Østerrike, Ungarn, Frankrike 1883-84"
+            },
+            {
+                "order": "2",
+                "description": "Paris 1889"
+            },
+            {
+                "order": "3",
+                "description": "Chicago 1893"
+            },
+            {
+                "order": "4",
+                "description": "Paris 1900"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Assistent hos arkitekt Henrik Thrap-Meyer, stadskonduktør Georg Andreas Bull og antikvar Nicolay Nicolaysen 1881-82"
+            },
+            {
+                "order": "1",
+                "description": "kompanjong i J. Tostrup 1884-90, leder av firmaet 1890-1912"
+            },
+            {
+                "order": "2",
+                "description": "jurymedlem Verdensutstillingen i Paris 1889"
+            },
+            {
+                "order": "3",
+                "description": "norsk kommissær Verdensutstillingen i Chicago 1893, viseformann Norges komité Verdensutstillingen i Paris 1900"
+            },
+            {
+                "order": "4",
+                "description": "stifter og medlem Den norske Husflidsforening 1891-1935, formann 1907-35"
+            },
+            {
+                "order": "5",
+                "description": "styremedlem Kunstindustrimuseet i Oslo 1884-1934, formann 1928-34"
+            },
+            {
+                "order": "6",
+                "description": "styremedlem Den kgl. Tegneskole 1892-1900, 1904-28"
+            },
+            {
+                "order": "7",
+                "description": "formann Kristiania Haandværks- og Industriforening 1906-10"
+            },
+            {
+                "order": "8",
+                "description": "medlem den departementale fagskolekomité 1905-06"
+            },
+            {
+                "order": "9",
+                "description": "medlem Statens Kroningskomité 1906"
+            },
+            {
+                "order": "10",
+                "description": "initiativtaker og formann komiteen for Jubileumsutstillingen 1914, Kristiania"
+            },
+            {
+                "order": "11",
+                "description": "initiativtaker og styreformann Statens teknologiske institutt 1916-35"
+            },
+            {
+                "order": "12",
+                "description": "minister Industriforsyningsdep. 1917-18"
+            },
+            {
+                "order": "13",
+                "description": "formann representantskapet Norsk Teknisk Museum 1921-34"
+            },
+            {
+                "order": "14",
+                "description": "president Norges Røde Kors 1922-30"
+            },
+            {
+                "order": "15",
+                "description": "formann komiteen for Eidsvollsmonumentet 1924-36"
+            }
+        ],
+        "awards": [
+            {
+                "order": "0",
+                "description": "Gullmedalje Kunst- og Industriutstilling, Kristiania 1883"
+            },
+            {
+                "order": "1",
+                "description": "1. premie Den nordiske Industri-, Landbrugs- og Kunstudstilling, København 1888"
+            },
+            {
+                "order": "2",
+                "description": "Grand Prix Verdensutstillingen i Paris 1900"
+            },
+            {
+                "order": "3",
+                "description": "æresmedlem Kristiania Haandværks- og Industriforening, Den Norske Husflidsforening, Norsk Teknisk Museum og Norges Røde Kors"
+            },
+            {
+                "order": "7",
+                "description": "R 1 St. Olavs Orden (1895)"
+            },
+            {
+                "order": "8",
+                "description": "K 2 St. Olavs Orden (1910)"
+            },
+            {
+                "order": "9",
+                "description": "K 1 St. Olavs Orden (1914)"
+            },
+            {
+                "order": "10",
+                "description": "Kroningsmedaljen (1906)"
+            },
+            {
+                "order": "11",
+                "description": "R. Fransk Æreslegion"
+            },
+            {
+                "order": "12",
+                "description": "Offiçier Académie Française"
+            },
+            {
+                "order": "13",
+                "description": "Norges Guldsmedforbunds hederstegn"
+            },
+            {
+                "order": "14",
+                "description": "norske, svenske og tyske Røde Kors' hederstegn"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Representert i Kunstindustrimuseet i Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Nordenfjeldske Kunstindustrimuseum, Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Kunstgewerbemuseum, Berlin"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Museum für angewandte Kunst, Hamburg"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Victoria & Albert Museum, London"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nationalmuseum, Stockholm"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Kristiania",
+                "from_date": "1883",
+                "order": "0",
+                "to_date": "",
+                "title": "Kunst- og Industriutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "1",
+                "to_date": "",
+                "title": "Den nordiske Industriudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "2",
+                "to_date": "",
+                "title": "Den nordiske Landbrugsudst."
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "København",
+                "from_date": "1888",
+                "order": "3",
+                "to_date": "",
+                "title": "Den nordiske Kunstudst."
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1889",
+                "order": "4",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1893",
+                "order": "5",
+                "to_date": "",
+                "title": "Verdensutstillingen i Chicago"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1900",
+                "order": "6",
+                "to_date": "",
+                "title": "Verdensutstillingen i Paris"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "vandreutstilling Vest-Tyskland",
+                "from_date": "1982",
+                "order": "7",
+                "to_date": "1983",
+                "title": "Norwegen, Bildweberei und Email von der Jahrhundertwende bis zur Gegenwart"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Byste utført av Wilhelm Rasmussen (1928)"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "portrett utført av August Jacobsen (Oslo Håndverks- og Industriforening)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1913-02-28",
+                "order": "1",
+                "reference": "[u.s., u.å.]",
+                "to_date": "",
+                "description": "Norges Jubilæumsutstilling 1914, foredrag på landskomiteens møte",
+                "authors": [
+                    "PRYTZ, Torolf"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1932",
+                "order": "2",
+                "to_date": "",
+                "description": "Indstilling fra den av Husflidsrådet opnevnte omsetningskomité 1930",
+                "place": "Porsgrunn",
+                "authors": [
+                    "Jenssen, Erling",
+                    "PRYTZ, Torolf"
+                ],
+                "comments": [
+                    "sammen med"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1935",
+                "order": "3",
+                "reference": "nr. 2, s. 1–3, nr. 3 s. 1–2, 8",
+                "to_date": "",
+                "description": "Husflidens gjenreisning i vårt land, Husflidsbl.",
+                "place": "Oslo",
+                "authors": [
+                    "PRYTZ, Torolf"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "order": "0",
+                "description": "Kunst og kultur",
+                "from_date": "1912",
+                "to_date": "",
+                "reference": "s. 187-94",
+                "title": "Den Norske Husflidsforening i Kristiania",
+                "place": "",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1912",
+                "order": "4",
+                "to_date": "1924",
+                "description": "Hvem er hvem?",
+                "place": "(Kristiania",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1925",
+                "order": "5",
+                "to_date": "1938",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1912",
+                "order": "6",
+                "reference": "s. 47",
+                "to_date": "1913",
+                "description": "Kunst og Kultur",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1922",
+                "order": "7",
+                "to_date": "",
+                "description": "Beretning om Forsyningsdepartementets virksomhet",
+                "place": "(Kristiania",
+                "authors": [
+                    "Rasmussen, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1922",
+                "order": "8",
+                "reference": "s. 2",
+                "to_date": "",
+                "description": "Gullsmedkunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1929",
+                "order": "9",
+                "reference": "s. 6",
+                "to_date": "",
+                "description": "Gullsmedkunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1933",
+                "order": "10",
+                "reference": "s. 161",
+                "to_date": "",
+                "description": "Gullsmedkunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1934",
+                "order": "11",
+                "reference": "s. 94",
+                "to_date": "",
+                "description": "Gullsmedkunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938",
+                "order": "12",
+                "reference": "s. 97",
+                "to_date": "",
+                "description": "Gullsmedkunst",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1924",
+                "order": "13",
+                "to_date": "",
+                "description": "Norges Jubilæumsutstilling 1914, Officiell beretning",
+                "place": "(Kristiania",
+                "authors": [
+                    "Brinchmann, N. A."
+                ],
+                "comments": [
+                    "bd. 2"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1925",
+                "order": "14",
+                "reference": "bd. 19, s. 647",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1927",
+                "order": "15",
+                "reference": "bd. 2, s. 612",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1931",
+                "order": "16",
+                "to_date": "",
+                "description": "Den Norske Husflidsforening 1891-1931",
+                "place": "Oslo",
+                "authors": [
+                    "Gulliksen, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1941",
+                "order": "17",
+                "to_date": "",
+                "description": "Den Norske Husflidsforening 1891-1941",
+                "place": "Oslo",
+                "authors": [
+                    "Gulliksen, G."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1932",
+                "order": "18",
+                "to_date": "",
+                "description": "Om gullsmedkunst i hundre år. J. Tostrup 1832-1932",
+                "place": "Oslo",
+                "authors": [
+                    "Kielland, T."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1933",
+                "order": "19",
+                "reference": "bd. 27, s. 438",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1934",
+                "order": "20",
+                "to_date": "",
+                "description": "Gullsmedmestere i Oslo i de siste hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Prytz, E. Krog (red.)"
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1938",
+                "order": "21",
+                "to_date": "",
+                "description": "Oslo Håndverks- og Industriforening 1838-1938",
+                "place": "Oslo",
+                "authors": [
+                    "Melby, B. A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1942",
+                "order": "22",
+                "to_date": "",
+                "description": "Statens Teknologiske Institutt 1917-1942",
+                "place": "Oslo",
+                "authors": [
+                    "Hauge, B."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1952",
+                "order": "23",
+                "reference": "bd. 11, s. 200–02",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1970",
+                "order": "24",
+                "to_date": "",
+                "description": "Gullsmedkunsten i Norge før og nå",
+                "place": "Oslo",
+                "authors": [
+                    "Polak, A."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "25",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": [
+                    "bd. 15, spalte 960"
+                ],
+                "archives": null
+            },
+            {
+                "from_date": "1971",
+                "order": "26",
+                "reference": "s. 274–77",
+                "to_date": "",
+                "description": "Tegneskolen gjennom 150 år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1977",
+                "order": "27",
+                "reference": "s. 189",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1978",
+                "order": "28",
+                "to_date": "",
+                "description": "i The Art of Norway 1750-1914",
+                "place": "Minneapolis",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979",
+                "order": "29",
+                "to_date": "",
+                "description": "Oslo-sølv i 400 år",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1979",
+                "order": "30",
+                "to_date": "",
+                "description": "Norsk art nouveau",
+                "place": "Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1980",
+                "order": "31",
+                "reference": "bd. 9, s. 579",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1981",
+                "order": "32",
+                "reference": "bd. 4 s. 432–33, bd. 5 s. 393, 434, 461",
+                "to_date": "",
+                "description": "Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": null,
+                "comments": null,
+                "archives": null
+            },
+            {
+                "from_date": "1982",
+                "order": "33",
+                "reference": "s. 7–12 (ill.)",
+                "to_date": "",
+                "description": "Tostrup 1832-1982. Seks generasjoner i ett museum, katalog Kunstindustrimuseet i Oslo",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1978",
+                "order": "34",
+                "to_date": "",
+                "description": "Norsk emaljekunst 1880-1914",
+                "authors": [
+                    "Opstad, J.-L."
+                ],
+                "comments": null,
+                "archives": null
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Torolf Prytz",
+    "url": "https://nkl.snl.no/Torolf_Prytz",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Interessen for middelalderen fikk P. i Hannover der han studerte arkitektur under professor Hase. Da han kom tilbake til Kristiania i 1881, arbeidet han som assistent for bl.a. arkitekt Henrik Thrap-Meyer, stadskonduktør G. A. Bull og antikvar Nicolay Nicolaysen i Fortidsminneforeningen. Han ble også kjent med Oluf Tostrup som da nettopp hadde overtatt ledelsen av gullsmedfirmaet J. Tostrup. P. begynte å tegne for Tostrup-firmaet. Da Oluf Tostrup døde i 1882, ønsket Jacob Tostrup å knytte P. til firmaet. P. la ut på en lengre studiereise for å bli nærmere kjent med gullsmedfaget i 1883-84. Da han kom tilbake, trådte han inn som kompanjong i firmaet og 14.5.1884 ble han gullsmedmester. Den gang krevde ikke håndverksloven at man hadde gått i gullsmedlære. P. giftet seg samme år med Jacob Tostrups sønnedatter, Hilda, som hadde vokst opp hos besteforeldrene. Da Jacob Tostrup døde i 1890, ble P. eneinnehaver av firmaet.</p>\n<p>P.s hovedverk som arkitekt er <em>Tostrup-gården</em>, som han tegnet sammen med arkitektene Waldemar Hansteen og Christian Fürst (1893-98). Det er først og fremst som gullsmed han markerte seg. I 1880- og -90-årene tegnet han en rekke gjenstander for firmaet, særlig de store praktarbeidene til internasjonale utstillinger og bestillingsverk. Hans middelalderinteresse kommer klart til syne i disse arbeidene. Romanske bladverk pryder sølv- og emaljegjenstander i middelalderformer som drikkehorn og relikvieskrin.</p>\n<p>P. var en viktig person i oppbygningen av en norsk emaljeproduksjon. På sin studiereise i 1883-84 besøkte han bl.a. Ungarn og så der den rike emaljekunsten, særlig trådemaljeteknikken. Utover i 1880- og -90-årene utviklet P. en avansert trådemaljekunst på sitt emaljeverksted. Rundt 1890 tok han også opp vindusemaljeteknikken.</p>\n<p>I 1890-årene kom dragestilen til å innta en fremtredende plass i P.s sølv- og emalje-arbeider. I en særklasse står en gruppe gaver til det svensk-norske kongehus. Hans største seier var kolleksjonen til Paris-utstillingen 1900, der han presenterte en liten gruppe vaser og en lampe i vindusemalje i art nouveau-stil. For disse fikk han Grand Prix som den eneste nordiske gullsmed. Med suksessen i Paris fulgte et stadig større administrativt press på P. Han tegnet enkelte større arbeider i årene etter 1900, men hans mest produktive periode var da over. Han deltok stadig mer i forenings- og organisasjonsarbeid, særlig i husflidssaken.</p>\n</div>",
+    "created_at": "2014-11-20T11:29:19.864+01:00",
+    "changed_at": "2024-06-18T23:27:50.454+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab3145\",\"https://digitaltmuseum.no/9b9d564b-e7a7-416a-a5de-91efa1ff51b5\",\"http://kulturnav.org/9b9d564b-e7a7-416a-a5de-91efa1ff51b5\"]",
+        "lastname": "Prytz",
+        "firstname": "Torolf",
+        "birth_date": "26.12.1858",
+        "birthplace": "Alstadhaug",
+        "death_date": "13.6.1938",
+        "external_id": "person_8736ab3145",
+        "kulturnav_id": "9b9d564b-e7a7-416a-a5de-91efa1ff51b5",
+        "place_of_death": "Vestre Aker"
+    },
+    "authors": [
+        {
+            "full_name": "Jan-Lauritz Opstad"
+        }
+    ],
+    "images": [
+        {
+            "copyright": null,
+            "license": "Falt i det fri (Public domain)",
+            "standard_size_url": "https://media.snl.no/media/20399/standard_NMK-A_NAMF.0156520151204-26003-y8zqt5.jpg",
+            "full_size_url": "https://media.snl.no/media/20399/NMK-A_NAMF.0156520151204-26003-y8zqt5.jpg",
+            "xhtml": "<div><p><i>Restaurering av Gol stavkirke</i>. Ukjent. <a href=\"http://digitaltmuseum.no/011074437772\">Digitalt Museum</a></p></div>",
+            "type": "image",
+            "heading": "Torolf Prytz",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "gullsmed"
+        },
+        {
+            "description": "arkitekt"
+        }
+    ]
+}

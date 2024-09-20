@@ -1,0 +1,978 @@
+{
+    "id": 414530,
+    "headword": "Ludvig Eikaas",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            },
+            {
+                "description": "grafiker"
+            },
+            {
+                "description": "skulptør"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101857",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Synnøve",
+                "lastname": "Eikaas",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101856",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Daniel",
+                "lastname": "Eikaas",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab209",
+                "birth_date": "08.12.1908",
+                "death_date": "02.04.2000",
+                "firstname": "Synnøve Anker",
+                "lastname": "Aurdal",
+                "professions": [
+                    "tekstilkunstner"
+                ]
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Kunstakademiet i København 1948",
+                "order": "3"
+            },
+            {
+                "comment": "Håndverkerlære som skiltmaler",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo  1946–48",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole, Oslo 1942-46",
+                "order": "1"
+            }
+        ],
+        "travels": [
+            {
+                "order": "9",
+                "description": "Sovjet"
+            },
+            {
+                "order": "1",
+                "description": "3% fondets stipend 1959"
+            },
+            {
+                "order": "4",
+                "description": "Statens reisestipend 1964"
+            },
+            {
+                "order": "10",
+                "description": "USA"
+            },
+            {
+                "order": "0",
+                "description": "Inger og Edvard Munchs legat 1953"
+            },
+            {
+                "order": "2",
+                "description": "3-årig arbeidsstipend 1970–72"
+            },
+            {
+                "order": "3",
+                "description": "Conrad Mohrs legat 1957"
+            },
+            {
+                "order": "7",
+                "description": "Nederland"
+            },
+            {
+                "order": "5",
+                "description": "En rekke studiereiser til bl.a. Frankrike"
+            },
+            {
+                "order": "8",
+                "description": "Spania"
+            },
+            {
+                "order": "6",
+                "description": "Italia"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "0",
+                "description": "Professor ved Statens Kunstakademi, Oslo (maleri) fra 1970"
+            },
+            {
+                "order": "2",
+                "description": "Medlem av Oslo Bildende Kunstnere"
+            },
+            {
+                "order": "3",
+                "description": "Foreningen Norske Grafikere"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre som tegner og maler, styremedlem Bildende Kunstneres Styre"
+            }
+        ],
+        "awards": [],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Hilmar Rekstens samling, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "Norsk Kulturråd"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "Kunstnerforbundets fasade (1950) (begge i samarbeid med Gunnar S. Gundersen)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "Rolf Stenersens Samling, Oslo/Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "Georgia Museum of Art, Georgia"
+            },
+            {
+                "from_date": "",
+                "order": "10",
+                "to_date": "",
+                "description": "Lillehammer Bys malerisamling"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "veggfelt i marmormosaikk for byggefirmaet Haakon Johannessen, Oslo (1964–65)"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "utsmyking i Politiskolen, Oslo (1979)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "Trondheim Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Riksgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "Statens Museum for Kunst, København"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "Brooklyn Museum of Art, New York"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "billedteppe til musikkgalleriet i Håkonshallen (1960–61)"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum, Bergen"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Bergen Billedgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Rikshospitalets kapell (1971–72)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "steinskulptur til Posthuset i Førde 1971"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Stavanger Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Veggfelt for Norden kjemiske Fabrikker (1950)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Asbæk, København",
+                "from_date": "1976",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Grand Palais, Paris",
+                "from_date": "1976",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen Billedgalleri",
+                "from_date": "1975",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1946",
+                "order": "18",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk grafikunion, Oslo",
+                "from_date": "1962",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Haaken, Oslo",
+                "from_date": "1973",
+                "order": "10",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nasjonalgalleriet",
+                "from_date": "1967",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1965",
+                "order": "28",
+                "to_date": "",
+                "title": "Biennalen i São Paulo"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Haaken, Oslo",
+                "from_date": "1977",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nasjonalgalleriet",
+                "from_date": "1959",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Per, Oslo",
+                "from_date": "1957",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1966",
+                "order": "23",
+                "to_date": "",
+                "title": "Vestlandsudstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Birch, København",
+                "from_date": "1951",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Papegøyen, Kunstnernes Hus, Oslo",
+                "from_date": "1953",
+                "order": "37",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1956",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1953",
+                "order": "27",
+                "to_date": "",
+                "title": "Biennalen i São Paulo"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk grafikunion, Helsinki",
+                "from_date": "1967",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1975",
+                "order": "25",
+                "to_date": "",
+                "title": "Vestlandsudstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1978",
+                "order": "21",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1976",
+                "order": "35",
+                "to_date": "",
+                "title": "Biennalen i Tokio"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Haaken, Oslo",
+                "from_date": "1964",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Riis, Trondheim",
+                "from_date": "1978",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen Billedgalleri",
+                "from_date": "1967",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. I, Bergen",
+                "from_date": "1975",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Lugano",
+                "from_date": "1956",
+                "order": "29",
+                "to_date": "",
+                "title": "Internasjonal utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Stockholm",
+                "from_date": "1960",
+                "order": "30",
+                "to_date": "",
+                "title": "Nordisk grafik"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Maria, København",
+                "from_date": "1962",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Nasjonalgalleriet",
+                "from_date": "1965",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Konsthallen, Göteborg",
+                "from_date": "1970",
+                "order": "36",
+                "to_date": "",
+                "title": "Dette betyr noe i Norge"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergens Kunstforening",
+                "from_date": "1969",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Salon international des Galeries Pilotes, Lausanne",
+                "from_date": "1966",
+                "order": "38",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Holst Halvorsens Kunsthandel, Oslo",
+                "from_date": "1953",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nordisk grafikunion, Oslo",
+                "from_date": "1964",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1959",
+                "order": "22",
+                "to_date": "",
+                "title": "Vestlandsudstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1970",
+                "order": "24",
+                "to_date": "1972",
+                "title": "Vestlandsudstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1960",
+                "order": "19",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1952",
+                "order": "26",
+                "to_date": "",
+                "title": "Biennalen i Tokio"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1962",
+                "order": "20",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1962",
+                "order": "34",
+                "to_date": "",
+                "title": "Biennalen i Tokio"
+            }
+        ],
+        "portraits": [
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "Selvportrett (Bergen Billedgalleri)"
+            }
+        ],
+        "authorships": [
+            {
+                "from_date": "1968-11",
+                "order": "0",
+                "reference": "s. 5",
+                "to_date": "1968-12",
+                "description": "F 15 Kontakt",
+                "title": "Hva SHKS betød for meg",
+                "authors": [
+                    "Eikaas, Ludvig"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1963",
+                "order": "7",
+                "reference": "s. 104, 128-30, 144-45, 147",
+                "to_date": "",
+                "description": "For den bildende kunst, Bergen Kunstforening ved 125-årsjubileet",
+                "place": "Bergen",
+                "authors": [
+                    "Johannesen, O.R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "16",
+                "to_date": "",
+                "title": "Streif omkring Ludvig Eikaas",
+                "place": "Oslo",
+                "authors": [
+                    "Arneberg, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962",
+                "order": "6",
+                "reference": "s. 79-80",
+                "to_date": "",
+                "description": "Vestlandske Kunstindustrimuseum 1887-1962",
+                "title": "Kontinuitet og form",
+                "place": "Bergen",
+                "authors": [
+                    "Kloster, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "17",
+                "to_date": "",
+                "description": "Ludvig Eikaas",
+                "authors": [
+                    "Remfeldt, P."
+                ],
+                "comments": [
+                    "katalog Bergens Kunstforening"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "15",
+                "reference": "s. 29, 31, 37",
+                "to_date": "",
+                "description": "Norsk kunst i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Magne Malmanger"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "8",
+                "reference": "s. 117",
+                "to_date": "",
+                "description": "Norsk tegnekunst i Nasjonalgalleriet",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973-04-03",
+                "order": "14",
+                "reference": "s. 85",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "title": "Atten år etter",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957",
+                "order": "1",
+                "reference": "s. 22–45",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "title": "Ludvig Eikaas",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1973",
+                "order": "22",
+                "reference": "s. 134-135",
+                "to_date": "",
+                "description": "Prisma",
+                "title": "Bildkonsten i Norden",
+                "place": "Stockholm",
+                "authors": [
+                    "Sydhoff, B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "20",
+                "to_date": "",
+                "description": "Grafikk - lyrikk",
+                "place": "Oslo-Seljord",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "18",
+                "reference": "s. 2–7 (ill.)",
+                "to_date": "",
+                "description": "Trondheim Kunstforening årsberetning",
+                "title": "Ludvig Eikaas",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "s. 12, 77, 193",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–1967",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "10",
+                "reference": "s. 194",
+                "to_date": "",
+                "description": "Kongeboliger og nasjonalskatter i Norge",
+                "place": "Oslo",
+                "authors": [
+                    "Engelstad, E.S."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "4",
+                "reference": "s. 51–52",
+                "to_date": "",
+                "description": "Gyldendals Leksikon over moderne nordisk kunst",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1977",
+                "order": "9",
+                "reference": "s. 248-49",
+                "to_date": "",
+                "description": "Norges Kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Østby, L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964",
+                "order": "11",
+                "reference": "s. 86-87",
+                "to_date": "",
+                "description": "Streiftog i norsk maleri, 72 bilder i Lillehammer Bys Samling",
+                "place": "Lillehammer",
+                "authors": [
+                    "Holbø, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1961",
+                "order": "5",
+                "reference": "s. 193-96",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "title": "Ludvig Eikaas, To malerier fra Neuberggt. 29",
+                "authors": [
+                    "Pannaggi, Ivo"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "13",
+                "reference": "Hefte 82, Nr. 4, s. 22-41",
+                "to_date": "",
+                "description": "Kunsten idag",
+                "title": "Ludvig Eikaas' portretter",
+                "authors": [
+                    "Anker, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958",
+                "order": "2",
+                "reference": "s. 104–115",
+                "to_date": "",
+                "description": "Profiler i norsk grafikk",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "12",
+                "to_date": "",
+                "description": "Studio International",
+                "title": "Oslo as an Art Centre",
+                "authors": [
+                    "Smith, J.B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "21",
+                "reference": "s. 19",
+                "to_date": "",
+                "description": "Norske grafikere i dag",
+                "place": "Oslo",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "3",
+                "reference": "s. 95–96",
+                "to_date": "",
+                "description": "Norsk malerkunst",
+                "place": "Oslo",
+                "authors": [
+                    "Askeland, J."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "authors": [],
+                "comments": [
+                    "avisklipp"
+                ],
+                "archives": [
+                    "Nasjonalgalleriets dokumentasjonsarkiv"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Ludvig Eikaas",
+    "url": "https://nkl.snl.no/Ludvig_Eikaas",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>E. debuterte som maler og grafiker i 1946, og gjorde seg bemerket med en slående enkelhet i komposisjon og koloritt, samt en utpreget sans for det stofflige. E. var blant de første som arbeidet i et rent nonfigurativt formspråk her til lands, med tilnærmet geometriske former og et fåtall farger. I dette formspråket arbeidet E. både med staffelibilder og dekorative oppdrag, mens grafikken hadde en mer figurativ tilknytting, som f.eks. tresnittene <em>Skytterdansen</em> (1946), <em>Mannshode</em> (1952) og det kjente <em>Hest i vind</em> (1953). Utover i femtiårene foretok E. en bevisst oppløsning av den strenge formen, og utviklet det som kan karakteriseres som \"en slags abstrakt impresjonisme\". Dette gav utvilsomt større spillerom for hans vare registreringsevne og innfallsrike fantasi, de to polene som E. beveger seg mellom i sin kunst. I maleriet fikk landskapet ny betydning, og ikke minst inntrykkene fra Vestlandsnaturen ble avgjørende. Særlig har han spilt på et rikt register innenfor grønnfargene, som kan fremtre som en flytende, fuktig visjon på lerretet, men samtidig friske og jordnære. Han skaper ikke et virtuost referat men gir et konsentrat av opplevelsen. Det flyktige øyeblikksinntrykket blir sittende hos E., noe vi ser av hans stadige bearbeidinger av det samme temaet. Inntrykkene fra Vestlandet har også fått grafisk form. Et av de beste eksemplene på det er etsingen <em>Vestland I</em> (1965), hvor en robåt er satt mesterlig inn som et forbindelseselement mellom bildets lyse og mørke sone. E. er ellers ikke fremmed for det urbane miljø, som f.eks. i maleriet <em>Indekshuset</em> og etsingen <em>Byens lys</em>. E. har også tatt opp portrettet, og denne motiv-genren har han tilført noe helt nytt. Resultatene har blitt sammenlignet med karikaturen, men karakteristikken når langt videre enn å forsterke særtrekk hos modellen. Her fins en spennvidde som strekker seg fra den malerisk ekspressive og myndige fremstillingen av <em>professor Robert Kloster</em>, via de følsomt stillferdige skildringene <em>Synnøve</em> og <em>Min far</em> (tresnitt og etsing), til de burleske utgavene i forskjellige teknikker av <em>Haakon Christensen</em>, <em>Gunnar S. Gundersen</em>, <em>Aksel Sandemose</em>, <em>Red Adair</em> og <em>Jimmy Carter</em> (den siste som forstørret nøtteknekker i bronse). Sine egne trekk har E. utsatt for samme nærgående behandling, og avtvunget helt ulike løsninger i maleri, grafikk og skulptur. Den eksperimentelle siden ved E. kommer kanskje sterkest fram i det siste mediet, hvor han står fjernt fra de dominerende oppfatninger i etterkrigstidas norske skulptur. E. har nyttet tre i det store relieffet <em>Bølgen</em> med stiliserte, uthogde former, granitt i <em>Vestlandshesten</em>, malt aluminium i <em>Forretningsmannen</em>, og messing i <em>Katt i mørke</em>. Han har også laget objekter i nydadaistisk form (<em>Ex libris</em>), og kombinert grafiske og skulpturelle virkemidler (<em>Per Rom</em>). E. har karakterisert seg selv som en nysgjerrig mann, og derfor har enhver ny utstilling representert overraskelser og uventete løsninger.</p></div>",
+    "created_at": "2013-06-09T16:37:52.787+02:00",
+    "changed_at": "2024-06-18T23:25:20.226+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab896\",\"https://digitaltmuseum.no/c0b0808e-0b5c-4ed4-8d7e-c8c88731e46a\",\"http://kulturnav.org/c0b0808e-0b5c-4ed4-8d7e-c8c88731e46a\"]",
+        "lastname": "Eikaas",
+        "firstname": "Ludvig",
+        "birth_date": "20.12.1920",
+        "birthplace": "Jølster",
+        "death_date": "5.9.2010",
+        "external_id": "person_8736ab896",
+        "kulturnav_id": "c0b0808e-0b5c-4ed4-8d7e-c8c88731e46a",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Harald Flor"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "Eikaas, Ludvig/BONO",
+            "license": "Begrenset gjenbruk",
+            "standard_size_url": "https://media.snl.no/media/15558/standard_NMK-B_MS-03802-199520130725-13675-pwv15i.jpg",
+            "full_size_url": "https://media.snl.no/media/15558/NMK-B_MS-03802-199520130725-13675-pwv15i.jpg",
+            "xhtml": "<div>\r\n<p><em>Jeg,</em> 1968-1970. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Ludvig Eikaas",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20166/standard_NMK-B_MS-02551-198820150528-17392-4azlf8.jpg",
+            "full_size_url": "https://media.snl.no/media/20166/NMK-B_MS-02551-198820150528-17392-4azlf8.jpg",
+            "xhtml": "<div><p><i>(Komposisjon)</i>. 1949</p></div>",
+            "type": "image",
+            "heading": "Ludvig Eikaas",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20167/standard_NMK-B_MS-02547-198820150528-17392-ce28hb.jpg",
+            "full_size_url": "https://media.snl.no/media/20167/NMK-B_MS-02547-198820150528-17392-ce28hb.jpg",
+            "xhtml": "<div><p><i>Fra atelieret</i></p></div>",
+            "type": "image",
+            "heading": "Ludvig Eikaas",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20168/standard_NMK-B_MS-03903-199620150528-17392-1qs0oin.jpg",
+            "full_size_url": "https://media.snl.no/media/20168/NMK-B_MS-03903-199620150528-17392-1qs0oin.jpg",
+            "xhtml": "<div><p><i>Vinterkveld</i>. 1958</p></div>",
+            "type": "image",
+            "heading": "Ludvig Eikaas",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20169/standard_NMK-B_MS-01797-198820150528-17392-1j2bge2.jpg",
+            "full_size_url": "https://media.snl.no/media/20169/NMK-B_MS-01797-198820150528-17392-1j2bge2.jpg",
+            "xhtml": "<div><p><i>Søndag ettermiddag</i>. 1958</p></div>",
+            "type": "image",
+            "heading": "Ludvig Eikaas",
+            "paragraph_index": 0
+        },
+        {
+            "copyright": null,
+            "license": "Gjengitt med tillatelse",
+            "standard_size_url": "https://media.snl.no/media/20170/standard_NMK-B_MS-02548-198820150528-17392-67cjxk.jpg",
+            "full_size_url": "https://media.snl.no/media/20170/NMK-B_MS-02548-198820150528-17392-67cjxk.jpg",
+            "xhtml": "<div><p><i>Synnøve</i>. 1959</p></div>",
+            "type": "image",
+            "heading": "Ludvig Eikaas",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        },
+        {
+            "description": "grafiker"
+        },
+        {
+            "description": "skulptør"
+        }
+    ]
+}

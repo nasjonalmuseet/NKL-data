@@ -1,0 +1,972 @@
+{
+    "id": 418120,
+    "headword": "Gustav Lærum",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            },
+            {
+                "description": "tegner"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105200",
+                "birth_date": "1830",
+                "death_date": "1906",
+                "firstname": "Johan",
+                "lastname": "Lærum",
+                "professions": [
+                    "grosserer"
+                ]
+            },
+            {
+                "from_date": "1914",
+                "type": "Gift med",
+                "external_id": "person_8736ab105199",
+                "birth_date": "1874",
+                "death_date": "",
+                "firstname": "Ragnhild",
+                "lastname": "Tollefsen",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab105198",
+                "birth_date": "1839",
+                "death_date": "1920",
+                "firstname": "Antonie",
+                "lastname": "Hansen",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Oslo"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "elev av Hans Heyerdahl",
+                "order": "1"
+            },
+            {
+                "comment": "Arbeidet en tid på arkitektkontor",
+                "order": "0"
+            },
+            {
+                "comment": "Zahrtmanns malerskole, København november-desember 1900 og november 1901 - mars 1902",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "0",
+                "description": "Opphold i København 1900–02"
+            }
+        ],
+        "memberships": [],
+        "awards": [
+            {
+                "order": "0",
+                "description": "1. pris for utkast til Eidsvollsmonumentet i 1907"
+            },
+            {
+                "order": "1",
+                "description": "Utnevnt av den franske regjering til officier d'instruction publique"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "21",
+                "to_date": "",
+                "description": "sivilingeniør Halvor E. Heyerdahl, Majorstuen st., Oslo (byste, avduket 1924)"
+            },
+            {
+                "from_date": "",
+                "order": "11",
+                "to_date": "",
+                "description": "Statsråd Georg Stang, Vår Frelsers gravlund, Oslo (bronsestatue, 1909), byste tidligere i Forsvarsdepartementet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "23",
+                "to_date": "",
+                "description": "direktør Johan L. Hirsch, Norges Landbrukshøgskole, Ås (bronsestatue), Jønsberg landbruksskole, Stange (bronsebyste, 1925)"
+            },
+            {
+                "from_date": "",
+                "order": "19",
+                "to_date": "",
+                "description": "statsminister Jørgen Løvland, Nobelinstituttet, Oslo (bronsebyste, ca. 1922)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "17",
+                "to_date": "",
+                "description": "Monument over krigsforliste sjøfolk, Sandefjord (sten og bronse, 1920)"
+            },
+            {
+                "from_date": "",
+                "order": "27",
+                "to_date": "",
+                "description": "statsminister Gunnar Knudsen, Skiensfjordens kommunale Kraftselskap (bronsestatue, 1931), Borgestad, Skien (bronsebyste, 1931)"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "veterinærdirektør Ole Olsen Malm, Oslo Bymuseum (bronsebyste, avduket 1928)"
+            },
+            {
+                "from_date": "",
+                "order": "15",
+                "to_date": "",
+                "description": "St. Olav, Sarpsborg (bronsestatue, 1916)"
+            },
+            {
+                "from_date": "",
+                "order": "13",
+                "to_date": "",
+                "description": "statsminister Johan Sverdrup, Vår Frelsers gravlund, Oslo (bronsestatue, avduket 1910), byster også i Stortinget og i Oslo Bymuseum"
+            },
+            {
+                "from_date": "",
+                "order": "12",
+                "to_date": "",
+                "description": "veidirektør Hans H. Krag, Voksenkollen, Oslo (bronsestatue, 1909)"
+            },
+            {
+                "from_date": "",
+                "order": "18",
+                "to_date": "",
+                "description": "St. Olav, Den norske sjømannskirke, London og i Norway House, London (bronse, 1922)"
+            },
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "landbruksskolebestyrer Jacob L.B. Sverdrup, på Vestfold landbruksskole, Stokke, på Sem gård, Borre og på Norges Landbrukshøgskole, Ås (bronsebyster, 1925)"
+            },
+            {
+                "from_date": "",
+                "order": "22",
+                "to_date": "",
+                "description": "Commander Harold Lundh, Oslo sjømannsskole (bronsebyste, avduket 1924)"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "oberst Andreas Samuel Krebs, Matrand, Eidskog (stenbauta og bronse)"
+            },
+            {
+                "from_date": "",
+                "order": "20",
+                "to_date": "",
+                "description": "oberst Henrik A. Angell, Holmenkollen, Oslo (bronsestatue, avduket 1923)"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Knelende soldat i bønn, Eidsvoll st. (granitt- og bronsemonument, 1928)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "L. har i tillegg utført en rekke portrettbyster som ikke er nevnt ovenfor"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Teatermuseet, Oslo"
+            },
+            {
+                "from_date": "",
+                "order": "14",
+                "to_date": "",
+                "description": "Iver Huitfeldt, bauta på plassen utenfor Hurum kirke (sten og bronse, avduket 1911)"
+            },
+            {
+                "from_date": "",
+                "order": "16",
+                "to_date": "",
+                "description": "general J.F.O. Wergeland, Ravnedalen, Kristiansand (bronsestatue, 1917)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [
+            {
+                "from_date": "",
+                "order": "45",
+                "to_date": "",
+                "description": "Fra Uret til Grand, Kristiania [u.å.]"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "[A.B. Nilsen]: Glade borgere. Anden samling. Humoristiske skisser af Elias Kræmmer, Kristiania 1895"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "L. Dilling: Begavet, Kristiania 1897"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "J. Børresen: Eventyr, Kristiania 1903"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "L. Dilling: Gjennem lorgnetten. Første samling, Kristiania 1896"
+            },
+            {
+                "from_date": "",
+                "order": "43",
+                "to_date": "",
+                "description": "Elias Kræmmer [A.B. Nilsen]: Kram. Humoristiske skisser, Kristiania 1904"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "L. Dilling: Hverdagsmennesker. Anden Samling, Kristiania 1895"
+            },
+            {
+                "from_date": "",
+                "order": "47",
+                "to_date": "",
+                "description": "Skuespiller Henrik Klausen i Bibliotekaren, Kristiania [u.å.]"
+            },
+            {
+                "from_date": "",
+                "order": "44",
+                "to_date": "",
+                "description": "En tegneserie, Byminner, Oslo 1972, hefte 4, s. 22–39"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "J. Lie: Staale Storlid, en gaardmandssøn fra Telemarken, Kristiania 1895"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "T. Løvstad: Med den røde blændlygte. Roman fra Kristianialivet, Kristiania 1898"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "[A.B. Nilsen]: Glade borgere. Humoristiske skisser af Elias Kræmmer, Kristiania 1894"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "L. Dilling: Gjennem lorgnetten. Tredie samling, Kristiania 1896"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "J. Waaler: Fra jobbetiden ved en af dem. Virkelighedsbillede af W., Kristiania 1903"
+            },
+            {
+                "from_date": "",
+                "order": "48",
+                "to_date": "",
+                "description": "Skyggebilder, Kristiania 1912"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Elias Kræmmer [A.B. Nilsen]: Byens fædre, Kristiania 1898"
+            },
+            {
+                "from_date": "",
+                "order": "46",
+                "to_date": "",
+                "description": "Norske Politici, Kristiania 1895"
+            }
+        ],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1915",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Blomqvists Kunsthandel, Oslo",
+                "from_date": "1909",
+                "order": "0",
+                "to_date": "",
+                "title": "Utkast til Eidsvollsmonumentet"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1960",
+                "order": "15",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norsk kunstnerliv",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952",
+                "order": "10",
+                "reference": "s. 107–08, pl. 18",
+                "to_date": "",
+                "description": "Norsk illustrasjonskunst 1850–1950",
+                "place": "Oslo",
+                "authors": [
+                    "Melhus, A. C.",
+                    "Sundseth, A. B."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "20",
+                "reference": "s. 100–03",
+                "to_date": "",
+                "description": "Billedhuggeren Ingebrigt Vik",
+                "place": "Oslo",
+                "authors": [
+                    "Brenna, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963-06-14",
+                "order": "51",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974",
+                "order": "24",
+                "reference": "s. 69, 71, 92, 123, 139, 204 (ill.)",
+                "to_date": "",
+                "description": "På Grand i hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Schulerud, M."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1930-06-17",
+                "order": "44",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928",
+                "order": "6",
+                "reference": "bd. 22, s. 198",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler",
+                "place": "Leipzig",
+                "authors": [
+                    "Thieme-Becker"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1976",
+                "order": "25",
+                "reference": "bd. 6, s. 369",
+                "to_date": "",
+                "description": "Dictionnaire critique et documentaire des Peintres, Sculpteurs, Dessinateurs et Graveures",
+                "place": "Paris",
+                "authors": [
+                    "Bénézit, E."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-06-21",
+                "order": "34",
+                "to_date": "",
+                "description": "i Dagbladet",
+                "authors": [
+                    "Nilssen, Jappe"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909",
+                "order": "2",
+                "reference": "s. 329–31 (ill.)",
+                "to_date": "",
+                "description": "i Folkebladet",
+                "authors": [
+                    "Johnsen, P. M. G. Rosenkrantz"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907-03-15",
+                "order": "30",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [
+                    "(begge utg.)"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1950",
+                "order": "9",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Sarpsborg gjennom hundre år 1839–1939",
+                "place": "Oslo",
+                "authors": [
+                    "Coldevin, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "14",
+                "to_date": "",
+                "description": "Monumenter og prydskulptur i Oslo",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "katalog nr. 12, Oslo kommunes kunstsamlingerregister"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1966",
+                "order": "19",
+                "reference": "s. 266 (ill.)",
+                "to_date": "",
+                "description": "Bodø by 1816–1966",
+                "place": "Bergen",
+                "authors": [
+                    "Coldevin, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-02-24",
+                "order": "48",
+                "to_date": "",
+                "description": "i Fædrelandsvennen",
+                "authors": [
+                    "Berulvsen, I."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "23",
+                "reference": "s. 106, 223",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910–67",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1965",
+                "order": "18",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Videnskapsmenn",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1980",
+                "order": "28",
+                "reference": "bd. 7, s. 746",
+                "to_date": "",
+                "description": "Aschehougs og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1928-05-04",
+                "order": "43",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Oslo Aftenavis",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1923-11-16",
+                "order": "38",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938",
+                "order": "7",
+                "reference": "bd. 8, s. 565–66",
+                "to_date": "",
+                "description": "Norsk Biografisk Leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1912",
+                "order": "3",
+                "to_date": "1938",
+                "description": "Hvem er hvem?",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-05-20",
+                "order": "33",
+                "to_date": "",
+                "description": "i Verdens Gang",
+                "authors": [
+                    "Harbitz, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1981",
+                "order": "29",
+                "reference": "bd. 5, s. 312–13, 338–39 (ill.)",
+                "to_date": "",
+                "description": "i Norges kunsthistorie",
+                "place": "Oslo",
+                "authors": [
+                    "Wikborg, T."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "13",
+                "reference": "bd. 3, s. 152",
+                "to_date": "",
+                "description": "Allgemeines Lexikon der bildenden Künstler des XX Jahrhunderts",
+                "place": "Leipzig",
+                "authors": [
+                    "Vollmer, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-05-23",
+                "order": "47",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-02-20",
+                "order": "39",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-05-23",
+                "order": "49",
+                "to_date": "",
+                "description": "T. Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1956",
+                "order": "12",
+                "reference": "register (ill.)",
+                "to_date": "",
+                "description": "Norske portretter. Forfattere",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1960",
+                "order": "17",
+                "reference": "hefte 3, s. 4–40 (ill.)",
+                "to_date": "",
+                "description": "Byminner",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "27",
+                "reference": "s. 230",
+                "to_date": "",
+                "description": "Zahrtmanns skole",
+                "place": "København",
+                "authors": [
+                    "Lichtenberg, H. H. de"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970",
+                "order": "22",
+                "to_date": "",
+                "description": "Aschehougs konversasjonsleksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [
+                    "bd. 12, spalte 863"
+                ],
+                "archives": []
+            },
+            {
+                "from_date": "1920-06-02",
+                "order": "37",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "0",
+                "reference": "bd. 2, s. 356",
+                "to_date": "",
+                "description": "Norske malere og billedhuggere",
+                "place": "Bergen",
+                "authors": [
+                    "Thiis, J."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924",
+                "order": "4",
+                "reference": "bd. 16, s. 242",
+                "to_date": "",
+                "description": "Salmonsens Konversationsleksikon",
+                "place": "København",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1925-05-16",
+                "order": "42",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1942",
+                "order": "8",
+                "reference": "s. 70–71, 117 (ill.)",
+                "to_date": "",
+                "description": "Norsk skulptur gjennom hundre år",
+                "place": "Oslo",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1915-06-06",
+                "order": "32",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931-06-06",
+                "order": "46",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "11",
+                "reference": "bd. 2, s. 394–95",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-11-06",
+                "order": "40",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1963",
+                "order": "16",
+                "reference": "bd. 1, s. 253 (ill.)",
+                "to_date": "",
+                "description": "Hurums historie",
+                "place": "[Tofte]",
+                "authors": [
+                    "Eier, S. L."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978",
+                "order": "26",
+                "reference": "s. 12 (ill.)",
+                "to_date": "",
+                "description": "Hedmark, Bygd og by i Norge",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1907",
+                "order": "1",
+                "reference": "s. 45–51 (ill.)",
+                "to_date": "",
+                "description": "Teknisk Ukeblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-06-02",
+                "order": "36",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1938-05-24",
+                "order": "50",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "21",
+                "reference": "s. 28 (ill.)",
+                "to_date": "",
+                "description": "Årbok for Glåmdalen",
+                "place": "Hamar",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1920-06-01",
+                "order": "35",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsen, P. M. G. Rosenkrantz"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1924-02-13",
+                "order": "41",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Tidens Tegn",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1927",
+                "order": "5",
+                "reference": "bd. 2, register (ill.)",
+                "to_date": "",
+                "description": "Norsk kunsthistorie",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1909-09-27",
+                "order": "31",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1931-04-01",
+                "order": "45",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [
+            {
+                "from_date": "1976",
+                "order": "52",
+                "reference": "s. 181",
+                "to_date": "",
+                "description": "Zahrtmanns malerskole 1885–1908",
+                "authors": [
+                    "Sørensen, G."
+                ],
+                "comments": [
+                    "magistergradsavhandling"
+                ],
+                "archives": [
+                    "Universitetet i Oslo"
+                ]
+            }
+        ],
+        "radio_and_tv_programs": []
+    },
+    "title": "Gustav Lærum",
+    "url": "https://nkl.snl.no/Gustav_L%C3%A6rum",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>Allerede som 18–20-åring begynte L. å tegne karikaturer i vittighetsblader - Krydseren, Korsaren, Vikingen og Tyrihans. Han ble også avistegner og tegnet dels portretter i Verdens Gang, Ørebladet og Tidens Tegn. En del av hans tegninger og akvareller utkom i mapper. Av disse ble <em>Fra Uret til Grand</em> med portretter av 1890-årenes kjente størrelser utsolgt i et opplag på 15 000. En mappe akvareller, <em>Norske Politici</em> (1895) gav veltrufne karikaturer. Jens Thiis skriver dog at L.s tegninger utmerker seg mer ved fotografisk nøyaktighet enn ved humor. L. illustrerte en rekke bøker av tidens populære underholdningsforfattere L. Dilling og Anthon B. Nilsen (Elias Kræmmer). Her er ganske godmodige karikaturer uten ondskapsfull brodd med idylliske scener fra borgerskapets liv. L. var utvilsomt en habil og omhyggelig, men kanskje ikke særlig spennende tegner. Like før sin død leverte han en serie silhouetter av eldre og yngre Osloborgere som skulle offentliggjøres etter hvert. Samlingen ble gitt som gave til Oslo Bymuseum. L. malte en del portretter i olje bl.a. av Ibsen og Bjørnson. Til konkurransen om Abelmonumentet i 1902 sendte han inn et utkast, og etter denne tid, han var da over 30 år, arbeidet han først og fremst som billedhugger.</p>\n<p>L. har utført en mengde gravmæler, byster, statuer og portrettmedaljonger og var i en årrekke en av de mest produktive norske billedhuggere. Han hadde en fremragende evne til å gjengi den ytre, man kan nesten si den fotografiske likhet hos modellene, men evnet ikke å gi noen dypere karakteristikk. L.s popularitet som billedhugger var utvilsom, men han ble også utsatt for meget sterk kritikk, særlig etter at han stilte ut et 3 meter langt relieff, <em>Krigen</em>, hos Blomqvists Kunsthandel, xet symbolsk verk som etter sitt innhold var høyaktuelt i 1915. L. var en meget brukt billedhugger for offentlige portretter. Bl.a. utførte han bysten av <em>Johan Sverdrup</em> i Stortinget. Men om hans byste av <em>Gunnar Knudsen</em> heter det i en usignert artikkel i Dagbladet 1.4.1931: \"Etter å ha befolket kirkegårder med små bronsemenn som skremmer vettet av fredelige sørgende og spaserende, har L. nå sett seg ut Gunnar Knudsen og laget en byste av ham til Venstres hus. Denne Busteper bør ikke bli knyttet til minnet om Gunnar Knudsen.\" A. Nygård-Nilssen karakteriserer L. som den typiske representant for den impresjonistisk anløpne naturalisme. Han nevner hans første statue, <em>Georg Stang på grensevakt</em> (bronse, 1909) som noe av det beste L. har gjort og finner også prisverdige tilløp i den arkitektoniske innordning av den unge <em>Hellig Olav</em> i Norway House, London (bronse 1922). L. behersket i sine statuer den realistiske situasjonskarakteristikk, men hans forsøk på å løse større kunstneriske oppgaver røper hans manglende evne til monumentalitet. Han fikk førsteprisen i 1907 i den første konkurransen om Eidsvollsmonumentet, men ble ikke overlatt utførelsen. Utkastet ble senere lagt til grunn for et temmelig omstridt monument reist på Eidsvoll jernbanestasjon i 1928.</p>\n</div>",
+    "created_at": "2013-07-04T07:38:23.113+02:00",
+    "changed_at": "2024-06-18T23:26:27.274+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab2500\",\"https://digitaltmuseum.no/243b70d2-e3d2-477c-8b07-94c77d0e371e\",\"http://kulturnav.org/243b70d2-e3d2-477c-8b07-94c77d0e371e\"]",
+        "lastname": "Lærum",
+        "firstname": "Gustav",
+        "birth_date": "2.6.1870",
+        "birthplace": "Fetsund",
+        "death_date": "21.5.1938",
+        "external_id": "person_8736ab2500",
+        "kulturnav_id": "243b70d2-e3d2-477c-8b07-94c77d0e371e",
+        "place_of_death": "Oslo"
+    },
+    "authors": [
+        {
+            "full_name": "Sonja Hagemann"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        },
+        {
+            "description": "tegner"
+        }
+    ]
+}

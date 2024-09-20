@@ -1,0 +1,789 @@
+{
+    "id": 416037,
+    "headword": "Einar Granum",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "maler"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102583",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Ragnhild Henrikke",
+                "lastname": "Serigstad",
+                "professions": []
+            },
+            {
+                "type": "Gift med",
+                "external_id": "person_8736ab102584",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Sidsel Fanny",
+                "lastname": "Hemstad",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab102582",
+                "birth_date": "",
+                "death_date": "",
+                "firstname": "Einar",
+                "lastname": "Granum",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Bærum"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Statens Lærerskole i forming, Oslo 1965–67",
+                "order": "2"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Per Krohg og Aage Storstein 1945–48",
+                "order": "1"
+            },
+            {
+                "comment": "Statens Håndverks- og Kunstindustriskole 1937–41",
+                "order": "0"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "reiser til Frankrike 1948, Italia 1949 og 1950, Etiopia 1957, for øvrig til Danmark, England, Tyskland, Holland, Hellas og Egypt i årene 1949–58"
+            },
+            {
+                "order": "1",
+                "description": "Studieopphold i Spania 1958 (9 md.)"
+            },
+            {
+                "order": "0",
+                "description": "Tegnerforbundet stipend 1959"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "6",
+                "description": "Akershus Bildende Kunstneres Forening, medlem av kunstnerisk råd og jury fra 1978"
+            },
+            {
+                "order": "1",
+                "description": "formingslærer Nadderud skole 1958–71"
+            },
+            {
+                "order": "0",
+                "description": "Tegner i Dagbladet 1950–60"
+            },
+            {
+                "order": "5",
+                "description": "Tegnerforbundet, formann 1962-65"
+            },
+            {
+                "order": "7",
+                "description": "Arts, sciences et lettres, Société Academique, Paris"
+            },
+            {
+                "order": "4",
+                "description": "medlem Landsforeningen Norske Malere"
+            },
+            {
+                "order": "3",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "2",
+                "description": "kunstanmelder i Asker og Bærums Budstikke fra 1968"
+            }
+        ],
+        "awards": [
+            {
+                "order": "3",
+                "description": "gullmedalje Société Academique d'Éducation et d'Encouragement, Paris 1977"
+            },
+            {
+                "order": "4",
+                "description": "platinamedalje Grand Prix International d'Art Contemporain de Lyon 39, Grand Prix de Lyon 1978"
+            },
+            {
+                "order": "2",
+                "description": "bronsemedalje Art Contemporain International, 31 Grand Prix, Lyon 1975"
+            },
+            {
+                "order": "0",
+                "description": "Gullmedalje fra Accademia Internationale, Tommaso Campanella, Roma 1970"
+            },
+            {
+                "order": "1",
+                "description": "gullmedalje fra Paternoster Academy, London 1972"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "6",
+                "to_date": "",
+                "description": "Sandefjord Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "5",
+                "to_date": "",
+                "description": "Bærum Sparebanks hovedkontor i Sandvika (1975)"
+            },
+            {
+                "from_date": "",
+                "order": "1",
+                "to_date": "",
+                "description": "LOs gave til Finland (1950)"
+            },
+            {
+                "from_date": "",
+                "order": "3",
+                "to_date": "",
+                "description": "dekorasjonsarbeider for keiser Haile Selassie i Addis Abbeba (1955)"
+            },
+            {
+                "from_date": "",
+                "order": "2",
+                "to_date": "",
+                "description": "Gripsalen, Kristiansund (1953)"
+            },
+            {
+                "from_date": "",
+                "order": "0",
+                "to_date": "",
+                "description": "Majorstua skole, Oslo (1949)"
+            },
+            {
+                "from_date": "",
+                "order": "4",
+                "to_date": "",
+                "description": "Den norske paviliong på Poznanmessen i Polen (1971)"
+            },
+            {
+                "from_date": "",
+                "order": "8",
+                "to_date": "",
+                "description": "Sarpsborg Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "7",
+                "to_date": "",
+                "description": "Volda Kunstlag"
+            },
+            {
+                "from_date": "",
+                "order": "9",
+                "to_date": "",
+                "description": "Oslo kommunes kunstsamlinger"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1972",
+                "order": "38",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skien Kunstforening",
+                "from_date": "1954",
+                "order": "22",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. KB, Oslo",
+                "from_date": "1957",
+                "order": "24",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Kunstforening",
+                "from_date": "1946",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Oslo Kunstforening",
+                "from_date": "1959",
+                "order": "26",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1974",
+                "order": "42",
+                "to_date": "",
+                "title": "Vestl.utstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnerforbundet, Oslo",
+                "from_date": "1979",
+                "order": "34",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1961",
+                "order": "40",
+                "to_date": "",
+                "title": "Vestl.utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1949",
+                "order": "36",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Molde Kunstforening",
+                "from_date": "1947",
+                "order": "7",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Valdres Kunstforening",
+                "from_date": "1977",
+                "order": "32",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Elverum Kunstforening",
+                "from_date": "1951",
+                "order": "13",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skien Kunstforening",
+                "from_date": "1947",
+                "order": "5",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund Kunstforening",
+                "from_date": "1953",
+                "order": "15",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fredrikstad Kunstforening",
+                "from_date": "1946",
+                "order": "1",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sandefjord Kunstforening",
+                "from_date": "1954",
+                "order": "20",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bergen Kunstforening",
+                "from_date": "1949",
+                "order": "11",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kunstnernes Hus, Oslo",
+                "from_date": "1974",
+                "order": "30",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammen Kunstforening",
+                "from_date": "1947",
+                "order": "3",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Volda Kunstforening",
+                "from_date": "1947",
+                "order": "9",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1973",
+                "order": "41",
+                "to_date": "",
+                "title": "Vestl.utstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1959",
+                "order": "37",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1955",
+                "order": "23",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Arendal Kunstforening",
+                "from_date": "1954",
+                "order": "21",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Skiens Kunstforening",
+                "from_date": "1957",
+                "order": "25",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Kristiansund Kunstforening",
+                "from_date": "1953",
+                "order": "17",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1948",
+                "order": "35",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Bærum Kunstforening",
+                "from_date": "1977",
+                "order": "33",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fredrikstad Kunstforening",
+                "from_date": "1959",
+                "order": "27",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1973",
+                "order": "39",
+                "to_date": "",
+                "title": "Høstutstillingen"
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Holst Halvorsens Kunsthandel, Oslo",
+                "from_date": "1968",
+                "order": "28",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Lillehammer Kunstforening",
+                "from_date": "1947",
+                "order": "8",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fredrikstad Kunstforening",
+                "from_date": "1952",
+                "order": "14",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Gall. Kim, Stavanger",
+                "from_date": "1974",
+                "order": "31",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Drammen Kunstforening",
+                "from_date": "1954",
+                "order": "19",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Ålesund Kunstforening",
+                "from_date": "1947",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Volda Kunstforening",
+                "from_date": "1953",
+                "order": "16",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "P.N. Corner Gallery, London",
+                "from_date": "1974",
+                "order": "29",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Fredrikstad Kunstforening",
+                "from_date": "1951",
+                "order": "12",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Sarpsborg Kunstforening",
+                "from_date": "1946",
+                "order": "2",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1947",
+                "order": "4",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Stavanger Kunstforening",
+                "from_date": "1949",
+                "order": "10",
+                "to_date": ""
+            }
+        ],
+        "portraits": [],
+        "authorships": [
+            {
+                "from_date": "1976",
+                "order": "1",
+                "to_date": "",
+                "description": "Vi ser på kunst",
+                "authors": [
+                    "Granum, Einar"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "0",
+                "reference": "(med egne ill.)",
+                "to_date": "",
+                "description": "Vagabond i Oslo by",
+                "place": "Oslo",
+                "authors": [
+                    "Granum, Einar"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968",
+                "order": "2",
+                "to_date": "",
+                "description": "Vi tegner og maler",
+                "place": "Oslo",
+                "authors": [
+                    "Granum, Einar"
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "publishings": [
+            {
+                "from_date": "1968-10-08",
+                "order": "17",
+                "to_date": "",
+                "description": "i Aftenposten",
+                "authors": [
+                    "Johnsrud, E.H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-10-05",
+                "order": "18",
+                "to_date": "",
+                "description": "Morgenposten",
+                "authors": [
+                    "Durban, A."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1971",
+                "order": "19",
+                "reference": "s. 201",
+                "to_date": "",
+                "description": "Kunst og Kultur register 1910 1967",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1975",
+                "order": "21",
+                "reference": "s. 49",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "20",
+                "reference": "s. 58",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1951-04-26",
+                "order": "6",
+                "to_date": "",
+                "description": "Fredrikstad blad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1949-09-15",
+                "order": "5",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-02-08",
+                "order": "4",
+                "to_date": "",
+                "description": "Østlandsposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1952-11-06",
+                "order": "7",
+                "to_date": "",
+                "description": "Demokraten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "26",
+                "reference": "bd.5 s. 245",
+                "to_date": "",
+                "description": "Aschehoug og Gyldendals store norske leksikon",
+                "place": "Oslo",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1953",
+                "order": "12",
+                "reference": "bd. 2 s. 308",
+                "to_date": "",
+                "description": "Norges billedkunst i det 19. og 20. århundre",
+                "place": "Oslo",
+                "authors": [
+                    "Revold, R."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1954-06-02",
+                "order": "13",
+                "to_date": "",
+                "description": "i Sandefjords Blad",
+                "authors": [
+                    "Lind"
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-04-27",
+                "order": "14",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Telemark Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1957-05-07",
+                "order": "15",
+                "reference": "(ill.)",
+                "to_date": "",
+                "description": "Porsgrunns Arbeiderblad",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-03-20",
+                "order": "24",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [
+                    "Flor, H."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-10-25",
+                "order": "23",
+                "to_date": "",
+                "description": "Stavanger Aftenblad",
+                "authors": [
+                    "Remfeldt, P."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1947-09-19",
+                "order": "3",
+                "to_date": "",
+                "description": "Romsdals Budstikke",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1968-09-27",
+                "order": "16",
+                "to_date": "",
+                "description": "Morgenbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "22",
+                "reference": "s. 179",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979-05-22",
+                "order": "25",
+                "to_date": "",
+                "description": "Asker og Bærums Budstikke",
+                "authors": [
+                    "Egebakken, E.A."
+                ],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Einar Granum",
+    "url": "https://nkl.snl.no/Einar_Granum",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div><p>G. var fra 1946 til slutten av 1950-årene en meget flittig utstiller. Han hadde separatutstilling nesten årlig i kunstforeninger rundt om i landet. Han stilte ut malerier, tegninger og akvareller, hovedsakelig landskaper fra Østlandet, Vestlandet og Jæren, men også noen figurbilder og dessuten motiver fra reiser i Frankrike, Italia og Spania. Han arbeidet i et sterkt forenklet og abstrahert, naturalistisk formspråk, i blant påvirket av læreren Aage Storstein. Dette er særlig tydelig i utsmykningen av Majorstua skole, Oslo (1949). Fra slutten av 1960-årene har han også laget nonfigurative malerier og collager, bestående av geometriske former med kraftige, sorte konturer. G. har vært aktiv kunstformidler og har drevet malerskole i Oslo fra 1969.</p></div>",
+    "created_at": "2013-07-03T13:48:03.048+02:00",
+    "changed_at": "2024-06-18T23:25:30.526+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab1249\",\"https://digitaltmuseum.no/2802d891-5e3a-4274-90b8-ce6476bac163\",\"http://kulturnav.org/2802d891-5e3a-4274-90b8-ce6476bac163\"]",
+        "lastname": "Granum",
+        "firstname": "Einar",
+        "birth_date": "30.6.1920",
+        "birthplace": "Bergen",
+        "death_date": "25.2.1992",
+        "external_id": "person_8736ab1249",
+        "kulturnav_id": "2802d891-5e3a-4274-90b8-ce6476bac163",
+        "place_of_death": "Bekkestua, Bærum",
+        "alternative_names": "Granum, Einar Andreas"
+    },
+    "authors": [
+        {
+            "full_name": "Randi Gaustad"
+        }
+    ],
+    "images": [
+        {
+            "copyright": "",
+            "license": "fri",
+            "standard_size_url": "https://media.snl.no/media/15594/standard_NMK-B_NG.K_26H.1999.009920130725-13675-p2rrl7.jpg",
+            "full_size_url": "https://media.snl.no/media/15594/NMK-B_NG.K_26H.1999.009920130725-13675-p2rrl7.jpg",
+            "xhtml": "<div>\r\n<p><em>Seks av byens kjøtere følger meg overalt</em>. Nasjonalmuseet,</p>\r\n</div>",
+            "type": "image",
+            "heading": "Einar Granum",
+            "paragraph_index": 0
+        }
+    ],
+    "professions": [
+        {
+            "description": "maler"
+        }
+    ]
+}

@@ -1,0 +1,528 @@
+{
+    "id": 417152,
+    "headword": "Sivert Donali",
+    "custom_metadata_json": {
+        "professions": [
+            {
+                "description": "billedhugger"
+            }
+        ],
+        "others": [],
+        "relations": [
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101678",
+                "birth_date": "1899",
+                "death_date": "1976",
+                "firstname": "Marit",
+                "lastname": "Vekve",
+                "professions": []
+            },
+            {
+                "type": "Sønn av",
+                "external_id": "person_8736ab101677",
+                "birth_date": "1898",
+                "death_date": "",
+                "firstname": "Hans",
+                "lastname": "Donali",
+                "professions": [
+                    "treskjærer",
+                    "gårdbruker"
+                ]
+            },
+            {
+                "from_date": "1957",
+                "type": "Gift med",
+                "external_id": "person_8736ab101679",
+                "birth_date": "1933",
+                "death_date": "",
+                "firstname": "Birthe",
+                "lastname": "Bang",
+                "professions": []
+            }
+        ],
+        "residences": [
+            {
+                "order": "0",
+                "description": "Feiring Akershus"
+            }
+        ],
+        "educations": [
+            {
+                "comment": "Kunstskolen i Trondheim under Kristoffer Leirdal 1948–50",
+                "order": "0"
+            },
+            {
+                "comment": "Statens Kunstakademi, Oslo under Per Palle Storm 1950–53",
+                "order": "1"
+            },
+            {
+                "comment": "Kunstakademiet i København under Einar A. Utzon Frank og Mogens Bøggild 1953–54",
+                "order": "2"
+            }
+        ],
+        "travels": [
+            {
+                "order": "2",
+                "description": "Nidaros Domkirkes restaureringsarbeiders reisestip. 1957"
+            },
+            {
+                "order": "3",
+                "description": "Statens 3-årige arbeidsstip. fra 1965 og fra 1972"
+            },
+            {
+                "order": "4",
+                "description": "Reise til Paris 1955"
+            },
+            {
+                "order": "6",
+                "description": "Italia 1962"
+            },
+            {
+                "order": "5",
+                "description": "England og Frankrike 1957"
+            },
+            {
+                "order": "0",
+                "description": "Benneches legat 1952"
+            },
+            {
+                "order": "1",
+                "description": "Lorch-Schives legat 1955"
+            }
+        ],
+        "memberships": [
+            {
+                "order": "4",
+                "description": "medlem Den faste Jury 1967–69"
+            },
+            {
+                "order": "0",
+                "description": "Ansatt ved Nidaros Domkirkes Restaureringsarbeider 1957–68"
+            },
+            {
+                "order": "1",
+                "description": "Stemmerett Bildende Kunstneres Styre"
+            },
+            {
+                "order": "3",
+                "description": "medlem Akershus Bildende Kunstneres Forening"
+            },
+            {
+                "order": "2",
+                "description": "medlem Norske Billedhuggerforening, formann 1970–71"
+            }
+        ],
+        "awards": [
+            {
+                "order": "3",
+                "description": "1. premie i engere konkurranse om skulptur for Askim rådhus 1978"
+            },
+            {
+                "order": "1",
+                "description": "1. premie i engere konkurranse om Kong Sverre-monument for Trondheim 1969"
+            },
+            {
+                "order": "4",
+                "description": "Nidaros Domkirkes gullmedalje 1969"
+            },
+            {
+                "order": "0",
+                "description": "To 1. og to 2. premier i konkurranse om utsmykning av Trondheim Svømmehall 1958"
+            },
+            {
+                "order": "2",
+                "description": "Premiert i konkurranse om Skulptur i lekemiljø 1977, arrangert av Norsk kulturråd og Norske Billedhuggerforening"
+            }
+        ],
+        "public_productions": [
+            {
+                "from_date": "",
+                "order": "24",
+                "to_date": "",
+                "description": "Domkirken i Trondheim"
+            },
+            {
+                "from_date": "",
+                "order": "28",
+                "to_date": "",
+                "description": "Melhus kirke: To engler (tre, 1960)"
+            },
+            {
+                "from_date": "",
+                "order": "36",
+                "to_date": "",
+                "description": "Astoria Hotell, Oslo: Himmel og jord (messing, 1972)"
+            },
+            {
+                "from_date": "",
+                "order": "42",
+                "to_date": "",
+                "description": "Holtålen kommune"
+            },
+            {
+                "from_date": "",
+                "order": "38",
+                "to_date": "",
+                "description": "Larvik Faste Galleri"
+            },
+            {
+                "from_date": "",
+                "order": "26",
+                "to_date": "",
+                "description": "Trondheim Svømmehall: Tre gratier (bronse, 1958–59), To sjøløver (syenitt, 1958–61)"
+            },
+            {
+                "from_date": "",
+                "order": "40",
+                "to_date": "",
+                "description": "Telemark fylke"
+            },
+            {
+                "from_date": "",
+                "order": "34",
+                "to_date": "",
+                "description": "Blakstad sykehus: Skipsfrise (stål, 1968)"
+            },
+            {
+                "from_date": "",
+                "order": "41",
+                "to_date": "",
+                "description": "Selskapet Kunst på Arbeidsplassen"
+            },
+            {
+                "from_date": "",
+                "order": "32",
+                "to_date": "",
+                "description": "Johan Falkberget monument (bronse, 1975–78)"
+            },
+            {
+                "from_date": "",
+                "order": "29",
+                "to_date": "",
+                "description": "Trondheim: Kong Sverre monument (bronse, 1969–77), foreløpig ikke reist"
+            },
+            {
+                "from_date": "",
+                "order": "31",
+                "to_date": "",
+                "description": "Røros: Bergmannsmonumentet (bronse, 1963–65)"
+            },
+            {
+                "from_date": "",
+                "order": "37",
+                "to_date": "",
+                "description": "Nasjonalgalleriet"
+            },
+            {
+                "from_date": "",
+                "order": "35",
+                "to_date": "",
+                "description": "Oslo kommune: Sneglen (sement og polyester, 1969 Haraløkka Borettslag Oslo og andre steder)"
+            },
+            {
+                "from_date": "",
+                "order": "33",
+                "to_date": "",
+                "description": "Oppsal: Inge Krokann monument (bronse, 1965–69)"
+            },
+            {
+                "from_date": "",
+                "order": "39",
+                "to_date": "",
+                "description": "Trøndelag Kunstgalleri"
+            },
+            {
+                "from_date": "",
+                "order": "25",
+                "to_date": "",
+                "description": "kragsteiner, anfengerfigurer, rennebærerer, paraptetfigurer (1957-), for vest-tårnenes nisjer statuene St. Laurentius (1959), Sta. Birgitta (1959), Sta. Gjertrud (1969), St. Martin (1960), for vestfrontens øverste statuerekke Profeten Zakarias (1959), Profeten Jeremias (1960), Profeten Usias (1965), Profeten Jacob (1965)"
+            },
+            {
+                "from_date": "",
+                "order": "30",
+                "to_date": "",
+                "description": "Steinkjer kirke: Krusifiks (bronse, 1965)"
+            }
+        ],
+        "performed_productions": [],
+        "illustrations": [],
+        "exhibitions": [
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Split, Jugoslavia",
+                "from_date": "1966",
+                "order": "7",
+                "to_date": "",
+                "title": "Trøndelag Bildende Kunstneres utstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1977",
+                "order": "4",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "from_date": "1979",
+                "order": "5",
+                "to_date": "",
+                "title": "Østlandsutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Trondheim kunstforening",
+                "from_date": "",
+                "order": "6",
+                "to_date": ""
+            },
+            {
+                "category": "Separat",
+                "exhibition_organizer": "Larvik Kunstforening",
+                "from_date": "1965",
+                "order": "0",
+                "to_date": ""
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1953",
+                "order": "1",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Nord-Jyllands Museum, Aalborg",
+                "from_date": "1972",
+                "order": "8",
+                "to_date": "",
+                "title": "Norsk skulptur"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Seljord",
+                "from_date": "1979",
+                "order": "10",
+                "to_date": "",
+                "title": "Sommerutstillingen"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1972",
+                "order": "3",
+                "to_date": "",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1961",
+                "order": "2",
+                "to_date": "1964",
+                "title": "Statens årlige Kunstutstilling"
+            },
+            {
+                "category": "Kollektiv",
+                "exhibition_organizer": "Oslo",
+                "from_date": "1973",
+                "order": "9",
+                "to_date": "",
+                "title": "Nordisk utstilling"
+            }
+        ],
+        "portraits": [],
+        "authorships": [],
+        "publishings": [
+            {
+                "from_date": "1969-12-08",
+                "order": "10",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1958-11-22",
+                "order": "1",
+                "to_date": "",
+                "description": "Nationen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1967",
+                "order": "5",
+                "reference": "s. 259 (ill.)",
+                "to_date": "",
+                "description": "Kunst og Kultur",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-11-27",
+                "order": "8",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-12-04",
+                "order": "9",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-02-08",
+                "order": "6",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1979",
+                "order": "15",
+                "reference": "s. 65–68 (ill.)",
+                "to_date": "",
+                "description": "Kunst og kunstnarar frå Oppdal",
+                "place": "Oslo",
+                "authors": [
+                    "Dalgard, O."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1962-06-23",
+                "order": "2",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1978-12-15",
+                "order": "14",
+                "to_date": "",
+                "description": "Akershus",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1972-04-13",
+                "order": "12",
+                "to_date": "",
+                "description": "Adresseavisen",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1970-10-06",
+                "order": "11",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969",
+                "order": "0",
+                "reference": "s. 16, 24, 25, 304–06 (3. ill.)",
+                "to_date": "",
+                "description": "Norsk skulptur i femti år",
+                "place": "Oslo",
+                "authors": [
+                    "Parmann, Ø."
+                ],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1974-05-22",
+                "order": "13",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-01-21",
+                "order": "4",
+                "to_date": "",
+                "description": "Arbeider-Avisa.",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1969-11-10",
+                "order": "7",
+                "to_date": "",
+                "description": "Dagbladet",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            },
+            {
+                "from_date": "1964-01-15",
+                "order": "3",
+                "to_date": "",
+                "description": "Aftenposten",
+                "authors": [],
+                "comments": [],
+                "archives": []
+            }
+        ],
+        "archives": [],
+        "radio_and_tv_programs": []
+    },
+    "title": "Sivert Donali",
+    "url": "https://nkl.snl.no/Sivert_Donali",
+    "subject_url": "http://snl.no/.taxonomy/3405",
+    "subject_title": "Norsk kunstnerleksikon",
+    "xhtml_body": "<div>\n<p>D. vokste opp i treskjærermiljø og som gutt deltok han med en trefigur på en utstilling i Oppdal, der faren var representert med et skap. I 1948 gikk veien til TK, hvor han bl.a. var med på å hugge Kristoffer Leirdals Titran-monument i stein. Etter 3 års studium på Statens Kunstakademi under Per Palle Storm fra 1950 debuterte han 1953 på Høstutstillingen med en byste i fast naturalistisk stil. Studietiden ble avsluttet ved Kunstakademiet i København med så vidt forskjellige lærere som Utzon-Frank og Mogens Bøggild. Den førstes stilisering og den andres naturalisme kan ha satt spor i D.s kunst. D. ble knyttet til Nidaros Domkirkes restaureringsarbeider 1957 og reiste med stipendium i England og Frankrike for å studere gotisk skulptur. Etter å ha bosatt seg i Trondheim, modellerte han de følgende år en lang rekke mindre skulpturer for kirken: kragsteiner, anfengerfigurer, rennebærere og paraptetfigurer. Han fikk også en vesentlig del av vestfrontens utsmykning med 4 stående statuer for tårnenes nisjer: <em>St. Laurentius</em> (1959), <em>Sta. Birgitta</em> (1959), <em>Sta. Gjertrud</em> (1960) og <em>St. Martin</em> (1960). For screenfrontens øverste rekke med sittende statuer modellerte han <em>Profeten Zakarias</em> (1959), <em>Profeten Jeremias</em> (1960), <em>Profeten Usias</em> (1965) og <em>Profeten Jacob</em> (1965). Stilen i disse statuer er enkel og myndig, nærmest orientert mot unggotikkens formspråk. Til hans nygotiske produksjon hører også de to vakre basunblåsende engler i Melhus kirke (tre, 1960) og krusifikset i Steinkjer kirke (bronse, 1965). </p>\n<p>D. markerte seg ettertrykkelig utenfor domkirkens nygotiske miljø i 1958 ved å vinne begge 1. premiene og to 2. premier i konkurransen om utsmykningen av svømmehallen i Trondheim. Utført ble gruppen med de tre tranene <em>Tre Gratier</em> (bronse, 1958–59) og <em>To sjøløver</em> (syenitt, 1958–61), begge naturtro i formspråket og bevisste i komposisjonen med rytmisk samspill mellom figurene. Sterk stilisering preger en rekke treskulpturer, innledet med <em>Mor og barn</em> fra 1960, som forener en naturlig stående stilling med vidtgående forenkling av de slanke former. Den samme markerte vertikalitet kommer igjen i en ny versjon av samme motiv med moren i halvfigur, inspirert av middelalderens Madonna-fremstillinger (1962, Bøler bibliotek), mens <em>Sittende kvinne</em> fra samme år går lengst i ekstrem slankhet, streng frontalitet og radikal forenkling. Hodet består av elementære geometriske elementer som i kykladisk skulptur. Denne abstraherende strømning hos D. har påvirket utkastet til <em>Bergmannsmonument</em> for Røros (1962), selv om den skjeve holdningen skaper bevegelse og figuren er utstyrt med de nødvendige trekk fra virkeligheten i drakt og redskaper. Den stramme, nesten elegante grubearbeider med det lette anstrøk av karikatur ble imidlertid funnet lite tilfredsstillende, og i det utførte monument har kunstneren gått over til en rent naturalistisk gjenskapning av den gamle bergmann og hans kone, som står ved siden av hverandre med monumental tyngde.</p>\n<p>Da D. flyttet fra Trondheim til Oslo i 1964 uttalte han ved avskjeden at han gledet seg til å ta fatt på abstrakte og non-figurative skulpturer (Arbeider-Avisa 21.1.1964). I utkastet til <em>Olav Kyrre monument</em> for Bergen fra 1969 anvender han også, ved siden av figurative elementer, store, lyrelignende former, forbundet med strenger. Denne innflytelse fra Gabo og Hepworth ble kortvarig. I utkastet til <em>kong Sverre monument</em> for Trondheim, som vant 1. premie 1969, står kongen med spyd og skjold i en skipsbaug, men stiliseringen er drevet langt og hovedvekten ligger på spenningen mellom hovedelementenes skjeve akser. Skulpturen ble utført i overensstemmelse med utkastet og har fra 1977 stått ferdig til å reises, i påvente av plassens regulering. Ved monumenter over samtidspersoner har D. holdt fast ved den fast oppbygde, naturalistiske portrettfigur. <em>Inge Krokann</em> på Oppdal (bronse, 1965–69) støtter seg til sine to stokker, og <em>Johan Falkberget</em> på Røros karakteriseres både som den jordbundne og utadskuende dikter (1975–78). D. har også utført dekorative arbeider som <em>Båtfrise</em> for Blakstad sykehus (stål, 1968) og <em>Himmel og Jord</em> med abstraherte fremstillinger av sol og trær for Astoria Hotell, Oslo (messing, 1972). Den innbydende lekeskulptur <em>Sneglen</em> for Oslo kommune er støpt i mange eksemplarer (sement og polyester, 1969). I sine seneste skulpturer har D. tatt opp den slanke stil fra tidligere trefigurer i <em>Mor med barn på fanget</em> (tre, 1977) og <em>Mann med førerhund</em> (tre, 1978, Nasjonalgalleriet, Oslo).</p>\n</div>",
+    "created_at": "2013-07-03T19:50:40.015+02:00",
+    "changed_at": "2024-06-18T23:25:59.703+02:00",
+    "license_name": "begrenset",
+    "metadata_license_name": "fri",
+    "metadata": {
+        "gender": "m",
+        "same_as": "[\"http://data.nasjonalmuseet.no/resource/person_8736ab815\",\"https://digitaltmuseum.no/1b559507-0c2f-420f-ac1c-2c780257ab25\",\"http://kulturnav.org/1b559507-0c2f-420f-ac1c-2c780257ab25\"]",
+        "lastname": "Donali",
+        "firstname": "Sivert",
+        "birth_date": "19.4.1931",
+        "birthplace": "Oppdal",
+        "death_date": "6.12.2010",
+        "external_id": "person_8736ab815",
+        "kulturnav_id": "1b559507-0c2f-420f-ac1c-2c780257ab25"
+    },
+    "authors": [
+        {
+            "full_name": "Arne Brenna"
+        }
+    ],
+    "images": [],
+    "professions": [
+        {
+            "description": "billedhugger"
+        }
+    ]
+}
