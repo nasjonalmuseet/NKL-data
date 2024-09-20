@@ -5,7 +5,7 @@ https://nkl.snl.no/
 
 Leksikonet er ikke oppdatert siden utgivelsen av papirversjonen ble utgitt i 1982-86, og dataene som finnes i dette lageret er kun for arkiveringsformål.
 
-Informasjon/data er lagret i en json-fil per person, e.g. [Edvard_Munch.json](documents/1-1000/Edvard_Munch.json).
+Informasjon/data er lagret i en json-fil per person, f.eks. [Edvard_Munch.json](documents/1-1000/Edvard_Munch.json).
 
 Filene ligger i mapper og er sortert alfabetisk etter fornavn.
 
